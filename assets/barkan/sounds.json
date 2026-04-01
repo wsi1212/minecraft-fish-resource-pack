@@ -1,0 +1,74 @@
+{
+  "weather.sandstorm": {
+    "sounds": [
+      {
+        "name": "barkan:weather/sandstorm",
+        "stream": true
+      }
+    ],
+    "subtitle": "모래바람이 분다"
+  },
+  "weather.sandstorm_gust": {
+    "sounds": [
+      {
+        "name": "barkan:weather/sandstorm_gust",
+        "stream": true
+      }
+    ],
+    "subtitle": "모래바람이 거세진다"
+  },
+  "weather.rain": {
+    "sounds": [
+      {
+        "name": "barkan:weather/rain",
+        "stream": true
+      }
+    ],
+    "subtitle": "비가 내린다"
+  },
+  "weather.thunder": {
+    "sounds": [
+      {
+        "name": "barkan:weather/thunder",
+        "stream": true
+      }
+    ],
+    "subtitle": "천둥이 친다"
+  },
+  "weather.blizzard": {
+    "sounds": [
+      {
+        "name": "barkan:weather/blizzard",
+        "stream": true
+      }
+    ],
+    "subtitle": "눈보라가 몰아친다"
+  },
+  "weather.fog": {
+    "sounds": [
+      {
+        "name": "barkan:weather/fog",
+        "stream": true
+      }
+    ],
+    "subtitle": "안개가 짙어진다"
+  },
+  "weather.typhoon": {
+    "sounds": [
+      {
+        "name": "barkan:weather/typhoon",
+        "stream": true
+      }
+    ],
+    "subtitle": "태풍이 몰아친다"
+  },
+  "weather.wind_light": {
+    "sounds": [
+      {
+        "name": "barkan:weather/wind_light",
+        "stream": true
+      }
+    ],
+    "subtitle": "바람이 분다"
+  }
+}

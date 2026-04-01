@@ -1,0 +1,48 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "cases": [
+      {
+        "when": "dragon_god",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/dragon_god"
+        }
+      },
+      {
+        "when": "blue_whale",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/blue_whale"
+        }
+      },
+      {
+        "when": "lion_mane_jelly",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/lion_mane_jelly"
+        }
+      },
+      {
+        "when": "regalecus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/regalecus"
+        }
+      },
+      {
+        "when": "coelacanth",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/coelacanth"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/cod"
+    }
+  }
+}
