@@ -1,0 +1,19 @@
+{
+ "providers": [
+  {
+   "type": "space",
+   "advances": {
+    "": -8
+   }
+  },
+  {
+   "type": "bitmap",
+   "file": "barkan:gui/island_shop.png",
+   "ascent": 13,
+   "height": 133,
+   "chars": [
+    ""
+   ]
+  }
+ ]
+}

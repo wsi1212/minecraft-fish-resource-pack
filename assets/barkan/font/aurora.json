@@ -1,0 +1,6931 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        "\ue00e": -1
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_256.png",
+      "ascent": 50,
+      "height": 100,
+      "chars": [
+        "\ue001"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t0.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue010"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t1.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue011"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t2.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue012"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t3.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue013"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t4.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue014"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t5.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue015"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t6.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue016"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t7.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue017"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t8.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue018"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t9.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue019"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t10.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue01a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t11.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue01b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t12.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue01c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t13.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue01d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t14.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue01e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t15.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue01f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t16.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue020"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t17.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue021"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t18.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue022"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t19.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue023"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t20.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue024"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t21.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue025"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t22.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue026"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t23.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue027"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t24.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue028"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t25.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue029"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t26.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue02a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t27.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue02b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t28.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue02c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t29.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue02d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t30.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue02e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t31.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue02f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t32.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue030"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t33.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue031"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t34.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue032"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t35.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue033"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t36.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue034"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t37.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue035"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t38.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue036"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t39.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue037"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t40.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue038"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t41.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue039"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t42.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue03a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t43.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue03b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t44.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue03c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t45.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue03d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t46.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue03e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t47.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue03f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t48.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue040"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t49.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue041"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t50.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue042"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t51.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue043"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t52.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue044"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t53.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue045"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t54.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue046"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t55.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue047"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t56.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue048"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t57.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue049"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t58.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue04a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t59.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue04b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t60.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue04c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t61.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue04d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t62.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue04e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f0_t63.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue04f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t0.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue050"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t1.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue051"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t2.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue052"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t3.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue053"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t4.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue054"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t5.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue055"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t6.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue056"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t7.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue057"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t8.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue058"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t9.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue059"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t10.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue05a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t11.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue05b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t12.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue05c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t13.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue05d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t14.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue05e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t15.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue05f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t16.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue060"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t17.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue061"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t18.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue062"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t19.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue063"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t20.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue064"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t21.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue065"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t22.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue066"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t23.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue067"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t24.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue068"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t25.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue069"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t26.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue06a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t27.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue06b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t28.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue06c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t29.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue06d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t30.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue06e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t31.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue06f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t32.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue070"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t33.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue071"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t34.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue072"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t35.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue073"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t36.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue074"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t37.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue075"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t38.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue076"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t39.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue077"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t40.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue078"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t41.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue079"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t42.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue07a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t43.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue07b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t44.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue07c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t45.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue07d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t46.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue07e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t47.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue07f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t48.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue080"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t49.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue081"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t50.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue082"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t51.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue083"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t52.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue084"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t53.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue085"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t54.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue086"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t55.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue087"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t56.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue088"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t57.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue089"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t58.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue08a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t59.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue08b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t60.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue08c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t61.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue08d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t62.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue08e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f1_t63.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue08f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t0.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue090"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t1.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue091"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t2.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue092"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t3.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue093"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t4.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue094"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t5.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue095"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t6.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue096"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t7.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue097"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t8.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue098"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t9.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue099"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t10.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue09a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t11.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue09b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t12.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue09c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t13.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue09d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t14.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue09e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t15.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue09f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t16.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0a0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t17.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0a1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t18.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0a2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t19.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0a3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t20.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0a4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t21.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0a5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t22.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0a6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t23.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0a7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t24.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0a8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t25.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0a9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t26.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0aa"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t27.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0ab"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t28.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0ac"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t29.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0ad"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t30.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0ae"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t31.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0af"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t32.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0b0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t33.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0b1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t34.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0b2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t35.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0b3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t36.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0b4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t37.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0b5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t38.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0b6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t39.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0b7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t40.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0b8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t41.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0b9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t42.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0ba"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t43.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0bb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t44.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0bc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t45.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0bd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t46.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0be"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t47.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0bf"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t48.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0c0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t49.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0c1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t50.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0c2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t51.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0c3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t52.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0c4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t53.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0c5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t54.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0c6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t55.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0c7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t56.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0c8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t57.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0c9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t58.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0ca"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t59.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0cb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t60.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0cc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t61.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0cd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t62.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0ce"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f2_t63.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0cf"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t0.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0d0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t1.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0d1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t2.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0d2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t3.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0d3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t4.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0d4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t5.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0d5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t6.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0d6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t7.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0d7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t8.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0d8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t9.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0d9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t10.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0da"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t11.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0db"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t12.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0dc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t13.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0dd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t14.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0de"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t15.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0df"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t16.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0e0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t17.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0e1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t18.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0e2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t19.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0e3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t20.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0e4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t21.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0e5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t22.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0e6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t23.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0e7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t24.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0e8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t25.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0e9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t26.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0ea"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t27.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0eb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t28.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0ec"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t29.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0ed"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t30.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0ee"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t31.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0ef"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t32.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0f0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t33.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0f1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t34.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0f2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t35.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0f3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t36.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0f4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t37.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0f5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t38.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0f6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t39.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0f7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t40.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0f8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t41.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0f9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t42.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0fa"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t43.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0fb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t44.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0fc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t45.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0fd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t46.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0fe"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t47.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue0ff"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t48.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue100"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t49.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue101"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t50.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue102"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t51.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue103"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t52.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue104"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t53.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue105"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t54.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue106"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t55.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue107"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t56.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue108"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t57.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue109"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t58.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue10a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t59.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue10b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t60.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue10c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t61.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue10d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t62.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue10e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f3_t63.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue10f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t0.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue110"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t1.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue111"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t2.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue112"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t3.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue113"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t4.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue114"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t5.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue115"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t6.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue116"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t7.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue117"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t8.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue118"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t9.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue119"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t10.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue11a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t11.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue11b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t12.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue11c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t13.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue11d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t14.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue11e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t15.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue11f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t16.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue120"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t17.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue121"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t18.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue122"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t19.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue123"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t20.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue124"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t21.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue125"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t22.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue126"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t23.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue127"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t24.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue128"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t25.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue129"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t26.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue12a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t27.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue12b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t28.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue12c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t29.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue12d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t30.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue12e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t31.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue12f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t32.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue130"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t33.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue131"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t34.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue132"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t35.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue133"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t36.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue134"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t37.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue135"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t38.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue136"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t39.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue137"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t40.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue138"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t41.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue139"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t42.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue13a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t43.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue13b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t44.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue13c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t45.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue13d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t46.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue13e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t47.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue13f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t48.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue140"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t49.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue141"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t50.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue142"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t51.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue143"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t52.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue144"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t53.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue145"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t54.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue146"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t55.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue147"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t56.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue148"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t57.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue149"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t58.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue14a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t59.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue14b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t60.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue14c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t61.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue14d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t62.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue14e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f4_t63.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue14f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t0.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue150"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t1.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue151"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t2.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue152"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t3.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue153"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t4.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue154"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t5.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue155"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t6.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue156"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t7.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue157"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t8.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue158"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t9.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue159"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t10.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue15a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t11.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue15b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t12.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue15c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t13.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue15d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t14.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue15e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t15.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue15f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t16.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue160"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t17.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue161"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t18.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue162"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t19.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue163"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t20.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue164"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t21.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue165"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t22.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue166"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t23.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue167"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t24.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue168"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t25.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue169"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t26.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue16a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t27.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue16b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t28.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue16c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t29.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue16d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t30.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue16e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t31.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue16f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t32.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue170"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t33.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue171"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t34.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue172"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t35.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue173"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t36.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue174"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t37.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue175"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t38.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue176"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t39.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue177"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t40.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue178"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t41.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue179"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t42.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue17a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t43.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue17b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t44.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue17c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t45.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue17d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t46.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue17e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t47.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue17f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t48.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue180"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t49.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue181"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t50.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue182"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t51.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue183"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t52.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue184"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t53.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue185"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t54.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue186"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t55.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue187"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t56.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue188"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t57.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue189"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t58.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue18a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t59.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue18b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t60.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue18c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t61.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue18d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t62.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue18e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f5_t63.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue18f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t0.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue190"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t1.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue191"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t2.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue192"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t3.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue193"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t4.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue194"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t5.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue195"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t6.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue196"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t7.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue197"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t8.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue198"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t9.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue199"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t10.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue19a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t11.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue19b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t12.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue19c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t13.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue19d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t14.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue19e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t15.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue19f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t16.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1a0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t17.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1a1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t18.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1a2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t19.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1a3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t20.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1a4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t21.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1a5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t22.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1a6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t23.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1a7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t24.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1a8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t25.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1a9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t26.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1aa"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t27.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1ab"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t28.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1ac"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t29.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1ad"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t30.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1ae"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t31.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1af"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t32.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1b0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t33.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1b1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t34.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1b2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t35.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1b3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t36.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1b4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t37.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1b5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t38.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1b6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t39.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1b7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t40.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1b8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t41.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1b9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t42.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1ba"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t43.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1bb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t44.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1bc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t45.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1bd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t46.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1be"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t47.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1bf"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t48.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1c0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t49.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1c1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t50.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1c2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t51.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1c3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t52.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1c4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t53.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1c5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t54.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1c6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t55.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1c7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t56.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1c8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t57.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1c9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t58.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1ca"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t59.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1cb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t60.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1cc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t61.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1cd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t62.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1ce"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f6_t63.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1cf"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t0.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1d0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t1.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1d1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t2.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1d2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t3.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1d3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t4.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1d4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t5.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1d5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t6.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1d6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t7.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1d7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t8.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1d8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t9.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1d9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t10.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1da"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t11.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1db"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t12.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1dc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t13.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1dd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t14.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1de"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t15.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1df"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t16.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1e0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t17.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1e1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t18.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1e2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t19.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1e3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t20.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1e4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t21.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1e5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t22.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1e6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t23.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1e7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t24.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1e8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t25.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1e9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t26.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1ea"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t27.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1eb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t28.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1ec"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t29.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1ed"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t30.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1ee"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t31.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1ef"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t32.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1f0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t33.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1f1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t34.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1f2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t35.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1f3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t36.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1f4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t37.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1f5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t38.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1f6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t39.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1f7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t40.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1f8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t41.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1f9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t42.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1fa"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t43.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1fb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t44.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1fc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t45.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1fd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t46.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1fe"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t47.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue1ff"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t48.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue200"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t49.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue201"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t50.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue202"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t51.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue203"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t52.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue204"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t53.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue205"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t54.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue206"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t55.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue207"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t56.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue208"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t57.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue209"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t58.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue20a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t59.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue20b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t60.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue20c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t61.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue20d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t62.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue20e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f7_t63.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue20f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t0.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue210"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t1.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue211"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t2.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue212"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t3.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue213"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t4.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue214"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t5.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue215"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t6.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue216"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t7.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue217"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t8.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue218"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t9.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue219"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t10.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue21a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t11.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue21b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t12.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue21c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t13.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue21d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t14.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue21e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t15.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue21f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t16.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue220"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t17.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue221"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t18.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue222"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t19.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue223"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t20.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue224"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t21.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue225"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t22.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue226"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t23.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue227"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t24.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue228"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t25.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue229"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t26.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue22a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t27.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue22b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t28.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue22c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t29.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue22d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t30.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue22e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t31.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue22f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t32.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue230"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t33.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue231"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t34.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue232"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t35.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue233"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t36.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue234"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t37.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue235"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t38.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue236"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t39.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue237"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t40.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue238"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t41.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue239"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t42.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue23a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t43.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue23b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t44.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue23c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t45.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue23d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t46.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue23e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t47.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue23f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t48.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue240"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t49.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue241"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t50.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue242"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t51.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue243"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t52.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue244"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t53.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue245"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t54.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue246"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t55.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue247"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t56.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue248"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t57.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue249"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t58.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue24a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t59.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue24b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t60.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue24c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t61.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue24d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t62.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue24e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f8_t63.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue24f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t0.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue250"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t1.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue251"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t2.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue252"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t3.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue253"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t4.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue254"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t5.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue255"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t6.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue256"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t7.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue257"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t8.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue258"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t9.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue259"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t10.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue25a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t11.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue25b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t12.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue25c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t13.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue25d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t14.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue25e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t15.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue25f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t16.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue260"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t17.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue261"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t18.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue262"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t19.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue263"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t20.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue264"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t21.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue265"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t22.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue266"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t23.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue267"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t24.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue268"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t25.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue269"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t26.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue26a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t27.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue26b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t28.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue26c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t29.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue26d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t30.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue26e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t31.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue26f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t32.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue270"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t33.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue271"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t34.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue272"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t35.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue273"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t36.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue274"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t37.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue275"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t38.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue276"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t39.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue277"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t40.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue278"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t41.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue279"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t42.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue27a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t43.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue27b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t44.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue27c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t45.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue27d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t46.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue27e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t47.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue27f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t48.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue280"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t49.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue281"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t50.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue282"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t51.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue283"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t52.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue284"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t53.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue285"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t54.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue286"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t55.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue287"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t56.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue288"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t57.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue289"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t58.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue28a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t59.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue28b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t60.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue28c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t61.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue28d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t62.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue28e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f9_t63.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue28f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t0.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue290"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t1.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue291"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t2.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue292"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t3.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue293"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t4.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue294"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t5.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue295"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t6.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue296"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t7.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue297"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t8.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue298"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t9.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue299"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t10.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue29a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t11.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue29b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t12.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue29c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t13.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue29d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t14.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue29e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t15.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue29f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t16.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2a0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t17.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2a1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t18.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2a2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t19.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2a3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t20.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2a4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t21.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2a5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t22.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2a6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t23.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2a7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t24.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2a8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t25.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2a9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t26.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2aa"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t27.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2ab"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t28.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2ac"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t29.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2ad"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t30.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2ae"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t31.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2af"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t32.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2b0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t33.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2b1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t34.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2b2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t35.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2b3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t36.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2b4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t37.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2b5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t38.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2b6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t39.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2b7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t40.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2b8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t41.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2b9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t42.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2ba"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t43.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2bb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t44.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2bc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t45.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2bd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t46.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2be"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t47.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2bf"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t48.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2c0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t49.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2c1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t50.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2c2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t51.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2c3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t52.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2c4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t53.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2c5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t54.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2c6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t55.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2c7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t56.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2c8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t57.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2c9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t58.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2ca"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t59.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2cb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t60.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2cc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t61.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2cd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t62.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2ce"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f10_t63.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2cf"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t0.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2d0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t1.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2d1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t2.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2d2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t3.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2d3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t4.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2d4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t5.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2d5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t6.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2d6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t7.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2d7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t8.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2d8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t9.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2d9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t10.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2da"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t11.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2db"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t12.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2dc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t13.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2dd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t14.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2de"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t15.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2df"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t16.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2e0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t17.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2e1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t18.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2e2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t19.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2e3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t20.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2e4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t21.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2e5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t22.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2e6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t23.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2e7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t24.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2e8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t25.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2e9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t26.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2ea"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t27.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2eb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t28.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2ec"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t29.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2ed"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t30.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2ee"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t31.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2ef"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t32.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2f0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t33.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2f1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t34.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2f2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t35.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2f3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t36.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2f4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t37.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2f5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t38.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2f6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t39.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2f7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t40.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2f8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t41.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2f9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t42.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2fa"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t43.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2fb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t44.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2fc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t45.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2fd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t46.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2fe"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t47.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue2ff"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t48.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue300"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t49.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue301"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t50.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue302"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t51.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue303"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t52.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue304"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t53.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue305"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t54.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue306"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t55.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue307"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t56.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue308"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t57.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue309"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t58.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue30a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t59.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue30b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t60.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue30c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t61.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue30d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t62.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue30e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/aurora_f11_t63.png",
+      "ascent": 63,
+      "height": 126,
+      "chars": [
+        "\ue30f"
+      ]
+    }
+  ]
+}

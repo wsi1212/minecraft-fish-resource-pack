@@ -1,0 +1,39 @@
+{
+  "icons": [
+    {
+      "id": "skill_fishing_root",
+      "node": "낚시:근원",
+      "motif": "물결 위의 물고기",
+      "palette": ["0e3e59", "145b73", "1f8fa1", "d4a017", "ffe28a"],
+      "size": 32
+    },
+    {
+      "id": "skill_mining_scan",
+      "node": "채굴:광맥탐지",
+      "motif": "희귀 광맥을 찾는 탐광경",
+      "palette": ["25304a", "374f73", "597fb3", "b8e4ff", "dcae4a"],
+      "size": 32
+    },
+    {
+      "id": "skill_farming_bounty",
+      "node": "재배:풍년",
+      "motif": "황금 이삭 한 다발",
+      "palette": ["234b2c", "3d7943", "6fae58", "e6c85b", "f5e8a0"],
+      "size": 32
+    },
+    {
+      "id": "skill_cooking_master",
+      "node": "요리:명장의요리",
+      "motif": "불꽃 보석을 단 장인의 왕관",
+      "palette": ["4b2230", "7e3140", "b94749", "ffd35a", "fff0ad"],
+      "size": 32
+    },
+    {
+      "id": "skill_gather_intuition",
+      "node": "수집:직감",
+      "motif": "희귀한 것을 포착하는 눈",
+      "palette": ["173d55", "286b7a", "3ea6a0", "d8f1e9", "f2cc5c"],
+      "size": 32
+    }
+  ]
+}

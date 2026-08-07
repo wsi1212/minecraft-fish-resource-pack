@@ -1,0 +1,731 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        "": -8,
+        "": -1,
+        "": -177,
+        "": -1,
+        "": -2,
+        "": -4,
+        "": -8,
+        "": -16,
+        "": -32,
+        "": -64,
+        "": -128
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/island_shop.png",
+      "ascent": 13,
+      "height": 222,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/gui/profile_other.png",
+      "ascent": 18,
+      "height": 104,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/gui/profile_self.png",
+      "ascent": 18,
+      "height": 104,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/level_hub_tl.png",
+      "ascent": 13,
+      "height": 83,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/level_hub_tr.png",
+      "ascent": 13,
+      "height": 83,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/level_hub_bl.png",
+      "ascent": -70,
+      "height": 85,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/level_hub_br.png",
+      "ascent": -70,
+      "height": 85,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/gui/quest_bang.png",
+      "ascent": 11,
+      "height": 15,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/gui/quest_question.png",
+      "ascent": 11,
+      "height": 15,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/tree_bg_r0c0.png",
+      "ascent": 13,
+      "height": 51,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/tree_bg_r0c1.png",
+      "ascent": 13,
+      "height": 51,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/tree_bg_r0c2.png",
+      "ascent": 13,
+      "height": 51,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/tree_bg_r1c0.png",
+      "ascent": -38,
+      "height": 51,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/tree_bg_r1c1.png",
+      "ascent": -38,
+      "height": 51,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/tree_bg_r1c2.png",
+      "ascent": -38,
+      "height": 51,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/tree_bg_r2c0.png",
+      "ascent": -89,
+      "height": 51,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/tree_bg_r2c1.png",
+      "ascent": -89,
+      "height": 51,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/tree_bg_r2c2.png",
+      "ascent": -89,
+      "height": 51,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/tree_bg_r3c0.png",
+      "ascent": -140,
+      "height": 51,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/tree_bg_r3c1.png",
+      "ascent": -140,
+      "height": 51,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/tree_bg_r3c2.png",
+      "ascent": -140,
+      "height": 51,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fish_bg_basic_r0c0.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fish_bg_basic_r0c1.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fish_bg_basic_r0c2.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fish_bg_basic_r1c0.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fish_bg_basic_r1c1.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fish_bg_basic_r1c2.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fish_bg_basic_r2c0.png",
+      "ascent": -99,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fish_bg_basic_r2c1.png",
+      "ascent": -99,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fish_bg_basic_r2c2.png",
+      "ascent": -99,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fish_bg_weak_r0c0.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fish_bg_weak_r0c1.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fish_bg_weak_r0c2.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fish_bg_weak_r1c0.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fish_bg_weak_r1c1.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fish_bg_weak_r1c2.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fish_bg_weak_r2c0.png",
+      "ascent": -99,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fish_bg_weak_r2c1.png",
+      "ascent": -99,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fish_bg_weak_r2c2.png",
+      "ascent": -99,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fish_bg_mid_r0c0.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fish_bg_mid_r0c1.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fish_bg_mid_r0c2.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fish_bg_mid_r1c0.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fish_bg_mid_r1c1.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fish_bg_mid_r1c2.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fish_bg_mid_r2c0.png",
+      "ascent": -99,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fish_bg_mid_r2c1.png",
+      "ascent": -99,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fish_bg_mid_r2c2.png",
+      "ascent": -99,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fish_bg_max_r0c0.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fish_bg_max_r0c1.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fish_bg_max_r0c2.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fish_bg_max_r1c0.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fish_bg_max_r1c1.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fish_bg_max_r1c2.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fish_bg_max_r2c0.png",
+      "ascent": -99,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fish_bg_max_r2c1.png",
+      "ascent": -99,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fish_bg_max_r2c2.png",
+      "ascent": -99,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop_bg_r0c0.png",
+      "ascent": 13,
+      "height": 62,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop_bg_r0c1.png",
+      "ascent": 13,
+      "height": 62,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop_bg_r0c2.png",
+      "ascent": 13,
+      "height": 62,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop_bg_r1c0.png",
+      "ascent": -49,
+      "height": 62,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop_bg_r1c1.png",
+      "ascent": -49,
+      "height": 62,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop_bg_r1c2.png",
+      "ascent": -49,
+      "height": 62,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop_bg_r2c0.png",
+      "ascent": -111,
+      "height": 62,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop_bg_r2c1.png",
+      "ascent": -111,
+      "height": 62,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop_bg_r2c2.png",
+      "ascent": -111,
+      "height": 62,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/common6_r0c0.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/common6_r0c1.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/common6_r0c2.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/common6_r1c0.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/common6_r1c1.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/common6_r1c2.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/common6_r2c0.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/common6_r2c1.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/common6_r2c2.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/common6_r3c0.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/common6_r3c1.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/common6_r3c2.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/title_menu.png",
+      "ascent": 5,
+      "height": 16,
+      "chars": [
+        ""
+      ]
+    }
+  ]
+}

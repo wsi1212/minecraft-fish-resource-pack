@@ -1,0 +1,1 @@
+{"parent": "minecraft:item/generated", "textures": {"layer0": "minecraft:item/barkan_icon/skill_gathering_light_step"}, "display": {"gui": {"scale": [1.332, 1.332, 1.332]}}}

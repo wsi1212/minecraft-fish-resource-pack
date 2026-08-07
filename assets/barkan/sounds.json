@@ -70,5 +70,77 @@
       }
     ],
     "subtitle": "바람이 분다"
+  },
+  "bgm.spawn_city_clear": {
+    "sounds": [
+      {
+        "name": "barkan:bgm/spawn_city_clear",
+        "stream": true
+      }
+    ]
+  },
+  "bgm.desert_clear": {
+    "sounds": [
+      {
+        "name": "barkan:bgm/desert_clear",
+        "stream": true
+      }
+    ]
+  },
+  "bgm.oasis_clear": {
+    "sounds": [
+      {
+        "name": "barkan:bgm/oasis_clear",
+        "stream": true
+      }
+    ]
+  },
+  "bgm.deep_forest_clear": {
+    "sounds": [
+      {
+        "name": "barkan:bgm/deep_forest_clear",
+        "stream": true
+      }
+    ]
+  },
+  "bgm.plains_clear": {
+    "sounds": [
+      {
+        "name": "barkan:bgm/plains_clear",
+        "stream": true
+      }
+    ]
+  },
+  "bgm.plains_2": {
+    "sounds": [
+      {
+        "name": "barkan:bgm/plains_2",
+        "stream": true
+      }
+    ]
+  },
+  "bgm.plains_3": {
+    "sounds": [
+      {
+        "name": "barkan:bgm/plains_3",
+        "stream": true
+      }
+    ]
+  },
+  "bgm.palace": {
+    "sounds": [
+      {
+        "name": "barkan:bgm/palace",
+        "stream": true
+      }
+    ]
+  },
+  "bgm.casino": {
+    "sounds": [
+      {
+        "name": "barkan:bgm/casino",
+        "stream": true
+      }
+    ]
   }
 }

@@ -5,10 +5,3496 @@
     "index": 0,
     "cases": [
       {
-        "when": "dragon_god",
+        "when": "galmaegisung_eo",
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/fish/dragon_god"
+          "model": "minecraft:item/fish/galmaegisung_eo"
+        }
+      },
+      {
+        "when": "ba_wige",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/ba_wige"
+        }
+      },
+      {
+        "when": "tungsari",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/tungsari"
+        }
+      },
+      {
+        "when": "hyeobgokjinggeomisaeu",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/hyeobgokjinggeomisaeu"
+        }
+      },
+      {
+        "when": "unmudorongnyong",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/unmudorongnyong"
+        }
+      },
+      {
+        "when": "keulaunlochi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/keulaunlochi"
+        }
+      },
+      {
+        "when": "oasiseujinggeomi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/oasiseujinggeomi"
+        }
+      },
+      {
+        "when": "samagjinjujogae",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/samagjinjujogae"
+        }
+      },
+      {
+        "when": "jinheugmalmijalge",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/jinheugmalmijalge"
+        }
+      },
+      {
+        "when": "nunmeondongguljang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/nunmeondongguljang_eo"
+        }
+      },
+      {
+        "when": "jong_yuseogdalpaeng_i",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/jong_yuseogdalpaeng_i"
+        }
+      },
+      {
+        "when": "heug_yoseogmegi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/heug_yoseogmegi"
+        }
+      },
+      {
+        "when": "baegnyeonssogali",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/baegnyeonssogali"
+        }
+      },
+      {
+        "when": "bududol_ge",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/bududol_ge"
+        }
+      },
+      {
+        "when": "hanggussog",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/hanggussog"
+        }
+      },
+      {
+        "when": "haechosae_u",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/haechosae_u"
+        }
+      },
+      {
+        "when": "molaesae_u",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/molaesae_u"
+        }
+      },
+      {
+        "when": "sagumi_kkulaji",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/sagumi_kkulaji"
+        }
+      },
+      {
+        "when": "donggulbung_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/donggulbung_eo"
+        }
+      },
+      {
+        "when": "donggulpilami",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/donggulpilami"
+        }
+      },
+      {
+        "when": "maeng_anmangdung_i",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/maeng_anmangdung_i"
+        }
+      },
+      {
+        "when": "seoghoemi_kkuli",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/seoghoemi_kkuli"
+        }
+      },
+      {
+        "when": "ambyeogsongsali",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/ambyeogsongsali"
+        }
+      },
+      {
+        "when": "jagal_ing_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/jagal_ing_eo"
+        }
+      },
+      {
+        "when": "jihasilchi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/jihasilchi"
+        }
+      },
+      {
+        "when": "jiha_eun_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/jiha_eun_eo"
+        }
+      },
+      {
+        "when": "tangwangpilami",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/tangwangpilami"
+        }
+      },
+      {
+        "when": "heugjeomsongsali",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/heugjeomsongsali"
+        }
+      },
+      {
+        "when": "mangdung_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/mangdung_eo"
+        }
+      },
+      {
+        "when": "molaemuji",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/molaemuji"
+        }
+      },
+      {
+        "when": "beullugil",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/beullugil"
+        }
+      },
+      {
+        "when": "pilami",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/pilami"
+        }
+      },
+      {
+        "when": "molaemangdung_i",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/molaemangdung_i"
+        }
+      },
+      {
+        "when": "samagmi_kkulaji",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/samagmi_kkulaji"
+        }
+      },
+      {
+        "when": "o_asiseusae_u",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/o_asiseusae_u"
+        }
+      },
+      {
+        "when": "baeghwapilami",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/baeghwapilami"
+        }
+      },
+      {
+        "when": "sumaegsae_u",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/sumaegsae_u"
+        }
+      },
+      {
+        "when": "jihasumaegmi_kkuli",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/jihasumaegmi_kkuli"
+        }
+      },
+      {
+        "when": "gyodan_ui_injang",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/gyodan_ui_injang"
+        }
+      },
+      {
+        "when": "basjulsae_u",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/basjulsae_u"
+        }
+      },
+      {
+        "when": "sangdanhwamulkkolipyo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/sangdanhwamulkkolipyo"
+        }
+      },
+      {
+        "when": "hanggucheong_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/hanggucheong_eo"
+        }
+      },
+      {
+        "when": "yangsigbung_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/yangsigbung_eo"
+        }
+      },
+      {
+        "when": "geomibulgasali",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/geomibulgasali"
+        }
+      },
+      {
+        "when": "kkochigogi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/kkochigogi"
+        }
+      },
+      {
+        "when": "nolaemi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/nolaemi"
+        }
+      },
+      {
+        "when": "nomula_ibgishaepali",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/nomula_ibgishaepali"
+        }
+      },
+      {
+        "when": "dalgogi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/dalgogi"
+        }
+      },
+      {
+        "when": "doggasichi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/doggasichi"
+        }
+      },
+      {
+        "when": "dubichboleumdalhaepali",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/dubichboleumdalhaepali"
+        }
+      },
+      {
+        "when": "maljwichi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/maljwichi"
+        }
+      },
+      {
+        "when": "mangdug_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/mangdug_eo"
+        }
+      },
+      {
+        "when": "mindalgogi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/mindalgogi"
+        }
+      },
+      {
+        "when": "badanali",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/badanali"
+        }
+      },
+      {
+        "when": "badahwang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/badahwang_eo"
+        }
+      },
+      {
+        "when": "boleumdalmulhaepali",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/boleumdalmulhaepali"
+        }
+      },
+      {
+        "when": "bulgasali",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/bulgasali"
+        }
+      },
+      {
+        "when": "ppagdae",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/ppagdae"
+        }
+      },
+      {
+        "when": "sangjahaepali",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/sangjahaepali"
+        }
+      },
+      {
+        "when": "seongdae",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/seongdae"
+        }
+      },
+      {
+        "when": "ssolbaegampeng",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/ssolbaegampeng"
+        }
+      },
+      {
+        "when": "ssombaeng_i",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/ssombaeng_i"
+        }
+      },
+      {
+        "when": "ssugimi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/ssugimi"
+        }
+      },
+      {
+        "when": "yangtae",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/yangtae"
+        }
+      },
+      {
+        "when": "yongchinollaegi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/yongchinollaegi"
+        }
+      },
+      {
+        "when": "jalidom",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/jalidom"
+        }
+      },
+      {
+        "when": "jwinolaemi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/jwinolaemi"
+        }
+      },
+      {
+        "when": "jwichi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/jwichi"
+        }
+      },
+      {
+        "when": "jjolbog",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/jjolbog"
+        }
+      },
+      {
+        "when": "chamnollaegi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/chamnollaegi"
+        }
+      },
+      {
+        "when": "hwangnollaegi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/hwangnollaegi"
+        }
+      },
+      {
+        "when": "doldomchi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/doldomchi"
+        }
+      },
+      {
+        "when": "padonong_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/padonong_eo"
+        }
+      },
+      {
+        "when": "molaechambung_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/molaechambung_eo"
+        }
+      },
+      {
+        "when": "gwangsanmegi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/gwangsanmegi"
+        }
+      },
+      {
+        "when": "donggulbing_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/donggulbing_eo"
+        }
+      },
+      {
+        "when": "maeng_angalchi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/maeng_angalchi"
+        }
+      },
+      {
+        "when": "seoghoesong_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/seoghoesong_eo"
+        }
+      },
+      {
+        "when": "simcheungbing_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/simcheungbing_eo"
+        }
+      },
+      {
+        "when": "jihahwang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/jihahwang_eo"
+        }
+      },
+      {
+        "when": "heugbineulpilami",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/heugbineulpilami"
+        }
+      },
+      {
+        "when": "mi_kkulaji",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/mi_kkulaji"
+        }
+      },
+      {
+        "when": "bung_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/bung_eo"
+        }
+      },
+      {
+        "when": "chambung_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/chambung_eo"
+        }
+      },
+      {
+        "when": "jedan_uibul_ssi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/jedan_uibul_ssi"
+        }
+      },
+      {
+        "when": "samagchambung_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/samagchambung_eo"
+        }
+      },
+      {
+        "when": "seon_injanggogi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/seon_injanggogi"
+        }
+      },
+      {
+        "when": "maeng_ansamag_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/maeng_ansamag_eo"
+        }
+      },
+      {
+        "when": "jihasumaegbung_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/jihasumaegbung_eo"
+        }
+      },
+      {
+        "when": "sangdangodeung_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/sangdangodeung_eo"
+        }
+      },
+      {
+        "when": "hanggugodeung_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/hanggugodeung_eo"
+        }
+      },
+      {
+        "when": "yangsignong_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/yangsignong_eo"
+        }
+      },
+      {
+        "when": "yangsig_ing_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/yangsig_ing_eo"
+        }
+      },
+      {
+        "when": "gasung_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/gasung_eo"
+        }
+      },
+      {
+        "when": "godeung_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/godeung_eo"
+        }
+      },
+      {
+        "when": "nolangga_oli",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/nolangga_oli"
+        }
+      },
+      {
+        "when": "badasung_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/badasung_eo"
+        }
+      },
+      {
+        "when": "cheongdaechi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/cheongdaechi"
+        }
+      },
+      {
+        "when": "cheong_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/cheong_eo"
+        }
+      },
+      {
+        "when": "hongseodae",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/hongseodae"
+        }
+      },
+      {
+        "when": "hong_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/hong_eo"
+        }
+      },
+      {
+        "when": "gajami",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/gajami"
+        }
+      },
+      {
+        "when": "daegu",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/daegu"
+        }
+      },
+      {
+        "when": "dodali",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/dodali"
+        }
+      },
+      {
+        "when": "mansaegi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/mansaegi"
+        }
+      },
+      {
+        "when": "mangchi_godeung_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/mangchi_godeung_eo"
+        }
+      },
+      {
+        "when": "badanong_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/badanong_eo"
+        }
+      },
+      {
+        "when": "beng_edom",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/beng_edom"
+        }
+      },
+      {
+        "when": "bollag",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/bollag"
+        }
+      },
+      {
+        "when": "samchi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/samchi"
+        }
+      },
+      {
+        "when": "agwi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/agwi"
+        }
+      },
+      {
+        "when": "uleog",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/uleog"
+        }
+      },
+      {
+        "when": "jeomnong_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/jeomnong_eo"
+        }
+      },
+      {
+        "when": "juldodali",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/juldodali"
+        }
+      },
+      {
+        "when": "julsamchi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/julsamchi"
+        }
+      },
+      {
+        "when": "cholong_agwi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/cholong_agwi"
+        }
+      },
+      {
+        "when": "myeolchi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/myeolchi"
+        }
+      },
+      {
+        "when": "ppalpansang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/ppalpansang_eo"
+        }
+      },
+      {
+        "when": "ojing_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/ojing_eo"
+        }
+      },
+      {
+        "when": "ba_wibollag",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/ba_wibollag"
+        }
+      },
+      {
+        "when": "molaesog_ing_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/molaesog_ing_eo"
+        }
+      },
+      {
+        "when": "donggulbidan_ing_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/donggulbidan_ing_eo"
+        }
+      },
+      {
+        "when": "donggulcheolgab_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/donggulcheolgab_eo"
+        }
+      },
+      {
+        "when": "sim_yeonbung_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/sim_yeonbung_eo"
+        }
+      },
+      {
+        "when": "amheugsong_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/amheugsong_eo"
+        }
+      },
+      {
+        "when": "jijeonong_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/jijeonong_eo"
+        }
+      },
+      {
+        "when": "nuchi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/nuchi"
+        }
+      },
+      {
+        "when": "megi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/megi"
+        }
+      },
+      {
+        "when": "ing_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/ing_eo"
+        }
+      },
+      {
+        "when": "jaetuseong_imegi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/jaetuseong_imegi"
+        }
+      },
+      {
+        "when": "molaebaemjang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/molaebaemjang_eo"
+        }
+      },
+      {
+        "when": "o_asiseu_ing_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/o_asiseu_ing_eo"
+        }
+      },
+      {
+        "when": "sujeongbineul_ing_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/sujeongbineul_ing_eo"
+        }
+      },
+      {
+        "when": "jihasumaegmegi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/jihasumaegmegi"
+        }
+      },
+      {
+        "when": "gyo_yeogsonong_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/gyo_yeogsonong_eo"
+        }
+      },
+      {
+        "when": "hwamulseonnong_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/hwamulseonnong_eo"
+        }
+      },
+      {
+        "when": "yangsigmegi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/yangsigmegi"
+        }
+      },
+      {
+        "when": "yangsigsung_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/yangsigsung_eo"
+        }
+      },
+      {
+        "when": "gomchi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/gomchi"
+        }
+      },
+      {
+        "when": "nalchi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/nalchi"
+        }
+      },
+      {
+        "when": "myeongtae",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/myeongtae"
+        }
+      },
+      {
+        "when": "munjeolmangdug",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/munjeolmangdug"
+        }
+      },
+      {
+        "when": "busili",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/busili"
+        }
+      },
+      {
+        "when": "jaesbang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/jaesbang_eo"
+        }
+      },
+      {
+        "when": "jwichibog",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/jwichibog"
+        }
+      },
+      {
+        "when": "hanchi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/hanchi"
+        }
+      },
+      {
+        "when": "gab_ojing_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/gab_ojing_eo"
+        }
+      },
+      {
+        "when": "gangdodali",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/gangdodali"
+        }
+      },
+      {
+        "when": "gwang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/gwang_eo"
+        }
+      },
+      {
+        "when": "maega_oli",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/maega_oli"
+        }
+      },
+      {
+        "when": "bang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/bang_eo"
+        }
+      },
+      {
+        "when": "ka_wa_i",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/ka_wa_i"
+        }
+      },
+      {
+        "when": "gamseongdom",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/gamseongdom"
+        }
+      },
+      {
+        "when": "neungseong_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/neungseong_eo"
+        }
+      },
+      {
+        "when": "min_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/min_eo"
+        }
+      },
+      {
+        "when": "chamdom",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/chamdom"
+        }
+      },
+      {
+        "when": "chambog",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/chambog"
+        }
+      },
+      {
+        "when": "heugjeombog",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/heugjeombog"
+        }
+      },
+      {
+        "when": "yongheun_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/yongheun_eo"
+        }
+      },
+      {
+        "when": "jaebineul_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/jaebineul_eo"
+        }
+      },
+      {
+        "when": "hongtan_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/hongtan_eo"
+        }
+      },
+      {
+        "when": "maeng_inbineulgogi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/maeng_inbineulgogi"
+        }
+      },
+      {
+        "when": "sumoljeongaeng_i",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/sumoljeongaeng_i"
+        }
+      },
+      {
+        "when": "yagwangbung_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/yagwangbung_eo"
+        }
+      },
+      {
+        "when": "ucheonmi_kkulaji",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/ucheonmi_kkulaji"
+        }
+      },
+      {
+        "when": "geom_eunbulkkochbung_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/geom_eunbulkkochbung_eo"
+        }
+      },
+      {
+        "when": "gobsang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/gobsang_eo"
+        }
+      },
+      {
+        "when": "gwaeng_isang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/gwaeng_isang_eo"
+        }
+      },
+      {
+        "when": "miheugjeomsang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/miheugjeomsang_eo"
+        }
+      },
+      {
+        "when": "byeolsang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/byeolsang_eo"
+        }
+      },
+      {
+        "when": "sinlagsang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/sinlagsang_eo"
+        }
+      },
+      {
+        "when": "jju_kkumi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/jju_kkumi"
+        }
+      },
+      {
+        "when": "pendusang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/pendusang_eo"
+        }
+      },
+      {
+        "when": "yeonmu_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/yeonmu_eo"
+        }
+      },
+      {
+        "when": "hwagyeol_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/hwagyeol_eo"
+        }
+      },
+      {
+        "when": "heug_yo_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/heug_yo_eo"
+        }
+      },
+      {
+        "when": "sagu_uimangdung_i",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/sagu_uimangdung_i"
+        }
+      },
+      {
+        "when": "gwangmaegsong_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/gwangmaegsong_eo"
+        }
+      },
+      {
+        "when": "dongguljeongibaemjang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/dongguljeongibaemjang_eo"
+        }
+      },
+      {
+        "when": "sim_yeonmegi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/sim_yeonmegi"
+        }
+      },
+      {
+        "when": "heugsujeong_ing_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/heugsujeong_ing_eo"
+        }
+      },
+      {
+        "when": "kkeogji",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/kkeogji"
+        }
+      },
+      {
+        "when": "kkeuli",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/kkeuli"
+        }
+      },
+      {
+        "when": "dongjagae",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/dongjagae"
+        }
+      },
+      {
+        "when": "ppagasali",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/ppagasali"
+        }
+      },
+      {
+        "when": "sung_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/sung_eo"
+        }
+      },
+      {
+        "when": "samaghwang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/samaghwang_eo"
+        }
+      },
+      {
+        "when": "yeolsa_uisung_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/yeolsa_uisung_eo"
+        }
+      },
+      {
+        "when": "yong_amsumaeg_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/yong_amsumaeg_eo"
+        }
+      },
+      {
+        "when": "samagsangseondan_ing_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/samagsangseondan_ing_eo"
+        }
+      },
+      {
+        "when": "sangseondan_ing_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/sangseondan_ing_eo"
+        }
+      },
+      {
+        "when": "gadalang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/gadalang_eo"
+        }
+      },
+      {
+        "when": "galchi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/galchi"
+        }
+      },
+      {
+        "when": "mun_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/mun_eo"
+        }
+      },
+      {
+        "when": "ogdom",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/ogdom"
+        }
+      },
+      {
+        "when": "jeongiga_oli",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/jeongiga_oli"
+        }
+      },
+      {
+        "when": "hogdom",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/hogdom"
+        }
+      },
+      {
+        "when": "doldom",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/doldom"
+        }
+      },
+      {
+        "when": "meogjang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/meogjang_eo"
+        }
+      },
+      {
+        "when": "mumyeonggaljeongaeng_i",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/mumyeonggaljeongaeng_i"
+        }
+      },
+      {
+        "when": "balakuda",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/balakuda"
+        }
+      },
+      {
+        "when": "bulgbali",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/bulgbali"
+        }
+      },
+      {
+        "when": "jabali",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/jabali"
+        }
+      },
+      {
+        "when": "bandisbulsongsali",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/bandisbulsongsali"
+        }
+      },
+      {
+        "when": "bisbang_ul_ing_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/bisbang_ul_ing_eo"
+        }
+      },
+      {
+        "when": "achim_iseulbog_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/achim_iseulbog_eo"
+        }
+      },
+      {
+        "when": "eodumdonggulmegi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/eodumdonggulmegi"
+        }
+      },
+      {
+        "when": "chimsugajae",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/chimsugajae"
+        }
+      },
+      {
+        "when": "galaesang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/galaesang_eo"
+        }
+      },
+      {
+        "when": "nasdolgolae",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/nasdolgolae"
+        }
+      },
+      {
+        "when": "lebonsang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/lebonsang_eo"
+        }
+      },
+      {
+        "when": "le_opadeusang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/le_opadeusang_eo"
+        }
+      },
+      {
+        "when": "malle_i_won_yanghaepali",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/malle_i_won_yanghaepali"
+        }
+      },
+      {
+        "when": "mutaesang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/mutaesang_eo"
+        }
+      },
+      {
+        "when": "beullaegtibsyakeu",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/beullaegtibsyakeu"
+        }
+      },
+      {
+        "when": "beullutaeng",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/beullutaeng"
+        }
+      },
+      {
+        "when": "sanhosang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/sanhosang_eo"
+        }
+      },
+      {
+        "when": "tukusi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/tukusi"
+        }
+      },
+      {
+        "when": "hyungsang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/hyungsang_eo"
+        }
+      },
+      {
+        "when": "heuggihyungsang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/heuggihyungsang_eo"
+        }
+      },
+      {
+        "when": "huindonggali",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/huindonggali"
+        }
+      },
+      {
+        "when": "honglyeon_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/honglyeon_eo"
+        }
+      },
+      {
+        "when": "heug_yeol_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/heug_yeol_eo"
+        }
+      },
+      {
+        "when": "sagu_uibimil",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/sagu_uibimil"
+        }
+      },
+      {
+        "when": "sim_yeonhuinjang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/sim_yeonhuinjang_eo"
+        }
+      },
+      {
+        "when": "amheugcheolgabsang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/amheugcheolgabsang_eo"
+        }
+      },
+      {
+        "when": "jiha_wangnong_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/jiha_wangnong_eo"
+        }
+      },
+      {
+        "when": "gamulchi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/gamulchi"
+        }
+      },
+      {
+        "when": "nong_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/nong_eo"
+        }
+      },
+      {
+        "when": "baemjang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/baemjang_eo"
+        }
+      },
+      {
+        "when": "ssogali",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/ssogali"
+        }
+      },
+      {
+        "when": "ipeuliteu_uibunno",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/ipeuliteu_uibunno"
+        }
+      },
+      {
+        "when": "bulkkochjineuleomi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/bulkkochjineuleomi"
+        }
+      },
+      {
+        "when": "hwanggeumsamag_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/hwanggeumsamag_eo"
+        }
+      },
+      {
+        "when": "ipeuliteu_uipisjul",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/ipeuliteu_uipisjul"
+        }
+      },
+      {
+        "when": "milsu_kkun_uijeonlipum",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/milsu_kkun_uijeonlipum"
+        }
+      },
+      {
+        "when": "gaesjang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/gaesjang_eo"
+        }
+      },
+      {
+        "when": "dolgajami",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/dolgajami"
+        }
+      },
+      {
+        "when": "bungjang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/bungjang_eo"
+        }
+      },
+      {
+        "when": "dosdom",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/dosdom"
+        }
+      },
+      {
+        "when": "chamdalang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/chamdalang_eo"
+        }
+      },
+      {
+        "when": "dalbichssogali",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/dalbichssogali"
+        }
+      },
+      {
+        "when": "saebyeogdongguljang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/saebyeogdongguljang_eo"
+        }
+      },
+      {
+        "when": "sim_yabagjwigogi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/sim_yabagjwigogi"
+        }
+      },
+      {
+        "when": "yeomyeong_ing_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/yeomyeong_ing_eo"
+        }
+      },
+      {
+        "when": "daepohanchi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/daepohanchi"
+        }
+      },
+      {
+        "when": "baemsang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/baemsang_eo"
+        }
+      },
+      {
+        "when": "belluga",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/belluga"
+        }
+      },
+      {
+        "when": "agsang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/agsang_eo"
+        }
+      },
+      {
+        "when": "ilgagdolgolae",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/ilgagdolgolae"
+        }
+      },
+      {
+        "when": "cheongsang_ali",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/cheongsang_ali"
+        }
+      },
+      {
+        "when": "haema",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/haema"
+        }
+      },
+      {
+        "when": "hwandosang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/hwandosang_eo"
+        }
+      },
+      {
+        "when": "hwangsosang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/hwangsosang_eo"
+        }
+      },
+      {
+        "when": "honglyeonposigja",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/honglyeonposigja"
+        }
+      },
+      {
+        "when": "hwasansuhoja",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/hwasansuhoja"
+        }
+      },
+      {
+        "when": "molaepogpung_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/molaepogpung_eo"
+        }
+      },
+      {
+        "when": "singilu_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/singilu_eo"
+        }
+      },
+      {
+        "when": "sim_yeon_wangmegi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/sim_yeon_wangmegi"
+        }
+      },
+      {
+        "when": "sancheon_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/sancheon_eo"
+        }
+      },
+      {
+        "when": "yeon_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/yeon_eo"
+        }
+      },
+      {
+        "when": "yeolmog_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/yeolmog_eo"
+        }
+      },
+      {
+        "when": "eun_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/eun_eo"
+        }
+      },
+      {
+        "when": "hwangbog",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/hwangbog"
+        }
+      },
+      {
+        "when": "hwang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/hwang_eo"
+        }
+      },
+      {
+        "when": "sim_yeonsumaeg_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/sim_yeonsumaeg_eo"
+        }
+      },
+      {
+        "when": "gwisang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/gwisang_eo"
+        }
+      },
+      {
+        "when": "dos_saechi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/dos_saechi"
+        }
+      },
+      {
+        "when": "cheongsaechi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/cheongsaechi"
+        }
+      },
+      {
+        "when": "tobsang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/tobsang_eo"
+        }
+      },
+      {
+        "when": "dageumbali",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/dageumbali"
+        }
+      },
+      {
+        "when": "honmagulo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/honmagulo"
+        }
+      },
+      {
+        "when": "gaebogchi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/gaebogchi"
+        }
+      },
+      {
+        "when": "napolle_ongpiswi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/napolle_ongpiswi"
+        }
+      },
+      {
+        "when": "nambangkeundolgolae",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/nambangkeundolgolae"
+        }
+      },
+      {
+        "when": "neobchinong_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/neobchinong_eo"
+        }
+      },
+      {
+        "when": "notilleoseu",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/notilleoseu"
+        }
+      },
+      {
+        "when": "dombalsang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/dombalsang_eo"
+        }
+      },
+      {
+        "when": "chamdolgolae",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/chamdolgolae"
+        }
+      },
+      {
+        "when": "keundolgolae",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/keundolgolae"
+        }
+      },
+      {
+        "when": "tobga_oli",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/tobga_oli"
+        }
+      },
+      {
+        "when": "haelyong",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/haelyong"
+        }
+      },
+      {
+        "when": "huinbulidolgolae",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/huinbulidolgolae"
+        }
+      },
+      {
+        "when": "yeom",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/yeom"
+        }
+      },
+      {
+        "when": "heugjeom",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/heugjeom"
+        }
+      },
+      {
+        "when": "baegsang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/baegsang_eo"
+        }
+      },
+      {
+        "when": "cheolgabsang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/cheolgabsang_eo"
+        }
+      },
+      {
+        "when": "samag_uisuhoja",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/samag_uisuhoja"
+        }
+      },
+      {
+        "when": "jiha_uije_wang",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/jiha_uije_wang"
+        }
+      },
+      {
+        "when": "beongaemulgogi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/beongaemulgogi"
+        }
+      },
+      {
+        "when": "ipeuliteu_uinunmul",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/ipeuliteu_uinunmul"
+        }
+      },
+      {
+        "when": "mantaga_oli",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/mantaga_oli"
+        }
+      },
+      {
+        "when": "badageobug",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/badageobug"
+        }
+      },
+      {
+        "when": "baeleol_a_i",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/baeleol_a_i"
+        }
+      },
+      {
+        "when": "jangsugeobug",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/jangsugeobug"
+        }
+      },
+      {
+        "when": "cheogtanbyeong",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/cheogtanbyeong"
+        }
+      },
+      {
+        "when": "lageunalokeu",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/lageunalokeu"
+        }
+      },
+      {
+        "when": "inpeleuno",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/inpeleuno"
+        }
+      },
+      {
+        "when": "gang_uije_wang",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/gang_uije_wang"
+        }
+      },
+      {
+        "when": "wang_yeon_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/wang_yeon_eo"
+        }
+      },
+      {
+        "when": "o_asiseu_ui_wang",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/o_asiseu_ui_wang"
+        }
+      },
+      {
+        "when": "noejeonga_oli",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/noejeonga_oli"
+        }
+      },
+      {
+        "when": "deombomun_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/deombomun_eo"
+        }
+      },
+      {
+        "when": "libon_i_ag_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/libon_i_ag_eo"
+        }
+      },
+      {
+        "when": "megama_useusang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/megama_useusang_eo"
+        }
+      },
+      {
+        "when": "mingkeugolae",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/mingkeugolae"
+        }
+      },
+      {
+        "when": "bandisbul_i_ojing_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/bandisbul_i_ojing_eo"
+        }
+      },
+      {
+        "when": "baegsang_ali",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/baegsang_ali"
+        }
+      },
+      {
+        "when": "yulyeongsang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/yulyeongsang_eo"
+        }
+      },
+      {
+        "when": "chamgolae",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/chamgolae"
+        }
+      },
+      {
+        "when": "kollosal_ojing_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/kollosal_ojing_eo"
+        }
+      },
+      {
+        "when": "heubhyeol_ojing_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/heubhyeol_ojing_eo"
+        }
+      },
+      {
+        "when": "yonghyeol_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/yonghyeol_eo"
+        }
+      },
+      {
+        "when": "hwanggeum_ing_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/hwanggeum_ing_eo"
+        }
+      },
+      {
+        "when": "hwanggeummolae_ing_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/hwanggeummolae_ing_eo"
+        }
+      },
+      {
+        "when": "sumaeg_uisuhoja",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/sumaeg_uisuhoja"
+        }
+      },
+      {
+        "when": "geodae_taepyeong_yang_mun_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/geodae_taepyeong_yang_mun_eo"
+        }
+      },
+      {
+        "when": "golaesang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/golaesang_eo"
+        }
+      },
+      {
+        "when": "gwisingolae",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/gwisingolae"
+        }
+      },
+      {
+        "when": "geulinlandeusang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/geulinlandeusang_eo"
+        }
+      },
+      {
+        "when": "geulla_ukuseu",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/geulla_ukuseu"
+        }
+      },
+      {
+        "when": "dolmugsang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/dolmugsang_eo"
+        }
+      },
+      {
+        "when": "magwisang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/magwisang_eo"
+        }
+      },
+      {
+        "when": "meoli_eobsneundalghaepali",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/meoli_eobsneundalghaepali"
+        }
+      },
+      {
+        "when": "beomgolae",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/beomgolae"
+        }
+      },
+      {
+        "when": "bishaepali",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/bishaepali"
+        }
+      },
+      {
+        "when": "ilgaggolae",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/ilgaggolae"
+        }
+      },
+      {
+        "when": "keulli_one",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/keulli_one"
+        }
+      },
+      {
+        "when": "pungseonjang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/pungseonjang_eo"
+        }
+      },
+      {
+        "when": "hyang_yugolae",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/hyang_yugolae"
+        }
+      },
+      {
+        "when": "hogdeunggolae",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/hogdeunggolae"
+        }
+      },
+      {
+        "when": "gang_uisuhoja",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/gang_uisuhoja"
+        }
+      },
+      {
+        "when": "ipeuliteu_uichugbog",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/ipeuliteu_uichugbog"
+        }
+      },
+      {
+        "when": "ipeuliteu_uihaeg",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/ipeuliteu_uihaeg"
+        }
+      },
+      {
+        "when": "labeuka",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/labeuka"
+        }
+      },
+      {
+        "when": "latimeli_a_menado_ensiseu",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/latimeli_a_menado_ensiseu"
+        }
+      },
+      {
+        "when": "lige_illeokeoseu_geullen",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/lige_illeokeoseu_geullen"
+        }
+      },
+      {
+        "when": "seutiji_ameoduseo_jiganti_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/seutiji_ameoduseo_jiganti_eo"
+        }
+      },
+      {
+        "when": "idi_akandeoseu_aeslaentikeoseu",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/idi_akandeoseu_aeslaentikeoseu"
+        }
+      },
+      {
+        "when": "tibuloni_a",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/tibuloni_a"
+        }
+      },
+      {
+        "when": "lion_gold",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/emblem/lion_gold"
+        }
+      },
+      {
+        "when": "fish_badge",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/emblem/fish_badge"
+        }
+      },
+      {
+        "when": "gasidalgsae_u",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/gasidalgsae_u"
+        }
+      },
+      {
+        "when": "galgyeoni",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/galgyeoni"
+        }
+      },
+      {
+        "when": "gamdolgogi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/gamdolgogi"
+        }
+      },
+      {
+        "when": "gaelleogsi_laseubola",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/gaelleogsi_laseubola"
+        }
+      },
+      {
+        "when": "gaesjileong_ijang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/gaesjileong_ijang_eo"
+        }
+      },
+      {
+        "when": "geom_eunmegi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/geom_eunmegi"
+        }
+      },
+      {
+        "when": "geom_eunbineulbung_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/geom_eunbineulbung_eo"
+        }
+      },
+      {
+        "when": "go_won_jonggae",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/go_won_jonggae"
+        }
+      },
+      {
+        "when": "goldeunmasi_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/goldeunmasi_eo"
+        }
+      },
+      {
+        "when": "golli_asta_igeopisi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/golli_asta_igeopisi"
+        }
+      },
+      {
+        "when": "geumgangmochi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/geumgangmochi"
+        }
+      },
+      {
+        "when": "gilla_tobmino_u",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/gilla_tobmino_u"
+        }
+      },
+      {
+        "when": "kkuguli",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/kkuguli"
+        }
+      },
+      {
+        "when": "namus_iphaelyong",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/namus_iphaelyong"
+        }
+      },
+      {
+        "when": "na_ilpeochi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/na_ilpeochi"
+        }
+      },
+      {
+        "when": "nabjalu",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/nabjalu"
+        }
+      },
+      {
+        "when": "nogbich_dongguljang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/nogbich_dongguljang_eo"
+        }
+      },
+      {
+        "when": "non_uleong_i",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/non_uleong_i"
+        }
+      },
+      {
+        "when": "nunmeon_megi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/nunmeon_megi"
+        }
+      },
+      {
+        "when": "neupbung_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/neupbung_eo"
+        }
+      },
+      {
+        "when": "dae_wangdaege",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/dae_wangdaege"
+        }
+      },
+      {
+        "when": "dae_wangmun_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/dae_wangmun_eo"
+        }
+      },
+      {
+        "when": "dae_wang_ojing_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/dae_wang_ojing_eo"
+        }
+      },
+      {
+        "when": "dae_wangjwiga_oli",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/dae_wangjwiga_oli"
+        }
+      },
+      {
+        "when": "debilseuhol_peobpisi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/debilseuhol_peobpisi"
+        }
+      },
+      {
+        "when": "dejeoteu_de_iseu",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/dejeoteu_de_iseu"
+        }
+      },
+      {
+        "when": "dolado",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/dolado"
+        }
+      },
+      {
+        "when": "dog_angae_gamulchi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/dog_angae_gamulchi"
+        }
+      },
+      {
+        "when": "dolgogi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/dolgogi"
+        }
+      },
+      {
+        "when": "dolsang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/dolsang_eo"
+        }
+      },
+      {
+        "when": "donggul_songsali",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/donggul_songsali"
+        }
+      },
+      {
+        "when": "dochsaechi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/dochsaechi"
+        }
+      },
+      {
+        "when": "dugjunggae",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/dugjunggae"
+        }
+      },
+      {
+        "when": "deuleongheoli",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/deuleongheoli"
+        }
+      },
+      {
+        "when": "tteognabjulgaeng_i",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/tteognabjulgaeng_i"
+        }
+      },
+      {
+        "when": "ledeu_sya_ineo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/ledeu_sya_ineo"
+        }
+      },
+      {
+        "when": "ledeute_il_kaespisi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/ledeute_il_kaespisi"
+        }
+      },
+      {
+        "when": "le_ikeuseuteojeon",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/le_ikeuseuteojeon"
+        }
+      },
+      {
+        "when": "le_illodeu_baelli_seupeulingpisi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/le_illodeu_baelli_seupeulingpisi"
+        }
+      },
+      {
+        "when": "lo_yal_peulleko",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/lo_yal_peulleko"
+        }
+      },
+      {
+        "when": "lochi_mino_u",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/lochi_mino_u"
+        }
+      },
+      {
+        "when": "longnojeuga_a",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/longnojeuga_a"
+        }
+      },
+      {
+        "when": "longpinde_iseu",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/longpinde_iseu"
+        }
+      },
+      {
+        "when": "mabeul_haecheteu",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/mabeul_haecheteu"
+        }
+      },
+      {
+        "when": "mabeulpye_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/mabeulpye_eo"
+        }
+      },
+      {
+        "when": "mandalinpisi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/mandalinpisi"
+        }
+      },
+      {
+        "when": "maeng_an_dugjunggae",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/maeng_an_dugjunggae"
+        }
+      },
+      {
+        "when": "meole_idaegu",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/meole_idaegu"
+        }
+      },
+      {
+        "when": "meoseuki",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/meoseuki"
+        }
+      },
+      {
+        "when": "mekongdaehyeongmegi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/mekongdaehyeongmegi"
+        }
+      },
+      {
+        "when": "megsikojangnimdonggul_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/megsikojangnimdonggul_eo"
+        }
+      },
+      {
+        "when": "molaebaemsang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/molaebaemsang_eo"
+        }
+      },
+      {
+        "when": "molaejusa",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/molaejusa"
+        }
+      },
+      {
+        "when": "mo_apa_de_iseu",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/mo_apa_de_iseu"
+        }
+      },
+      {
+        "when": "motolo_ga_oli",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/motolo_ga_oli"
+        }
+      },
+      {
+        "when": "munui_ojing_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/munui_ojing_eo"
+        }
+      },
+      {
+        "when": "mutaejang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/mutaejang_eo"
+        }
+      },
+      {
+        "when": "mulbanggae",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/mulbanggae"
+        }
+      },
+      {
+        "when": "mulbola_songsali",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/mulbola_songsali"
+        }
+      },
+      {
+        "when": "mul_angae_mi_kkuli",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/mul_angae_mi_kkuli"
+        }
+      },
+      {
+        "when": "minmulchamge",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/minmulchamge"
+        }
+      },
+      {
+        "when": "mil_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/mil_eo"
+        }
+      },
+      {
+        "when": "babeu",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/babeu"
+        }
+      },
+      {
+        "when": "baeseu",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/baeseu"
+        }
+      },
+      {
+        "when": "beodeulbung_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/beodeulbung_eo"
+        }
+      },
+      {
+        "when": "beodeulchi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/beodeulchi"
+        }
+      },
+      {
+        "when": "beojin_libeo_cheobeu",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/beojin_libeo_cheobeu"
+        }
+      },
+      {
+        "when": "boguchi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/boguchi"
+        }
+      },
+      {
+        "when": "bulgpyeongchi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/bulgpyeongchi"
+        }
+      },
+      {
+        "when": "beullaeg_alo_wana",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/beullaeg_alo_wana"
+        }
+      },
+      {
+        "when": "saekomi_kkuli",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/saekomi_kkuli"
+        }
+      },
+      {
+        "when": "saemgeumgangmochi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/saemgeumgangmochi"
+        }
+      },
+      {
+        "when": "seolibineul_ing_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/seolibineul_ing_eo"
+        }
+      },
+      {
+        "when": "seogsunjang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/seogsunjang_eo"
+        }
+      },
+      {
+        "when": "seolsangajae",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/seolsangajae"
+        }
+      },
+      {
+        "when": "seongsu_song_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/seongsu_song_eo"
+        }
+      },
+      {
+        "when": "sonolappalpangogi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/sonolappalpangogi"
+        }
+      },
+      {
+        "when": "solteu_keulikeu_peobpisi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/solteu_keulikeu_peobpisi"
+        }
+      },
+      {
+        "when": "song_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/song_eo"
+        }
+      },
+      {
+        "when": "suleonggeomeolijang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/suleonggeomeolijang_eo"
+        }
+      },
+      {
+        "when": "suleongsongsali",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/suleongsongsali"
+        }
+      },
+      {
+        "when": "sulyeom_mujigaesong_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/sulyeom_mujigaesong_eo"
+        }
+      },
+      {
+        "when": "sulubi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/sulubi"
+        }
+      },
+      {
+        "when": "su_won_sancheon_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/su_won_sancheon_eo"
+        }
+      },
+      {
+        "when": "sujeong_mochi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/sujeong_mochi"
+        }
+      },
+      {
+        "when": "swili",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/swili"
+        }
+      },
+      {
+        "when": "seupa_ikeude_iseu",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/seupa_ikeude_iseu"
+        }
+      },
+      {
+        "when": "silbeo_dalleo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/silbeo_dalleo"
+        }
+      },
+      {
+        "when": "silbeo_alo_wana",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/silbeo_alo_wana"
+        }
+      },
+      {
+        "when": "sim_yeon_ing_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/sim_yeon_ing_eo"
+        }
+      },
+      {
+        "when": "simhaehongge",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/simhaehongge"
+        }
+      },
+      {
+        "when": "simhong_ui_agwi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/simhong_ui_agwi"
+        }
+      },
+      {
+        "when": "alo_yo_cheobeu",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/alo_yo_cheobeu"
+        }
+      },
+      {
+        "when": "amagosa_peobpisi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/amagosa_peobpisi"
+        }
+      },
+      {
+        "when": "apeulikadaehyeongmegi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/apeulikadaehyeongmegi"
+        }
+      },
+      {
+        "when": "alteom_enjel",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/alteom_enjel"
+        }
+      },
+      {
+        "when": "am_yeom_song_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/am_yeom_song_eo"
+        }
+      },
+      {
+        "when": "amheug_megi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/amheug_megi"
+        }
+      },
+      {
+        "when": "ablyeog_dugjunggae",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/ablyeog_dugjunggae"
+        }
+      },
+      {
+        "when": "aellige_iteo_ga_a",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/aellige_iteo_ga_a"
+        }
+      },
+      {
+        "when": "yagwang_jang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/yagwang_jang_eo"
+        }
+      },
+      {
+        "when": "eoleumchi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/eoleumchi"
+        }
+      },
+      {
+        "when": "endeullikeli_bikileu",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/endeullikeli_bikileu"
+        }
+      },
+      {
+        "when": "yongbineul_ing_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/yongbineul_ing_eo"
+        }
+      },
+      {
+        "when": "unmu_songsali",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/unmu_songsali"
+        }
+      },
+      {
+        "when": "ung_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/ung_eo"
+        }
+      },
+      {
+        "when": "welseumegi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/welseumegi"
+        }
+      },
+      {
+        "when": "iseulbang_ul_mochi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/iseulbang_ul_mochi"
+        }
+      },
+      {
+        "when": "jala",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/jala"
+        }
+      },
+      {
+        "when": "ja_umegi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/ja_umegi"
+        }
+      },
+      {
+        "when": "ja_i_eonteu_kaespisi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/ja_i_eonteu_kaespisi"
+        }
+      },
+      {
+        "when": "ja_i_eonteugulami",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/ja_i_eonteugulami"
+        }
+      },
+      {
+        "when": "ja_i_eonteuminmulga_oli",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/ja_i_eonteuminmulga_oli"
+        }
+      },
+      {
+        "when": "ja_i_eonteuseune_ikeuhedeu",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/ja_i_eonteuseune_ikeuhedeu"
+        }
+      },
+      {
+        "when": "jeongaeng_i",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/jeongaeng_i"
+        }
+      },
+      {
+        "when": "jeongibaemjang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/jeongibaemjang_eo"
+        }
+      },
+      {
+        "when": "jeongsang_eoleumchi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/jeongsang_eoleumchi"
+        }
+      },
+      {
+        "when": "jeongsang_yeolmog_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/jeongsang_yeolmog_eo"
+        }
+      },
+      {
+        "when": "jeong_eoli",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/jeong_eoli"
+        }
+      },
+      {
+        "when": "jeoj_eun_ikki_bung_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/jeoj_eun_ikki_bung_eo"
+        }
+      },
+      {
+        "when": "jong_yuseog_megi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/jong_yuseog_megi"
+        }
+      },
+      {
+        "when": "juhongbaemjang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/juhongbaemjang_eo"
+        }
+      },
+      {
+        "when": "jinchang_megi_wang",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/jinchang_megi_wang"
+        }
+      },
+      {
+        "when": "chaga_un_nong_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/chaga_un_nong_eo"
+        }
+      },
+      {
+        "when": "chamgalgyeoni",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/chamgalgyeoni"
+        }
+      },
+      {
+        "when": "chamjonggae",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/chamjonggae"
+        }
+      },
+      {
+        "when": "cho_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/cho_eo"
+        }
+      },
+      {
+        "when": "chili",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/chili"
+        }
+      },
+      {
+        "when": "kalnabjalu",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/kalnabjalu"
+        }
+      },
+      {
+        "when": "kolidolaseu",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/kolidolaseu"
+        }
+      },
+      {
+        "when": "keullali_aseumegi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/keullali_aseumegi"
+        }
+      },
+      {
+        "when": "ta_igeo_syobelnojeu_kaespisi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/ta_igeo_syobelnojeu_kaespisi"
+        }
+      },
+      {
+        "when": "ta_imen",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/ta_imen"
+        }
+      },
+      {
+        "when": "tapon",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/tapon"
+        }
+      },
+      {
+        "when": "tambaki",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/tambaki"
+        }
+      },
+      {
+        "when": "tegsaseusikeullideu",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/tegsaseusikeullideu"
+        }
+      },
+      {
+        "when": "tumyeong_mi_kkuli",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/tumyeong_mi_kkuli"
+        }
+      },
+      {
+        "when": "tunggali",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/tunggali"
+        }
+      },
+      {
+        "when": "teula_ila_o",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/teula_ila_o"
+        }
+      },
+      {
+        "when": "pa_yala",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/pa_yala"
+        }
+      },
+      {
+        "when": "pogpo_sancheon_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/pogpo_sancheon_eo"
+        }
+      },
+      {
+        "when": "pollibteluseu",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/pollibteluseu"
+        }
+      },
+      {
+        "when": "pilanya",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/pilanya"
+        }
+      },
+      {
+        "when": "pilaluku",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/pilaluku"
+        }
+      },
+      {
+        "when": "pila_iba",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/pila_iba"
+        }
+      },
+      {
+        "when": "pikog_baeseu",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/pikog_baeseu"
+        }
+      },
+      {
+        "when": "pisbichgajae",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/pisbichgajae"
+        }
+      },
+      {
+        "when": "haggongchi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/haggongchi"
+        }
+      },
+      {
+        "when": "hagkkongchi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/hagkkongchi"
+        }
+      },
+      {
+        "when": "handugjunggae",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/handugjunggae"
+        }
+      },
+      {
+        "when": "hancheon_mi_kkuli",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/hancheon_mi_kkuli"
+        }
+      },
+      {
+        "when": "hyeolbich_ing_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/hyeolbich_ing_eo"
+        }
+      },
+      {
+        "when": "hwa_iteu_libeo_seupa_inde_iseu",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/hwa_iteu_libeo_seupa_inde_iseu"
+        }
+      },
+      {
+        "when": "hwa_iteu_libeo_seupeulingpisi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/hwa_iteu_libeo_seupeulingpisi"
+        }
+      },
+      {
+        "when": "hwanggeum_bang_eo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/hwanggeum_bang_eo"
+        }
+      },
+      {
+        "when": "hwanggeum_alo_wana",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/hwanggeum_alo_wana"
+        }
+      },
+      {
+        "when": "heugsaechi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/heugsaechi"
         }
       },
       {
@@ -19,10 +3505,24 @@
         }
       },
       {
+        "when": "coelacanth",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/coelacanth"
+        }
+      },
+      {
         "when": "lion_mane_jelly",
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/fish/lion_mane_jelly"
+        }
+      },
+      {
+        "when": "bulgeunmorae_gaoli",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/bulgeunmorae_gaoli"
         }
       },
       {
@@ -33,10 +3533,10 @@
         }
       },
       {
-        "when": "coelacanth",
+        "when": "dragon_god",
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/fish/coelacanth"
+          "model": "minecraft:item/fish/dragon_god"
         }
       }
     ],
@@ -44,5 +3544,6 @@
       "type": "minecraft:model",
       "model": "minecraft:item/cod"
     }
-  }
+  },
+  "oversized_in_gui": true
 }
