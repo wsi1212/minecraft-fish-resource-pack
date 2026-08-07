@@ -1,4 +1,5 @@
 {
-  "soundCategory.ambient": "BGM",
+  "options.sounds": "§a음악 및 소리",
+  "soundCategory.ambient": "게임 BGM",
   "container.inventory": ""
 }

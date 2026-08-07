@@ -9,7 +9,7 @@
 set -e
 
 # 경로 설정
-PACK_SRC="$HOME/Downloads/barkan-resourcepack"
+PACK_SRC="$HOME/development/barkan-resourcepack"
 LOCAL_ZIP="$HOME/Library/Application Support/minecraft/resourcepacks/barkan-resourcepack.zip"
 DEPLOY_ZIP="/tmp/barkan-resourcepack.zip"
 GIT_REPO="$HOME/New DeskTop/develop/minecraft-fish-resource-pack"
