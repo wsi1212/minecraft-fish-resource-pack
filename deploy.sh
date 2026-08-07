@@ -22,14 +22,25 @@ echo "===== 바르칸 리소스팩 배포 ====="
 echo "[1/5] ZIP 생성..."
 cd "$PACK_SRC"
 rm -f "$LOCAL_ZIP" "$DEPLOY_ZIP"
-zip -r "$LOCAL_ZIP" . -x ".*" -x "deploy.sh"
+zip -rq "$LOCAL_ZIP" . \
+    -x ".*" \
+    -x "*/.DS_Store" \
+    -x ".codex-backup/*" \
+    -x ".codex-remake-progress.txt" \
+    -x "deploy.sh"
 cp "$LOCAL_ZIP" "$DEPLOY_ZIP"
 echo "  ✓ 로컬: $LOCAL_ZIP"
 echo "  ✓ 배포: $DEPLOY_ZIP"
 
 # 2. Git 동기화 + 커밋
 echo "[2/5] Git 동기화..."
-rsync -av --delete --exclude='.git' --exclude='deploy.sh' "$PACK_SRC/" "$GIT_REPO/"
+rsync -av --delete \
+    --exclude='.git' \
+    --exclude='deploy.sh' \
+    --exclude='.DS_Store' \
+    --exclude='.codex-backup' \
+    --exclude='.codex-remake-progress.txt' \
+    "$PACK_SRC/" "$GIT_REPO/"
 cd "$GIT_REPO"
 git add -A
 if git diff --cached --quiet; then
