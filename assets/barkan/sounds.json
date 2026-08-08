@@ -1,4 +1,19 @@
 {
+  "npc.text": {
+    "sounds": [
+      { "name": "barkan:npc/text" }
+    ]
+  },
+  "ui.confirm": {
+    "sounds": [
+      { "name": "barkan:ui/confirm" }
+    ]
+  },
+  "ui.cancel": {
+    "sounds": [
+      { "name": "barkan:ui/cancel" }
+    ]
+  },
   "weather.sandstorm": {
     "sounds": [
       {
