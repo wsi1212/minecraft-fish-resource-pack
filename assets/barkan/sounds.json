@@ -14,6 +14,46 @@
       { "name": "barkan:ui/cancel" }
     ]
   },
+  "ui.menu_open": {
+    "sounds": [
+      { "name": "barkan:ui/menu_open" }
+    ]
+  },
+  "ui.purchase": {
+    "sounds": [
+      { "name": "barkan:ui/purchase" }
+    ]
+  },
+  "ui.dismantle": {
+    "sounds": [
+      { "name": "barkan:ui/dismantle" }
+    ]
+  },
+  "enhance.attempt": {
+    "sounds": [
+      { "name": "barkan:enhance/attempt" }
+    ]
+  },
+  "enhance.success_low": {
+    "sounds": [
+      { "name": "barkan:enhance/success_low" }
+    ]
+  },
+  "enhance.success_high": {
+    "sounds": [
+      { "name": "barkan:enhance/success_high" }
+    ]
+  },
+  "enhance.failure": {
+    "sounds": [
+      { "name": "barkan:enhance/failure" }
+    ]
+  },
+  "enhance.destroy": {
+    "sounds": [
+      { "name": "barkan:enhance/destroy" }
+    ]
+  },
   "weather.sandstorm": {
     "sounds": [
       {
