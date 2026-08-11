@@ -1,0 +1,1 @@
+{"parent": "minecraft:item/generated", "textures": {"layer0": "minecraft:item/barkan_icon/skill_mining_condense_avail"}, "display": {"gui": {"scale": [1.332, 1.332, 1.332]}}}

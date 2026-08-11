@@ -1,0 +1,10 @@
+# 배포본에 실리면 안 되는 잡동사니 (ops/build-prod-rp.py 의 JUNK 와 같은 기준)
+.DS_Store
+*.bak
+*.bak2
+*.bak-*
+*_prepad/
+*backup*/
+.codex-backup/
+.codex-remake-progress.txt
+pf_reference/

@@ -1,0 +1,594 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "entries": [
+      {
+        "threshold": 20999,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/board"
+        }
+      },
+      {
+        "threshold": 21001,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/white_king"
+        }
+      },
+      {
+        "threshold": 21002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/white_queen"
+        }
+      },
+      {
+        "threshold": 21003,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/white_rook"
+        }
+      },
+      {
+        "threshold": 21004,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/white_bishop"
+        }
+      },
+      {
+        "threshold": 21005,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/white_knight"
+        }
+      },
+      {
+        "threshold": 21006,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/white_pawn"
+        }
+      },
+      {
+        "threshold": 21101,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/black_king"
+        }
+      },
+      {
+        "threshold": 21102,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/black_queen"
+        }
+      },
+      {
+        "threshold": 21103,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/black_rook"
+        }
+      },
+      {
+        "threshold": 21104,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/black_bishop"
+        }
+      },
+      {
+        "threshold": 21105,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/black_knight"
+        }
+      },
+      {
+        "threshold": 21106,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/black_pawn"
+        }
+      },
+      {
+        "threshold": 21201,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/royal_white_king"
+        }
+      },
+      {
+        "threshold": 21202,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/royal_white_queen"
+        }
+      },
+      {
+        "threshold": 21203,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/royal_white_rook"
+        }
+      },
+      {
+        "threshold": 21204,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/royal_white_bishop"
+        }
+      },
+      {
+        "threshold": 21205,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/royal_white_knight"
+        }
+      },
+      {
+        "threshold": 21206,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/royal_white_pawn"
+        }
+      },
+      {
+        "threshold": 21301,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/royal_black_king"
+        }
+      },
+      {
+        "threshold": 21302,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/royal_black_queen"
+        }
+      },
+      {
+        "threshold": 21303,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/royal_black_rook"
+        }
+      },
+      {
+        "threshold": 21304,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/royal_black_bishop"
+        }
+      },
+      {
+        "threshold": 21305,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/royal_black_knight"
+        }
+      },
+      {
+        "threshold": 21306,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/royal_black_pawn"
+        }
+      },
+      {
+        "threshold": 21401,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/ornate_bishop"
+        }
+      },
+      {
+        "threshold": 21501,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/augment_ball"
+        }
+      },
+      {
+        "threshold": 21601,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/white_triangle"
+        }
+      },
+      {
+        "threshold": 21602,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/black_triangle"
+        }
+      },
+      {
+        "threshold": 21603,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/royal_white_triangle"
+        }
+      },
+      {
+        "threshold": 21604,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/royal_black_triangle"
+        }
+      },
+      {
+        "threshold": 21701,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/white_barricade"
+        }
+      },
+      {
+        "threshold": 21702,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/black_barricade"
+        }
+      },
+      {
+        "threshold": 21703,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/royal_white_barricade"
+        }
+      },
+      {
+        "threshold": 21704,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/royal_black_barricade"
+        }
+      },
+      {
+        "threshold": 21801,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/galaxy_white_bishop"
+        }
+      },
+      {
+        "threshold": 21901,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/galaxy_white_king"
+        }
+      },
+      {
+        "threshold": 21902,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/galaxy_white_queen"
+        }
+      },
+      {
+        "threshold": 21903,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/galaxy_white_rook"
+        }
+      },
+      {
+        "threshold": 21904,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/galaxy_white_bishop"
+        }
+      },
+      {
+        "threshold": 21905,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/galaxy_white_knight"
+        }
+      },
+      {
+        "threshold": 21906,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/galaxy_white_pawn"
+        }
+      },
+      {
+        "threshold": 22001,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/galaxy_black_king"
+        }
+      },
+      {
+        "threshold": 22002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/galaxy_black_queen"
+        }
+      },
+      {
+        "threshold": 22003,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/galaxy_black_rook"
+        }
+      },
+      {
+        "threshold": 22004,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/galaxy_black_bishop"
+        }
+      },
+      {
+        "threshold": 22005,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/galaxy_black_knight"
+        }
+      },
+      {
+        "threshold": 22006,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/galaxy_black_pawn"
+        }
+      },
+      {
+        "threshold": 22101,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/galaxy_white_triangle"
+        }
+      },
+      {
+        "threshold": 22102,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/galaxy_black_triangle"
+        }
+      },
+      {
+        "threshold": 22103,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/galaxy_white_barricade"
+        }
+      },
+      {
+        "threshold": 22104,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/galaxy_black_barricade"
+        }
+      },
+      {
+        "threshold": 22201,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/white_longsword"
+        }
+      },
+      {
+        "threshold": 22202,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/black_longsword"
+        }
+      },
+      {
+        "threshold": 22203,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/royal_white_longsword"
+        }
+      },
+      {
+        "threshold": 22204,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/royal_black_longsword"
+        }
+      },
+      {
+        "threshold": 22205,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/galaxy_white_longsword"
+        }
+      },
+      {
+        "threshold": 22206,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/galaxy_black_longsword"
+        }
+      },
+      {
+        "threshold": 22301,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/table_item"
+        }
+      },
+      {
+        "threshold": 22401,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/white_aegis"
+        }
+      },
+      {
+        "threshold": 22402,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/black_aegis"
+        }
+      },
+      {
+        "threshold": 22403,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/royal_white_aegis"
+        }
+      },
+      {
+        "threshold": 22404,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/royal_black_aegis"
+        }
+      },
+      {
+        "threshold": 22405,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/galaxy_white_aegis"
+        }
+      },
+      {
+        "threshold": 22406,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/galaxy_black_aegis"
+        }
+      },
+      {
+        "threshold": 22501,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/white_phantom"
+        }
+      },
+      {
+        "threshold": 22502,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/black_phantom"
+        }
+      },
+      {
+        "threshold": 22503,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/royal_white_phantom"
+        }
+      },
+      {
+        "threshold": 22504,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/royal_black_phantom"
+        }
+      },
+      {
+        "threshold": 22505,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/galaxy_white_phantom"
+        }
+      },
+      {
+        "threshold": 22506,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/galaxy_black_phantom"
+        }
+      },
+      {
+        "threshold": 22601,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/white_pike"
+        }
+      },
+      {
+        "threshold": 22602,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/black_pike"
+        }
+      },
+      {
+        "threshold": 22603,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/royal_white_pike"
+        }
+      },
+      {
+        "threshold": 22604,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/royal_black_pike"
+        }
+      },
+      {
+        "threshold": 22605,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/galaxy_white_pike"
+        }
+      },
+      {
+        "threshold": 22606,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/galaxy_black_pike"
+        }
+      },
+      {
+        "threshold": 22701,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/white_pegasus"
+        }
+      },
+      {
+        "threshold": 22702,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/black_pegasus"
+        }
+      },
+      {
+        "threshold": 22703,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/royal_white_pegasus"
+        }
+      },
+      {
+        "threshold": 22704,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/royal_black_pegasus"
+        }
+      },
+      {
+        "threshold": 22705,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/galaxy_white_pegasus"
+        }
+      },
+      {
+        "threshold": 22706,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/galaxy_black_pegasus"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/paper"
+    }
+  }
+}

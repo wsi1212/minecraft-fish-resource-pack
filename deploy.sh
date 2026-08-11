@@ -1,85 +1,26 @@
 #!/bin/bash
-# ===== 바르칸 열도 리소스팩 배포 자동화 =====
-# 사용법: ./deploy.sh
-# 1. ZIP 생성 (로컬 + 배포용)
-# 2. GitHub 릴리스 업로드
-# 3. SHA1 갱신 → server.properties 업데이트
-# 4. Git 커밋+푸시
-
-set -e
-
-# 경로 설정
-PACK_SRC="$HOME/development/barkan-resourcepack"
-LOCAL_ZIP="$HOME/Library/Application Support/minecraft/resourcepacks/barkan-resourcepack.zip"
-DEPLOY_ZIP="/tmp/barkan-resourcepack.zip"
-GIT_REPO="$HOME/New DeskTop/develop/minecraft-fish-resource-pack"
-SERVER_PROPS="$HOME/Library/Application Support/feather/player-server/servers/07de2d81-991a-47e2-b62d-06c0d1b5150a/server.properties"
-GITHUB_REPO="wsi1212/minecraft-fish-resource-pack"
-
-echo "===== 바르칸 리소스팩 배포 ====="
-
-# 1. ZIP 생성
-echo "[1/5] ZIP 생성..."
-cd "$PACK_SRC"
-rm -f "$LOCAL_ZIP" "$DEPLOY_ZIP"
-zip -rq "$LOCAL_ZIP" . \
-    -x ".*" \
-    -x "*/.DS_Store" \
-    -x ".codex-backup/*" \
-    -x ".codex-remake-progress.txt" \
-    -x "deploy.sh"
-cp "$LOCAL_ZIP" "$DEPLOY_ZIP"
-echo "  ✓ 로컬: $LOCAL_ZIP"
-echo "  ✓ 배포: $DEPLOY_ZIP"
-
-# 2. Git 동기화 + 커밋
-echo "[2/5] Git 동기화..."
-rsync -av --delete \
-    --exclude='.git' \
-    --exclude='deploy.sh' \
-    --exclude='.DS_Store' \
-    --exclude='.codex-backup' \
-    --exclude='.codex-remake-progress.txt' \
-    "$PACK_SRC/" "$GIT_REPO/"
-cd "$GIT_REPO"
-git add -A
-if git diff --cached --quiet; then
-    echo "  ✓ 변경 없음 (커밋 스킵)"
-else
-    git commit -m "update resource pack $(date +%Y-%m-%d)"
-    git push origin main
-    echo "  ✓ Git 푸시 완료"
-fi
-
-# 3. GitHub 릴리스 (기존 latest 삭제 후 재생성)
-echo "[3/5] GitHub 릴리스..."
-gh release delete latest --repo "$GITHUB_REPO" --yes 2>/dev/null || true
-gh release create latest "$DEPLOY_ZIP" \
-    --repo "$GITHUB_REPO" \
-    --title "Latest Resource Pack" \
-    --notes "자동 배포 $(date +%Y-%m-%d_%H:%M)" \
-    --latest
-DOWNLOAD_URL="https://github.com/$GITHUB_REPO/releases/download/latest/barkan-resourcepack.zip"
-echo "  ✓ URL: $DOWNLOAD_URL"
-
-# 4. SHA1 갱신
-echo "[4/5] SHA1 갱신..."
-SHA1=$(shasum "$DEPLOY_ZIP" | awk '{print $1}')
-echo "  SHA1: $SHA1"
-
-# server.properties 업데이트
-sed -i '' "s|^resource-pack=.*|resource-pack=$DOWNLOAD_URL|" "$SERVER_PROPS"
-sed -i '' "s|^resource-pack-sha1=.*|resource-pack-sha1=$SHA1|" "$SERVER_PROPS"
-echo "  ✓ server.properties 업데이트 완료"
-
-# 5. 확인
-echo "[5/5] 완료!"
-echo ""
-echo "  리소스팩 URL: $DOWNLOAD_URL"
-echo "  SHA1: $SHA1"
-echo "  require-resource-pack: $(grep 'require-resource-pack' "$SERVER_PROPS" | cut -d= -f2)"
-echo ""
-echo "  → 서버 재시작하면 접속자에게 자동 적용됩니다."
-echo "  → 로컬 테스트: F3+T로 리소스팩 리로드"
-
-rm -f "$DEPLOY_ZIP"
+# ⛔ 이 스크립트는 폐지됐다 (2026-08-11). 실행하지 말 것.
+#
+# 왜: 아래 줄이 prod 를 두 번 깨뜨렸다.
+#
+#     gh release delete latest --repo ... --yes
+#
+# 릴리스 `latest` 를 통째로 지우면 **같은 릴리스에 얹힌 barkan-furniture.zip**
+# (prod CraftEngine 가구팩)이 함께 날아가서 전 클라의 가구·HUD 가 미싱이 된다.
+# 게다가 이 스크립트는 소스를 날것으로 zip 해서 백업 파일까지 배포본에 실었고,
+# server.properties 를 dev 것만 고쳤고, 팩 다이어트(아이템 128px 상한)도 안 탔다.
+#
+# 또 하나: 이 스크립트는 소스를 별도 클론으로 rsync --delete 하는 2단 구조였다.
+# 그래서 소스와 클론이 양방향으로 갈라졌고, 2026-08-11 낡은 클론에서 구운 팩이
+# prod 로 가서 gui 텍스처 761개 + 글리프 provider 228개가 빠졌다(메뉴 전멸).
+# 지금은 이 저장소가 소스 디렉터리 자체의 작업트리다 — 클론도 rsync 도 없다.
+#
+# ✅ 대신 이걸 쓸 것 (Skript/scripts 저장소):
+#
+#     ops/rp-deploy.sh <dev|prod> [--restart] [--dry-run]
+#
+#   새 태그로만 올리고(latest 는 안 건드림), 공개 URL sha1 을 먼저 검증하고,
+#   현재 서빙본 대비 파일이 줄면 중단하는 회귀 가드가 있다.
+echo "⛔ deploy.sh 는 폐지됐다. ops/rp-deploy.sh <dev|prod> 를 쓸 것." >&2
+echo "   이유는 이 파일 주석 참조 (gh release delete latest 가 가구팩을 날린다)." >&2
+exit 1
