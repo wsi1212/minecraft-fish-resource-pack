@@ -13,31 +13,13 @@ in vec4 particleColor;
 
 out vec4 fragColor;
 
-vec3 meteorColor(float f) {
-    f = clamp(f, 0.0, 1.0);
-    if (f < 0.08) {
-        return mix(vec3(1.0, 120.0 / 255.0, 60.0 / 255.0),
-                   vec3(1.0, 190.0 / 255.0, 90.0 / 255.0), f / 0.08);
-    }
-    if (f < 0.18) {
-        return mix(vec3(1.0, 190.0 / 255.0, 90.0 / 255.0),
-                   vec3(1.0, 240.0 / 255.0, 180.0 / 255.0), (f - 0.08) / 0.10);
-    }
-    if (f < 0.35) {
-        return mix(vec3(1.0, 240.0 / 255.0, 180.0 / 255.0),
-                   vec3(245.0 / 255.0, 250.0 / 255.0, 240.0 / 255.0), (f - 0.18) / 0.17);
-    }
-    if (f < 0.60) {
-        return mix(vec3(245.0 / 255.0, 250.0 / 255.0, 240.0 / 255.0),
-                   vec3(140.0 / 255.0, 195.0 / 255.0, 1.0), (f - 0.35) / 0.25);
-    }
-    return mix(vec3(140.0 / 255.0, 195.0 / 255.0, 1.0),
-               vec3(120.0 / 255.0, 90.0 / 255.0, 215.0 / 255.0), (f - 0.60) / 0.40);
-}
-
 bool isMeteorParticle(vec3 color) {
-    // Java RegionParticleTask가 보내는 전용 마커: R=1, B=255, G=f.
-    return color.r < 0.01 && color.b > 0.99;
+    // Java가 원래 DUST 색의 각 채널 하위 4비트에 (12, 8, 7)을 심는다.
+    // 원본 색 자체를 유지하므로 셰이더가 적용되지 않아도 파란 마커가 노출되지 않는다.
+    vec3 channel = floor(color * 255.0 + 0.5);
+    return mod(channel.r, 16.0) == 12.0
+        && mod(channel.g, 16.0) == 8.0
+        && mod(channel.b, 16.0) == 7.0;
 }
 
 void main() {
@@ -48,8 +30,8 @@ void main() {
     }
 
     if (isMeteorParticle(particleColor.rgb)) {
-        // 유성우만 lightmap을 무시하고 밝게 복원한다. 안개는 유지해 하늘과 자연스럽게 섞인다.
-        color.rgb = clamp(tex.rgb * meteorColor(particleColor.g) * ColorModulator.rgb * 1.35,
+        // 유성우만 lightmap을 무시하고 원래 색을 밝게 만든다. 안개는 유지한다.
+        color.rgb = clamp(tex.rgb * particleColor.rgb * ColorModulator.rgb * 1.35,
                           0.0, 1.0);
     }
 
