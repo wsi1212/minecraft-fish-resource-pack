@@ -17,15 +17,6 @@
     ],
     "subtitle": "모래바람이 거세진다"
   },
-  "weather.rain": {
-    "sounds": [
-      {
-        "name": "barkan:weather/rain",
-        "stream": true
-      }
-    ],
-    "subtitle": "비가 내린다"
-  },
   "weather.thunder": {
     "sounds": [
       {
