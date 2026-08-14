@@ -3,7 +3,775 @@
     {
       "type": "space",
       "advances": {
-        "\ue00e": -1
+        "\ue00e": -1,
+        "\ue400": 184,
+        "\ue401": -1,
+        "\ue402": -1,
+        "\ue403": 114,
+        "\ue404": 125,
+        "\ue405": 184,
+        "\ue406": 184,
+        "\ue407": 184,
+        "\ue408": -1,
+        "\ue409": -1,
+        "\ue40a": -1,
+        "\ue40b": -1,
+        "\ue40c": -1,
+        "\ue40d": -1,
+        "\ue40e": -1,
+        "\ue40f": 68,
+        "\ue410": -1,
+        "\ue411": -1,
+        "\ue412": -1,
+        "\ue413": -1,
+        "\ue414": -1,
+        "\ue415": -1,
+        "\ue416": -1,
+        "\ue417": 9,
+        "\ue418": -1,
+        "\ue419": -1,
+        "\ue41a": -1,
+        "\ue41b": -1,
+        "\ue41c": -1,
+        "\ue41d": -1,
+        "\ue41e": -1,
+        "\ue41f": 5,
+        "\ue420": -1,
+        "\ue421": -1,
+        "\ue422": -1,
+        "\ue423": -1,
+        "\ue424": -1,
+        "\ue425": -1,
+        "\ue426": -1,
+        "\ue427": 24,
+        "\ue428": -1,
+        "\ue429": -1,
+        "\ue42a": -1,
+        "\ue42b": -1,
+        "\ue42c": -1,
+        "\ue42d": -1,
+        "\ue42e": -1,
+        "\ue42f": 64,
+        "\ue430": -1,
+        "\ue431": -1,
+        "\ue432": -1,
+        "\ue433": -1,
+        "\ue434": -1,
+        "\ue435": -1,
+        "\ue436": -1,
+        "\ue437": 52,
+        "\ue438": -1,
+        "\ue439": -1,
+        "\ue43a": -1,
+        "\ue43b": -1,
+        "\ue43c": -1,
+        "\ue43d": -1,
+        "\ue43e": -1,
+        "\ue43f": 63,
+        "\ue440": 184,
+        "\ue441": -1,
+        "\ue442": -1,
+        "\ue443": 112,
+        "\ue444": 123,
+        "\ue445": 184,
+        "\ue446": 184,
+        "\ue447": 184,
+        "\ue448": -1,
+        "\ue449": -1,
+        "\ue44a": -1,
+        "\ue44b": -1,
+        "\ue44c": -1,
+        "\ue44d": -1,
+        "\ue44e": -1,
+        "\ue44f": 66,
+        "\ue450": -1,
+        "\ue451": -1,
+        "\ue452": -1,
+        "\ue453": -1,
+        "\ue454": -1,
+        "\ue455": -1,
+        "\ue456": -1,
+        "\ue457": 7,
+        "\ue458": -1,
+        "\ue459": -1,
+        "\ue45a": -1,
+        "\ue45b": -1,
+        "\ue45c": -1,
+        "\ue45d": -1,
+        "\ue45e": -1,
+        "\ue45f": 3,
+        "\ue460": -1,
+        "\ue461": -1,
+        "\ue462": -1,
+        "\ue463": -1,
+        "\ue464": -1,
+        "\ue465": -1,
+        "\ue466": -1,
+        "\ue467": 22,
+        "\ue468": -1,
+        "\ue469": -1,
+        "\ue46a": -1,
+        "\ue46b": -1,
+        "\ue46c": -1,
+        "\ue46d": -1,
+        "\ue46e": -1,
+        "\ue46f": 62,
+        "\ue470": -1,
+        "\ue471": -1,
+        "\ue472": -1,
+        "\ue473": -1,
+        "\ue474": -1,
+        "\ue475": -1,
+        "\ue476": -1,
+        "\ue477": 50,
+        "\ue478": -1,
+        "\ue479": -1,
+        "\ue47a": -1,
+        "\ue47b": -1,
+        "\ue47c": -1,
+        "\ue47d": -1,
+        "\ue47e": -1,
+        "\ue47f": 61,
+        "\ue480": 184,
+        "\ue481": -1,
+        "\ue482": -1,
+        "\ue483": 110,
+        "\ue484": 121,
+        "\ue485": 184,
+        "\ue486": 184,
+        "\ue487": 184,
+        "\ue488": -1,
+        "\ue489": -1,
+        "\ue48a": -1,
+        "\ue48b": -1,
+        "\ue48c": -1,
+        "\ue48d": -1,
+        "\ue48e": -1,
+        "\ue48f": 65,
+        "\ue490": -1,
+        "\ue491": -1,
+        "\ue492": -1,
+        "\ue493": -1,
+        "\ue494": -1,
+        "\ue495": -1,
+        "\ue496": -1,
+        "\ue497": 6,
+        "\ue498": -1,
+        "\ue499": -1,
+        "\ue49a": -1,
+        "\ue49b": -1,
+        "\ue49c": -1,
+        "\ue49d": -1,
+        "\ue49e": -1,
+        "\ue49f": 2,
+        "\ue4a0": -1,
+        "\ue4a1": -1,
+        "\ue4a2": -1,
+        "\ue4a3": -1,
+        "\ue4a4": -1,
+        "\ue4a5": -1,
+        "\ue4a6": -1,
+        "\ue4a7": 21,
+        "\ue4a8": -1,
+        "\ue4a9": -1,
+        "\ue4aa": -1,
+        "\ue4ab": -1,
+        "\ue4ac": -1,
+        "\ue4ad": -1,
+        "\ue4ae": -1,
+        "\ue4af": 61,
+        "\ue4b0": -1,
+        "\ue4b1": -1,
+        "\ue4b2": -1,
+        "\ue4b3": -1,
+        "\ue4b4": -1,
+        "\ue4b5": -1,
+        "\ue4b6": -1,
+        "\ue4b7": 49,
+        "\ue4b8": -1,
+        "\ue4b9": -1,
+        "\ue4ba": -1,
+        "\ue4bb": -1,
+        "\ue4bc": -1,
+        "\ue4bd": -1,
+        "\ue4be": -1,
+        "\ue4bf": 60,
+        "\ue4c0": 184,
+        "\ue4c1": -1,
+        "\ue4c2": -1,
+        "\ue4c3": 108,
+        "\ue4c4": 120,
+        "\ue4c5": 38,
+        "\ue4c6": 184,
+        "\ue4c7": 184,
+        "\ue4c8": -1,
+        "\ue4c9": -1,
+        "\ue4ca": -1,
+        "\ue4cb": -1,
+        "\ue4cc": -1,
+        "\ue4cd": -1,
+        "\ue4ce": -1,
+        "\ue4cf": 64,
+        "\ue4d0": -1,
+        "\ue4d1": -1,
+        "\ue4d2": -1,
+        "\ue4d3": -1,
+        "\ue4d4": -1,
+        "\ue4d5": -1,
+        "\ue4d6": -1,
+        "\ue4d7": 5,
+        "\ue4d8": -1,
+        "\ue4d9": -1,
+        "\ue4da": -1,
+        "\ue4db": -1,
+        "\ue4dc": -1,
+        "\ue4dd": -1,
+        "\ue4de": -1,
+        "\ue4df": 1,
+        "\ue4e0": -1,
+        "\ue4e1": -1,
+        "\ue4e2": -1,
+        "\ue4e3": -1,
+        "\ue4e4": -1,
+        "\ue4e5": -1,
+        "\ue4e6": -1,
+        "\ue4e7": 20,
+        "\ue4e8": -1,
+        "\ue4e9": -1,
+        "\ue4ea": -1,
+        "\ue4eb": -1,
+        "\ue4ec": -1,
+        "\ue4ed": -1,
+        "\ue4ee": -1,
+        "\ue4ef": 60,
+        "\ue4f0": -1,
+        "\ue4f1": -1,
+        "\ue4f2": -1,
+        "\ue4f3": -1,
+        "\ue4f4": -1,
+        "\ue4f5": -1,
+        "\ue4f6": -1,
+        "\ue4f7": 48,
+        "\ue4f8": -1,
+        "\ue4f9": -1,
+        "\ue4fa": -1,
+        "\ue4fb": -1,
+        "\ue4fc": -1,
+        "\ue4fd": -1,
+        "\ue4fe": -1,
+        "\ue4ff": 59,
+        "\ue500": 184,
+        "\ue501": -1,
+        "\ue502": -1,
+        "\ue503": 109,
+        "\ue504": 119,
+        "\ue505": 36,
+        "\ue506": 184,
+        "\ue507": 184,
+        "\ue508": -1,
+        "\ue509": -1,
+        "\ue50a": -1,
+        "\ue50b": -1,
+        "\ue50c": -1,
+        "\ue50d": -1,
+        "\ue50e": -1,
+        "\ue50f": 64,
+        "\ue510": -1,
+        "\ue511": -1,
+        "\ue512": -1,
+        "\ue513": -1,
+        "\ue514": -1,
+        "\ue515": -1,
+        "\ue516": -1,
+        "\ue517": 6,
+        "\ue518": -1,
+        "\ue519": -1,
+        "\ue51a": -1,
+        "\ue51b": -1,
+        "\ue51c": -1,
+        "\ue51d": -1,
+        "\ue51e": -1,
+        "\ue51f": 2,
+        "\ue520": -1,
+        "\ue521": -1,
+        "\ue522": -1,
+        "\ue523": -1,
+        "\ue524": -1,
+        "\ue525": -1,
+        "\ue526": -1,
+        "\ue527": 21,
+        "\ue528": -1,
+        "\ue529": -1,
+        "\ue52a": -1,
+        "\ue52b": -1,
+        "\ue52c": -1,
+        "\ue52d": -1,
+        "\ue52e": -1,
+        "\ue52f": 61,
+        "\ue530": -1,
+        "\ue531": -1,
+        "\ue532": -1,
+        "\ue533": -1,
+        "\ue534": -1,
+        "\ue535": -1,
+        "\ue536": -1,
+        "\ue537": 49,
+        "\ue538": -1,
+        "\ue539": -1,
+        "\ue53a": -1,
+        "\ue53b": -1,
+        "\ue53c": -1,
+        "\ue53d": -1,
+        "\ue53e": -1,
+        "\ue53f": 60,
+        "\ue540": 184,
+        "\ue541": -1,
+        "\ue542": -1,
+        "\ue543": 108,
+        "\ue544": 120,
+        "\ue545": 34,
+        "\ue546": 184,
+        "\ue547": 184,
+        "\ue548": -1,
+        "\ue549": -1,
+        "\ue54a": -1,
+        "\ue54b": -1,
+        "\ue54c": -1,
+        "\ue54d": -1,
+        "\ue54e": -1,
+        "\ue54f": 65,
+        "\ue550": -1,
+        "\ue551": -1,
+        "\ue552": -1,
+        "\ue553": -1,
+        "\ue554": -1,
+        "\ue555": -1,
+        "\ue556": -1,
+        "\ue557": 6,
+        "\ue558": -1,
+        "\ue559": -1,
+        "\ue55a": -1,
+        "\ue55b": -1,
+        "\ue55c": -1,
+        "\ue55d": -1,
+        "\ue55e": -1,
+        "\ue55f": 3,
+        "\ue560": -1,
+        "\ue561": -1,
+        "\ue562": -1,
+        "\ue563": -1,
+        "\ue564": -1,
+        "\ue565": -1,
+        "\ue566": -1,
+        "\ue567": 23,
+        "\ue568": -1,
+        "\ue569": -1,
+        "\ue56a": -1,
+        "\ue56b": -1,
+        "\ue56c": -1,
+        "\ue56d": -1,
+        "\ue56e": -1,
+        "\ue56f": 62,
+        "\ue570": -1,
+        "\ue571": -1,
+        "\ue572": -1,
+        "\ue573": -1,
+        "\ue574": -1,
+        "\ue575": -1,
+        "\ue576": -1,
+        "\ue577": 50,
+        "\ue578": -1,
+        "\ue579": -1,
+        "\ue57a": -1,
+        "\ue57b": -1,
+        "\ue57c": -1,
+        "\ue57d": -1,
+        "\ue57e": -1,
+        "\ue57f": 64,
+        "\ue580": 184,
+        "\ue581": -1,
+        "\ue582": -1,
+        "\ue583": 110,
+        "\ue584": 122,
+        "\ue585": 36,
+        "\ue586": 184,
+        "\ue587": 184,
+        "\ue588": -1,
+        "\ue589": -1,
+        "\ue58a": -1,
+        "\ue58b": -1,
+        "\ue58c": -1,
+        "\ue58d": -1,
+        "\ue58e": -1,
+        "\ue58f": 67,
+        "\ue590": -1,
+        "\ue591": -1,
+        "\ue592": -1,
+        "\ue593": -1,
+        "\ue594": -1,
+        "\ue595": -1,
+        "\ue596": -1,
+        "\ue597": 8,
+        "\ue598": -1,
+        "\ue599": -1,
+        "\ue59a": -1,
+        "\ue59b": -1,
+        "\ue59c": -1,
+        "\ue59d": -1,
+        "\ue59e": -1,
+        "\ue59f": 5,
+        "\ue5a0": -1,
+        "\ue5a1": -1,
+        "\ue5a2": -1,
+        "\ue5a3": -1,
+        "\ue5a4": -1,
+        "\ue5a5": -1,
+        "\ue5a6": -1,
+        "\ue5a7": 25,
+        "\ue5a8": -1,
+        "\ue5a9": -1,
+        "\ue5aa": -1,
+        "\ue5ab": -1,
+        "\ue5ac": -1,
+        "\ue5ad": -1,
+        "\ue5ae": -1,
+        "\ue5af": 64,
+        "\ue5b0": -1,
+        "\ue5b1": -1,
+        "\ue5b2": -1,
+        "\ue5b3": -1,
+        "\ue5b4": -1,
+        "\ue5b5": -1,
+        "\ue5b6": -1,
+        "\ue5b7": 52,
+        "\ue5b8": -1,
+        "\ue5b9": -1,
+        "\ue5ba": -1,
+        "\ue5bb": -1,
+        "\ue5bc": -1,
+        "\ue5bd": -1,
+        "\ue5be": -1,
+        "\ue5bf": 66,
+        "\ue5c0": 184,
+        "\ue5c1": -1,
+        "\ue5c2": -1,
+        "\ue5c3": 112,
+        "\ue5c4": 124,
+        "\ue5c5": 38,
+        "\ue5c6": 184,
+        "\ue5c7": 184,
+        "\ue5c8": -1,
+        "\ue5c9": -1,
+        "\ue5ca": -1,
+        "\ue5cb": -1,
+        "\ue5cc": -1,
+        "\ue5cd": -1,
+        "\ue5ce": -1,
+        "\ue5cf": 69,
+        "\ue5d0": -1,
+        "\ue5d1": -1,
+        "\ue5d2": -1,
+        "\ue5d3": -1,
+        "\ue5d4": -1,
+        "\ue5d5": -1,
+        "\ue5d6": -1,
+        "\ue5d7": 10,
+        "\ue5d8": -1,
+        "\ue5d9": -1,
+        "\ue5da": -1,
+        "\ue5db": -1,
+        "\ue5dc": -1,
+        "\ue5dd": -1,
+        "\ue5de": -1,
+        "\ue5df": 7,
+        "\ue5e0": -1,
+        "\ue5e1": -1,
+        "\ue5e2": -1,
+        "\ue5e3": -1,
+        "\ue5e4": -1,
+        "\ue5e5": -1,
+        "\ue5e6": -1,
+        "\ue5e7": 27,
+        "\ue5e8": -1,
+        "\ue5e9": -1,
+        "\ue5ea": -1,
+        "\ue5eb": -1,
+        "\ue5ec": -1,
+        "\ue5ed": -1,
+        "\ue5ee": -1,
+        "\ue5ef": 66,
+        "\ue5f0": -1,
+        "\ue5f1": -1,
+        "\ue5f2": -1,
+        "\ue5f3": -1,
+        "\ue5f4": -1,
+        "\ue5f5": -1,
+        "\ue5f6": -1,
+        "\ue5f7": 54,
+        "\ue5f8": -1,
+        "\ue5f9": -1,
+        "\ue5fa": -1,
+        "\ue5fb": -1,
+        "\ue5fc": -1,
+        "\ue5fd": -1,
+        "\ue5fe": -1,
+        "\ue5ff": 68,
+        "\ue600": 184,
+        "\ue601": -1,
+        "\ue602": -1,
+        "\ue603": 115,
+        "\ue604": 125,
+        "\ue605": 42,
+        "\ue606": 184,
+        "\ue607": 184,
+        "\ue608": -1,
+        "\ue609": -1,
+        "\ue60a": -1,
+        "\ue60b": -1,
+        "\ue60c": -1,
+        "\ue60d": -1,
+        "\ue60e": -1,
+        "\ue60f": 70,
+        "\ue610": -1,
+        "\ue611": -1,
+        "\ue612": -1,
+        "\ue613": -1,
+        "\ue614": -1,
+        "\ue615": -1,
+        "\ue616": -1,
+        "\ue617": 12,
+        "\ue618": -1,
+        "\ue619": -1,
+        "\ue61a": -1,
+        "\ue61b": -1,
+        "\ue61c": -1,
+        "\ue61d": -1,
+        "\ue61e": -1,
+        "\ue61f": 8,
+        "\ue620": -1,
+        "\ue621": -1,
+        "\ue622": -1,
+        "\ue623": -1,
+        "\ue624": -1,
+        "\ue625": -1,
+        "\ue626": -1,
+        "\ue627": 27,
+        "\ue628": -1,
+        "\ue629": -1,
+        "\ue62a": -1,
+        "\ue62b": -1,
+        "\ue62c": -1,
+        "\ue62d": -1,
+        "\ue62e": -1,
+        "\ue62f": 67,
+        "\ue630": -1,
+        "\ue631": -1,
+        "\ue632": -1,
+        "\ue633": -1,
+        "\ue634": -1,
+        "\ue635": -1,
+        "\ue636": -1,
+        "\ue637": 55,
+        "\ue638": -1,
+        "\ue639": -1,
+        "\ue63a": -1,
+        "\ue63b": -1,
+        "\ue63c": -1,
+        "\ue63d": -1,
+        "\ue63e": -1,
+        "\ue63f": 66,
+        "\ue640": 184,
+        "\ue641": -1,
+        "\ue642": -1,
+        "\ue643": 116,
+        "\ue644": 128,
+        "\ue645": 46,
+        "\ue646": 184,
+        "\ue647": 184,
+        "\ue648": -1,
+        "\ue649": -1,
+        "\ue64a": -1,
+        "\ue64b": -1,
+        "\ue64c": -1,
+        "\ue64d": -1,
+        "\ue64e": -1,
+        "\ue64f": 72,
+        "\ue650": -1,
+        "\ue651": -1,
+        "\ue652": -1,
+        "\ue653": -1,
+        "\ue654": -1,
+        "\ue655": -1,
+        "\ue656": -1,
+        "\ue657": 13,
+        "\ue658": -1,
+        "\ue659": -1,
+        "\ue65a": -1,
+        "\ue65b": -1,
+        "\ue65c": -1,
+        "\ue65d": -1,
+        "\ue65e": -1,
+        "\ue65f": 9,
+        "\ue660": -1,
+        "\ue661": -1,
+        "\ue662": -1,
+        "\ue663": -1,
+        "\ue664": -1,
+        "\ue665": -1,
+        "\ue666": -1,
+        "\ue667": 28,
+        "\ue668": -1,
+        "\ue669": -1,
+        "\ue66a": -1,
+        "\ue66b": -1,
+        "\ue66c": -1,
+        "\ue66d": -1,
+        "\ue66e": -1,
+        "\ue66f": 68,
+        "\ue670": -1,
+        "\ue671": -1,
+        "\ue672": -1,
+        "\ue673": -1,
+        "\ue674": -1,
+        "\ue675": -1,
+        "\ue676": -1,
+        "\ue677": 56,
+        "\ue678": -1,
+        "\ue679": -1,
+        "\ue67a": -1,
+        "\ue67b": -1,
+        "\ue67c": -1,
+        "\ue67d": -1,
+        "\ue67e": -1,
+        "\ue67f": 67,
+        "\ue680": 184,
+        "\ue681": -1,
+        "\ue682": -1,
+        "\ue683": 116,
+        "\ue684": 127,
+        "\ue685": 184,
+        "\ue686": 184,
+        "\ue687": 184,
+        "\ue688": -1,
+        "\ue689": -1,
+        "\ue68a": -1,
+        "\ue68b": -1,
+        "\ue68c": -1,
+        "\ue68d": -1,
+        "\ue68e": -1,
+        "\ue68f": 71,
+        "\ue690": -1,
+        "\ue691": -1,
+        "\ue692": -1,
+        "\ue693": -1,
+        "\ue694": -1,
+        "\ue695": -1,
+        "\ue696": -1,
+        "\ue697": 12,
+        "\ue698": -1,
+        "\ue699": -1,
+        "\ue69a": -1,
+        "\ue69b": -1,
+        "\ue69c": -1,
+        "\ue69d": -1,
+        "\ue69e": -1,
+        "\ue69f": 8,
+        "\ue6a0": -1,
+        "\ue6a1": -1,
+        "\ue6a2": -1,
+        "\ue6a3": -1,
+        "\ue6a4": -1,
+        "\ue6a5": -1,
+        "\ue6a6": -1,
+        "\ue6a7": 27,
+        "\ue6a8": -1,
+        "\ue6a9": -1,
+        "\ue6aa": -1,
+        "\ue6ab": -1,
+        "\ue6ac": -1,
+        "\ue6ad": -1,
+        "\ue6ae": -1,
+        "\ue6af": 67,
+        "\ue6b0": -1,
+        "\ue6b1": -1,
+        "\ue6b2": -1,
+        "\ue6b3": -1,
+        "\ue6b4": -1,
+        "\ue6b5": -1,
+        "\ue6b6": -1,
+        "\ue6b7": 55,
+        "\ue6b8": -1,
+        "\ue6b9": -1,
+        "\ue6ba": -1,
+        "\ue6bb": -1,
+        "\ue6bc": -1,
+        "\ue6bd": -1,
+        "\ue6be": -1,
+        "\ue6bf": 66,
+        "\ue6c0": 184,
+        "\ue6c1": -1,
+        "\ue6c2": -1,
+        "\ue6c3": 116,
+        "\ue6c4": 127,
+        "\ue6c5": 184,
+        "\ue6c6": 184,
+        "\ue6c7": 184,
+        "\ue6c8": -1,
+        "\ue6c9": -1,
+        "\ue6ca": -1,
+        "\ue6cb": -1,
+        "\ue6cc": -1,
+        "\ue6cd": -1,
+        "\ue6ce": -1,
+        "\ue6cf": 70,
+        "\ue6d0": -1,
+        "\ue6d1": -1,
+        "\ue6d2": -1,
+        "\ue6d3": -1,
+        "\ue6d4": -1,
+        "\ue6d5": -1,
+        "\ue6d6": -1,
+        "\ue6d7": 11,
+        "\ue6d8": -1,
+        "\ue6d9": -1,
+        "\ue6da": -1,
+        "\ue6db": -1,
+        "\ue6dc": -1,
+        "\ue6dd": -1,
+        "\ue6de": -1,
+        "\ue6df": 7,
+        "\ue6e0": -1,
+        "\ue6e1": -1,
+        "\ue6e2": -1,
+        "\ue6e3": -1,
+        "\ue6e4": -1,
+        "\ue6e5": -1,
+        "\ue6e6": -1,
+        "\ue6e7": 26,
+        "\ue6e8": -1,
+        "\ue6e9": -1,
+        "\ue6ea": -1,
+        "\ue6eb": -1,
+        "\ue6ec": -1,
+        "\ue6ed": -1,
+        "\ue6ee": -1,
+        "\ue6ef": 66,
+        "\ue6f0": -1,
+        "\ue6f1": -1,
+        "\ue6f2": -1,
+        "\ue6f3": -1,
+        "\ue6f4": -1,
+        "\ue6f5": -1,
+        "\ue6f6": -1,
+        "\ue6f7": 54,
+        "\ue6f8": -1,
+        "\ue6f9": -1,
+        "\ue6fa": -1,
+        "\ue6fb": -1,
+        "\ue6fc": -1,
+        "\ue6fd": -1,
+        "\ue6fe": -1,
+        "\ue6ff": 65
       }
     },
     {
@@ -18,8 +786,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t0.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue010"
       ]
@@ -27,8 +795,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t1.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue011"
       ]
@@ -36,8 +804,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t2.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue012"
       ]
@@ -45,8 +813,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t3.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue013"
       ]
@@ -54,8 +822,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t4.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue014"
       ]
@@ -63,8 +831,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t5.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue015"
       ]
@@ -72,8 +840,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t6.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue016"
       ]
@@ -81,8 +849,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t7.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue017"
       ]
@@ -90,8 +858,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t8.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue018"
       ]
@@ -99,8 +867,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t9.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue019"
       ]
@@ -108,8 +876,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t10.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue01a"
       ]
@@ -117,8 +885,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t11.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue01b"
       ]
@@ -126,8 +894,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t12.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue01c"
       ]
@@ -135,8 +903,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t13.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue01d"
       ]
@@ -144,8 +912,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t14.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue01e"
       ]
@@ -153,8 +921,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t15.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue01f"
       ]
@@ -162,8 +930,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t16.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue020"
       ]
@@ -171,8 +939,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t17.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue021"
       ]
@@ -180,8 +948,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t18.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue022"
       ]
@@ -189,8 +957,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t19.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue023"
       ]
@@ -198,8 +966,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t20.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue024"
       ]
@@ -207,8 +975,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t21.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue025"
       ]
@@ -216,8 +984,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t22.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue026"
       ]
@@ -225,8 +993,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t23.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue027"
       ]
@@ -234,8 +1002,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t24.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue028"
       ]
@@ -243,8 +1011,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t25.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue029"
       ]
@@ -252,8 +1020,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t26.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue02a"
       ]
@@ -261,8 +1029,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t27.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue02b"
       ]
@@ -270,8 +1038,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t28.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue02c"
       ]
@@ -279,8 +1047,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t29.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue02d"
       ]
@@ -288,8 +1056,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t30.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue02e"
       ]
@@ -297,8 +1065,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t31.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue02f"
       ]
@@ -306,8 +1074,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t32.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue030"
       ]
@@ -315,8 +1083,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t33.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue031"
       ]
@@ -324,8 +1092,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t34.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue032"
       ]
@@ -333,8 +1101,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t35.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue033"
       ]
@@ -342,8 +1110,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t36.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue034"
       ]
@@ -351,8 +1119,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t37.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue035"
       ]
@@ -360,8 +1128,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t38.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue036"
       ]
@@ -369,8 +1137,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t39.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue037"
       ]
@@ -378,8 +1146,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t40.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue038"
       ]
@@ -387,8 +1155,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t41.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue039"
       ]
@@ -396,8 +1164,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t42.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue03a"
       ]
@@ -405,8 +1173,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t43.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue03b"
       ]
@@ -414,8 +1182,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t44.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue03c"
       ]
@@ -423,8 +1191,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t45.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue03d"
       ]
@@ -432,8 +1200,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t46.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue03e"
       ]
@@ -441,8 +1209,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t47.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue03f"
       ]
@@ -450,8 +1218,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t48.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue040"
       ]
@@ -459,8 +1227,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t49.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue041"
       ]
@@ -468,8 +1236,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t50.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue042"
       ]
@@ -477,8 +1245,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t51.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue043"
       ]
@@ -486,8 +1254,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t52.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue044"
       ]
@@ -495,8 +1263,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t53.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue045"
       ]
@@ -504,8 +1272,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t54.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue046"
       ]
@@ -513,8 +1281,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t55.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue047"
       ]
@@ -522,8 +1290,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t56.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue048"
       ]
@@ -531,8 +1299,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t57.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue049"
       ]
@@ -540,8 +1308,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t58.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue04a"
       ]
@@ -549,8 +1317,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t59.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue04b"
       ]
@@ -558,8 +1326,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t60.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue04c"
       ]
@@ -567,8 +1335,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t61.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue04d"
       ]
@@ -576,8 +1344,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t62.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue04e"
       ]
@@ -585,8 +1353,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f0_t63.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue04f"
       ]
@@ -594,8 +1362,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t0.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue050"
       ]
@@ -603,8 +1371,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t1.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue051"
       ]
@@ -612,8 +1380,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t2.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue052"
       ]
@@ -621,8 +1389,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t3.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue053"
       ]
@@ -630,8 +1398,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t4.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue054"
       ]
@@ -639,8 +1407,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t5.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue055"
       ]
@@ -648,8 +1416,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t6.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue056"
       ]
@@ -657,8 +1425,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t7.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue057"
       ]
@@ -666,8 +1434,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t8.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue058"
       ]
@@ -675,8 +1443,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t9.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue059"
       ]
@@ -684,8 +1452,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t10.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue05a"
       ]
@@ -693,8 +1461,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t11.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue05b"
       ]
@@ -702,8 +1470,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t12.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue05c"
       ]
@@ -711,8 +1479,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t13.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue05d"
       ]
@@ -720,8 +1488,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t14.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue05e"
       ]
@@ -729,8 +1497,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t15.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue05f"
       ]
@@ -738,8 +1506,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t16.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue060"
       ]
@@ -747,8 +1515,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t17.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue061"
       ]
@@ -756,8 +1524,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t18.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue062"
       ]
@@ -765,8 +1533,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t19.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue063"
       ]
@@ -774,8 +1542,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t20.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue064"
       ]
@@ -783,8 +1551,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t21.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue065"
       ]
@@ -792,8 +1560,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t22.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue066"
       ]
@@ -801,8 +1569,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t23.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue067"
       ]
@@ -810,8 +1578,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t24.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue068"
       ]
@@ -819,8 +1587,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t25.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue069"
       ]
@@ -828,8 +1596,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t26.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue06a"
       ]
@@ -837,8 +1605,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t27.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue06b"
       ]
@@ -846,8 +1614,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t28.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue06c"
       ]
@@ -855,8 +1623,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t29.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue06d"
       ]
@@ -864,8 +1632,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t30.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue06e"
       ]
@@ -873,8 +1641,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t31.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue06f"
       ]
@@ -882,8 +1650,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t32.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue070"
       ]
@@ -891,8 +1659,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t33.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue071"
       ]
@@ -900,8 +1668,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t34.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue072"
       ]
@@ -909,8 +1677,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t35.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue073"
       ]
@@ -918,8 +1686,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t36.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue074"
       ]
@@ -927,8 +1695,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t37.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue075"
       ]
@@ -936,8 +1704,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t38.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue076"
       ]
@@ -945,8 +1713,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t39.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue077"
       ]
@@ -954,8 +1722,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t40.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue078"
       ]
@@ -963,8 +1731,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t41.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue079"
       ]
@@ -972,8 +1740,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t42.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue07a"
       ]
@@ -981,8 +1749,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t43.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue07b"
       ]
@@ -990,8 +1758,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t44.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue07c"
       ]
@@ -999,8 +1767,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t45.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue07d"
       ]
@@ -1008,8 +1776,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t46.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue07e"
       ]
@@ -1017,8 +1785,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t47.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue07f"
       ]
@@ -1026,8 +1794,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t48.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue080"
       ]
@@ -1035,8 +1803,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t49.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue081"
       ]
@@ -1044,8 +1812,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t50.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue082"
       ]
@@ -1053,8 +1821,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t51.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue083"
       ]
@@ -1062,8 +1830,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t52.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue084"
       ]
@@ -1071,8 +1839,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t53.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue085"
       ]
@@ -1080,8 +1848,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t54.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue086"
       ]
@@ -1089,8 +1857,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t55.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue087"
       ]
@@ -1098,8 +1866,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t56.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue088"
       ]
@@ -1107,8 +1875,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t57.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue089"
       ]
@@ -1116,8 +1884,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t58.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue08a"
       ]
@@ -1125,8 +1893,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t59.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue08b"
       ]
@@ -1134,8 +1902,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t60.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue08c"
       ]
@@ -1143,8 +1911,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t61.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue08d"
       ]
@@ -1152,8 +1920,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t62.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue08e"
       ]
@@ -1161,8 +1929,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f1_t63.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue08f"
       ]
@@ -1170,8 +1938,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t0.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue090"
       ]
@@ -1179,8 +1947,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t1.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue091"
       ]
@@ -1188,8 +1956,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t2.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue092"
       ]
@@ -1197,8 +1965,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t3.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue093"
       ]
@@ -1206,8 +1974,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t4.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue094"
       ]
@@ -1215,8 +1983,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t5.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue095"
       ]
@@ -1224,8 +1992,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t6.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue096"
       ]
@@ -1233,8 +2001,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t7.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue097"
       ]
@@ -1242,8 +2010,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t8.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue098"
       ]
@@ -1251,8 +2019,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t9.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue099"
       ]
@@ -1260,8 +2028,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t10.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue09a"
       ]
@@ -1269,8 +2037,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t11.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue09b"
       ]
@@ -1278,8 +2046,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t12.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue09c"
       ]
@@ -1287,8 +2055,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t13.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue09d"
       ]
@@ -1296,8 +2064,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t14.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue09e"
       ]
@@ -1305,8 +2073,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t15.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue09f"
       ]
@@ -1314,8 +2082,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t16.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0a0"
       ]
@@ -1323,8 +2091,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t17.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0a1"
       ]
@@ -1332,8 +2100,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t18.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0a2"
       ]
@@ -1341,8 +2109,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t19.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0a3"
       ]
@@ -1350,8 +2118,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t20.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0a4"
       ]
@@ -1359,8 +2127,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t21.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0a5"
       ]
@@ -1368,8 +2136,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t22.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0a6"
       ]
@@ -1377,8 +2145,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t23.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0a7"
       ]
@@ -1386,8 +2154,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t24.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0a8"
       ]
@@ -1395,8 +2163,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t25.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0a9"
       ]
@@ -1404,8 +2172,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t26.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0aa"
       ]
@@ -1413,8 +2181,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t27.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0ab"
       ]
@@ -1422,8 +2190,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t28.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0ac"
       ]
@@ -1431,8 +2199,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t29.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0ad"
       ]
@@ -1440,8 +2208,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t30.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0ae"
       ]
@@ -1449,8 +2217,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t31.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0af"
       ]
@@ -1458,8 +2226,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t32.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0b0"
       ]
@@ -1467,8 +2235,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t33.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0b1"
       ]
@@ -1476,8 +2244,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t34.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0b2"
       ]
@@ -1485,8 +2253,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t35.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0b3"
       ]
@@ -1494,8 +2262,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t36.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0b4"
       ]
@@ -1503,8 +2271,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t37.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0b5"
       ]
@@ -1512,8 +2280,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t38.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0b6"
       ]
@@ -1521,8 +2289,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t39.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0b7"
       ]
@@ -1530,8 +2298,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t40.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0b8"
       ]
@@ -1539,8 +2307,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t41.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0b9"
       ]
@@ -1548,8 +2316,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t42.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0ba"
       ]
@@ -1557,8 +2325,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t43.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0bb"
       ]
@@ -1566,8 +2334,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t44.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0bc"
       ]
@@ -1575,8 +2343,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t45.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0bd"
       ]
@@ -1584,8 +2352,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t46.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0be"
       ]
@@ -1593,8 +2361,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t47.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0bf"
       ]
@@ -1602,8 +2370,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t48.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0c0"
       ]
@@ -1611,8 +2379,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t49.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0c1"
       ]
@@ -1620,8 +2388,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t50.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0c2"
       ]
@@ -1629,8 +2397,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t51.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0c3"
       ]
@@ -1638,8 +2406,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t52.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0c4"
       ]
@@ -1647,8 +2415,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t53.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0c5"
       ]
@@ -1656,8 +2424,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t54.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0c6"
       ]
@@ -1665,8 +2433,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t55.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0c7"
       ]
@@ -1674,8 +2442,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t56.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0c8"
       ]
@@ -1683,8 +2451,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t57.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0c9"
       ]
@@ -1692,8 +2460,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t58.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0ca"
       ]
@@ -1701,8 +2469,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t59.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0cb"
       ]
@@ -1710,8 +2478,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t60.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0cc"
       ]
@@ -1719,8 +2487,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t61.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0cd"
       ]
@@ -1728,8 +2496,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t62.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0ce"
       ]
@@ -1737,8 +2505,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f2_t63.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0cf"
       ]
@@ -1746,8 +2514,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t0.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0d0"
       ]
@@ -1755,8 +2523,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t1.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0d1"
       ]
@@ -1764,8 +2532,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t2.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0d2"
       ]
@@ -1773,8 +2541,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t3.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0d3"
       ]
@@ -1782,8 +2550,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t4.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0d4"
       ]
@@ -1791,8 +2559,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t5.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0d5"
       ]
@@ -1800,8 +2568,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t6.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0d6"
       ]
@@ -1809,8 +2577,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t7.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0d7"
       ]
@@ -1818,8 +2586,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t8.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0d8"
       ]
@@ -1827,8 +2595,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t9.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0d9"
       ]
@@ -1836,8 +2604,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t10.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0da"
       ]
@@ -1845,8 +2613,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t11.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0db"
       ]
@@ -1854,8 +2622,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t12.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0dc"
       ]
@@ -1863,8 +2631,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t13.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0dd"
       ]
@@ -1872,8 +2640,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t14.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0de"
       ]
@@ -1881,8 +2649,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t15.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0df"
       ]
@@ -1890,8 +2658,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t16.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0e0"
       ]
@@ -1899,8 +2667,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t17.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0e1"
       ]
@@ -1908,8 +2676,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t18.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0e2"
       ]
@@ -1917,8 +2685,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t19.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0e3"
       ]
@@ -1926,8 +2694,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t20.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0e4"
       ]
@@ -1935,8 +2703,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t21.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0e5"
       ]
@@ -1944,8 +2712,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t22.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0e6"
       ]
@@ -1953,8 +2721,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t23.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0e7"
       ]
@@ -1962,8 +2730,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t24.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0e8"
       ]
@@ -1971,8 +2739,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t25.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0e9"
       ]
@@ -1980,8 +2748,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t26.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0ea"
       ]
@@ -1989,8 +2757,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t27.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0eb"
       ]
@@ -1998,8 +2766,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t28.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0ec"
       ]
@@ -2007,8 +2775,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t29.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0ed"
       ]
@@ -2016,8 +2784,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t30.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0ee"
       ]
@@ -2025,8 +2793,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t31.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0ef"
       ]
@@ -2034,8 +2802,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t32.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0f0"
       ]
@@ -2043,8 +2811,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t33.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0f1"
       ]
@@ -2052,8 +2820,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t34.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0f2"
       ]
@@ -2061,8 +2829,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t35.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0f3"
       ]
@@ -2070,8 +2838,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t36.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0f4"
       ]
@@ -2079,8 +2847,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t37.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0f5"
       ]
@@ -2088,8 +2856,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t38.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0f6"
       ]
@@ -2097,8 +2865,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t39.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0f7"
       ]
@@ -2106,8 +2874,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t40.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0f8"
       ]
@@ -2115,8 +2883,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t41.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0f9"
       ]
@@ -2124,8 +2892,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t42.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0fa"
       ]
@@ -2133,8 +2901,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t43.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0fb"
       ]
@@ -2142,8 +2910,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t44.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0fc"
       ]
@@ -2151,8 +2919,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t45.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0fd"
       ]
@@ -2160,8 +2928,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t46.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0fe"
       ]
@@ -2169,8 +2937,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t47.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue0ff"
       ]
@@ -2178,8 +2946,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t48.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue100"
       ]
@@ -2187,8 +2955,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t49.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue101"
       ]
@@ -2196,8 +2964,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t50.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue102"
       ]
@@ -2205,8 +2973,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t51.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue103"
       ]
@@ -2214,8 +2982,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t52.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue104"
       ]
@@ -2223,8 +2991,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t53.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue105"
       ]
@@ -2232,8 +3000,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t54.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue106"
       ]
@@ -2241,8 +3009,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t55.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue107"
       ]
@@ -2250,8 +3018,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t56.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue108"
       ]
@@ -2259,8 +3027,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t57.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue109"
       ]
@@ -2268,8 +3036,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t58.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue10a"
       ]
@@ -2277,8 +3045,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t59.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue10b"
       ]
@@ -2286,8 +3054,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t60.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue10c"
       ]
@@ -2295,8 +3063,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t61.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue10d"
       ]
@@ -2304,8 +3072,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t62.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue10e"
       ]
@@ -2313,8 +3081,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f3_t63.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue10f"
       ]
@@ -2322,8 +3090,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t0.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue110"
       ]
@@ -2331,8 +3099,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t1.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue111"
       ]
@@ -2340,8 +3108,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t2.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue112"
       ]
@@ -2349,8 +3117,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t3.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue113"
       ]
@@ -2358,8 +3126,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t4.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue114"
       ]
@@ -2367,8 +3135,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t5.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue115"
       ]
@@ -2376,8 +3144,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t6.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue116"
       ]
@@ -2385,8 +3153,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t7.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue117"
       ]
@@ -2394,8 +3162,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t8.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue118"
       ]
@@ -2403,8 +3171,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t9.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue119"
       ]
@@ -2412,8 +3180,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t10.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue11a"
       ]
@@ -2421,8 +3189,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t11.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue11b"
       ]
@@ -2430,8 +3198,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t12.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue11c"
       ]
@@ -2439,8 +3207,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t13.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue11d"
       ]
@@ -2448,8 +3216,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t14.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue11e"
       ]
@@ -2457,8 +3225,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t15.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue11f"
       ]
@@ -2466,8 +3234,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t16.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue120"
       ]
@@ -2475,8 +3243,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t17.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue121"
       ]
@@ -2484,8 +3252,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t18.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue122"
       ]
@@ -2493,8 +3261,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t19.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue123"
       ]
@@ -2502,8 +3270,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t20.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue124"
       ]
@@ -2511,8 +3279,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t21.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue125"
       ]
@@ -2520,8 +3288,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t22.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue126"
       ]
@@ -2529,8 +3297,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t23.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue127"
       ]
@@ -2538,8 +3306,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t24.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue128"
       ]
@@ -2547,8 +3315,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t25.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue129"
       ]
@@ -2556,8 +3324,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t26.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue12a"
       ]
@@ -2565,8 +3333,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t27.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue12b"
       ]
@@ -2574,8 +3342,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t28.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue12c"
       ]
@@ -2583,8 +3351,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t29.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue12d"
       ]
@@ -2592,8 +3360,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t30.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue12e"
       ]
@@ -2601,8 +3369,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t31.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue12f"
       ]
@@ -2610,8 +3378,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t32.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue130"
       ]
@@ -2619,8 +3387,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t33.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue131"
       ]
@@ -2628,8 +3396,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t34.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue132"
       ]
@@ -2637,8 +3405,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t35.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue133"
       ]
@@ -2646,8 +3414,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t36.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue134"
       ]
@@ -2655,8 +3423,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t37.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue135"
       ]
@@ -2664,8 +3432,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t38.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue136"
       ]
@@ -2673,8 +3441,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t39.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue137"
       ]
@@ -2682,8 +3450,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t40.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue138"
       ]
@@ -2691,8 +3459,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t41.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue139"
       ]
@@ -2700,8 +3468,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t42.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue13a"
       ]
@@ -2709,8 +3477,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t43.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue13b"
       ]
@@ -2718,8 +3486,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t44.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue13c"
       ]
@@ -2727,8 +3495,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t45.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue13d"
       ]
@@ -2736,8 +3504,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t46.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue13e"
       ]
@@ -2745,8 +3513,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t47.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue13f"
       ]
@@ -2754,8 +3522,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t48.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue140"
       ]
@@ -2763,8 +3531,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t49.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue141"
       ]
@@ -2772,8 +3540,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t50.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue142"
       ]
@@ -2781,8 +3549,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t51.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue143"
       ]
@@ -2790,8 +3558,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t52.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue144"
       ]
@@ -2799,8 +3567,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t53.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue145"
       ]
@@ -2808,8 +3576,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t54.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue146"
       ]
@@ -2817,8 +3585,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t55.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue147"
       ]
@@ -2826,8 +3594,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t56.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue148"
       ]
@@ -2835,8 +3603,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t57.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue149"
       ]
@@ -2844,8 +3612,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t58.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue14a"
       ]
@@ -2853,8 +3621,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t59.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue14b"
       ]
@@ -2862,8 +3630,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t60.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue14c"
       ]
@@ -2871,8 +3639,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t61.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue14d"
       ]
@@ -2880,8 +3648,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t62.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue14e"
       ]
@@ -2889,8 +3657,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f4_t63.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue14f"
       ]
@@ -2898,8 +3666,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t0.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue150"
       ]
@@ -2907,8 +3675,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t1.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue151"
       ]
@@ -2916,8 +3684,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t2.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue152"
       ]
@@ -2925,8 +3693,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t3.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue153"
       ]
@@ -2934,8 +3702,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t4.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue154"
       ]
@@ -2943,8 +3711,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t5.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue155"
       ]
@@ -2952,8 +3720,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t6.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue156"
       ]
@@ -2961,8 +3729,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t7.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue157"
       ]
@@ -2970,8 +3738,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t8.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue158"
       ]
@@ -2979,8 +3747,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t9.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue159"
       ]
@@ -2988,8 +3756,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t10.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue15a"
       ]
@@ -2997,8 +3765,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t11.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue15b"
       ]
@@ -3006,8 +3774,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t12.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue15c"
       ]
@@ -3015,8 +3783,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t13.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue15d"
       ]
@@ -3024,8 +3792,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t14.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue15e"
       ]
@@ -3033,8 +3801,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t15.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue15f"
       ]
@@ -3042,8 +3810,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t16.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue160"
       ]
@@ -3051,8 +3819,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t17.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue161"
       ]
@@ -3060,8 +3828,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t18.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue162"
       ]
@@ -3069,8 +3837,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t19.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue163"
       ]
@@ -3078,8 +3846,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t20.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue164"
       ]
@@ -3087,8 +3855,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t21.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue165"
       ]
@@ -3096,8 +3864,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t22.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue166"
       ]
@@ -3105,8 +3873,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t23.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue167"
       ]
@@ -3114,8 +3882,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t24.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue168"
       ]
@@ -3123,8 +3891,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t25.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue169"
       ]
@@ -3132,8 +3900,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t26.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue16a"
       ]
@@ -3141,8 +3909,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t27.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue16b"
       ]
@@ -3150,8 +3918,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t28.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue16c"
       ]
@@ -3159,8 +3927,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t29.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue16d"
       ]
@@ -3168,8 +3936,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t30.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue16e"
       ]
@@ -3177,8 +3945,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t31.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue16f"
       ]
@@ -3186,8 +3954,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t32.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue170"
       ]
@@ -3195,8 +3963,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t33.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue171"
       ]
@@ -3204,8 +3972,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t34.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue172"
       ]
@@ -3213,8 +3981,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t35.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue173"
       ]
@@ -3222,8 +3990,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t36.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue174"
       ]
@@ -3231,8 +3999,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t37.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue175"
       ]
@@ -3240,8 +4008,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t38.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue176"
       ]
@@ -3249,8 +4017,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t39.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue177"
       ]
@@ -3258,8 +4026,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t40.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue178"
       ]
@@ -3267,8 +4035,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t41.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue179"
       ]
@@ -3276,8 +4044,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t42.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue17a"
       ]
@@ -3285,8 +4053,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t43.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue17b"
       ]
@@ -3294,8 +4062,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t44.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue17c"
       ]
@@ -3303,8 +4071,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t45.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue17d"
       ]
@@ -3312,8 +4080,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t46.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue17e"
       ]
@@ -3321,8 +4089,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t47.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue17f"
       ]
@@ -3330,8 +4098,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t48.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue180"
       ]
@@ -3339,8 +4107,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t49.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue181"
       ]
@@ -3348,8 +4116,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t50.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue182"
       ]
@@ -3357,8 +4125,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t51.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue183"
       ]
@@ -3366,8 +4134,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t52.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue184"
       ]
@@ -3375,8 +4143,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t53.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue185"
       ]
@@ -3384,8 +4152,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t54.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue186"
       ]
@@ -3393,8 +4161,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t55.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue187"
       ]
@@ -3402,8 +4170,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t56.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue188"
       ]
@@ -3411,8 +4179,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t57.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue189"
       ]
@@ -3420,8 +4188,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t58.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue18a"
       ]
@@ -3429,8 +4197,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t59.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue18b"
       ]
@@ -3438,8 +4206,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t60.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue18c"
       ]
@@ -3447,8 +4215,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t61.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue18d"
       ]
@@ -3456,8 +4224,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t62.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue18e"
       ]
@@ -3465,8 +4233,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f5_t63.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue18f"
       ]
@@ -3474,8 +4242,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t0.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue190"
       ]
@@ -3483,8 +4251,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t1.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue191"
       ]
@@ -3492,8 +4260,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t2.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue192"
       ]
@@ -3501,8 +4269,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t3.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue193"
       ]
@@ -3510,8 +4278,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t4.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue194"
       ]
@@ -3519,8 +4287,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t5.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue195"
       ]
@@ -3528,8 +4296,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t6.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue196"
       ]
@@ -3537,8 +4305,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t7.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue197"
       ]
@@ -3546,8 +4314,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t8.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue198"
       ]
@@ -3555,8 +4323,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t9.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue199"
       ]
@@ -3564,8 +4332,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t10.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue19a"
       ]
@@ -3573,8 +4341,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t11.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue19b"
       ]
@@ -3582,8 +4350,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t12.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue19c"
       ]
@@ -3591,8 +4359,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t13.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue19d"
       ]
@@ -3600,8 +4368,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t14.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue19e"
       ]
@@ -3609,8 +4377,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t15.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue19f"
       ]
@@ -3618,8 +4386,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t16.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1a0"
       ]
@@ -3627,8 +4395,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t17.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1a1"
       ]
@@ -3636,8 +4404,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t18.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1a2"
       ]
@@ -3645,8 +4413,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t19.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1a3"
       ]
@@ -3654,8 +4422,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t20.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1a4"
       ]
@@ -3663,8 +4431,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t21.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1a5"
       ]
@@ -3672,8 +4440,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t22.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1a6"
       ]
@@ -3681,8 +4449,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t23.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1a7"
       ]
@@ -3690,8 +4458,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t24.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1a8"
       ]
@@ -3699,8 +4467,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t25.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1a9"
       ]
@@ -3708,8 +4476,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t26.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1aa"
       ]
@@ -3717,8 +4485,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t27.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1ab"
       ]
@@ -3726,8 +4494,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t28.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1ac"
       ]
@@ -3735,8 +4503,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t29.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1ad"
       ]
@@ -3744,8 +4512,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t30.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1ae"
       ]
@@ -3753,8 +4521,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t31.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1af"
       ]
@@ -3762,8 +4530,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t32.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1b0"
       ]
@@ -3771,8 +4539,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t33.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1b1"
       ]
@@ -3780,8 +4548,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t34.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1b2"
       ]
@@ -3789,8 +4557,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t35.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1b3"
       ]
@@ -3798,8 +4566,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t36.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1b4"
       ]
@@ -3807,8 +4575,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t37.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1b5"
       ]
@@ -3816,8 +4584,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t38.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1b6"
       ]
@@ -3825,8 +4593,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t39.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1b7"
       ]
@@ -3834,8 +4602,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t40.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1b8"
       ]
@@ -3843,8 +4611,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t41.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1b9"
       ]
@@ -3852,8 +4620,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t42.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1ba"
       ]
@@ -3861,8 +4629,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t43.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1bb"
       ]
@@ -3870,8 +4638,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t44.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1bc"
       ]
@@ -3879,8 +4647,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t45.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1bd"
       ]
@@ -3888,8 +4656,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t46.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1be"
       ]
@@ -3897,8 +4665,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t47.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1bf"
       ]
@@ -3906,8 +4674,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t48.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1c0"
       ]
@@ -3915,8 +4683,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t49.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1c1"
       ]
@@ -3924,8 +4692,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t50.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1c2"
       ]
@@ -3933,8 +4701,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t51.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1c3"
       ]
@@ -3942,8 +4710,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t52.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1c4"
       ]
@@ -3951,8 +4719,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t53.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1c5"
       ]
@@ -3960,8 +4728,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t54.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1c6"
       ]
@@ -3969,8 +4737,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t55.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1c7"
       ]
@@ -3978,8 +4746,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t56.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1c8"
       ]
@@ -3987,8 +4755,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t57.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1c9"
       ]
@@ -3996,8 +4764,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t58.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1ca"
       ]
@@ -4005,8 +4773,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t59.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1cb"
       ]
@@ -4014,8 +4782,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t60.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1cc"
       ]
@@ -4023,8 +4791,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t61.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1cd"
       ]
@@ -4032,8 +4800,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t62.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1ce"
       ]
@@ -4041,8 +4809,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f6_t63.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1cf"
       ]
@@ -4050,8 +4818,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t0.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1d0"
       ]
@@ -4059,8 +4827,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t1.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1d1"
       ]
@@ -4068,8 +4836,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t2.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1d2"
       ]
@@ -4077,8 +4845,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t3.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1d3"
       ]
@@ -4086,8 +4854,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t4.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1d4"
       ]
@@ -4095,8 +4863,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t5.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1d5"
       ]
@@ -4104,8 +4872,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t6.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1d6"
       ]
@@ -4113,8 +4881,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t7.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1d7"
       ]
@@ -4122,8 +4890,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t8.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1d8"
       ]
@@ -4131,8 +4899,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t9.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1d9"
       ]
@@ -4140,8 +4908,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t10.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1da"
       ]
@@ -4149,8 +4917,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t11.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1db"
       ]
@@ -4158,8 +4926,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t12.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1dc"
       ]
@@ -4167,8 +4935,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t13.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1dd"
       ]
@@ -4176,8 +4944,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t14.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1de"
       ]
@@ -4185,8 +4953,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t15.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1df"
       ]
@@ -4194,8 +4962,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t16.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1e0"
       ]
@@ -4203,8 +4971,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t17.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1e1"
       ]
@@ -4212,8 +4980,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t18.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1e2"
       ]
@@ -4221,8 +4989,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t19.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1e3"
       ]
@@ -4230,8 +4998,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t20.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1e4"
       ]
@@ -4239,8 +5007,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t21.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1e5"
       ]
@@ -4248,8 +5016,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t22.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1e6"
       ]
@@ -4257,8 +5025,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t23.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1e7"
       ]
@@ -4266,8 +5034,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t24.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1e8"
       ]
@@ -4275,8 +5043,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t25.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1e9"
       ]
@@ -4284,8 +5052,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t26.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1ea"
       ]
@@ -4293,8 +5061,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t27.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1eb"
       ]
@@ -4302,8 +5070,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t28.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1ec"
       ]
@@ -4311,8 +5079,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t29.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1ed"
       ]
@@ -4320,8 +5088,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t30.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1ee"
       ]
@@ -4329,8 +5097,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t31.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1ef"
       ]
@@ -4338,8 +5106,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t32.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1f0"
       ]
@@ -4347,8 +5115,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t33.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1f1"
       ]
@@ -4356,8 +5124,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t34.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1f2"
       ]
@@ -4365,8 +5133,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t35.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1f3"
       ]
@@ -4374,8 +5142,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t36.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1f4"
       ]
@@ -4383,8 +5151,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t37.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1f5"
       ]
@@ -4392,8 +5160,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t38.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1f6"
       ]
@@ -4401,8 +5169,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t39.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1f7"
       ]
@@ -4410,8 +5178,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t40.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1f8"
       ]
@@ -4419,8 +5187,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t41.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1f9"
       ]
@@ -4428,8 +5196,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t42.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1fa"
       ]
@@ -4437,8 +5205,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t43.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1fb"
       ]
@@ -4446,8 +5214,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t44.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1fc"
       ]
@@ -4455,8 +5223,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t45.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1fd"
       ]
@@ -4464,8 +5232,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t46.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1fe"
       ]
@@ -4473,8 +5241,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t47.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue1ff"
       ]
@@ -4482,8 +5250,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t48.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue200"
       ]
@@ -4491,8 +5259,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t49.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue201"
       ]
@@ -4500,8 +5268,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t50.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue202"
       ]
@@ -4509,8 +5277,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t51.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue203"
       ]
@@ -4518,8 +5286,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t52.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue204"
       ]
@@ -4527,8 +5295,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t53.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue205"
       ]
@@ -4536,8 +5304,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t54.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue206"
       ]
@@ -4545,8 +5313,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t55.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue207"
       ]
@@ -4554,8 +5322,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t56.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue208"
       ]
@@ -4563,8 +5331,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t57.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue209"
       ]
@@ -4572,8 +5340,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t58.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue20a"
       ]
@@ -4581,8 +5349,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t59.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue20b"
       ]
@@ -4590,8 +5358,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t60.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue20c"
       ]
@@ -4599,8 +5367,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t61.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue20d"
       ]
@@ -4608,8 +5376,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t62.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue20e"
       ]
@@ -4617,8 +5385,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f7_t63.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue20f"
       ]
@@ -4626,8 +5394,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t0.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue210"
       ]
@@ -4635,8 +5403,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t1.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue211"
       ]
@@ -4644,8 +5412,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t2.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue212"
       ]
@@ -4653,8 +5421,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t3.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue213"
       ]
@@ -4662,8 +5430,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t4.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue214"
       ]
@@ -4671,8 +5439,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t5.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue215"
       ]
@@ -4680,8 +5448,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t6.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue216"
       ]
@@ -4689,8 +5457,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t7.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue217"
       ]
@@ -4698,8 +5466,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t8.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue218"
       ]
@@ -4707,8 +5475,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t9.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue219"
       ]
@@ -4716,8 +5484,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t10.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue21a"
       ]
@@ -4725,8 +5493,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t11.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue21b"
       ]
@@ -4734,8 +5502,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t12.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue21c"
       ]
@@ -4743,8 +5511,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t13.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue21d"
       ]
@@ -4752,8 +5520,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t14.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue21e"
       ]
@@ -4761,8 +5529,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t15.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue21f"
       ]
@@ -4770,8 +5538,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t16.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue220"
       ]
@@ -4779,8 +5547,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t17.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue221"
       ]
@@ -4788,8 +5556,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t18.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue222"
       ]
@@ -4797,8 +5565,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t19.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue223"
       ]
@@ -4806,8 +5574,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t20.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue224"
       ]
@@ -4815,8 +5583,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t21.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue225"
       ]
@@ -4824,8 +5592,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t22.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue226"
       ]
@@ -4833,8 +5601,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t23.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue227"
       ]
@@ -4842,8 +5610,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t24.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue228"
       ]
@@ -4851,8 +5619,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t25.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue229"
       ]
@@ -4860,8 +5628,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t26.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue22a"
       ]
@@ -4869,8 +5637,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t27.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue22b"
       ]
@@ -4878,8 +5646,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t28.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue22c"
       ]
@@ -4887,8 +5655,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t29.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue22d"
       ]
@@ -4896,8 +5664,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t30.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue22e"
       ]
@@ -4905,8 +5673,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t31.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue22f"
       ]
@@ -4914,8 +5682,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t32.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue230"
       ]
@@ -4923,8 +5691,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t33.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue231"
       ]
@@ -4932,8 +5700,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t34.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue232"
       ]
@@ -4941,8 +5709,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t35.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue233"
       ]
@@ -4950,8 +5718,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t36.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue234"
       ]
@@ -4959,8 +5727,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t37.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue235"
       ]
@@ -4968,8 +5736,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t38.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue236"
       ]
@@ -4977,8 +5745,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t39.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue237"
       ]
@@ -4986,8 +5754,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t40.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue238"
       ]
@@ -4995,8 +5763,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t41.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue239"
       ]
@@ -5004,8 +5772,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t42.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue23a"
       ]
@@ -5013,8 +5781,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t43.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue23b"
       ]
@@ -5022,8 +5790,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t44.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue23c"
       ]
@@ -5031,8 +5799,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t45.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue23d"
       ]
@@ -5040,8 +5808,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t46.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue23e"
       ]
@@ -5049,8 +5817,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t47.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue23f"
       ]
@@ -5058,8 +5826,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t48.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue240"
       ]
@@ -5067,8 +5835,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t49.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue241"
       ]
@@ -5076,8 +5844,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t50.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue242"
       ]
@@ -5085,8 +5853,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t51.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue243"
       ]
@@ -5094,8 +5862,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t52.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue244"
       ]
@@ -5103,8 +5871,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t53.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue245"
       ]
@@ -5112,8 +5880,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t54.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue246"
       ]
@@ -5121,8 +5889,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t55.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue247"
       ]
@@ -5130,8 +5898,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t56.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue248"
       ]
@@ -5139,8 +5907,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t57.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue249"
       ]
@@ -5148,8 +5916,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t58.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue24a"
       ]
@@ -5157,8 +5925,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t59.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue24b"
       ]
@@ -5166,8 +5934,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t60.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue24c"
       ]
@@ -5175,8 +5943,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t61.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue24d"
       ]
@@ -5184,8 +5952,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t62.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue24e"
       ]
@@ -5193,8 +5961,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f8_t63.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue24f"
       ]
@@ -5202,8 +5970,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t0.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue250"
       ]
@@ -5211,8 +5979,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t1.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue251"
       ]
@@ -5220,8 +5988,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t2.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue252"
       ]
@@ -5229,8 +5997,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t3.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue253"
       ]
@@ -5238,8 +6006,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t4.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue254"
       ]
@@ -5247,8 +6015,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t5.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue255"
       ]
@@ -5256,8 +6024,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t6.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue256"
       ]
@@ -5265,8 +6033,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t7.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue257"
       ]
@@ -5274,8 +6042,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t8.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue258"
       ]
@@ -5283,8 +6051,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t9.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue259"
       ]
@@ -5292,8 +6060,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t10.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue25a"
       ]
@@ -5301,8 +6069,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t11.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue25b"
       ]
@@ -5310,8 +6078,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t12.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue25c"
       ]
@@ -5319,8 +6087,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t13.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue25d"
       ]
@@ -5328,8 +6096,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t14.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue25e"
       ]
@@ -5337,8 +6105,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t15.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue25f"
       ]
@@ -5346,8 +6114,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t16.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue260"
       ]
@@ -5355,8 +6123,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t17.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue261"
       ]
@@ -5364,8 +6132,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t18.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue262"
       ]
@@ -5373,8 +6141,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t19.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue263"
       ]
@@ -5382,8 +6150,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t20.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue264"
       ]
@@ -5391,8 +6159,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t21.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue265"
       ]
@@ -5400,8 +6168,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t22.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue266"
       ]
@@ -5409,8 +6177,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t23.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue267"
       ]
@@ -5418,8 +6186,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t24.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue268"
       ]
@@ -5427,8 +6195,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t25.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue269"
       ]
@@ -5436,8 +6204,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t26.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue26a"
       ]
@@ -5445,8 +6213,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t27.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue26b"
       ]
@@ -5454,8 +6222,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t28.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue26c"
       ]
@@ -5463,8 +6231,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t29.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue26d"
       ]
@@ -5472,8 +6240,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t30.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue26e"
       ]
@@ -5481,8 +6249,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t31.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue26f"
       ]
@@ -5490,8 +6258,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t32.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue270"
       ]
@@ -5499,8 +6267,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t33.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue271"
       ]
@@ -5508,8 +6276,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t34.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue272"
       ]
@@ -5517,8 +6285,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t35.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue273"
       ]
@@ -5526,8 +6294,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t36.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue274"
       ]
@@ -5535,8 +6303,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t37.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue275"
       ]
@@ -5544,8 +6312,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t38.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue276"
       ]
@@ -5553,8 +6321,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t39.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue277"
       ]
@@ -5562,8 +6330,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t40.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue278"
       ]
@@ -5571,8 +6339,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t41.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue279"
       ]
@@ -5580,8 +6348,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t42.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue27a"
       ]
@@ -5589,8 +6357,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t43.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue27b"
       ]
@@ -5598,8 +6366,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t44.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue27c"
       ]
@@ -5607,8 +6375,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t45.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue27d"
       ]
@@ -5616,8 +6384,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t46.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue27e"
       ]
@@ -5625,8 +6393,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t47.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue27f"
       ]
@@ -5634,8 +6402,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t48.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue280"
       ]
@@ -5643,8 +6411,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t49.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue281"
       ]
@@ -5652,8 +6420,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t50.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue282"
       ]
@@ -5661,8 +6429,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t51.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue283"
       ]
@@ -5670,8 +6438,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t52.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue284"
       ]
@@ -5679,8 +6447,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t53.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue285"
       ]
@@ -5688,8 +6456,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t54.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue286"
       ]
@@ -5697,8 +6465,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t55.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue287"
       ]
@@ -5706,8 +6474,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t56.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue288"
       ]
@@ -5715,8 +6483,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t57.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue289"
       ]
@@ -5724,8 +6492,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t58.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue28a"
       ]
@@ -5733,8 +6501,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t59.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue28b"
       ]
@@ -5742,8 +6510,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t60.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue28c"
       ]
@@ -5751,8 +6519,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t61.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue28d"
       ]
@@ -5760,8 +6528,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t62.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue28e"
       ]
@@ -5769,8 +6537,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f9_t63.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue28f"
       ]
@@ -5778,8 +6546,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t0.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue290"
       ]
@@ -5787,8 +6555,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t1.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue291"
       ]
@@ -5796,8 +6564,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t2.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue292"
       ]
@@ -5805,8 +6573,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t3.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue293"
       ]
@@ -5814,8 +6582,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t4.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue294"
       ]
@@ -5823,8 +6591,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t5.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue295"
       ]
@@ -5832,8 +6600,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t6.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue296"
       ]
@@ -5841,8 +6609,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t7.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue297"
       ]
@@ -5850,8 +6618,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t8.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue298"
       ]
@@ -5859,8 +6627,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t9.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue299"
       ]
@@ -5868,8 +6636,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t10.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue29a"
       ]
@@ -5877,8 +6645,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t11.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue29b"
       ]
@@ -5886,8 +6654,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t12.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue29c"
       ]
@@ -5895,8 +6663,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t13.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue29d"
       ]
@@ -5904,8 +6672,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t14.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue29e"
       ]
@@ -5913,8 +6681,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t15.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue29f"
       ]
@@ -5922,8 +6690,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t16.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2a0"
       ]
@@ -5931,8 +6699,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t17.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2a1"
       ]
@@ -5940,8 +6708,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t18.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2a2"
       ]
@@ -5949,8 +6717,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t19.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2a3"
       ]
@@ -5958,8 +6726,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t20.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2a4"
       ]
@@ -5967,8 +6735,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t21.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2a5"
       ]
@@ -5976,8 +6744,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t22.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2a6"
       ]
@@ -5985,8 +6753,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t23.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2a7"
       ]
@@ -5994,8 +6762,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t24.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2a8"
       ]
@@ -6003,8 +6771,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t25.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2a9"
       ]
@@ -6012,8 +6780,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t26.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2aa"
       ]
@@ -6021,8 +6789,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t27.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2ab"
       ]
@@ -6030,8 +6798,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t28.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2ac"
       ]
@@ -6039,8 +6807,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t29.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2ad"
       ]
@@ -6048,8 +6816,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t30.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2ae"
       ]
@@ -6057,8 +6825,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t31.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2af"
       ]
@@ -6066,8 +6834,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t32.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2b0"
       ]
@@ -6075,8 +6843,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t33.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2b1"
       ]
@@ -6084,8 +6852,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t34.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2b2"
       ]
@@ -6093,8 +6861,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t35.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2b3"
       ]
@@ -6102,8 +6870,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t36.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2b4"
       ]
@@ -6111,8 +6879,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t37.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2b5"
       ]
@@ -6120,8 +6888,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t38.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2b6"
       ]
@@ -6129,8 +6897,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t39.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2b7"
       ]
@@ -6138,8 +6906,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t40.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2b8"
       ]
@@ -6147,8 +6915,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t41.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2b9"
       ]
@@ -6156,8 +6924,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t42.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2ba"
       ]
@@ -6165,8 +6933,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t43.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2bb"
       ]
@@ -6174,8 +6942,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t44.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2bc"
       ]
@@ -6183,8 +6951,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t45.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2bd"
       ]
@@ -6192,8 +6960,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t46.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2be"
       ]
@@ -6201,8 +6969,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t47.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2bf"
       ]
@@ -6210,8 +6978,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t48.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2c0"
       ]
@@ -6219,8 +6987,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t49.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2c1"
       ]
@@ -6228,8 +6996,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t50.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2c2"
       ]
@@ -6237,8 +7005,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t51.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2c3"
       ]
@@ -6246,8 +7014,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t52.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2c4"
       ]
@@ -6255,8 +7023,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t53.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2c5"
       ]
@@ -6264,8 +7032,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t54.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2c6"
       ]
@@ -6273,8 +7041,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t55.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2c7"
       ]
@@ -6282,8 +7050,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t56.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2c8"
       ]
@@ -6291,8 +7059,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t57.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2c9"
       ]
@@ -6300,8 +7068,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t58.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2ca"
       ]
@@ -6309,8 +7077,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t59.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2cb"
       ]
@@ -6318,8 +7086,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t60.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2cc"
       ]
@@ -6327,8 +7095,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t61.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2cd"
       ]
@@ -6336,8 +7104,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t62.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2ce"
       ]
@@ -6345,8 +7113,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f10_t63.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2cf"
       ]
@@ -6354,8 +7122,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t0.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2d0"
       ]
@@ -6363,8 +7131,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t1.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2d1"
       ]
@@ -6372,8 +7140,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t2.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2d2"
       ]
@@ -6381,8 +7149,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t3.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2d3"
       ]
@@ -6390,8 +7158,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t4.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2d4"
       ]
@@ -6399,8 +7167,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t5.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2d5"
       ]
@@ -6408,8 +7176,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t6.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2d6"
       ]
@@ -6417,8 +7185,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t7.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2d7"
       ]
@@ -6426,8 +7194,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t8.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2d8"
       ]
@@ -6435,8 +7203,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t9.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2d9"
       ]
@@ -6444,8 +7212,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t10.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2da"
       ]
@@ -6453,8 +7221,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t11.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2db"
       ]
@@ -6462,8 +7230,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t12.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2dc"
       ]
@@ -6471,8 +7239,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t13.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2dd"
       ]
@@ -6480,8 +7248,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t14.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2de"
       ]
@@ -6489,8 +7257,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t15.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2df"
       ]
@@ -6498,8 +7266,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t16.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2e0"
       ]
@@ -6507,8 +7275,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t17.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2e1"
       ]
@@ -6516,8 +7284,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t18.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2e2"
       ]
@@ -6525,8 +7293,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t19.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2e3"
       ]
@@ -6534,8 +7302,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t20.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2e4"
       ]
@@ -6543,8 +7311,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t21.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2e5"
       ]
@@ -6552,8 +7320,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t22.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2e6"
       ]
@@ -6561,8 +7329,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t23.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2e7"
       ]
@@ -6570,8 +7338,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t24.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2e8"
       ]
@@ -6579,8 +7347,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t25.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2e9"
       ]
@@ -6588,8 +7356,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t26.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2ea"
       ]
@@ -6597,8 +7365,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t27.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2eb"
       ]
@@ -6606,8 +7374,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t28.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2ec"
       ]
@@ -6615,8 +7383,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t29.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2ed"
       ]
@@ -6624,8 +7392,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t30.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2ee"
       ]
@@ -6633,8 +7401,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t31.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2ef"
       ]
@@ -6642,8 +7410,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t32.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2f0"
       ]
@@ -6651,8 +7419,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t33.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2f1"
       ]
@@ -6660,8 +7428,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t34.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2f2"
       ]
@@ -6669,8 +7437,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t35.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2f3"
       ]
@@ -6678,8 +7446,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t36.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2f4"
       ]
@@ -6687,8 +7455,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t37.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2f5"
       ]
@@ -6696,8 +7464,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t38.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2f6"
       ]
@@ -6705,8 +7473,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t39.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2f7"
       ]
@@ -6714,8 +7482,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t40.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2f8"
       ]
@@ -6723,8 +7491,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t41.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2f9"
       ]
@@ -6732,8 +7500,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t42.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2fa"
       ]
@@ -6741,8 +7509,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t43.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2fb"
       ]
@@ -6750,8 +7518,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t44.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2fc"
       ]
@@ -6759,8 +7527,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t45.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2fd"
       ]
@@ -6768,8 +7536,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t46.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2fe"
       ]
@@ -6777,8 +7545,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t47.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue2ff"
       ]
@@ -6786,8 +7554,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t48.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue300"
       ]
@@ -6795,8 +7563,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t49.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue301"
       ]
@@ -6804,8 +7572,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t50.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue302"
       ]
@@ -6813,8 +7581,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t51.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue303"
       ]
@@ -6822,8 +7590,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t52.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue304"
       ]
@@ -6831,8 +7599,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t53.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue305"
       ]
@@ -6840,8 +7608,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t54.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue306"
       ]
@@ -6849,8 +7617,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t55.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue307"
       ]
@@ -6858,8 +7626,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t56.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue308"
       ]
@@ -6867,8 +7635,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t57.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue309"
       ]
@@ -6876,8 +7644,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t58.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue30a"
       ]
@@ -6885,8 +7653,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t59.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue30b"
       ]
@@ -6894,8 +7662,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t60.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue30c"
       ]
@@ -6903,8 +7671,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t61.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue30d"
       ]
@@ -6912,8 +7680,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t62.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue30e"
       ]
@@ -6921,8 +7689,8 @@
     {
       "type": "bitmap",
       "file": "barkan:font/aurora_f11_t63.png",
-      "ascent": 63,
-      "height": 126,
+      "ascent": 98,
+      "height": 196,
       "chars": [
         "\ue30f"
       ]
