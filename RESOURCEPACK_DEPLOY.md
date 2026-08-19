@@ -1,4 +1,4 @@
-# Resource-pack branches and production deploy
+# 리소스팩 배포
 
 `develop` is the integration branch and `main` is production. The phone does
 not need an SSH key: the production server pulls a validated GitHub Release.
