@@ -1,10 +1,19 @@
 name: Mobile production resource pack
 
 on:
+  push:
+    branches:
+      - main
+      - develop
+    paths:
+      - "assets/**"
+      - "pack.mcmeta"
+      - "pack.png"
+      - "tools/**"
   workflow_dispatch:
     inputs:
       promote:
-        description: "Publish a production candidate Release for the server to pull"
+        description: "Publish only when manually running this workflow from main"
         required: true
         type: boolean
         default: false
@@ -71,7 +80,9 @@ jobs:
 
   publish:
     needs: build
-    if: ${{ inputs.promote }}
+    if: >-
+      (github.event_name == 'push' && github.ref == 'refs/heads/main') ||
+      (github.event_name == 'workflow_dispatch' && github.ref == 'refs/heads/main' && inputs.promote)
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -85,11 +96,18 @@ jobs:
       - name: Publish production candidate Release
         env:
           GH_TOKEN: ${{ github.token }}
+          EVENT_NAME: ${{ github.event_name }}
+          REF_NAME: ${{ github.ref }}
+          MANUAL_APPLY_NOW: ${{ inputs.apply_now }}
         run: |
           TAG="mobile-rp-${GITHUB_RUN_NUMBER}-$(date -u +%Y%m%d-%H%M%S)"
           cp dist/barkan-resourcepack-slim.zip dist/barkan-resourcepack.zip
-          NOTES="MOBILE_RP_PROMOTE\nBuilt and validated by mobile-prod-release.yml."
-          if [[ "${{ inputs.apply_now }}" == "true" ]]; then
+          if [[ "$EVENT_NAME" == "push" && "$REF_NAME" == "refs/heads/main" ]]; then
+            NOTES="MOBILE_RP_PROMOTE\nAPPLY_NOW\nAuto-promoted from main by mobile-prod-release.yml."
+          else
+            NOTES="MOBILE_RP_PROMOTE\nBuilt and validated by manual mobile-prod-release.yml."
+          fi
+          if [[ "$EVENT_NAME" == "workflow_dispatch" && "$MANUAL_APPLY_NOW" == "true" ]]; then
             NOTES+="\nAPPLY_NOW"
           fi
           printf '%b\n' "$NOTES" > dist/release-notes.txt
