@@ -1,0 +1,101 @@
+name: Mobile production resource pack
+
+on:
+  workflow_dispatch:
+    inputs:
+      promote:
+        description: "Publish a production candidate Release for the server to pull"
+        required: true
+        type: boolean
+        default: false
+      apply_now:
+        description: "Restart prod as soon as its 5-minute puller sees the Release"
+        required: true
+        type: boolean
+        default: false
+
+concurrency:
+  group: mobile-prod-resource-pack
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout resource pack
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install image builder dependency
+        run: python -m pip install --disable-pip-version-check Pillow
+
+      - name: Build production pack
+        env:
+          RP_ROOT: ${{ github.workspace }}
+          OUT: /tmp/barkan-resourcepack-slim.zip
+        run: python tools/build-prod-rp.py
+
+      - name: Validate production pack
+        run: |
+          unzip -t /tmp/barkan-resourcepack-slim.zip >/dev/null
+          python - <<'PY'
+          import json
+          import zipfile
+
+          path = "/tmp/barkan-resourcepack-slim.zip"
+          with zipfile.ZipFile(path) as z:
+              names = set(z.namelist())
+              assert "pack.mcmeta" in names
+              assert "assets/barkan/font/gui.json" in names
+              assert "assets/barkan/sounds.json" in names
+              assert any(n.startswith("assets/barkan/") for n in names)
+              mc = json.loads(z.read("pack.mcmeta"))["pack"]
+              assert "min_format" in mc and "max_format" in mc
+              gui = json.loads(z.read("assets/barkan/font/gui.json"))["providers"]
+              assert len(gui) > 200, len(gui)
+              assert not any(".codex-backup" in n or ".bak" in n for n in names)
+          print("resource pack validation passed")
+          PY
+
+      - name: Upload validated pack artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: mobile-resource-pack
+          path: /tmp/barkan-resourcepack-slim.zip
+          if-no-files-found: error
+          retention-days: 14
+
+  publish:
+    needs: build
+    if: ${{ inputs.promote }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Download validated pack
+        uses: actions/download-artifact@v4
+        with:
+          name: mobile-resource-pack
+          path: dist
+
+      - name: Publish production candidate Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TAG="mobile-rp-${GITHUB_RUN_NUMBER}-$(date -u +%Y%m%d-%H%M%S)"
+          cp dist/barkan-resourcepack-slim.zip dist/barkan-resourcepack.zip
+          NOTES="MOBILE_RP_PROMOTE\nBuilt and validated by mobile-prod-release.yml."
+          if [[ "${{ inputs.apply_now }}" == "true" ]]; then
+            NOTES+="\nAPPLY_NOW"
+          fi
+          printf '%b\n' "$NOTES" > dist/release-notes.txt
+          gh release create "$TAG" \
+            --repo "$GITHUB_REPOSITORY" \
+            --title "Mobile resource pack $TAG" \
+            --notes-file dist/release-notes.txt \
+            dist/barkan-resourcepack.zip
+          echo "Published $TAG"
