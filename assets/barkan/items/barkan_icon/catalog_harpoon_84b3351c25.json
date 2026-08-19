@@ -1,1 +1,24 @@
-{"model": {"type": "minecraft:model", "model": "barkan:barkan_icon/catalog_harpoon_84b3351c25"}}
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:display_context",
+    "cases": [
+      {
+        "when": [
+          "firstperson_lefthand",
+          "firstperson_righthand",
+          "thirdperson_lefthand",
+          "thirdperson_righthand"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:barkan_icon/held_harpoon_84b3351c25"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "barkan:barkan_icon/inventory_harpoon_84b3351c25"
+    }
+  }
+}
