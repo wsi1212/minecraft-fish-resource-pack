@@ -218,5 +218,29 @@
         "name": "barkan:enhance/destroy"
       }
     ]
+  },
+  "camera.shutter": {
+    "sounds": [
+      {
+        "name": "barkan:camera/shutter",
+        "stream": false
+      }
+    ]
+  },
+  "camera.zoom_in": {
+    "sounds": [
+      {
+        "name": "barkan:camera/zoom_in",
+        "stream": false
+      }
+    ]
+  },
+  "camera.zoom_out": {
+    "sounds": [
+      {
+        "name": "barkan:camera/zoom_out",
+        "stream": false
+      }
+    ]
   }
 }
