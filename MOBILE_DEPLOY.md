@@ -29,8 +29,9 @@ Manual promotion is accepted only when the workflow is run against `main`.
 Running it from `develop` can validate the branch but cannot publish to prod.
 
 Only Releases containing the `MOBILE_RP_PROMOTE` marker are accepted by prod.
-`APPLY_NOW` is added only when the checkbox is enabled. Ordinary Releases and
-the `latest` development asset are ignored.
+The automatic `main` path adds `APPLY_NOW`; the manual path adds it only when
+the checkbox is enabled. Ordinary Releases and the `latest` development asset
+are ignored.
 
 The workflow builds the deterministic production pack, validates it, and only
 then publishes the Release. The server downloads the public asset, verifies
