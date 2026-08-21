@@ -2,6 +2,13 @@
   "providers": [
     {
       "type": "ttf",
+      "file": "barkan:fusion_pixel_12px_zh_hans.ttf",
+      "size": 12,
+      "oversample": 1,
+      "shift": [0, 0]
+    },
+    {
+      "type": "ttf",
       "file": "barkan:noto_hanja.ttf",
       "size": 8,
       "oversample": 4,
