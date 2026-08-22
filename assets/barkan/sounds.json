@@ -134,6 +134,14 @@
       }
     ]
   },
+  "bgm.afk": {
+    "sounds": [
+      {
+        "name": "barkan:bgm/afk",
+        "stream": true
+      }
+    ]
+  },
   "chess.move": {
     "sounds": [
       {
