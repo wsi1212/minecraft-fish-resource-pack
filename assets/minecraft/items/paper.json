@@ -1090,6 +1090,76 @@
         }
       },
       {
+        "threshold": 24006,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/siren_head"
+        }
+      },
+      {
+        "threshold": 24007,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/siren_body_core"
+        }
+      },
+      {
+        "threshold": 24008,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/siren_speaker"
+        }
+      },
+      {
+        "threshold": 24009,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/siren_arm"
+        }
+      },
+      {
+        "threshold": 24010,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/siren_leg"
+        }
+      },
+      {
+        "threshold": 24011,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/siren_forearm"
+        }
+      },
+      {
+        "threshold": 24012,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/siren_shin"
+        }
+      },
+      {
+        "threshold": 24013,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/siren_joint"
+        }
+      },
+      {
+        "threshold": 24101,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/yacht_table"
+        }
+      },
+      {
+        "threshold": 24102,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/yacht_score_note"
+        }
+      },
+      {
         "threshold": 22801,
         "model": {
           "type": "minecraft:model",
@@ -1115,6 +1185,13 @@
         "model": {
           "type": "minecraft:model",
           "model": "barkan:item/chess/backgammon_black_checker"
+        }
+      },
+      {
+        "threshold": 22805,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/backgammon_move_hint_checker"
         }
       },
       {
@@ -1202,6 +1279,13 @@
         }
       },
       {
+        "threshold": 22830,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/yacht_roll_die"
+        }
+      },
+      {
         "threshold": 22901,
         "model": {
           "type": "minecraft:model",
@@ -1234,6 +1318,216 @@
         "model": {
           "type": "minecraft:model",
           "model": "barkan:item/chess/art_eraser_tool"
+        }
+      },
+      {
+        "threshold": 23001,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/janggi_board"
+        }
+      },
+      {
+        "threshold": 23002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/janggi_table_item"
+        }
+      },
+      {
+        "threshold": 23010,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/janggi_cho_general"
+        }
+      },
+      {
+        "threshold": 23011,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/janggi_cho_guard"
+        }
+      },
+      {
+        "threshold": 23012,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/janggi_cho_chariot"
+        }
+      },
+      {
+        "threshold": 23013,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/janggi_cho_cannon"
+        }
+      },
+      {
+        "threshold": 23014,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/janggi_cho_horse"
+        }
+      },
+      {
+        "threshold": 23015,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/janggi_cho_elephant"
+        }
+      },
+      {
+        "threshold": 23016,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/janggi_cho_soldier"
+        }
+      },
+      {
+        "threshold": 23017,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/janggi_han_general"
+        }
+      },
+      {
+        "threshold": 23018,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/janggi_han_guard"
+        }
+      },
+      {
+        "threshold": 23019,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/janggi_han_chariot"
+        }
+      },
+      {
+        "threshold": 23020,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/janggi_han_cannon"
+        }
+      },
+      {
+        "threshold": 23021,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/janggi_han_horse"
+        }
+      },
+      {
+        "threshold": 23022,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/janggi_han_elephant"
+        }
+      },
+      {
+        "threshold": 23023,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/janggi_han_soldier"
+        }
+      },
+      {
+        "threshold": 23030,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/janggi_modern_cho_general"
+        }
+      },
+      {
+        "threshold": 23031,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/janggi_modern_cho_guard"
+        }
+      },
+      {
+        "threshold": 23032,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/janggi_modern_cho_chariot"
+        }
+      },
+      {
+        "threshold": 23033,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/janggi_modern_cho_cannon"
+        }
+      },
+      {
+        "threshold": 23034,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/janggi_modern_cho_horse"
+        }
+      },
+      {
+        "threshold": 23035,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/janggi_modern_cho_elephant"
+        }
+      },
+      {
+        "threshold": 23036,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/janggi_modern_cho_soldier"
+        }
+      },
+      {
+        "threshold": 23037,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/janggi_modern_han_general"
+        }
+      },
+      {
+        "threshold": 23038,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/janggi_modern_han_guard"
+        }
+      },
+      {
+        "threshold": 23039,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/janggi_modern_han_chariot"
+        }
+      },
+      {
+        "threshold": 23040,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/janggi_modern_han_cannon"
+        }
+      },
+      {
+        "threshold": 23041,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/janggi_modern_han_horse"
+        }
+      },
+      {
+        "threshold": 23042,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/janggi_modern_han_elephant"
+        }
+      },
+      {
+        "threshold": 23043,
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/chess/janggi_modern_han_soldier"
         }
       }
     ],

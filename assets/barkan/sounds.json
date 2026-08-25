@@ -954,5 +954,21 @@
         "stream": false
       }
     ]
+  },
+  "siren_head.alert": {
+    "sounds": [
+      {
+        "name": "barkan:siren_head/alert",
+        "stream": true
+      }
+    ]
+  },
+  "siren_head.kill": {
+    "sounds": [
+      {
+        "name": "barkan:siren_head/kill",
+        "stream": false
+      }
+    ]
   }
 }

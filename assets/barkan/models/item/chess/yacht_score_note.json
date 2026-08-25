@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "barkan:item/chess/yacht_score_note"
+  }
+}
