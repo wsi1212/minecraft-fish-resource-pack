@@ -1,6 +1,13 @@
 {
   "providers": [
     {
+      "type": "bitmap",
+      "file": "barkan:font/weather_icons.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [""]
+    },
+    {
       "type": "ttf",
       "file": "barkan:fusion_pixel_12px_zh_hans.ttf",
       "size": 12,
