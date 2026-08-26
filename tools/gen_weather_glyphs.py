@@ -20,7 +20,10 @@ import json, os, re, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 PACK = os.path.dirname(HERE)
-SHEET = os.path.join(PACK, "assets/barkan/font/weather_icons.png")
+# Bitmap font providers resolve their files below assets/<namespace>/textures/.
+# Keep the generated sheet beside the other bitmap-font textures so the
+# reference in minecraft:default can actually load it on the client.
+SHEET = os.path.join(PACK, "assets/barkan/textures/font/weather_icons.png")
 FONT  = os.path.join(PACK, "assets/minecraft/font/default.json")
 START = 0xEA00
 
@@ -65,14 +68,14 @@ ART = {
  ".y.....y.",
  "....y...."],
 "저녁": [              # 지평선에 반쯤 잠긴 해 + 노을 반사
- ".........",
+ "....o....",
+ ".o.....o.",
  "...ooo...",
  "..oyyyo..",
  ".oyyyyyo.",
  ".oyyyyyo.",
- ".oyyyyyo.",
  "rrrrrrrrr",
- ".RRRRRRR.",
+ ".........",
  "........."],
 "밤": [                # 두꺼운 초승달 + 별 2 (밤/새벽이 같은 달을 쓴다)
  "..MMM....",
@@ -92,8 +95,8 @@ ART = {
  "MMMN.....",
  ".MMMNM...",
  "..MMM....",
- "oorrrrroo",
- "..ooooo.."],
+ "ooooooooo",
+ "........."],
 # ── 날씨 ─ 해 계열 3종은 광선 처리로만 구분한다 ──────────────────
 "맑음": [              # 광선 없는 맨 해 (낮보다 광학적으로 가볍다)
  ".........",
@@ -148,14 +151,14 @@ ART = {
  "........."],
 "안개": [              # 가로 층 4겹 — 이 팩에서 유일한 순수 수평 실루엣
  ".........",
- "..wwwww..",
- ".wwwwwwww",
- "ggggggg..",
- "..ggggggg",
- ".dddddd..",
- "...dddddd",
- "..DDDDD..",
- "........."],
+ ".wwww....",
+ "....wwww.",
+ ".........",
+ "gggg.....",
+ "....ggggg",
+ ".........",
+ ".dddd....",
+ ".....dddd"],
 # ── 나머지 ────────────────────────────────────────────────────
 "유성우": [            # 대각 유성 1발 (흰 머리 → 주황 꼬리) + 별 2
  "......WWW",
@@ -282,6 +285,58 @@ def patch_font():
     json.load(open(FONT, encoding="utf-8"))   # 파싱 검증 — 깨진 JSON 을 남기지 않는다
 
 
+def contact_sheet(path, scale=8):
+    """이름표 붙은 대조표 PNG — 배포 전 자기검수 + 사람에게 보여주기용(팩에 안 들어간다).
+
+    ★사본을 고정하지 않는다: 아이콘을 고치면 이 함수를 다시 돌려 새로 뽑을 것.
+    """
+    from PIL import Image, ImageDraw, ImageFont
+    src = Image.open(SHEET)
+    FONT_TTF = os.path.join(PACK, "assets/barkan/font/aggro_medium.ttf")
+    f_name = ImageFont.truetype(FONT_TTF, 19)
+    f_hdr = ImageFont.truetype(FONT_TTF, 16)
+    f_line = ImageFont.truetype(FONT_TTF, 26)
+
+    ico = 9 * scale                       # 72
+    tile_w, tile_h = ico + 56, ico + 40
+    cols = 6
+    rows = (len(ORDER) + cols - 1) // cols
+    pad = 26
+    hdr = 132
+    W = pad * 2 + tile_w * cols
+    H = hdr + pad + rows * tile_h
+    img = Image.new("RGB", (W, H), (13, 16, 21))
+    d = ImageDraw.Draw(img)
+
+    def paste(idx, x, y, sc):
+        g = src.crop((idx * 9, 0, idx * 9 + 9, 9)).resize((9 * sc, 9 * sc), Image.NEAREST)
+        img.paste(g, (x, y), g)
+
+    # 사이드바 모의 줄 (실제 순서: 시간아이콘 + 시간 + 날씨아이콘 + 날씨)
+    d.text((pad, 20), "사이드바 실제 한 줄", font=f_hdr, fill=(125, 135, 148))
+    demo = [(2, "밤", 10, "만조"), (0, "낮", 12, "땡볕")]
+    x = pad
+    for ti, tn, wi, wn in demo:
+        paste(ti, x, 50, 3)
+        d.text((x + 32, 52), tn, font=f_line, fill=(255, 255, 255))
+        x += 32 + int(d.textlength(tn, font=f_line)) + 16
+        paste(wi, x, 50, 3)
+        d.text((x + 32, 52), wn, font=f_line, fill=(255, 255, 255))
+        x += 32 + int(d.textlength(wn, font=f_line)) + 64
+
+    for i, name in enumerate(ORDER):
+        cx = pad + (i % cols) * tile_w
+        cy = hdr + (i // cols) * tile_h
+        d.rounded_rectangle([cx, cy, cx + tile_w - 10, cy + tile_h - 10],
+                            radius=10, fill=(22, 26, 33), outline=(42, 49, 58))
+        paste(i, cx + (tile_w - 10 - ico) // 2, cy + 14, scale)
+        tw = d.textlength(name, font=f_name)
+        d.text((cx + (tile_w - 10 - tw) / 2, cy + 14 + ico + 6), name,
+               font=f_name, fill=(198, 206, 216))
+    img.save(path)
+    print("contact sheet:", path, img.size)
+
+
 def preview(path, scale=14):
     """다크 사이드바 배경에 올린 확대 프리뷰 — 배포 전 자기검수용(팩에 들어가지 않는다)."""
     from PIL import Image
@@ -303,4 +358,4 @@ def preview(path, scale=14):
 if __name__ == "__main__":
     build()
     if len(sys.argv) > 1:
-        preview(sys.argv[1])
+        contact_sheet(sys.argv[1])
