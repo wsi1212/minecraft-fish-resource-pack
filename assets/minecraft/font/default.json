@@ -18,7 +18,7 @@
       "type": "ttf",
       "file": "barkan:fusion_pixel_8px_zh_hans.ttf",
       "size": 8,
-      "oversample": 1,
+      "oversample": 12,
       "shift": [0, 0]
     },
     {
