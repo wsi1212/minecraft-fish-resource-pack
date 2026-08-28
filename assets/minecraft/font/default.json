@@ -9,6 +9,13 @@
     },
     {
       "type": "ttf",
+      "file": "barkan:aggro_medium.ttf",
+      "size": 8,
+      "oversample": 4,
+      "shift": [0, 0]
+    },
+    {
+      "type": "ttf",
       "file": "barkan:fusion_pixel_8px_zh_hans.ttf",
       "size": 8,
       "oversample": 1,
@@ -17,13 +24,6 @@
     {
       "type": "ttf",
       "file": "barkan:noto_hanja.ttf",
-      "size": 8,
-      "oversample": 4,
-      "shift": [0, 0]
-    },
-    {
-      "type": "ttf",
-      "file": "barkan:aggro_medium.ttf",
       "size": 8,
       "oversample": 4,
       "shift": [0, 0]
