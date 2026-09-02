@@ -17,11 +17,6 @@ on:
         required: true
         type: boolean
         default: false
-      apply_now:
-        description: "Restart prod as soon as its 5-minute puller sees the Release"
-        required: true
-        type: boolean
-        default: false
 
 concurrency:
   group: mobile-prod-resource-pack
@@ -98,17 +93,16 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           EVENT_NAME: ${{ github.event_name }}
           REF_NAME: ${{ github.ref }}
-          MANUAL_APPLY_NOW: ${{ inputs.apply_now }}
         run: |
           TAG="mobile-rp-${GITHUB_RUN_NUMBER}-$(date -u +%Y%m%d-%H%M%S)"
           cp dist/barkan-resourcepack-slim.zip dist/barkan-resourcepack.zip
+          # ★APPLY_NOW 는 넣지 않는다 (2026-09-02 폐지). prod 의 fetch-resourcepack.sh 는
+          #   server.properties 의 URL/SHA1 만 갱신하고 재시작하지 않는다 — 새 팩은
+          #   06:00 KST 정기 재시작 이후 접속자에게 내려간다. 즉시 확인은 dev 에서 한다.
           if [[ "$EVENT_NAME" == "push" && "$REF_NAME" == "refs/heads/main" ]]; then
-            NOTES="MOBILE_RP_PROMOTE\nAPPLY_NOW\nAuto-promoted from main by mobile-prod-release.yml."
+            NOTES="MOBILE_RP_PROMOTE\nAuto-promoted from main by mobile-prod-release.yml."
           else
             NOTES="MOBILE_RP_PROMOTE\nBuilt and validated by manual mobile-prod-release.yml."
-          fi
-          if [[ "$EVENT_NAME" == "workflow_dispatch" && "$MANUAL_APPLY_NOW" == "true" ]]; then
-            NOTES+="\nAPPLY_NOW"
           fi
           printf '%b\n' "$NOTES" > dist/release-notes.txt
           gh release create "$TAG" \
