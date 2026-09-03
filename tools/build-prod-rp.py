@@ -13,7 +13,9 @@ from pathlib import Path
 from PIL import Image
 
 RP = Path(os.environ.get("RP_ROOT", Path.cwd())).resolve()
-EXTRA = Path(os.environ.get("RP_EXTRA", "")) if os.environ.get("RP_EXTRA") else None
+# 서버에만 있고 소스에 없던 파일들(누군가 박스에서 직접 넣은 것)을 같이 굽는다.
+# 맥 배포기가 쓰던 기본 경로를 그대로 둔다 — 없으면 무시된다.
+EXTRA = Path(os.environ.get("RP_EXTRA") or Path.home() / "development/barkan-rp-extra")
 OUT = Path(os.environ.get("OUT", "/tmp/barkan-resourcepack-slim.zip"))
 JUNK = (".bak", "backup", "_prepad", "pf_reference", ".DS_Store", ".codex-backup")
 
@@ -25,6 +27,10 @@ JUNK = (".bak", "backup", "_prepad", "pf_reference", ".DS_Store", ".codex-backup
 #   ★크게 그려지는 아이콘(oversized_in_gui, 물고기·스킬 노드 등)은 128px 을 유지한다.
 SLOT_MAX = 64
 BIG_MAX = 128
+# 메뉴 아트는 GUI 에서 크게 렌더링된다 — 아이템 정의에 oversized_in_gui 도 gui.scale 도
+# 없어서 위 자동 판정에 걸리지 않으므로 이름으로 예외를 둔다(맥 배포기에 있던 규칙).
+MENU_ART_PREFIX = "assets/minecraft/textures/item/barkan_icon/ui_menu_"
+MENU_ART_MAX = 256
 
 
 def gather(root: Path):
@@ -91,6 +97,14 @@ def big_textures() -> set:
 
 BIG = big_textures()
 
+# ★소스 폴더를 잘못 잡으면 «항목 2개짜리 팩»이 조용히 만들어진다(2026-09-03 실측:
+#   RP_ROOT 없이 스크립트 폴더에서 돌렸다). 여기서 크게 실패시켜 다음 단계로 못 가게 한다.
+if not (RP / "pack.mcmeta").is_file():
+    raise SystemExit(
+        f"리소스팩 소스가 아니다: {RP}\n"
+        "  RP_ROOT 로 barkan-resourcepack 경로를 넘기거나 그 폴더에서 실행할 것."
+    )
+
 files = {}
 for top in ("assets", "pack.mcmeta", "pack.png"):
     src = RP / top
@@ -115,7 +129,12 @@ with zipfile.ZipFile(OUT, "w", zipfile.ZIP_DEFLATED, compresslevel=9) as z:
             png_before += len(data)
             try:
                 image = Image.open(io.BytesIO(data))
-                cap = BIG_MAX if name in BIG else SLOT_MAX
+                if name.startswith(MENU_ART_PREFIX):
+                    cap = MENU_ART_MAX
+                elif name in BIG:
+                    cap = BIG_MAX
+                else:
+                    cap = SLOT_MAX
                 if (
                     name.startswith("assets/minecraft/textures/item/")
                     and f"{name}.mcmeta" not in files
