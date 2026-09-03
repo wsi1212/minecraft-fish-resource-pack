@@ -4290,6 +4290,1419 @@
       "chars": [
         ""
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:font/gui/quest_progress.png",
+      "ascent": 11,
+      "height": 15,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/cashshop_r0c0.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/cashshop_r0c1.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/cashshop_r0c2.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/cashshop_r1c0.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/cashshop_r1c1.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/cashshop_r1c2.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/cashshop_r2c0.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/cashshop_r2c1.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/cashshop_r2c2.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/cashshop_r3c0.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/cashshop_r3c1.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/cashshop_r3c2.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/backpack_r0c0.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/backpack_r0c1.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/backpack_r0c2.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/backpack_r1c0.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/backpack_r1c1.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/backpack_r1c2.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/backpack_r2c0.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/backpack_r2c1.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/backpack_r2c2.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/backpack_r3c0.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/backpack_r3c1.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/backpack_r3c2.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guildmg_r0c0.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guildmg_r0c1.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guildmg_r0c2.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guildmg_r1c0.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guildmg_r1c1.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guildmg_r1c2.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guildmg_r2c0.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guildmg_r2c1.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guildmg_r2c2.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guildmg_r3c0.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guildmg_r3c1.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guildmg_r3c2.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/boat_r0c0.png",
+      "ascent": 13,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/boat_r0c1.png",
+      "ascent": 13,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/boat_r0c2.png",
+      "ascent": 13,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/boat_r1c0.png",
+      "ascent": -29,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/boat_r1c1.png",
+      "ascent": -29,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/boat_r1c2.png",
+      "ascent": -29,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/boat_r2c0.png",
+      "ascent": -71,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/boat_r2c1.png",
+      "ascent": -71,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/boat_r2c2.png",
+      "ascent": -71,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/boat_r3c0.png",
+      "ascent": -113,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/boat_r3c1.png",
+      "ascent": -113,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/boat_r3c2.png",
+      "ascent": -113,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/bpshop_r0c0.png",
+      "ascent": 13,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/bpshop_r0c1.png",
+      "ascent": 13,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/bpshop_r0c2.png",
+      "ascent": 13,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/bpshop_r1c0.png",
+      "ascent": -29,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/bpshop_r1c1.png",
+      "ascent": -29,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/bpshop_r1c2.png",
+      "ascent": -29,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/bpshop_r2c0.png",
+      "ascent": -71,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/bpshop_r2c1.png",
+      "ascent": -71,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/bpshop_r2c2.png",
+      "ascent": -71,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/bpshop_r3c0.png",
+      "ascent": -113,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/bpshop_r3c1.png",
+      "ascent": -113,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/bpshop_r3c2.png",
+      "ascent": -113,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/enchant_r0c0.png",
+      "ascent": 13,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/enchant_r0c1.png",
+      "ascent": 13,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/enchant_r0c2.png",
+      "ascent": 13,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/enchant_r1c0.png",
+      "ascent": -29,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/enchant_r1c1.png",
+      "ascent": -29,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/enchant_r1c2.png",
+      "ascent": -29,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/enchant_r2c0.png",
+      "ascent": -71,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/enchant_r2c1.png",
+      "ascent": -71,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/enchant_r2c2.png",
+      "ascent": -71,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/enchant_r3c0.png",
+      "ascent": -113,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/enchant_r3c1.png",
+      "ascent": -113,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/enchant_r3c2.png",
+      "ascent": -113,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/trade_r0c0.png",
+      "ascent": 13,
+      "height": 51,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/trade_r0c1.png",
+      "ascent": 13,
+      "height": 51,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/trade_r0c2.png",
+      "ascent": 13,
+      "height": 51,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/trade_r1c0.png",
+      "ascent": -38,
+      "height": 51,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/trade_r1c1.png",
+      "ascent": -38,
+      "height": 51,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/trade_r1c2.png",
+      "ascent": -38,
+      "height": 51,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/trade_r2c0.png",
+      "ascent": -89,
+      "height": 51,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/trade_r2c1.png",
+      "ascent": -89,
+      "height": 51,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/trade_r2c2.png",
+      "ascent": -89,
+      "height": 51,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/trade_r3c0.png",
+      "ascent": -140,
+      "height": 51,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/trade_r3c1.png",
+      "ascent": -140,
+      "height": 51,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/trade_r3c2.png",
+      "ascent": -140,
+      "height": 51,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fishdet_r0c0.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fishdet_r0c1.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fishdet_r0c2.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fishdet_r1c0.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fishdet_r1c1.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fishdet_r1c2.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fishdet_r2c0.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fishdet_r2c1.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fishdet_r2c2.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fishdet_r3c0.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fishdet_r3c1.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/fishdet_r3c2.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/submit_r0c0.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/submit_r0c1.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/submit_r0c2.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/submit_r1c0.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/submit_r1c1.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/submit_r1c2.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/submit_r2c0.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/submit_r2c1.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/submit_r2c2.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/submit_r3c0.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/submit_r3c1.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/submit_r3c2.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/trash_r0c0.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/trash_r0c1.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/trash_r0c2.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/trash_r1c0.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/trash_r1c1.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/trash_r1c2.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/trash_r2c0.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/trash_r2c1.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/trash_r2c2.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/trash_r3c0.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/trash_r3c1.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/trash_r3c2.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/cookconfirm_r0c0.png",
+      "ascent": 13,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/cookconfirm_r0c1.png",
+      "ascent": 13,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/cookconfirm_r0c2.png",
+      "ascent": 13,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/cookconfirm_r1c0.png",
+      "ascent": -29,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/cookconfirm_r1c1.png",
+      "ascent": -29,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/cookconfirm_r1c2.png",
+      "ascent": -29,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/cookconfirm_r2c0.png",
+      "ascent": -71,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/cookconfirm_r2c1.png",
+      "ascent": -71,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/cookconfirm_r2c2.png",
+      "ascent": -71,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/cookconfirm_r3c0.png",
+      "ascent": -113,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/cookconfirm_r3c1.png",
+      "ascent": -113,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/cookconfirm_r3c2.png",
+      "ascent": -113,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shipedit_r0c0.png",
+      "ascent": 13,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shipedit_r0c1.png",
+      "ascent": 13,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shipedit_r0c2.png",
+      "ascent": 13,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shipedit_r1c0.png",
+      "ascent": -29,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shipedit_r1c1.png",
+      "ascent": -29,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shipedit_r1c2.png",
+      "ascent": -29,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shipedit_r2c0.png",
+      "ascent": -71,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shipedit_r2c1.png",
+      "ascent": -71,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shipedit_r2c2.png",
+      "ascent": -71,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shipedit_r3c0.png",
+      "ascent": -113,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shipedit_r3c1.png",
+      "ascent": -113,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shipedit_r3c2.png",
+      "ascent": -113,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guildquest_r0c0.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guildquest_r0c1.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guildquest_r0c2.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guildquest_r1c0.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guildquest_r1c1.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guildquest_r1c2.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guildquest_r2c0.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guildquest_r2c1.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guildquest_r2c2.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guildquest_r3c0.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guildquest_r3c1.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guildquest_r3c2.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
     }
   ]
 }
