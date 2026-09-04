@@ -95,7 +95,44 @@ def big_textures() -> set:
     return keep
 
 
+def world_textures() -> set:
+    """월드에 3D 로 놓이는 아이템 모델(`elements` 직접 정의)이 쓰는 텍스처.
+
+    ★슬롯 아이콘 판정(`oversized_in_gui`)으로는 이걸 못 잡는다 — GUI 에는 아예 안
+    나오고 ItemDisplay 로만 월드에 서기 때문이다. 2026-09-03 감량 때 룰렛 숫자판
+    (256px, 테이블 위 2.14블록)이 슬롯 아이콘으로 오판돼 64px 로 깎였다.
+    화면에서 가장 크게 그려지는 축이므로 원본 해상도를 그대로 내보낸다.
+    """
+    keep = set()
+    for items_dir in RP.glob("assets/*/items"):
+        for jf in items_dir.rglob("*.json"):
+            try:
+                data = json.loads(jf.read_text(encoding="utf-8"))
+            except Exception:
+                continue
+            refs = set()
+            _model_refs(data, refs)
+            for ref in refs:
+                mp = _ref_to_path(ref, "models", ".json")
+                try:
+                    model = json.loads(mp.read_text(encoding="utf-8"))
+                except Exception:
+                    continue
+                if "elements" not in model:
+                    continue  # generated 평면 아이콘 = 슬롯 전용
+                for tex in (model.get("textures") or {}).values():
+                    if not isinstance(tex, str) or tex.startswith("#"):
+                        continue
+                    tp = _ref_to_path(tex, "textures", ".png")
+                    try:
+                        keep.add(tp.relative_to(RP).as_posix())
+                    except ValueError:
+                        pass
+    return keep
+
+
 BIG = big_textures()
+WORLD = world_textures()
 
 # ★소스 폴더를 잘못 잡으면 «항목 2개짜리 팩»이 조용히 만들어진다(2026-09-03 실측:
 #   RP_ROOT 없이 스크립트 폴더에서 돌렸다). 여기서 크게 실패시켜 다음 단계로 못 가게 한다.
@@ -129,14 +166,17 @@ with zipfile.ZipFile(OUT, "w", zipfile.ZIP_DEFLATED, compresslevel=9) as z:
             png_before += len(data)
             try:
                 image = Image.open(io.BytesIO(data))
-                if name.startswith(MENU_ART_PREFIX):
+                if name in WORLD:
+                    cap = None  # 월드 3D 배치물 — 원본 해상도 유지
+                elif name.startswith(MENU_ART_PREFIX):
                     cap = MENU_ART_MAX
                 elif name in BIG:
                     cap = BIG_MAX
                 else:
                     cap = SLOT_MAX
                 if (
-                    name.startswith("assets/minecraft/textures/item/")
+                    cap is not None
+                    and name.startswith("assets/minecraft/textures/item/")
                     and f"{name}.mcmeta" not in files
                     and max(image.size) > cap
                 ):
@@ -161,6 +201,6 @@ with zipfile.ZipFile(OUT, "w", zipfile.ZIP_DEFLATED, compresslevel=9) as z:
         z.writestr(info, data)
 
 print(f"entries={len(files)}")
-print(f"big_textures={len(BIG)} (128px 유지) · 나머지 아이템 텍스처 상한={SLOT_MAX}px")
+print(f"big_textures={len(BIG)} (128px 유지) · world_textures={len(WORLD)} (원본 유지) · 나머지 아이템 텍스처 상한={SLOT_MAX}px")
 print(f"png={png_before}->{png_after}")
 print(f"zip={OUT.stat().st_size}")
