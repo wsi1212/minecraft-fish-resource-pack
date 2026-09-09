@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/barkan_icon/skill_mining_protective_coating_locked"
+  },
+  "display": {
+    "gui": {
+      "scale": [
+        1.332,
+        1.332,
+        1.332
+      ]
+    }
+  }
+}
