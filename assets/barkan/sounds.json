@@ -603,358 +603,6 @@
       }
     ]
   },
-  "piano.release_00": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_00",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_01": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_01",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_02": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_02",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_03": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_03",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_04": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_04",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_05": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_05",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_06": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_06",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_07": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_07",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_08": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_08",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_09": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_09",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_10": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_10",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_11": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_11",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_12": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_12",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_13": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_13",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_14": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_14",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_15": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_15",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_16": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_16",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_17": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_17",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_18": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_18",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_19": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_19",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_20": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_20",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_21": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_21",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_22": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_22",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_23": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_23",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_24": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_24",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_25": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_25",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_26": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_26",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_27": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_27",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_28": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_28",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_29": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_29",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_30": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_30",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_31": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_31",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_32": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_32",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_33": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_33",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_34": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_34",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_35": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_35",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_36": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_36",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_37": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_37",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_38": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_38",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_39": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_39",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_40": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_40",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_41": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_41",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_42": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_42",
-        "stream": false
-      }
-    ]
-  },
-  "piano.release_43": {
-    "sounds": [
-      {
-        "name": "barkan:piano/release_43",
-        "stream": false
-      }
-    ]
-  },
   "siren_head.alert": {
     "sounds": [
       {
@@ -967,6 +615,110 @@
     "sounds": [
       {
         "name": "barkan:siren_head/kill",
+        "stream": false
+      }
+    ]
+  },
+  "bgm.deep_forest_rain": {
+    "sounds": [
+      {
+        "name": "barkan:bgm/deep_forest_rain",
+        "stream": true
+      }
+    ]
+  },
+  "bgm.deep_forest_thunder": {
+    "sounds": [
+      {
+        "name": "barkan:bgm/deep_forest_thunder",
+        "stream": true
+      }
+    ]
+  },
+  "bgm.swamp_clear": {
+    "sounds": [
+      {
+        "name": "barkan:bgm/swamp_clear",
+        "stream": true
+      }
+    ]
+  },
+  "bgm.casino_2": {
+    "sounds": [
+      {
+        "name": "barkan:bgm/casino_2",
+        "stream": true
+      }
+    ]
+  },
+  "bgm.plains_rain": {
+    "sounds": [
+      {
+        "name": "barkan:bgm/plains_rain",
+        "stream": true
+      }
+    ]
+  },
+  "bgm.plains_thunder": {
+    "sounds": [
+      {
+        "name": "barkan:bgm/plains_thunder",
+        "stream": true
+      }
+    ]
+  },
+  "bgm.merchant_town_clear": {
+    "sounds": [
+      {
+        "name": "barkan:bgm/merchant_town_clear",
+        "stream": true
+      }
+    ]
+  },
+  "bgm.spawn_city_rain": {
+    "sounds": [
+      {
+        "name": "barkan:bgm/spawn_city_rain",
+        "stream": true
+      }
+    ]
+  },
+  "piano.note_44": {
+    "sounds": [
+      {
+        "name": "barkan:piano/note_44",
+        "stream": false
+      }
+    ]
+  },
+  "piano.note_45": {
+    "sounds": [
+      {
+        "name": "barkan:piano/note_45",
+        "stream": false
+      }
+    ]
+  },
+  "piano.note_46": {
+    "sounds": [
+      {
+        "name": "barkan:piano/note_46",
+        "stream": false
+      }
+    ]
+  },
+  "piano.note_47": {
+    "sounds": [
+      {
+        "name": "barkan:piano/note_47",
+        "stream": false
+      }
+    ]
+  },
+  "piano.note_48": {
+    "sounds": [
+      {
+        "name": "barkan:piano/note_48",
         "stream": false
       }
     ]
