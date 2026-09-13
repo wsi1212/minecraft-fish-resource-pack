@@ -4231,6 +4231,46 @@
           "type": "minecraft:model",
           "model": "minecraft:item/fish/huincheolgapsangeo"
         }
+      },
+      {
+        "when": "fountain_trash_plastic_bottle",
+        "model": {"type": "minecraft:model", "model": "minecraft:item/fish/fountain_trash_plastic_bottle"}
+      },
+      {
+        "when": "fountain_trash_worn_tire",
+        "model": {"type": "minecraft:model", "model": "minecraft:item/fish/fountain_trash_worn_tire"}
+      },
+      {
+        "when": "fountain_trash_snack_wrapper",
+        "model": {"type": "minecraft:model", "model": "minecraft:item/fish/fountain_trash_snack_wrapper"}
+      },
+      {
+        "when": "fountain_trash_bent_fork",
+        "model": {"type": "minecraft:model", "model": "minecraft:item/fish/fountain_trash_bent_fork"}
+      },
+      {
+        "when": "fountain_trash_soggy_newspaper",
+        "model": {"type": "minecraft:model", "model": "minecraft:item/fish/fountain_trash_soggy_newspaper"}
+      },
+      {
+        "when": "fountain_trash_waterlogged_boot",
+        "model": {"type": "minecraft:model", "model": "minecraft:item/fish/fountain_trash_waterlogged_boot"}
+      },
+      {
+        "when": "fountain_trash_rusty_can",
+        "model": {"type": "minecraft:model", "model": "minecraft:item/fish/fountain_trash_rusty_can"}
+      },
+      {
+        "when": "fountain_trash_torn_bag",
+        "model": {"type": "minecraft:model", "model": "minecraft:item/fish/fountain_trash_torn_bag"}
+      },
+      {
+        "when": "fountain_trash_broken_cup",
+        "model": {"type": "minecraft:model", "model": "minecraft:item/fish/fountain_trash_broken_cup"}
+      },
+      {
+        "when": "fountain_trash_tangled_net",
+        "model": {"type": "minecraft:model", "model": "minecraft:item/fish/fountain_trash_tangled_net"}
       }
     ],
     "fallback": {
