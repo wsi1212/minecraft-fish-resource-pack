@@ -722,5 +722,101 @@
         "stream": false
       }
     ]
+  },
+  "piano.note_49": {
+    "sounds": [
+      {
+        "name": "barkan:piano/note_49",
+        "stream": false
+      }
+    ]
+  },
+  "piano.note_50": {
+    "sounds": [
+      {
+        "name": "barkan:piano/note_50",
+        "stream": false
+      }
+    ]
+  },
+  "piano.note_51": {
+    "sounds": [
+      {
+        "name": "barkan:piano/note_51",
+        "stream": false
+      }
+    ]
+  },
+  "piano.note_52": {
+    "sounds": [
+      {
+        "name": "barkan:piano/note_52",
+        "stream": false
+      }
+    ]
+  },
+  "piano.note_53": {
+    "sounds": [
+      {
+        "name": "barkan:piano/note_53",
+        "stream": false
+      }
+    ]
+  },
+  "piano.note_54": {
+    "sounds": [
+      {
+        "name": "barkan:piano/note_54",
+        "stream": false
+      }
+    ]
+  },
+  "piano.note_55": {
+    "sounds": [
+      {
+        "name": "barkan:piano/note_55",
+        "stream": false
+      }
+    ]
+  },
+  "piano.note_56": {
+    "sounds": [
+      {
+        "name": "barkan:piano/note_56",
+        "stream": false
+      }
+    ]
+  },
+  "piano.note_57": {
+    "sounds": [
+      {
+        "name": "barkan:piano/note_57",
+        "stream": false
+      }
+    ]
+  },
+  "piano.note_58": {
+    "sounds": [
+      {
+        "name": "barkan:piano/note_58",
+        "stream": false
+      }
+    ]
+  },
+  "piano.note_59": {
+    "sounds": [
+      {
+        "name": "barkan:piano/note_59",
+        "stream": false
+      }
+    ]
+  },
+  "piano.note_60": {
+    "sounds": [
+      {
+        "name": "barkan:piano/note_60",
+        "stream": false
+      }
+    ]
   }
 }
