@@ -4271,6 +4271,18 @@
       {
         "when": "fountain_trash_tangled_net",
         "model": {"type": "minecraft:model", "model": "minecraft:item/fish/fountain_trash_tangled_net"}
+      },
+      {
+        "when": "fountain_coin_copper",
+        "model": {"type": "minecraft:model", "model": "minecraft:item/fish/fountain_coin_copper"}
+      },
+      {
+        "when": "fountain_coin_iron",
+        "model": {"type": "minecraft:model", "model": "minecraft:item/fish/fountain_coin_iron"}
+      },
+      {
+        "when": "fountain_coin_gold",
+        "model": {"type": "minecraft:model", "model": "minecraft:item/fish/fountain_coin_gold"}
       }
     ],
     "fallback": {
