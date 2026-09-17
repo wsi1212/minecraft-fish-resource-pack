@@ -142,6 +142,38 @@
       }
     ]
   },
+  "bgm.ocean": {
+    "sounds": [
+      {
+        "name": "barkan:bgm/ocean",
+        "stream": true
+      }
+    ]
+  },
+  "bgm.offshore": {
+    "sounds": [
+      {
+        "name": "barkan:bgm/offshore",
+        "stream": true
+      }
+    ]
+  },
+  "bgm.ocean_whale_boss": {
+    "sounds": [
+      {
+        "name": "barkan:bgm/ocean_whale_boss",
+        "stream": true
+      }
+    ]
+  },
+  "bgm.deep_sea": {
+    "sounds": [
+      {
+        "name": "barkan:bgm/deep_sea",
+        "stream": true
+      }
+    ]
+  },
   "chess.move": {
     "sounds": [
       {

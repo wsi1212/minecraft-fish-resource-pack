@@ -285,6 +285,34 @@
         }
       },
       {
+        "when": "gyoyeokdaeha",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/gyoyeokdaeha"
+        }
+      },
+      {
+        "when": "mulangaechamge",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/mulangaechamge"
+        }
+      },
+      {
+        "when": "manggaguleong_i",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/manggaguleong_i"
+        }
+      },
+      {
+        "when": "sangdanwangge",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/sangdanwangge"
+        }
+      },
+      {
         "when": "sangdanhwamulkkolipyo",
         "model": {
           "type": "minecraft:model",

@@ -2,31 +2,51 @@
   "providers": [
     {
       "type": "bitmap",
+      "file": "barkan:font/title_flame.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "barkan:font/weather_icons.png",
       "ascent": 8,
       "height": 9,
-      "chars": [""]
+      "chars": [
+        ""
+      ]
     },
     {
       "type": "ttf",
       "file": "barkan:aggro_medium.ttf",
       "size": 8,
       "oversample": 4,
-      "shift": [0, 0]
+      "shift": [
+        0,
+        0
+      ]
     },
     {
       "type": "ttf",
       "file": "barkan:fusion_pixel_12px_zh_hans.ttf",
       "size": 8,
       "oversample": 12,
-      "shift": [0, 0]
+      "shift": [
+        0,
+        0
+      ]
     },
     {
       "type": "ttf",
       "file": "barkan:noto_hanja.ttf",
       "size": 8,
       "oversample": 4,
-      "shift": [0, 0]
+      "shift": [
+        0,
+        0
+      ]
     },
     {
       "type": "reference",
