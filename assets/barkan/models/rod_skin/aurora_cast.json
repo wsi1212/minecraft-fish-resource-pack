@@ -1,5 +1,5 @@
 {
-  "credit": "Aurora v4.7 - midnight indigo body + antique gold + extended radial pulse",
+  "credit": "Aurora v4.8 - sculpted S-profile body + antique gold + bent cast",
   "ambientocclusion": false,
   "textures": {
     "atlas": "barkan:item/rod_skin/aurora_v4",
@@ -10364,9 +10364,9 @@
         "angle": 45,
         "axis": "y",
         "origin": [
-          8,
+          8.0,
           6.0,
-          8
+          8.0
         ],
         "rescale": false
       }
@@ -10511,9 +10511,9 @@
         "angle": 45,
         "axis": "y",
         "origin": [
-          8,
+          8.0,
           10.0,
-          8
+          8.0
         ],
         "rescale": false
       }
@@ -10658,9 +10658,9 @@
         "angle": 45,
         "axis": "y",
         "origin": [
-          8,
+          8.0,
           13.0,
-          8
+          8.0
         ],
         "rescale": false
       }
