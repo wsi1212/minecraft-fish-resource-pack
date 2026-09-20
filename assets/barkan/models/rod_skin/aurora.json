@@ -1,5 +1,5 @@
 {
-  "credit": "Aurora v4.9 - reversed cast bend + floating celestial stars",
+  "credit": "Aurora v5.0 - natural loaded bend + vanilla line-anchor calibrated first person",
   "ambientocclusion": false,
   "textures": {
     "atlas": "barkan:item/rod_skin/aurora_v4",
@@ -17407,34 +17407,34 @@
       "rotation": [
         0,
         -90,
-        36
+        10
       ],
       "translation": [
         0,
-        1.8,
-        0.55
+        1.6,
+        0.8
       ],
       "scale": [
-        0.62,
-        0.62,
-        0.62
+        0.34,
+        0.34,
+        0.34
       ]
     },
     "firstperson_lefthand": {
       "rotation": [
         0,
         90,
-        -36
+        -10
       ],
       "translation": [
         0,
-        1.8,
-        0.55
+        1.6,
+        0.8
       ],
       "scale": [
-        0.62,
-        0.62,
-        0.62
+        0.34,
+        0.34,
+        0.34
       ]
     },
     "gui": {
