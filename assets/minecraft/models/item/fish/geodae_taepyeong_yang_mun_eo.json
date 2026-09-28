@@ -16,6 +16,11 @@
         0.55,
         0.55,
         0.55
+      ],
+      "translation": [
+        0,
+        0.429,
+        0
       ]
     },
     "firstperson_lefthand": {
@@ -23,6 +28,11 @@
         0.55,
         0.55,
         0.55
+      ],
+      "translation": [
+        0,
+        0.429,
+        0
       ]
     },
     "thirdperson_righthand": {
@@ -30,6 +40,11 @@
         0.55,
         0.55,
         0.55
+      ],
+      "translation": [
+        0,
+        0.429,
+        0
       ]
     },
     "thirdperson_lefthand": {
@@ -37,6 +52,11 @@
         0.55,
         0.55,
         0.55
+      ],
+      "translation": [
+        0,
+        0.429,
+        0
       ]
     },
     "ground": {

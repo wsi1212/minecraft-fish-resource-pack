@@ -1,1 +1,36 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/fish/fountain_trash_snack_wrapper"}}
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/fish/fountain_trash_snack_wrapper"
+  },
+  "display": {
+    "firstperson_righthand": {
+      "translation": [
+        0,
+        0.136,
+        0
+      ]
+    },
+    "firstperson_lefthand": {
+      "translation": [
+        0,
+        0.136,
+        0
+      ]
+    },
+    "thirdperson_righthand": {
+      "translation": [
+        0,
+        0.136,
+        0
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        0,
+        0.136,
+        0
+      ]
+    }
+  }
+}

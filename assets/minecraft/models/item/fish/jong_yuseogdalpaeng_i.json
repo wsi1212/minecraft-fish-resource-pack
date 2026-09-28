@@ -2,5 +2,35 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "minecraft:item/fish/jong_yuseogdalpaeng_i"
+  },
+  "display": {
+    "firstperson_righthand": {
+      "translation": [
+        0,
+        1.451,
+        0
+      ]
+    },
+    "firstperson_lefthand": {
+      "translation": [
+        0,
+        1.451,
+        0
+      ]
+    },
+    "thirdperson_righthand": {
+      "translation": [
+        0,
+        1.451,
+        0
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        0,
+        1.451,
+        0
+      ]
+    }
   }
 }

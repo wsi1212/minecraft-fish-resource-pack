@@ -5,7 +5,39 @@
   },
   "display": {
     "gui": {
-      "scale": [1.0, 1.0, 1.0]
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "firstperson_righthand": {
+      "translation": [
+        0,
+        0.098,
+        0
+      ]
+    },
+    "firstperson_lefthand": {
+      "translation": [
+        0,
+        0.098,
+        0
+      ]
+    },
+    "thirdperson_righthand": {
+      "translation": [
+        0,
+        0.098,
+        0
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        0,
+        0.098,
+        0
+      ]
     }
   }
 }

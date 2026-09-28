@@ -3,5 +3,34 @@
   "textures": {
     "layer0": "minecraft:item/fish/coelacanth"
   },
-  "display": {}
+  "display": {
+    "firstperson_righthand": {
+      "translation": [
+        0,
+        0.004,
+        0
+      ]
+    },
+    "firstperson_lefthand": {
+      "translation": [
+        0,
+        0.004,
+        0
+      ]
+    },
+    "thirdperson_righthand": {
+      "translation": [
+        0,
+        0.004,
+        0
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        0,
+        0.004,
+        0
+      ]
+    }
+  }
 }

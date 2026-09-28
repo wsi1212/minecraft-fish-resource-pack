@@ -2,5 +2,35 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "minecraft:item/fish/hyeobgokjinggeomisaeu"
+  },
+  "display": {
+    "firstperson_righthand": {
+      "translation": [
+        0,
+        1.099,
+        0
+      ]
+    },
+    "firstperson_lefthand": {
+      "translation": [
+        0,
+        1.099,
+        0
+      ]
+    },
+    "thirdperson_righthand": {
+      "translation": [
+        0,
+        1.099,
+        0
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        0,
+        1.099,
+        0
+      ]
+    }
   }
 }
