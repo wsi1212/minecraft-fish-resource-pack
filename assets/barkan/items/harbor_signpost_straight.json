@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:display_context",
+    "cases": [
+      {
+        "when": "gui",
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:item/furniture/signposts/icon/harbor_signpost_straight"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "barkan:item/furniture/signposts/harbor_signpost_straight"
+    }
+  }
+}
