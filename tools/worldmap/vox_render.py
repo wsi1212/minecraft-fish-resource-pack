@@ -27,6 +27,7 @@ TOWNS = {
     'upper':  ('상단마을', 1075, -70, 66, 310),
     'royal':  ('왕도', 463, 203, 90, 300),
 }
+FORCE_HEAL_TO_GUILD = {'desert'}
 # NPC-tag -> label text (None = skip)
 TAGS = {'대장간': '대장간', '상점': '상점', '길드': '길드', '물고기 판매': '물고기 판매', '요리': '요리',
         '여관': '여관', '유저마켓': '마켓', '회복': '회복', '조선소': '조선소', '말 대여': '말 대여', '퀘스트': '퀘스트'}
@@ -255,6 +256,11 @@ def main(key):
                 if t not in m['t']: m['t'].append(t)
                 m['x'] += cxx; m['z'] += czz; m['y'] += y / n; m['n'] += 1; break
         else: mg.append({'t': [t], 'x': cxx, 'z': czz, 'y': y / n, 'n': 1})
+    if key in FORCE_HEAL_TO_GUILD:   # 회복 NPC 라벨을 길드 라벨에 합친다
+        g = next((m for m in mg if '길드' in m['t']), None)
+        h = next((m for m in mg if m['t'] == ['회복']), None)
+        if g and h:
+            g['t'].append('회복'); g['x'] += h['x']; g['z'] += h['z']; g['y'] += h['y']; g['n'] += h['n']; mg.remove(h)
     cl = [[m['t'], m['x'], m['z'], m['y'], m['n']] for m in mg]
     def project(x, y, z):
         u, v = proj_rel(x - x1, y - ymin, z - z1, S)
