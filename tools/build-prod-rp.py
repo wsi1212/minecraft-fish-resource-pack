@@ -27,6 +27,7 @@ JUNK = (".bak", "backup", "_prepad", "pf_reference", ".DS_Store", ".codex-backup
 #   ★크게 그려지는 아이콘(oversized_in_gui, 물고기·스킬 노드 등)은 128px 을 유지한다.
 SLOT_MAX = 64
 BIG_MAX = 128
+HAND_MAX = 256
 # 메뉴 아트는 GUI 에서 크게 렌더링된다 — 아이템 정의에 oversized_in_gui 도 gui.scale 도
 # 없어서 위 자동 판정에 걸리지 않으므로 이름으로 예외를 둔다(맥 배포기에 있던 규칙).
 MENU_ART_PREFIX = "assets/minecraft/textures/item/barkan_icon/ui_menu_"
@@ -131,8 +132,83 @@ def world_textures() -> set:
     return keep
 
 
+def hand_textures() -> set:
+    """Resolve inherited flat models used in hands, including context-only branches.
+
+    A generated plane is also a held item. GUI fallback textures in a
+    display_context selector are considered separately from its hand cases.
+    """
+    keep = set()
+    hands = {"firstperson_righthand", "firstperson_lefthand",
+             "thirdperson_righthand", "thirdperson_lefthand"}
+    handheld = {"minecraft:item/handheld", "minecraft:item/handheld_rod"}
+
+    def canonical(ref):
+        return ref if ":" in ref else "minecraft:" + ref
+
+    def resolve(ref, seen=None):
+        seen = set() if seen is None else set(seen)
+        ref = canonical(ref)
+        if ref in seen:
+            return {}, False
+        seen.add(ref)
+        try:
+            model = json.loads(_ref_to_path(ref, "models", ".json").read_text())
+        except (OSError, ValueError):
+            return {}, ref in handheld
+        parent = model.get("parent")
+        inherited, is_hand = resolve(parent, seen) if isinstance(parent, str) else ({}, False)
+        inherited.update(model.get("textures") or {})
+        is_hand = is_hand or bool(hands.intersection(model.get("display") or {}))
+        return inherited, is_hand
+
+    def add(ref, forced):
+        textures, inferred = resolve(ref)
+        if not (forced or inferred):
+            return
+        for value in textures.values():
+            visited = set()
+            while isinstance(value, str) and value.startswith("#"):
+                key = value[1:]
+                if key in visited:
+                    value = None
+                    break
+                visited.add(key)
+                value = textures.get(key)
+            if isinstance(value, str):
+                keep.add(_ref_to_path(value, "textures", ".png").relative_to(RP).as_posix())
+
+    def visit(node, forced=False):
+        if isinstance(node, list):
+            for child in node:
+                visit(child, forced)
+        elif isinstance(node, dict):
+            if isinstance(node.get("model"), str):
+                add(node["model"], forced)
+            if node.get("property") == "minecraft:display_context":
+                visit(node.get("fallback"), forced)
+                for case in node.get("cases", []):
+                    contexts = case.get("when", [])
+                    if isinstance(contexts, str):
+                        contexts = [contexts]
+                    visit(case.get("model"), forced or bool(hands.intersection(contexts)))
+                return
+            for key, child in node.items():
+                if key != "model" or not isinstance(child, str):
+                    visit(child, forced)
+
+    for items_dir in RP.glob("assets/*/items"):
+        for jf in items_dir.rglob("*.json"):
+            try:
+                visit(json.loads(jf.read_text()))
+            except (OSError, ValueError):
+                continue
+    return keep
+
+
 BIG = big_textures()
 WORLD = world_textures()
+HAND = hand_textures()
 
 # ★소스 폴더를 잘못 잡으면 «항목 2개짜리 팩»이 조용히 만들어진다(2026-09-03 실측:
 #   RP_ROOT 없이 스크립트 폴더에서 돌렸다). 여기서 크게 실패시켜 다음 단계로 못 가게 한다.
@@ -170,16 +246,21 @@ with zipfile.ZipFile(OUT, "w", zipfile.ZIP_DEFLATED, compresslevel=9) as z:
                     cap = None  # 월드 3D 배치물 — 원본 해상도 유지
                 elif name.startswith(MENU_ART_PREFIX):
                     cap = MENU_ART_MAX
+                elif name in HAND:
+                    cap = HAND_MAX
                 elif name in BIG:
                     cap = BIG_MAX
                 else:
                     cap = SLOT_MAX
+                resized = False
                 if (
                     cap is not None
-                    and name.startswith("assets/minecraft/textures/item/")
+                    and name.startswith("assets/")
+                    and "/textures/item/" in name
                     and f"{name}.mcmeta" not in files
                     and max(image.size) > cap
                 ):
+                    resized = True
                     ratio = cap / max(image.size)
                     image = image.resize(
                         (
@@ -190,7 +271,7 @@ with zipfile.ZipFile(OUT, "w", zipfile.ZIP_DEFLATED, compresslevel=9) as z:
                     )
                 buf = io.BytesIO()
                 image.save(buf, "PNG", optimize=True)
-                if buf.tell() < len(data):
+                if resized or buf.tell() < len(data):
                     data = buf.getvalue()
             except Exception:
                 pass
@@ -201,6 +282,7 @@ with zipfile.ZipFile(OUT, "w", zipfile.ZIP_DEFLATED, compresslevel=9) as z:
         z.writestr(info, data)
 
 print(f"entries={len(files)}")
+print(f"hand_textures={len(HAND)} (상한 {HAND_MAX}px)")
 print(f"big_textures={len(BIG)} (128px 유지) · world_textures={len(WORLD)} (원본 유지) · 나머지 아이템 텍스처 상한={SLOT_MAX}px")
 print(f"png={png_before}->{png_after}")
 print(f"zip={OUT.stat().st_size}")

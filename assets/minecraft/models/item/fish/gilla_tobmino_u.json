@@ -13,30 +13,50 @@
     },
     "firstperson_righthand": {
       "translation": [
-        0,
-        0.189,
+        0.416431,
+        3.246551,
         0
+      ],
+      "scale": [
+        0.60761,
+        0.60761,
+        0.60761
       ]
     },
     "firstperson_lefthand": {
       "translation": [
-        0,
-        0.189,
+        0.416431,
+        3.246551,
         0
+      ],
+      "scale": [
+        0.60761,
+        0.60761,
+        0.60761
       ]
     },
     "thirdperson_righthand": {
       "translation": [
-        0,
-        0.189,
+        0.416431,
+        3.246551,
         0
+      ],
+      "scale": [
+        0.60761,
+        0.60761,
+        0.60761
       ]
     },
     "thirdperson_lefthand": {
       "translation": [
-        0,
-        0.189,
+        0.416431,
+        3.246551,
         0
+      ],
+      "scale": [
+        0.60761,
+        0.60761,
+        0.60761
       ]
     }
   }

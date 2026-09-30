@@ -2,5 +2,55 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "minecraft:item/fish/unmudorongnyong"
+  },
+  "display": {
+    "firstperson_righthand": {
+      "translation": [
+        0.330085,
+        2.3285,
+        0
+      ],
+      "scale": [
+        0.593205,
+        0.593205,
+        0.593205
+      ]
+    },
+    "firstperson_lefthand": {
+      "translation": [
+        0.330085,
+        2.3285,
+        0
+      ],
+      "scale": [
+        0.593205,
+        0.593205,
+        0.593205
+      ]
+    },
+    "thirdperson_righthand": {
+      "translation": [
+        0.330085,
+        2.3285,
+        0
+      ],
+      "scale": [
+        0.593205,
+        0.593205,
+        0.593205
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        0.330085,
+        2.3285,
+        0
+      ],
+      "scale": [
+        0.593205,
+        0.593205,
+        0.593205
+      ]
+    }
   }
 }

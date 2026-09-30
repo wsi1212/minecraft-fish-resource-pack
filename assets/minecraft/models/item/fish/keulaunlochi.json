@@ -2,5 +2,55 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "minecraft:item/fish/keulaunlochi"
+  },
+  "display": {
+    "firstperson_righthand": {
+      "translation": [
+        0.395563,
+        3.013295,
+        0
+      ],
+      "scale": [
+        0.569245,
+        0.569245,
+        0.569245
+      ]
+    },
+    "firstperson_lefthand": {
+      "translation": [
+        0.395563,
+        3.013295,
+        0
+      ],
+      "scale": [
+        0.569245,
+        0.569245,
+        0.569245
+      ]
+    },
+    "thirdperson_righthand": {
+      "translation": [
+        0.395563,
+        3.013295,
+        0
+      ],
+      "scale": [
+        0.569245,
+        0.569245,
+        0.569245
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        0.395563,
+        3.013295,
+        0
+      ],
+      "scale": [
+        0.569245,
+        0.569245,
+        0.569245
+      ]
+    }
   }
 }

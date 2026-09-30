@@ -10,6 +10,54 @@
         1.0,
         1.0
       ]
+    },
+    "firstperson_righthand": {
+      "translation": [
+        0.434665,
+        2.697943,
+        0
+      ],
+      "scale": [
+        0.568763,
+        0.568763,
+        0.568763
+      ]
+    },
+    "firstperson_lefthand": {
+      "translation": [
+        0.434665,
+        2.697943,
+        0
+      ],
+      "scale": [
+        0.568763,
+        0.568763,
+        0.568763
+      ]
+    },
+    "thirdperson_righthand": {
+      "translation": [
+        0.434665,
+        2.697943,
+        0
+      ],
+      "scale": [
+        0.568763,
+        0.568763,
+        0.568763
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        0.434665,
+        2.697943,
+        0
+      ],
+      "scale": [
+        0.568763,
+        0.568763,
+        0.568763
+      ]
     }
   }
 }

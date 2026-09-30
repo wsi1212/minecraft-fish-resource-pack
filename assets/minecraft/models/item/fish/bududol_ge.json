@@ -2,5 +2,55 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "minecraft:item/fish/bududol_ge"
+  },
+  "display": {
+    "firstperson_righthand": {
+      "translation": [
+        0.653869,
+        2.961045,
+        0
+      ],
+      "scale": [
+        0.548157,
+        0.548157,
+        0.548157
+      ]
+    },
+    "firstperson_lefthand": {
+      "translation": [
+        0.653869,
+        2.961045,
+        0
+      ],
+      "scale": [
+        0.548157,
+        0.548157,
+        0.548157
+      ]
+    },
+    "thirdperson_righthand": {
+      "translation": [
+        0.653869,
+        2.961045,
+        0
+      ],
+      "scale": [
+        0.548157,
+        0.548157,
+        0.548157
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        0.653869,
+        2.961045,
+        0
+      ],
+      "scale": [
+        0.548157,
+        0.548157,
+        0.548157
+      ]
+    }
   }
 }

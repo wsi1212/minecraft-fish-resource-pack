@@ -2,5 +2,55 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "minecraft:item/fish/jinheugmalmijalge"
+  },
+  "display": {
+    "firstperson_righthand": {
+      "translation": [
+        0.832065,
+        2.778134,
+        0
+      ],
+      "scale": [
+        0.523364,
+        0.523364,
+        0.523364
+      ]
+    },
+    "firstperson_lefthand": {
+      "translation": [
+        0.832065,
+        2.778134,
+        0
+      ],
+      "scale": [
+        0.523364,
+        0.523364,
+        0.523364
+      ]
+    },
+    "thirdperson_righthand": {
+      "translation": [
+        0.832065,
+        2.778134,
+        0
+      ],
+      "scale": [
+        0.523364,
+        0.523364,
+        0.523364
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        0.832065,
+        2.778134,
+        0
+      ],
+      "scale": [
+        0.523364,
+        0.523364,
+        0.523364
+      ]
+    }
   }
 }

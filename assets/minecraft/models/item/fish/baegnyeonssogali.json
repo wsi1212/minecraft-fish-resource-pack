@@ -2,5 +2,55 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "minecraft:item/fish/baegnyeonssogali"
+  },
+  "display": {
+    "firstperson_righthand": {
+      "translation": [
+        -0.123206,
+        2.870341,
+        0
+      ],
+      "scale": [
+        0.625243,
+        0.625243,
+        0.625243
+      ]
+    },
+    "firstperson_lefthand": {
+      "translation": [
+        -0.123206,
+        2.870341,
+        0
+      ],
+      "scale": [
+        0.625243,
+        0.625243,
+        0.625243
+      ]
+    },
+    "thirdperson_righthand": {
+      "translation": [
+        -0.123206,
+        2.870341,
+        0
+      ],
+      "scale": [
+        0.625243,
+        0.625243,
+        0.625243
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        -0.123206,
+        2.870341,
+        0
+      ],
+      "scale": [
+        0.625243,
+        0.625243,
+        0.625243
+      ]
+    }
   }
 }

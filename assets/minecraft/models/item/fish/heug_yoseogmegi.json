@@ -2,5 +2,55 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "minecraft:item/fish/heug_yoseogmegi"
+  },
+  "display": {
+    "firstperson_righthand": {
+      "translation": [
+        0.39748,
+        2.695151,
+        0
+      ],
+      "scale": [
+        0.583828,
+        0.583828,
+        0.583828
+      ]
+    },
+    "firstperson_lefthand": {
+      "translation": [
+        0.39748,
+        2.695151,
+        0
+      ],
+      "scale": [
+        0.583828,
+        0.583828,
+        0.583828
+      ]
+    },
+    "thirdperson_righthand": {
+      "translation": [
+        0.39748,
+        2.695151,
+        0
+      ],
+      "scale": [
+        0.583828,
+        0.583828,
+        0.583828
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        0.39748,
+        2.695151,
+        0
+      ],
+      "scale": [
+        0.583828,
+        0.583828,
+        0.583828
+      ]
+    }
   }
 }

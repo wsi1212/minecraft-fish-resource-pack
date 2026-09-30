@@ -1,13 +1,17 @@
 #!/usr/bin/env python3
-"""Center fish held-item models using each texture's alpha-weighted center of mass.
+"""Fit fish held-item models using alpha-weighted center of mass and visible bounds.
 
 Preview with:
     python3 tools/fish_hand_lift.py
-Apply the calculated first/third-person hand translations with:
+Apply the whole-catalog alignment with:
     python3 tools/fish_hand_lift.py --apply
+Align selected models using the same visual anchor:
+    python3 tools/fish_hand_lift.py --apply --only gaebogchi maega_oli
 
 The baseline file makes --apply idempotent: rerunning it recalculates from the
-original hand translations instead of adding the lift a second time.
+original hand scales and translations, avoiding cumulative lift or shrinking.
+The accepted reference fish defines the safe model-space frame; GUI and ground
+poses remain untouched. Camera FOV/aspect-ratio still need in-game verification.
 """
 
 from __future__ import annotations
@@ -15,7 +19,6 @@ from __future__ import annotations
 import argparse
 import json
 from pathlib import Path
-from statistics import median
 
 
 PACK_ROOT = Path(__file__).resolve().parents[1]
@@ -78,124 +81,94 @@ def json_bytes(data: object) -> bytes:
     return (json.dumps(data, ensure_ascii=False, indent=2) + "\n").encode("utf-8")
 
 
+def visible_bounds(path: Path) -> tuple[float, float, float, float]:
+    from PIL import Image
+    with Image.open(path) as im:
+        alpha = im.convert("RGBA").getchannel("A")
+        box = alpha.point(lambda value: 255 if value >= 32 else 0).getbbox()
+        if box is None:
+            raise ValueError(f"no visible body: {path}")
+        return (box[0] / im.width, box[1] / im.height,
+                box[2] / im.width, box[3] / im.height)
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--apply", action="store_true", help="write calculated hand transforms")
-    parser.add_argument(
-        "--target-com",
-        type=float,
-        help="target vertical COM as a fraction from the top (default: median across fish)",
-    )
+    parser.add_argument("--apply", action="store_true")
+    parser.add_argument("--anchor-model", default="gaebogchi")
+    parser.add_argument("--anchor-y", type=float, default=3.0)
+    parser.add_argument("--only", nargs="+")
+    parser.add_argument("--report", type=Path)
     args = parser.parse_args()
-    if args.target_com is not None and not 0 < args.target_com < 1:
-        parser.error("--target-com must be between 0 and 1")
-
     baselines = load_baselines()
-    baseline_models = baselines.setdefault("models", {})
-    entries: list[dict] = []
-    skipped: list[str] = []
-
-    for model_path in sorted(MODEL_DIR.glob("*.json")):
-        try:
-            model = json.loads(model_path.read_text(encoding="utf-8"))
-        except (OSError, json.JSONDecodeError) as exc:
-            skipped.append(f"{model_path.name}: invalid model JSON ({exc})")
+    baselines["format"] = 2
+    originals = baselines.setdefault("poses", {})
+    entries = []
+    for path in sorted(MODEL_DIR.glob("*.json")):
+        model = json.loads(path.read_text())
+        image = texture_path(model, path)
+        if image is None:
+            raise ValueError(f"unresolvable texture: {path}")
+        cx, cy, mass = alpha_center_of_mass(image)
+        bounds = visible_bounds(image)
+        saved = originals.setdefault(path.name, {})
+        for name in HAND_POSES:
+            pose = model["display"][name]
+            if pose.get("rotation", [0, 0, 0]) != [0, 0, 0]:
+                raise ValueError(f"rotated pose requires projected bounds: {path}, {name}")
+            # Version 1 aligned Y only, so its current scale and X are originals.
+            saved.setdefault(name, {
+                "scale": list(pose.get("scale", [1, 1, 1])),
+                "translation": list(pose.get("translation", [0, 0, 0])),
+            })
+        entries.append(dict(path=path, model=model, cx=cx, cy=cy, bounds=bounds, saved=saved))
+    ref = next(e for e in entries if e["path"].stem == args.anchor_model)
+    report = []
+    changed = 0
+    for e in entries:
+        if args.only and e["path"].stem not in args.only:
             continue
-        image_path = texture_path(model, model_path)
-        if image_path is None:
-            skipped.append(f"{model_path.name}: no resolvable layer0 texture")
-            continue
-        try:
-            com_x, com_y, visible_fraction = alpha_center_of_mass(image_path)
-        except (OSError, ValueError) as exc:
-            skipped.append(f"{model_path.name}: {exc}")
-            continue
-
-        display = model.setdefault("display", {})
-        saved = baseline_models.get(model_path.name)
-        baseline_y: dict[str, float] = {}
-        for pose_name in HAND_POSES:
-            pose = display.setdefault(pose_name, {})
-            if saved is not None and pose_name in saved:
-                base_y = float(saved[pose_name])
-            else:
-                current = pose.get("translation", [0, 0, 0])
-                base_y = float(current[1]) if len(current) > 1 else 0.0
-            baseline_y[pose_name] = base_y
-        baseline_models[model_path.name] = baseline_y
-
-        hand_scales = [
-            float(display[name].get("scale", [1, 1, 1])[1])
-            for name in HAND_POSES
-        ]
-        entries.append(
-            {
-                "path": model_path,
-                "model": model,
-                "com_x": com_x,
-                "com_y": com_y,
-                "visible_fraction": visible_fraction,
-                "baseline_y": baseline_y,
-                "hand_scale": sum(hand_scales) / len(hand_scales),
-            }
-        )
-
-    if not entries:
-        print("No fish models with readable layer0 textures were found.")
-        return 1
-
-    target = args.target_com if args.target_com is not None else median(e["com_y"] for e in entries)
-    print(f"Fish models analyzed: {len(entries)}")
-    print(f"Target vertical alpha COM: {target:.3f} (texture y fraction, top to bottom)")
-    print("Model                         COM-y   lift   old-y -> new-y")
-
-    changed_files: list[tuple[Path, bytes]] = []
-    raised = 0
-    for entry in entries:
-        model = entry["model"]
-        display = model["display"]
-        # Positive JSON y moves the held item upward. Convert texture fraction
-        # to Minecraft's 16-unit item-model coordinate space. Alpha is the
-        # silhouette's mass proxy, so transparent padding has no influence.
-        lift = max(0.0, (entry["com_y"] - target) * 16.0)
-        if lift > 0.01:
-            raised += 1
-        old_values = []
-        changed = False
-        new_y = round(entry["baseline_y"][HAND_POSES[0]] + lift, 3)
-        for pose_name in HAND_POSES:
-            pose = display[pose_name]
-            translation = list(pose.get("translation", [0, 0, 0]))
-            while len(translation) < 3:
-                translation.append(0)
-            old_values.append(float(translation[1]))
-            desired_y = round(entry["baseline_y"][pose_name] + lift, 3)
-            if float(translation[1]) != desired_y or "translation" not in pose and desired_y != 0:
-                changed = True
-                translation[1] = desired_y
-                pose["translation"] = translation
-        if lift > 0.01 or any(value != 0 for value in old_values):
-            print(
-                f"{entry['path'].stem:29} {entry['com_y']:.3f}  +{lift:5.2f}  "
-                f"{old_values[0]:5.2f} -> {new_y:5.2f}"
-            )
-        if args.apply and changed:
-            changed_files.append((entry["path"], json_bytes(model)))
-
-    if skipped:
-        print(f"\nSkipped {len(skipped)} model(s):")
-        for message in skipped:
-            print(f"  {message}")
-
+        before = json_bytes(e["model"])
+        pose_report = {}
+        for name in HAND_POSES:
+            ref_scale = ref["saved"][name]["scale"]
+            scale = e["saved"][name]["scale"]
+            # Distance from alpha COM to all four visible edges in model units.
+            def extents(item, base_scale):
+                left, top, right, bottom = item["bounds"]
+                return [(item["cx"]-left)*16*base_scale[0],
+                        (right-item["cx"])*16*base_scale[0],
+                        (item["cy"]-top)*16*base_scale[1],
+                        (bottom-item["cy"])*16*base_scale[1]]
+            allowed = extents(ref, ref_scale)
+            distances = extents(e, scale)
+            factor = min([1.0] + [a / d for a, d in zip(allowed, distances) if d > 0])
+            # Round down so serialized scales never push an edge outside the frame.
+            import math
+            fitted = [math.floor(v*factor*1_000_000)/1_000_000 for v in scale]
+            tx = ref["saved"][name]["translation"][0] + (ref["cx"]-.5)*16*ref_scale[0]
+            ty = args.anchor_y + (.5-ref["cy"])*16*ref_scale[1]
+            translation = list(e["saved"][name]["translation"])
+            translation[0] = round(tx-(e["cx"]-.5)*16*fitted[0], 6)
+            translation[1] = round(ty-(.5-e["cy"])*16*fitted[1], 6)
+            pose = e["model"]["display"][name]
+            pose["scale"] = fitted
+            pose["translation"] = translation
+            pose_report[name] = dict(fit=factor, scale=fitted, translation=translation,
+                                     edges=extents(e, fitted), allowed=allowed)
+        after = json_bytes(e["model"])
+        if before != after:
+            changed += 1
+            if args.apply:
+                e["path"].write_bytes(after)
+        report.append(dict(model=e["path"].stem, com=[e["cx"], e["cy"]], bounds=e["bounds"], poses=pose_report))
     if args.apply:
-        for path, content in changed_files:
-            path.write_bytes(content)
         BASELINE_PATH.write_bytes(json_bytes(baselines))
-        print(f"\nApplied calculated lifts to {len(changed_files)} models; raised {raised}.")
-        print(f"Baseline saved at {BASELINE_PATH}")
-    else:
-        print(f"\nPreview only: {raised} of {len(entries)} models would be raised.")
-        print("Run again with --apply to write the transforms.")
+    if args.report:
+        args.report.write_bytes(json_bytes(dict(anchor=args.anchor_model, anchor_y=args.anchor_y,
+                                                count=len(entries), changed=changed, items=report)))
+    print(f"Analyzed {len(entries)} fish; changed {changed}; {'applied' if args.apply else 'preview'}. "
+          f"All four hand poses fit the calibrated {args.anchor_model} frame.")
     return 0
 
 

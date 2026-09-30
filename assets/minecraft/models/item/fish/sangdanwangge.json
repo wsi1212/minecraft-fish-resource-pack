@@ -5,7 +5,59 @@
   },
   "display": {
     "gui": {
-      "scale": [1.0, 1.0, 1.0]
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "firstperson_righthand": {
+      "translation": [
+        0.280459,
+        3.037825,
+        0
+      ],
+      "scale": [
+        0.547719,
+        0.547719,
+        0.547719
+      ]
+    },
+    "firstperson_lefthand": {
+      "translation": [
+        0.280459,
+        3.037825,
+        0
+      ],
+      "scale": [
+        0.547719,
+        0.547719,
+        0.547719
+      ]
+    },
+    "thirdperson_righthand": {
+      "translation": [
+        0.280459,
+        3.037825,
+        0
+      ],
+      "scale": [
+        0.547719,
+        0.547719,
+        0.547719
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        0.280459,
+        3.037825,
+        0
+      ],
+      "scale": [
+        0.547719,
+        0.547719,
+        0.547719
+      ]
     }
   }
 }

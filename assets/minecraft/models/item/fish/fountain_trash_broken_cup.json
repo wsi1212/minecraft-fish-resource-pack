@@ -1,1 +1,56 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/fish/fountain_trash_broken_cup"}}
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/fish/fountain_trash_broken_cup"
+  },
+  "display": {
+    "firstperson_righthand": {
+      "translation": [
+        0.369781,
+        2.93217,
+        0
+      ],
+      "scale": [
+        0.572741,
+        0.572741,
+        0.572741
+      ]
+    },
+    "firstperson_lefthand": {
+      "translation": [
+        0.369781,
+        2.93217,
+        0
+      ],
+      "scale": [
+        0.572741,
+        0.572741,
+        0.572741
+      ]
+    },
+    "thirdperson_righthand": {
+      "translation": [
+        0.369781,
+        2.93217,
+        0
+      ],
+      "scale": [
+        0.572741,
+        0.572741,
+        0.572741
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        0.369781,
+        2.93217,
+        0
+      ],
+      "scale": [
+        0.572741,
+        0.572741,
+        0.572741
+      ]
+    }
+  }
+}
