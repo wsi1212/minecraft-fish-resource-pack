@@ -2,5 +2,41 @@
   "parent": "minecraft:item/handheld_rod",
   "textures": {
     "layer0": "minecraft:item/barkan_icon/held_harpoon_f32524aef1"
+  },
+  "display": {
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        -20,
+        15
+      ],
+      "translation": [
+        -7.491716,
+        4.812279,
+        -3.044411
+      ],
+      "scale": [
+        0.601391,
+        0.601391,
+        0.601391
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        -20,
+        -75
+      ],
+      "translation": [
+        -7.061476,
+        4.621532,
+        -2.887816
+      ],
+      "scale": [
+        0.525768,
+        0.525768,
+        0.525768
+      ]
+    }
   }
 }
