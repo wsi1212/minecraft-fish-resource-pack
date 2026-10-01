@@ -24,6 +24,7 @@ def rotate(point,rotation):
 
 def geometry(im):
  im=im.convert('RGBA');w,h=im.size;alpha=list(im.getchannel('A').get_flattened_data());mass=sum(alpha)
+ if w!=h:raise ValueError('animation strips require per-frame calibration')
  if not mass:raise ValueError('fully transparent sprite')
  center=(sum((i%w+.5)*a for i,a in enumerate(alpha))/mass/w-.5,.5-sum((i//w+.5)*a for i,a in enumerate(alpha))/mass/h,0)
  points=set()
