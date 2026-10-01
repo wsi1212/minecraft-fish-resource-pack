@@ -98,8 +98,12 @@ def main() -> int:
     parser.add_argument("--anchor-model", default="gaebogchi")
     parser.add_argument("--anchor-y", type=float, default=3.0)
     parser.add_argument("--only", nargs="+")
+    parser.add_argument("--hand-depth-ratio", type=float,
+                        help="Persist a generated-mesh depth ratio for selected first-person models")
     parser.add_argument("--report", type=Path)
     args = parser.parse_args()
+    if args.hand_depth_ratio is not None and not 0 < args.hand_depth_ratio <= 1:
+        parser.error("--hand-depth-ratio must be greater than zero and at most one")
     baselines = load_baselines()
     baselines["format"] = 2
     originals = baselines.setdefault("poses", {})
@@ -146,6 +150,13 @@ def main() -> int:
             # Round down so serialized scales never push an edge outside the frame.
             import math
             fitted = [math.floor(v*factor*1_000_000)/1_000_000 for v in scale]
+            if name.startswith("firstperson"):
+                if args.hand_depth_ratio is not None:
+                    e["saved"][name]["hand_depth_ratio"] = args.hand_depth_ratio
+                # Stored separately from original scales so ordinary full-catalog
+                # refits retain the chosen mesh depth without cumulative shrink.
+                fitted[2] = math.floor(fitted[2] * e["saved"][name].get("hand_depth_ratio", 1)
+                                       * 1_000_000) / 1_000_000
             tx = ref["saved"][name]["translation"][0] + (ref["cx"]-.5)*16*ref_scale[0]
             ty = args.anchor_y + (.5-ref["cy"])*16*ref_scale[1]
             translation = list(e["saved"][name]["translation"])

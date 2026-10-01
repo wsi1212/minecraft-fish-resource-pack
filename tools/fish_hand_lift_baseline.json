@@ -17178,7 +17178,8 @@
           0,
           3.908,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "firstperson_lefthand": {
         "scale": [
@@ -17190,7 +17191,8 @@
           0,
           3.908,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "thirdperson_righthand": {
         "scale": [
