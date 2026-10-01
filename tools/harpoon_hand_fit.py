@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Preserve the prior harpoon size/grip and tilt the resting sprite slightly upright.
+"""Preserve the prior harpoon size/grip and rotate the resting sprite upright around the grip viewing ray.
 
 1.21.11 and 26.3 client ItemTransform/hand-renderer formulas were inspected locally.
 Geometry projection is evidence, not an in-game screenshot. GUI and third person
@@ -127,21 +127,34 @@ def fit_original(center,points,context,landmarks=None):
    frames.append(dict(aspect=aspect,fov=fov,bounds=box,head_bounds=hb,grip=project(camera_points([landmarks['grip']],pose,left)[0],aspect,fov)))
  return pose,frames
 
-def upright_pose(pose,landmarks,context,degrees=12):
- """Only rotate around the previous grip in camera Z; preserve scale/grip/depth."""
- left=context.endswith('lefthand');rot,tr=effective(pose,left);roll=degrees if left else -degrees
- basis=[rotate(rotate(v,rot),[0,0,roll])for v in [(1,0,0),(0,1,0),(0,0,1)]]
- newrot=xyz_from_basis(basis);grip=tuple(landmarks['grip'][k]*pose['scale'][k]for k in range(3));oldpivot=rotate(grip,rot);newpivot=rotate(grip,newrot)
- translated=[16*(tr[k]+oldpivot[k]-newpivot[k])for k in range(3)]
- if left:translated[0]*=-1
- return dict(rotation=[round(newrot[0],6),round(-newrot[1]if left else newrot[1],6),round(-newrot[2]if left else newrot[2],6)],translation=[round(v,6)for v in translated],scale=list(pose['scale']))
+def upright_pose(pose,landmarks,context,degrees=30):
+ """Rotate around the grip viewing ray; preserve its camera position and scale.
 
+ Camera Z is incorrect for an off-axis grip with perspective depth: it moves
+ the head sideways while barely changing the visible shaft angle. A rigid
+ Rodrigues rotation around the grip ray keeps the lower-right hand anchored
+ and changes the visible resting angle without shrinking the model.
+ """
+ left=context.endswith('lefthand')
+ rot,tr=effective(pose,left)
+ grip=tuple(landmarks['grip'][k]*pose['scale'][k]for k in range(3))
+ pivot=rotate(grip,rot)
+ cam=camera_points([landmarks['grip']],pose,left)[0]
+ norm=math.sqrt(sum(v*v for v in cam))
+ if norm<1e-8:raise ValueError('grip must be outside the camera origin')
+ axis=tuple(v/norm for v in cam)
+ ang=math.radians(-degrees if left else degrees)
+ def turn(p):
+  cross=(axis[1]*p[2]-axis[2]*p[1],axis[2]*p[0]-axis[0]*p[2],axis[0]*p[1]-axis[1]*p[0]);dot=sum(axis[k]*p[k]for k in range(3));return tuple(p[k]*math.cos(ang)+cross[k]*math.sin(ang)+axis[k]*dot*(1-math.cos(ang))for k in range(3))
+ basis=[turn(rotate(v,rot))for v in [(1,0,0),(0,1,0),(0,0,1)]];newrot=xyz_from_basis(basis);newpivot=rotate(grip,newrot);translated=[16*(tr[k]+pivot[k]-newpivot[k])for k in range(3)]
+ if left:translated[0]*=-1
+ return {'rotation':[round(newrot[0],6),round(-newrot[1]if left else newrot[1],6),round(-newrot[2]if left else newrot[2],6)],'translation':[round(v,6)for v in translated],'scale':list(pose['scale'])}
 def fit(center,points,context,landmarks=None):
  pose,frames=fit_original(center,points,context,landmarks)
  return upright_pose(pose,landmarks,context),frames
 
 def main():
- ap=argparse.ArgumentParser();ap.add_argument('--apply',action='store_true');ap.add_argument('--inventory',type=Path,required=True);ap.add_argument('--report',type=Path,required=True);ap.add_argument('--texture-pack',type=Path,help='Calibrate the actual published texture bytes, including retained downscaled sprites');ap.add_argument('--baseline-pack',type=Path,help='Restore exact previous first-person size/position, then only rotate around its grip');ap.add_argument('--upright-degrees',type=float,default=12);args=ap.parse_args()
+ ap=argparse.ArgumentParser();ap.add_argument('--apply',action='store_true');ap.add_argument('--inventory',type=Path,required=True);ap.add_argument('--report',type=Path,required=True);ap.add_argument('--texture-pack',type=Path,help='Calibrate the actual published texture bytes, including retained downscaled sprites');ap.add_argument('--baseline-pack',type=Path,help='Restore exact previous first-person size/position, then only rotate around its grip');ap.add_argument('--upright-degrees',type=float,default=30);args=ap.parse_args()
  texture_pack=zipfile.ZipFile(args.texture_pack)if args.texture_pack else None
  baseline_pack=zipfile.ZipFile(args.baseline_pack)if args.baseline_pack else None
  inv=json.loads(args.inventory.read_text());rows=[r for r in inv['equipment']if r['kind']=='작살'];report=[];changed=0
@@ -165,7 +178,7 @@ def main():
     if not backup.exists():backup.parent.mkdir(parents=True,exist_ok=True);backup.write_text(json.dumps(before,ensure_ascii=False,indent=2)+'\n')
     path.write_text(json.dumps(model,ensure_ascii=False,indent=2)+'\n')
   report.append(dict(id=r.get('id',r.get('key')),name=r['name'],model=r['local']['model'],texture=r['local']['texture'],texture_sha256=hashlib.sha256(texture_bytes).hexdigest(),local_texture_sha256=hashlib.sha256(texture.read_bytes()).hexdigest(),changed=model!=before,center=center,landmarks=landmarks,contexts=details))
- args.report.parent.mkdir(parents=True,exist_ok=True);args.report.write_text(json.dumps(dict(count=len(rows),changed=changed,aspects=ASPECTS,fovs=FOVS,frame=FRAME,scope='previous resting size/grip restored, camera roll only; prior native raise calibration superseded',items=report),ensure_ascii=False,indent=2)+'\n')
- if baseline_pack:print('Restored',len(rows),'harpoons;',changed,'changes; previous scale/grip/depth preserved; upright tilt',args.upright_degrees,'degrees')
+ args.report.parent.mkdir(parents=True,exist_ok=True);args.report.write_text(json.dumps(dict(count=len(rows),changed=changed,aspects=ASPECTS,fovs=FOVS,frame=FRAME,scope='previous resting size/grip restored, grip viewing-ray rotation; camera-Z roll and native inverse raise superseded',items=report),ensure_ascii=False,indent=2)+'\n')
+ if baseline_pack:print('Restored',len(rows),'harpoons;',changed,'changes; scale/thickness and camera grip preserved; viewing-ray rotation',args.upright_degrees,'degrees')
  else:print('Projected',len(rows),'harpoons;',changed,'model changes; upright grip rotation applied')
 if __name__=='__main__':main()
