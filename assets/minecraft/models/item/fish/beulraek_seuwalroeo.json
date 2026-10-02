@@ -1,0 +1,70 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/fish/beulraek_seuwalroeo"
+  },
+  "display": {
+    "gui": {
+      "scale": [
+        1.4,
+        1.4,
+        1.4
+      ]
+    },
+    "ground": {
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    },
+    "firstperson_righthand": {
+      "scale": [
+        0.520921,
+        0.520921,
+        0.065115
+      ],
+      "translation": [
+        0.849628,
+        2.51,
+        0
+      ]
+    },
+    "firstperson_lefthand": {
+      "scale": [
+        0.520921,
+        0.520921,
+        0.065115
+      ],
+      "translation": [
+        0.849628,
+        2.51,
+        0
+      ]
+    },
+    "thirdperson_righthand": {
+      "scale": [
+        0.520921,
+        0.520921,
+        0.520921
+      ],
+      "translation": [
+        0.849628,
+        2.51,
+        0
+      ]
+    },
+    "thirdperson_lefthand": {
+      "scale": [
+        0.520921,
+        0.520921,
+        0.520921
+      ],
+      "translation": [
+        0.849628,
+        2.51,
+        0
+      ]
+    }
+  }
+}

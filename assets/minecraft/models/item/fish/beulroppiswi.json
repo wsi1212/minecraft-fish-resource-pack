@@ -1,0 +1,70 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/fish/beulroppiswi"
+  },
+  "display": {
+    "gui": {
+      "scale": [
+        1.4,
+        1.4,
+        1.4
+      ]
+    },
+    "ground": {
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    },
+    "firstperson_righthand": {
+      "scale": [
+        0.579827,
+        0.579827,
+        0.072478
+      ],
+      "translation": [
+        0.426243,
+        4.036276,
+        0
+      ]
+    },
+    "firstperson_lefthand": {
+      "scale": [
+        0.579827,
+        0.579827,
+        0.072478
+      ],
+      "translation": [
+        0.426243,
+        4.036276,
+        0
+      ]
+    },
+    "thirdperson_righthand": {
+      "scale": [
+        0.579827,
+        0.579827,
+        0.579827
+      ],
+      "translation": [
+        0.426243,
+        4.036276,
+        0
+      ]
+    },
+    "thirdperson_lefthand": {
+      "scale": [
+        0.579827,
+        0.579827,
+        0.579827
+      ],
+      "translation": [
+        0.426243,
+        4.036276,
+        0
+      ]
+    }
+  }
+}

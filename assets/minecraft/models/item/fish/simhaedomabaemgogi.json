@@ -1,0 +1,70 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/fish/simhaedomabaemgogi"
+  },
+  "display": {
+    "gui": {
+      "scale": [
+        1.4,
+        1.4,
+        1.4
+      ]
+    },
+    "ground": {
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    },
+    "firstperson_righthand": {
+      "scale": [
+        0.642409,
+        0.642409,
+        0.080301
+      ],
+      "translation": [
+        -0.096978,
+        2.45155,
+        0
+      ]
+    },
+    "firstperson_lefthand": {
+      "scale": [
+        0.642409,
+        0.642409,
+        0.080301
+      ],
+      "translation": [
+        -0.096978,
+        2.45155,
+        0
+      ]
+    },
+    "thirdperson_righthand": {
+      "scale": [
+        0.642409,
+        0.642409,
+        0.642409
+      ],
+      "translation": [
+        -0.096978,
+        2.45155,
+        0
+      ]
+    },
+    "thirdperson_lefthand": {
+      "scale": [
+        0.642409,
+        0.642409,
+        0.642409
+      ],
+      "translation": [
+        -0.096978,
+        2.45155,
+        0
+      ]
+    }
+  }
+}

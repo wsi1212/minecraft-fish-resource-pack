@@ -1,0 +1,70 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/fish/paengtuseu"
+  },
+  "display": {
+    "gui": {
+      "scale": [
+        1.4,
+        1.4,
+        1.4
+      ]
+    },
+    "ground": {
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    },
+    "firstperson_righthand": {
+      "scale": [
+        0.509069,
+        0.509069,
+        0.063633
+      ],
+      "translation": [
+        0.934808,
+        3.289201,
+        0
+      ]
+    },
+    "firstperson_lefthand": {
+      "scale": [
+        0.509069,
+        0.509069,
+        0.063633
+      ],
+      "translation": [
+        0.934808,
+        3.289201,
+        0
+      ]
+    },
+    "thirdperson_righthand": {
+      "scale": [
+        0.509069,
+        0.509069,
+        0.509069
+      ],
+      "translation": [
+        0.934808,
+        3.289201,
+        0
+      ]
+    },
+    "thirdperson_lefthand": {
+      "scale": [
+        0.509069,
+        0.509069,
+        0.509069
+      ],
+      "translation": [
+        0.934808,
+        3.289201,
+        0
+      ]
+    }
+  }
+}

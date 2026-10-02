@@ -4311,6 +4311,146 @@
       {
         "when": "fountain_coin_gold",
         "model": {"type": "minecraft:model", "model": "minecraft:item/fish/fountain_coin_gold"}
+      },
+      {
+        "when": "beulroppiswi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/beulroppiswi"
+        }
+      },
+      {
+        "when": "beulraek_seuwalroeo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/beulraek_seuwalroeo"
+        }
+      },
+      {
+        "when": "samgakdaegogi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/samgakdaegogi"
+        }
+      },
+      {
+        "when": "simhae_dokkigogi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/simhae_dokkigogi"
+        }
+      },
+      {
+        "when": "simhaedomabaemgogi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/simhaedomabaemgogi"
+        }
+      },
+      {
+        "when": "putbolpiswi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/putbolpiswi"
+        }
+      },
+      {
+        "when": "heeori_aenggeulreopisi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/heeori_aenggeulreopisi"
+        }
+      },
+      {
+        "when": "gigantaktiseu",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/gigantaktiseu"
+        }
+      },
+      {
+        "when": "seutopraiteu_ruseujo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/seutopraiteu_ruseujo"
+        }
+      },
+      {
+        "when": "saetbineulchi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/saetbineulchi"
+        }
+      },
+      {
+        "when": "baipeopisi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/baipeopisi"
+        }
+      },
+      {
+        "when": "paengtuseu",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/paengtuseu"
+        }
+      },
+      {
+        "when": "umumuneo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/umumuneo"
+        }
+      },
+      {
+        "when": "ttalgiojingeo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/ttalgiojingeo"
+        }
+      },
+      {
+        "when": "badadwaeji",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/badadwaeji"
+        }
+      },
+      {
+        "when": "daewangdeunggakryu",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/daewangdeunggakryu"
+        }
+      },
+      {
+        "when": "yetikeuraep",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/yetikeuraep"
+        }
+      },
+      {
+        "when": "bulkeunbaebithaepari",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/bulkeunbaebithaepari"
+        }
+      },
+      {
+        "when": "atolrahaepari",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/atolrahaepari"
+        }
+      },
+      {
+        "when": "ginpalojingeo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/ginpalojingeo"
+        }
       }
     ],
     "fallback": {

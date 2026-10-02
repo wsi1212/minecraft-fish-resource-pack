@@ -1,0 +1,70 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/fish/daewangdeunggakryu"
+  },
+  "display": {
+    "gui": {
+      "scale": [
+        1.4,
+        1.4,
+        1.4
+      ]
+    },
+    "ground": {
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    },
+    "firstperson_righthand": {
+      "scale": [
+        0.599723,
+        0.599723,
+        0.074965
+      ],
+      "translation": [
+        0.283236,
+        3.132382,
+        0
+      ]
+    },
+    "firstperson_lefthand": {
+      "scale": [
+        0.599723,
+        0.599723,
+        0.074965
+      ],
+      "translation": [
+        0.283236,
+        3.132382,
+        0
+      ]
+    },
+    "thirdperson_righthand": {
+      "scale": [
+        0.599723,
+        0.599723,
+        0.599723
+      ],
+      "translation": [
+        0.283236,
+        3.132382,
+        0
+      ]
+    },
+    "thirdperson_lefthand": {
+      "scale": [
+        0.599723,
+        0.599723,
+        0.599723
+      ],
+      "translation": [
+        0.283236,
+        3.132382,
+        0
+      ]
+    }
+  }
+}

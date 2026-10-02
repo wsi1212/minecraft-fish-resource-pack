@@ -1,0 +1,70 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/fish/simhae_dokkigogi"
+  },
+  "display": {
+    "gui": {
+      "scale": [
+        1.4,
+        1.4,
+        1.4
+      ]
+    },
+    "ground": {
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    },
+    "firstperson_righthand": {
+      "scale": [
+        0.49247,
+        0.49247,
+        0.061558
+      ],
+      "translation": [
+        1.054122,
+        2.969965,
+        0
+      ]
+    },
+    "firstperson_lefthand": {
+      "scale": [
+        0.49247,
+        0.49247,
+        0.061558
+      ],
+      "translation": [
+        1.054122,
+        2.969965,
+        0
+      ]
+    },
+    "thirdperson_righthand": {
+      "scale": [
+        0.49247,
+        0.49247,
+        0.49247
+      ],
+      "translation": [
+        1.054122,
+        2.969965,
+        0
+      ]
+    },
+    "thirdperson_lefthand": {
+      "scale": [
+        0.49247,
+        0.49247,
+        0.49247
+      ],
+      "translation": [
+        1.054122,
+        2.969965,
+        0
+      ]
+    }
+  }
+}

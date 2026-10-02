@@ -1,0 +1,70 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/fish/baipeopisi"
+  },
+  "display": {
+    "gui": {
+      "scale": [
+        1.4,
+        1.4,
+        1.4
+      ]
+    },
+    "ground": {
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    },
+    "firstperson_righthand": {
+      "scale": [
+        0.517793,
+        0.517793,
+        0.064724
+      ],
+      "translation": [
+        0.87211,
+        3.655536,
+        0
+      ]
+    },
+    "firstperson_lefthand": {
+      "scale": [
+        0.517793,
+        0.517793,
+        0.064724
+      ],
+      "translation": [
+        0.87211,
+        3.655536,
+        0
+      ]
+    },
+    "thirdperson_righthand": {
+      "scale": [
+        0.517793,
+        0.517793,
+        0.517793
+      ],
+      "translation": [
+        0.87211,
+        3.655536,
+        0
+      ]
+    },
+    "thirdperson_lefthand": {
+      "scale": [
+        0.517793,
+        0.517793,
+        0.517793
+      ],
+      "translation": [
+        0.87211,
+        3.655536,
+        0
+      ]
+    }
+  }
+}

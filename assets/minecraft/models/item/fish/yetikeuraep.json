@@ -1,0 +1,70 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/fish/yetikeuraep"
+  },
+  "display": {
+    "gui": {
+      "scale": [
+        1.4,
+        1.4,
+        1.4
+      ]
+    },
+    "ground": {
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    },
+    "firstperson_righthand": {
+      "scale": [
+        0.561373,
+        0.561373,
+        0.070171
+      ],
+      "translation": [
+        0.611505,
+        3.069901,
+        0
+      ]
+    },
+    "firstperson_lefthand": {
+      "scale": [
+        0.561373,
+        0.561373,
+        0.070171
+      ],
+      "translation": [
+        0.611505,
+        3.069901,
+        0
+      ]
+    },
+    "thirdperson_righthand": {
+      "scale": [
+        0.561373,
+        0.561373,
+        0.561373
+      ],
+      "translation": [
+        0.611505,
+        3.069901,
+        0
+      ]
+    },
+    "thirdperson_lefthand": {
+      "scale": [
+        0.561373,
+        0.561373,
+        0.561373
+      ],
+      "translation": [
+        0.611505,
+        3.069901,
+        0
+      ]
+    }
+  }
+}

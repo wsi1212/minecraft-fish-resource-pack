@@ -1,0 +1,70 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/fish/gigantaktiseu"
+  },
+  "display": {
+    "gui": {
+      "scale": [
+        1.4,
+        1.4,
+        1.4
+      ]
+    },
+    "ground": {
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    },
+    "firstperson_righthand": {
+      "scale": [
+        0.511284,
+        0.511284,
+        0.06391
+      ],
+      "translation": [
+        0.918894,
+        4.00464,
+        0
+      ]
+    },
+    "firstperson_lefthand": {
+      "scale": [
+        0.511284,
+        0.511284,
+        0.06391
+      ],
+      "translation": [
+        0.918894,
+        4.00464,
+        0
+      ]
+    },
+    "thirdperson_righthand": {
+      "scale": [
+        0.511284,
+        0.511284,
+        0.511284
+      ],
+      "translation": [
+        0.918894,
+        4.00464,
+        0
+      ]
+    },
+    "thirdperson_lefthand": {
+      "scale": [
+        0.511284,
+        0.511284,
+        0.511284
+      ],
+      "translation": [
+        0.918894,
+        4.00464,
+        0
+      ]
+    }
+  }
+}

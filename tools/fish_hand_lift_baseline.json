@@ -5278,7 +5278,8 @@
           0,
           3.677,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "firstperson_lefthand": {
         "scale": [
@@ -5290,7 +5291,8 @@
           0,
           3.677,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "thirdperson_righthand": {
         "scale": [
@@ -8478,7 +8480,8 @@
           0,
           3.046,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "firstperson_lefthand": {
         "scale": [
@@ -8490,7 +8493,8 @@
           0,
           3.046,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "thirdperson_righthand": {
         "scale": [
@@ -9028,7 +9032,8 @@
           0,
           3.74,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "firstperson_lefthand": {
         "scale": [
@@ -9040,7 +9045,8 @@
           0,
           3.74,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "thirdperson_righthand": {
         "scale": [
@@ -9078,7 +9084,8 @@
           0,
           3.08,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "firstperson_lefthand": {
         "scale": [
@@ -9090,7 +9097,8 @@
           0,
           3.08,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "thirdperson_righthand": {
         "scale": [
@@ -9728,7 +9736,8 @@
           0,
           2.431,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "firstperson_lefthand": {
         "scale": [
@@ -9740,7 +9749,8 @@
           0,
           2.431,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "thirdperson_righthand": {
         "scale": [
@@ -10478,7 +10488,8 @@
           0,
           3.121,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "firstperson_lefthand": {
         "scale": [
@@ -10490,7 +10501,8 @@
           0,
           3.121,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "thirdperson_righthand": {
         "scale": [
@@ -11078,7 +11090,8 @@
           0,
           3.206,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "firstperson_lefthand": {
         "scale": [
@@ -11090,7 +11103,8 @@
           0,
           3.206,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "thirdperson_righthand": {
         "scale": [
@@ -13778,7 +13792,8 @@
           0,
           2.908,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "firstperson_lefthand": {
         "scale": [
@@ -13790,7 +13805,8 @@
           0,
           2.908,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "thirdperson_righthand": {
         "scale": [
@@ -15828,7 +15844,8 @@
           0,
           3.846,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "firstperson_lefthand": {
         "scale": [
@@ -15840,7 +15857,8 @@
           0,
           3.846,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "thirdperson_righthand": {
         "scale": [
@@ -18030,7 +18048,8 @@
           0,
           3.084,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "firstperson_lefthand": {
         "scale": [
@@ -18042,7 +18061,8 @@
           0,
           3.084,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "thirdperson_righthand": {
         "scale": [
@@ -21480,7 +21500,8 @@
           0,
           3.231,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "firstperson_lefthand": {
         "scale": [
@@ -21492,7 +21513,8 @@
           0,
           3.231,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "thirdperson_righthand": {
         "scale": [
@@ -21930,7 +21952,8 @@
           0,
           2.969,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "firstperson_lefthand": {
         "scale": [
@@ -21942,7 +21965,8 @@
           0,
           2.969,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "thirdperson_righthand": {
         "scale": [
@@ -22030,7 +22054,8 @@
           0,
           3.506,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "firstperson_lefthand": {
         "scale": [
@@ -22042,7 +22067,8 @@
           0,
           3.506,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "thirdperson_righthand": {
         "scale": [
@@ -22380,7 +22406,8 @@
           0,
           2.233,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "firstperson_lefthand": {
         "scale": [
@@ -22392,7 +22419,8 @@
           0,
           2.233,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "thirdperson_righthand": {
         "scale": [
@@ -22430,7 +22458,8 @@
           0,
           2.821,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "firstperson_lefthand": {
         "scale": [
@@ -22442,7 +22471,8 @@
           0,
           2.821,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "thirdperson_righthand": {
         "scale": [
@@ -23130,7 +23160,8 @@
           0,
           3.547,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "firstperson_lefthand": {
         "scale": [
@@ -23142,7 +23173,8 @@
           0,
           3.547,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "thirdperson_righthand": {
         "scale": [
@@ -23630,7 +23662,8 @@
           0,
           2.423,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "firstperson_lefthand": {
         "scale": [
@@ -23642,7 +23675,8 @@
           0,
           2.423,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "thirdperson_righthand": {
         "scale": [
@@ -28280,7 +28314,8 @@
           0,
           3.461,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "firstperson_lefthand": {
         "scale": [
@@ -28292,7 +28327,8 @@
           0,
           3.461,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "thirdperson_righthand": {
         "scale": [
@@ -28380,7 +28416,8 @@
           0,
           3.097,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "firstperson_lefthand": {
         "scale": [
@@ -28392,7 +28429,8 @@
           0,
           3.097,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "thirdperson_righthand": {
         "scale": [
@@ -30330,7 +30368,8 @@
           0,
           2.888,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "firstperson_lefthand": {
         "scale": [
@@ -30342,7 +30381,8 @@
           0,
           2.888,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "thirdperson_righthand": {
         "scale": [
@@ -34580,7 +34620,8 @@
           0,
           3.63,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "firstperson_lefthand": {
         "scale": [
@@ -34592,7 +34633,8 @@
           0,
           3.63,
           0
-        ]
+        ],
+        "hand_depth_ratio": 0.125
       },
       "thirdperson_righthand": {
         "scale": [
@@ -34665,6 +34707,1046 @@
         "translation": [
           0,
           3.433,
+          0
+        ]
+      }
+    },
+    "atolrahaepari.json": {
+      "firstperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "firstperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "thirdperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "thirdperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "badadwaeji.json": {
+      "firstperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "firstperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "thirdperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "thirdperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "baipeopisi.json": {
+      "firstperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "firstperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "thirdperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "thirdperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "beulraek_seuwalroeo.json": {
+      "firstperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "firstperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "thirdperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "thirdperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "beulroppiswi.json": {
+      "firstperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "firstperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "thirdperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "thirdperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "bulkeunbaebithaepari.json": {
+      "firstperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "firstperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "thirdperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "thirdperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "daewangdeunggakryu.json": {
+      "firstperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "firstperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "thirdperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "thirdperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "gigantaktiseu.json": {
+      "firstperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "firstperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "thirdperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "thirdperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "ginpalojingeo.json": {
+      "firstperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "firstperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "thirdperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "thirdperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "heeori_aenggeulreopisi.json": {
+      "firstperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "firstperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "thirdperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "thirdperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "paengtuseu.json": {
+      "firstperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "firstperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "thirdperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "thirdperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "putbolpiswi.json": {
+      "firstperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "firstperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "thirdperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "thirdperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "saetbineulchi.json": {
+      "firstperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "firstperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "thirdperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "thirdperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "samgakdaegogi.json": {
+      "firstperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "firstperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "thirdperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "thirdperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "seutopraiteu_ruseujo.json": {
+      "firstperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "firstperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "thirdperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "thirdperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "simhae_dokkigogi.json": {
+      "firstperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "firstperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "thirdperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "thirdperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "simhaedomabaemgogi.json": {
+      "firstperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "firstperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "thirdperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "thirdperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "ttalgiojingeo.json": {
+      "firstperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "firstperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "thirdperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "thirdperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "umumuneo.json": {
+      "firstperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "firstperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "thirdperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "thirdperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "yetikeuraep.json": {
+      "firstperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "firstperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "hand_depth_ratio": 0.125
+      },
+      "thirdperson_righthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "thirdperson_lefthand": {
+        "scale": [
+          0.7,
+          0.7,
+          0.7
+        ],
+        "translation": [
+          0,
+          0,
           0
         ]
       }

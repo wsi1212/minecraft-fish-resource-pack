@@ -1,0 +1,70 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/fish/samgakdaegogi"
+  },
+  "display": {
+    "gui": {
+      "scale": [
+        1.4,
+        1.4,
+        1.4
+      ]
+    },
+    "ground": {
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    },
+    "firstperson_righthand": {
+      "scale": [
+        0.556112,
+        0.556112,
+        0.069514
+      ],
+      "translation": [
+        0.87475,
+        3.173174,
+        0
+      ]
+    },
+    "firstperson_lefthand": {
+      "scale": [
+        0.556112,
+        0.556112,
+        0.069514
+      ],
+      "translation": [
+        0.87475,
+        3.173174,
+        0
+      ]
+    },
+    "thirdperson_righthand": {
+      "scale": [
+        0.556112,
+        0.556112,
+        0.556112
+      ],
+      "translation": [
+        0.87475,
+        3.173174,
+        0
+      ]
+    },
+    "thirdperson_lefthand": {
+      "scale": [
+        0.556112,
+        0.556112,
+        0.556112
+      ],
+      "translation": [
+        0.87475,
+        3.173174,
+        0
+      ]
+    }
+  }
+}

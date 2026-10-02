@@ -1,0 +1,70 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/fish/bulkeunbaebithaepari"
+  },
+  "display": {
+    "gui": {
+      "scale": [
+        1.4,
+        1.4,
+        1.4
+      ]
+    },
+    "ground": {
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    },
+    "firstperson_righthand": {
+      "scale": [
+        0.592248,
+        0.592248,
+        0.074031
+      ],
+      "translation": [
+        0.336966,
+        3.049194,
+        0
+      ]
+    },
+    "firstperson_lefthand": {
+      "scale": [
+        0.592248,
+        0.592248,
+        0.074031
+      ],
+      "translation": [
+        0.336966,
+        3.049194,
+        0
+      ]
+    },
+    "thirdperson_righthand": {
+      "scale": [
+        0.592248,
+        0.592248,
+        0.592248
+      ],
+      "translation": [
+        0.336966,
+        3.049194,
+        0
+      ]
+    },
+    "thirdperson_lefthand": {
+      "scale": [
+        0.592248,
+        0.592248,
+        0.592248
+      ],
+      "translation": [
+        0.336966,
+        3.049194,
+        0
+      ]
+    }
+  }
+}
