@@ -259,30 +259,6 @@
       }
     ]
   },
-  "camera.shutter": {
-    "sounds": [
-      {
-        "name": "barkan:camera/shutter",
-        "stream": false
-      }
-    ]
-  },
-  "camera.zoom_in": {
-    "sounds": [
-      {
-        "name": "barkan:camera/zoom_in",
-        "stream": false
-      }
-    ]
-  },
-  "camera.zoom_out": {
-    "sounds": [
-      {
-        "name": "barkan:camera/zoom_out",
-        "stream": false
-      }
-    ]
-  },
   "piano.note_00": {
     "sounds": [
       {
@@ -631,22 +607,6 @@
     "sounds": [
       {
         "name": "barkan:piano/note_43",
-        "stream": false
-      }
-    ]
-  },
-  "siren_head.alert": {
-    "sounds": [
-      {
-        "name": "barkan:siren_head/alert",
-        "stream": true
-      }
-    ]
-  },
-  "siren_head.kill": {
-    "sounds": [
-      {
-        "name": "barkan:siren_head/kill",
         "stream": false
       }
     ]

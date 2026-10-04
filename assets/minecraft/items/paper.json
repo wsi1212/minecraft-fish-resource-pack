@@ -1058,21 +1058,21 @@
         "threshold": 24001,
         "model": {
           "type": "minecraft:model",
-          "model": "barkan:item/chess/smiler"
+          "model": "minecraft:item/paper"
         }
       },
       {
         "threshold": 24002,
         "model": {
           "type": "minecraft:model",
-          "model": "barkan:item/chess/flashlight"
+          "model": "minecraft:item/paper"
         }
       },
       {
         "threshold": 24003,
         "model": {
           "type": "minecraft:model",
-          "model": "barkan:item/chess/flashlight_admin"
+          "model": "minecraft:item/paper"
         }
       },
       {
@@ -1086,63 +1086,63 @@
         "threshold": 24005,
         "model": {
           "type": "minecraft:model",
-          "model": "barkan:item/chess/camera"
+          "model": "minecraft:item/paper"
         }
       },
       {
         "threshold": 24006,
         "model": {
           "type": "minecraft:model",
-          "model": "barkan:item/chess/siren_head"
+          "model": "minecraft:item/paper"
         }
       },
       {
         "threshold": 24007,
         "model": {
           "type": "minecraft:model",
-          "model": "barkan:item/chess/siren_body_core"
+          "model": "minecraft:item/paper"
         }
       },
       {
         "threshold": 24008,
         "model": {
           "type": "minecraft:model",
-          "model": "barkan:item/chess/siren_speaker"
+          "model": "minecraft:item/paper"
         }
       },
       {
         "threshold": 24009,
         "model": {
           "type": "minecraft:model",
-          "model": "barkan:item/chess/siren_arm"
+          "model": "minecraft:item/paper"
         }
       },
       {
         "threshold": 24010,
         "model": {
           "type": "minecraft:model",
-          "model": "barkan:item/chess/siren_leg"
+          "model": "minecraft:item/paper"
         }
       },
       {
         "threshold": 24011,
         "model": {
           "type": "minecraft:model",
-          "model": "barkan:item/chess/siren_forearm"
+          "model": "minecraft:item/paper"
         }
       },
       {
         "threshold": 24012,
         "model": {
           "type": "minecraft:model",
-          "model": "barkan:item/chess/siren_shin"
+          "model": "minecraft:item/paper"
         }
       },
       {
         "threshold": 24013,
         "model": {
           "type": "minecraft:model",
-          "model": "barkan:item/chess/siren_joint"
+          "model": "minecraft:item/paper"
         }
       },
       {
