@@ -1,0 +1,580 @@
+{
+  "sources": [
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/abyssal_kraken_pet"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/acorn_campsite"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/angler_lantern"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/aureole_angel_ring"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/aureole_clock_halo"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/blossom_bunny_bonnet"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/bottle_aquarium"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/chronos_orbital_clock_halo"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/clockwork_penguin"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/cloud_baby_dragon"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/cloud_sewing_machine"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/conch_gramophone"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/coral_sail_wings"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/crescent_horns"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/diver_goggles"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/dreamweaver_moth"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/eggshell_observatory"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/four_seasons_nest"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/ghost_ship"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/halloween_candle_crown"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/halloween_coffin_mimic"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/halloween_curled_shoes"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/halloween_floating_bat"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/halloween_floating_candy"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/halloween_floating_ghost"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/halloween_floating_pumpkins"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/halloween_floating_skull"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/halloween_floating_wisp"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/halloween_floating_witch"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/halloween_ghost_cape"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/halloween_jackolantern_head"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/harbor_apprentice_creel_backpack"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/harbor_apprentice_headwrap"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/hermit_crab"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/laundry_ghost"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/lighthouse_pack"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/manta_wings"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/mimic_treasure_backpack"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/mini_jellyfish_head"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/moon_rabbit_tea"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/moonbelly_whale"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/mushroom_umbrella"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/naval_service_cap"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/obsidian_voxel_sovereign"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/onsen_bun"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/paper_boat"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/pearl_crown"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_back_01"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_back_02"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_back_03"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_back_04"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_back_05"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_back_06"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_back_07"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_back_08"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_back_09"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_back_10"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_back_11"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_back_12"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_back_13"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_back_14"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_back_15"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_back_16"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_back_17"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_back_18"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_back_19"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_back_20"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_back_21"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_back_22"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_back_23"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_back_24"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_back_25"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_back_26"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_back_27"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_back_28"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_back_29"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_back_30"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_head_01"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_head_02"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_head_03"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_head_04"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_head_05"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_head_06"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_head_07"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_head_08"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_head_09"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_head_10"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_head_11"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_head_12"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_head_13"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_head_14"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_head_15"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_head_16"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_head_17"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_head_18"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_head_19"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_head_20"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_head_21"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_head_22"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_head_23"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_head_24"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_head_25"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_head_26"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_head_27"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_head_28"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_head_29"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_head_30"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_shoulder_01"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_shoulder_02"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_shoulder_03"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_shoulder_04"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_shoulder_05"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_shoulder_06"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_shoulder_07"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_shoulder_08"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_shoulder_09"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_shoulder_10"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_shoulder_11"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_shoulder_12"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_shoulder_13"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_shoulder_14"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_shoulder_15"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_shoulder_16"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_shoulder_17"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_shoulder_18"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_shoulder_19"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/proposal100_shoulder_20"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/puffer_ring"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/rabbit_plush_hat"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/rainy_teacup"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/runaway_tempura"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/salamander_pocket"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/seagull_mailbox"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/seahorse_celestial"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/season_garden_book"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/sleepy_chestnut"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/sleepy_octopus"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/sleepy_seal_hat"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/solaris_solar_system_crown"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/sprout_head"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/star_baking_oven"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/star_candy_machine"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/storm_umbrella"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "barkan:cosmetics/icon/tide_compass"
+    }
+  ]
+}
