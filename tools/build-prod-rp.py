@@ -231,6 +231,19 @@ if EXTRA and EXTRA.is_dir():
     for rel, path in gather(EXTRA):
         files.setdefault(rel, path)
 
+# ★셰이더 모드(Iris·OptiFine, labPBR)는 `<이름>_s.png`·`<이름>_n.png` 를 `<이름>.png` 의
+#   반사·노멀 맵으로 보고 아이템 아틀라스에서 뺀다 → 셰이더 쓰는 유저에게만 보라·검정 체커.
+#   2026-10-08: S급 레시피 두루마리 8종(recipe_*_s.png)이 이걸로 대부분의 유저에게 깨져 보였다.
+#   텍스처 파일만 피하면 된다(아이템 정의·모델 id 는 `_s` 로 끝나도 무관).
+PBR_SUFFIXED = sorted(n for n in files
+                      if "/textures/" in n and n.endswith(("_s.png", "_n.png")))
+if PBR_SUFFIXED:
+    raise SystemExit(
+        "셰이더 모드가 PBR 맵으로 빼 버리는 텍스처 이름(_s/_n.png):\n  "
+        + "\n  ".join(PBR_SUFFIXED[:20])
+        + "\n  파일 이름을 바꾸고(예: recipe_hook_s_grade.png) 모델 layer0 을 맞출 것."
+    )
+
 OUT.parent.mkdir(parents=True, exist_ok=True)
 png_before = png_after = 0
 epoch = (1980, 1, 1, 0, 0, 0)
