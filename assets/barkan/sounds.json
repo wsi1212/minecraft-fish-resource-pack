@@ -810,5 +810,37 @@
         "stream": false
       }
     ]
+  },
+  "bgm.boss_red_road_intro": {
+    "sounds": [
+      {
+        "name": "barkan:bgm/boss_red_road_intro",
+        "stream": true
+      }
+    ]
+  },
+  "bgm.boss_red_road_drop": {
+    "sounds": [
+      {
+        "name": "barkan:bgm/boss_red_road_drop",
+        "stream": true
+      }
+    ]
+  },
+  "bgm.boss_leviathan_intro": {
+    "sounds": [
+      {
+        "name": "barkan:bgm/boss_leviathan_intro",
+        "stream": true
+      }
+    ]
+  },
+  "bgm.boss_leviathan_drop": {
+    "sounds": [
+      {
+        "name": "barkan:bgm/boss_leviathan_drop",
+        "stream": true
+      }
+    ]
   }
 }
