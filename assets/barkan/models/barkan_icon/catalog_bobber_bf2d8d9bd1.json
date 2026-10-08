@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/barkan_icon/catalog_bobber_bf2d8d9bd1"
+  }
+}
