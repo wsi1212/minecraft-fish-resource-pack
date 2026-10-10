@@ -1,1 +1,24 @@
-{"model": {"type": "minecraft:model", "model": "barkan:barkan_icon/catalog_rod_5924349ced"}}
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:display_context",
+    "cases": [
+      {
+        "when": [
+          "firstperson_righthand",
+          "firstperson_lefthand",
+          "thirdperson_righthand",
+          "thirdperson_lefthand"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "barkan:barkan_icon/held_rod_5924349ced"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "barkan:barkan_icon/catalog_rod_5924349ced"
+    }
+  }
+}

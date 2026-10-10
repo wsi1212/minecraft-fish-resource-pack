@@ -1,0 +1,42 @@
+{
+  "parent": "minecraft:item/handheld_rod",
+  "textures": {
+    "layer0": "minecraft:item/barkan_icon/held_rod_7dd8bca10a"
+  },
+  "display": {
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        155,
+        0
+      ],
+      "translation": [
+        -7.117166,
+        5.922758,
+        -8.515983
+      ],
+      "scale": [
+        0.676598,
+        0.676598,
+        0.084575
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        -25,
+        0
+      ],
+      "translation": [
+        -7.117166,
+        5.922758,
+        -8.515983
+      ],
+      "scale": [
+        0.676598,
+        0.676598,
+        0.084575
+      ]
+    }
+  }
+}
