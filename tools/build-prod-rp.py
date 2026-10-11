@@ -26,6 +26,8 @@ language_assets = runpy.run_path(str(Path(__file__).with_name("check-language-as
 language_assets["validate"](RP)
 gui_layouts = runpy.run_path(str(Path(__file__).with_name("check-gui-layouts.py")))
 gui_layouts["validate"](RP)
+lifestyle_models = runpy.run_path(str(Path(__file__).with_name("build-lifestyle-item-models.py")))
+lifestyle_models["validate"](RP)
 
 # 아이템 텍스처 해상도 상한 (2026-09-03).
 #   대부분의 아이콘은 인벤 슬롯 16px 로만 그려진다 — 거기에 128px 을 실어 보내면

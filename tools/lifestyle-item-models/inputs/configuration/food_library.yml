@@ -1,0 +1,2253 @@
+# 오픈소스 음식 라이브러리(Croptopia/Farmer's Delight, 서버사용) — CE 브라우저 전시/장식용.
+# material=paper(비기능). 자동생성: build_food_library.py. 수정 말고 스크립트 재실행.
+items:
+  barkan:food_cr_ajvar:
+    data:
+      item_name: "<!i>Ajvar"
+    material: paper
+    model: barkan:item/food_lib/cr_ajvar
+  barkan:food_cr_ajvar_toast:
+    data:
+      item_name: "<!i>Ajvar Toast"
+    material: paper
+    model: barkan:item/food_lib/cr_ajvar_toast
+  barkan:food_cr_almond:
+    data:
+      item_name: "<!i>Almond"
+    material: paper
+    model: barkan:item/food_lib/cr_almond
+  barkan:food_cr_almond_brittle:
+    data:
+      item_name: "<!i>Almond Brittle"
+    material: paper
+    model: barkan:item/food_lib/cr_almond_brittle
+  barkan:food_cr_anchovy:
+    data:
+      item_name: "<!i>Anchovy"
+    material: paper
+    model: barkan:item/food_lib/cr_anchovy
+  barkan:food_cr_anchovy_pizza:
+    data:
+      item_name: "<!i>Anchovy Pizza"
+    material: paper
+    model: barkan:item/food_lib/cr_anchovy_pizza
+  barkan:food_cr_apple_juice:
+    data:
+      item_name: "<!i>Apple Juice"
+    material: paper
+    model: barkan:item/food_lib/cr_apple_juice
+  barkan:food_cr_apple_pie:
+    data:
+      item_name: "<!i>Apple Pie"
+    material: paper
+    model: barkan:item/food_lib/cr_apple_pie
+  barkan:food_cr_apricot:
+    data:
+      item_name: "<!i>Apricot"
+    material: paper
+    model: barkan:item/food_lib/cr_apricot
+  barkan:food_cr_apricot_jam:
+    data:
+      item_name: "<!i>Apricot Jam"
+    material: paper
+    model: barkan:item/food_lib/cr_apricot_jam
+  barkan:food_cr_artichoke:
+    data:
+      item_name: "<!i>Artichoke"
+    material: paper
+    model: barkan:item/food_lib/cr_artichoke
+  barkan:food_cr_artichoke_dip:
+    data:
+      item_name: "<!i>Artichoke Dip"
+    material: paper
+    model: barkan:item/food_lib/cr_artichoke_dip
+  barkan:food_cr_artichoke_dip_chips:
+    data:
+      item_name: "<!i>Artichoke Dip Chips"
+    material: paper
+    model: barkan:item/food_lib/cr_artichoke_dip_chips
+  barkan:food_cr_asparagus:
+    data:
+      item_name: "<!i>Asparagus"
+    material: paper
+    model: barkan:item/food_lib/cr_asparagus
+  barkan:food_cr_avocado:
+    data:
+      item_name: "<!i>Avocado"
+    material: paper
+    model: barkan:item/food_lib/cr_avocado
+  barkan:food_cr_avocado_toast:
+    data:
+      item_name: "<!i>Avocado Toast"
+    material: paper
+    model: barkan:item/food_lib/cr_avocado_toast
+  barkan:food_cr_bacon:
+    data:
+      item_name: "<!i>Bacon"
+    material: paper
+    model: barkan:item/food_lib/cr_bacon
+  barkan:food_cr_baked_beans:
+    data:
+      item_name: "<!i>Baked Beans"
+    material: paper
+    model: barkan:item/food_lib/cr_baked_beans
+  barkan:food_cr_baked_crepes:
+    data:
+      item_name: "<!i>Baked Crepes"
+    material: paper
+    model: barkan:item/food_lib/cr_baked_crepes
+  barkan:food_cr_baked_sweet_potato:
+    data:
+      item_name: "<!i>Baked Sweet Potato"
+    material: paper
+    model: barkan:item/food_lib/cr_baked_sweet_potato
+  barkan:food_cr_baked_yam:
+    data:
+      item_name: "<!i>Baked Yam"
+    material: paper
+    model: barkan:item/food_lib/cr_baked_yam
+  barkan:food_cr_banana:
+    data:
+      item_name: "<!i>Banana"
+    material: paper
+    model: barkan:item/food_lib/cr_banana
+  barkan:food_cr_banana_cream_pie:
+    data:
+      item_name: "<!i>Banana Cream Pie"
+    material: paper
+    model: barkan:item/food_lib/cr_banana_cream_pie
+  barkan:food_cr_banana_nut_bread:
+    data:
+      item_name: "<!i>Banana Nut Bread"
+    material: paper
+    model: barkan:item/food_lib/cr_banana_nut_bread
+  barkan:food_cr_banana_smoothie:
+    data:
+      item_name: "<!i>Banana Smoothie"
+    material: paper
+    model: barkan:item/food_lib/cr_banana_smoothie
+  barkan:food_cr_barley:
+    data:
+      item_name: "<!i>Barley"
+    material: paper
+    model: barkan:item/food_lib/cr_barley
+  barkan:food_cr_basil:
+    data:
+      item_name: "<!i>Basil"
+    material: paper
+    model: barkan:item/food_lib/cr_basil
+  barkan:food_cr_beef_jerky:
+    data:
+      item_name: "<!i>Beef Jerky"
+    material: paper
+    model: barkan:item/food_lib/cr_beef_jerky
+  barkan:food_cr_beef_stew:
+    data:
+      item_name: "<!i>Beef Stew"
+    material: paper
+    model: barkan:item/food_lib/cr_beef_stew
+  barkan:food_cr_beef_stir_fry:
+    data:
+      item_name: "<!i>Beef Stir Fry"
+    material: paper
+    model: barkan:item/food_lib/cr_beef_stir_fry
+  barkan:food_cr_beef_wellington:
+    data:
+      item_name: "<!i>Beef Wellington"
+    material: paper
+    model: barkan:item/food_lib/cr_beef_wellington
+  barkan:food_cr_beer:
+    data:
+      item_name: "<!i>Beer"
+    material: paper
+    model: barkan:item/food_lib/cr_beer
+  barkan:food_cr_beetroot_salad:
+    data:
+      item_name: "<!i>Beetroot Salad"
+    material: paper
+    model: barkan:item/food_lib/cr_beetroot_salad
+  barkan:food_cr_bellpepper:
+    data:
+      item_name: "<!i>Bellpepper"
+    material: paper
+    model: barkan:item/food_lib/cr_bellpepper
+  barkan:food_cr_bibim_naengmyeon:
+    data:
+      item_name: "<!i>Bibim Naengmyeon"
+    material: paper
+    model: barkan:item/food_lib/cr_bibim_naengmyeon
+  barkan:food_cr_bibimbap:
+    data:
+      item_name: "<!i>Bibimbap"
+    material: paper
+    model: barkan:item/food_lib/cr_bibimbap
+  barkan:food_cr_blackbean:
+    data:
+      item_name: "<!i>Blackbean"
+    material: paper
+    model: barkan:item/food_lib/cr_blackbean
+  barkan:food_cr_blackberry:
+    data:
+      item_name: "<!i>Blackberry"
+    material: paper
+    model: barkan:item/food_lib/cr_blackberry
+  barkan:food_cr_blackberry_jam:
+    data:
+      item_name: "<!i>Blackberry Jam"
+    material: paper
+    model: barkan:item/food_lib/cr_blackberry_jam
+  barkan:food_cr_blt:
+    data:
+      item_name: "<!i>Blt"
+    material: paper
+    model: barkan:item/food_lib/cr_blt
+  barkan:food_cr_blueberry:
+    data:
+      item_name: "<!i>Blueberry"
+    material: paper
+    model: barkan:item/food_lib/cr_blueberry
+  barkan:food_cr_blueberry_jam:
+    data:
+      item_name: "<!i>Blueberry Jam"
+    material: paper
+    model: barkan:item/food_lib/cr_blueberry_jam
+  barkan:food_cr_borscht:
+    data:
+      item_name: "<!i>Borscht"
+    material: paper
+    model: barkan:item/food_lib/cr_borscht
+  barkan:food_cr_broccoli:
+    data:
+      item_name: "<!i>Broccoli"
+    material: paper
+    model: barkan:item/food_lib/cr_broccoli
+  barkan:food_cr_brown_sugar:
+    data:
+      item_name: "<!i>Brown Sugar"
+    material: paper
+    model: barkan:item/food_lib/cr_brown_sugar
+  barkan:food_cr_brownies:
+    data:
+      item_name: "<!i>Brownies"
+    material: paper
+    model: barkan:item/food_lib/cr_brownies
+  barkan:food_cr_burrito:
+    data:
+      item_name: "<!i>Burrito"
+    material: paper
+    model: barkan:item/food_lib/cr_burrito
+  barkan:food_cr_butter:
+    data:
+      item_name: "<!i>Butter"
+    material: paper
+    model: barkan:item/food_lib/cr_butter
+  barkan:food_cr_buttered_green_beans:
+    data:
+      item_name: "<!i>Buttered Green Beans"
+    material: paper
+    model: barkan:item/food_lib/cr_buttered_green_beans
+  barkan:food_cr_buttered_toast:
+    data:
+      item_name: "<!i>Buttered Toast"
+    material: paper
+    model: barkan:item/food_lib/cr_buttered_toast
+  barkan:food_cr_cabbage:
+    data:
+      item_name: "<!i>Cabbage"
+    material: paper
+    model: barkan:item/food_lib/cr_cabbage
+  barkan:food_cr_cabbage_roll:
+    data:
+      item_name: "<!i>Cabbage Roll"
+    material: paper
+    model: barkan:item/food_lib/cr_cabbage_roll
+  barkan:food_cr_caesar_salad:
+    data:
+      item_name: "<!i>Caesar Salad"
+    material: paper
+    model: barkan:item/food_lib/cr_caesar_salad
+  barkan:food_cr_calamari:
+    data:
+      item_name: "<!i>Calamari"
+    material: paper
+    model: barkan:item/food_lib/cr_calamari
+  barkan:food_cr_candied_kumquats:
+    data:
+      item_name: "<!i>Candied Kumquats"
+    material: paper
+    model: barkan:item/food_lib/cr_candied_kumquats
+  barkan:food_cr_candied_nuts:
+    data:
+      item_name: "<!i>Candied Nuts"
+    material: paper
+    model: barkan:item/food_lib/cr_candied_nuts
+  barkan:food_cr_candy_corn:
+    data:
+      item_name: "<!i>Candy Corn"
+    material: paper
+    model: barkan:item/food_lib/cr_candy_corn
+  barkan:food_cr_cantaloupe:
+    data:
+      item_name: "<!i>Cantaloupe"
+    material: paper
+    model: barkan:item/food_lib/cr_cantaloupe
+  barkan:food_cr_caramel:
+    data:
+      item_name: "<!i>Caramel"
+    material: paper
+    model: barkan:item/food_lib/cr_caramel
+  barkan:food_cr_carnitas:
+    data:
+      item_name: "<!i>Carnitas"
+    material: paper
+    model: barkan:item/food_lib/cr_carnitas
+  barkan:food_cr_carrot_cake:
+    data:
+      item_name: "<!i>Carrot Cake"
+    material: paper
+    model: barkan:item/food_lib/cr_carrot_cake
+  barkan:food_cr_cashew:
+    data:
+      item_name: "<!i>Cashew"
+    material: paper
+    model: barkan:item/food_lib/cr_cashew
+  barkan:food_cr_cashew_chicken:
+    data:
+      item_name: "<!i>Cashew Chicken"
+    material: paper
+    model: barkan:item/food_lib/cr_cashew_chicken
+  barkan:food_cr_cauliflower:
+    data:
+      item_name: "<!i>Cauliflower"
+    material: paper
+    model: barkan:item/food_lib/cr_cauliflower
+  barkan:food_cr_celery:
+    data:
+      item_name: "<!i>Celery"
+    material: paper
+    model: barkan:item/food_lib/cr_celery
+  barkan:food_cr_cheese:
+    data:
+      item_name: "<!i>Cheese"
+    material: paper
+    model: barkan:item/food_lib/cr_cheese
+  barkan:food_cr_cheese_cake:
+    data:
+      item_name: "<!i>Cheese Cake"
+    material: paper
+    model: barkan:item/food_lib/cr_cheese_cake
+  barkan:food_cr_cheese_pizza:
+    data:
+      item_name: "<!i>Cheese Pizza"
+    material: paper
+    model: barkan:item/food_lib/cr_cheese_pizza
+  barkan:food_cr_cheeseburger:
+    data:
+      item_name: "<!i>Cheeseburger"
+    material: paper
+    model: barkan:item/food_lib/cr_cheeseburger
+  barkan:food_cr_cheesy_asparagus:
+    data:
+      item_name: "<!i>Cheesy Asparagus"
+    material: paper
+    model: barkan:item/food_lib/cr_cheesy_asparagus
+  barkan:food_cr_cherry:
+    data:
+      item_name: "<!i>Cherry"
+    material: paper
+    model: barkan:item/food_lib/cr_cherry
+  barkan:food_cr_cherry_jam:
+    data:
+      item_name: "<!i>Cherry Jam"
+    material: paper
+    model: barkan:item/food_lib/cr_cherry_jam
+  barkan:food_cr_cherry_juice:
+    data:
+      item_name: "<!i>Cherry Juice"
+    material: paper
+    model: barkan:item/food_lib/cr_cherry_juice
+  barkan:food_cr_cherry_pie:
+    data:
+      item_name: "<!i>Cherry Pie"
+    material: paper
+    model: barkan:item/food_lib/cr_cherry_pie
+  barkan:food_cr_chicken_and_dumplings:
+    data:
+      item_name: "<!i>Chicken And Dumplings"
+    material: paper
+    model: barkan:item/food_lib/cr_chicken_and_dumplings
+  barkan:food_cr_chicken_and_noodles:
+    data:
+      item_name: "<!i>Chicken And Noodles"
+    material: paper
+    model: barkan:item/food_lib/cr_chicken_and_noodles
+  barkan:food_cr_chicken_and_rice:
+    data:
+      item_name: "<!i>Chicken And Rice"
+    material: paper
+    model: barkan:item/food_lib/cr_chicken_and_rice
+  barkan:food_cr_chile_pepper:
+    data:
+      item_name: "<!i>Chile Pepper"
+    material: paper
+    model: barkan:item/food_lib/cr_chile_pepper
+  barkan:food_cr_chili_relleno:
+    data:
+      item_name: "<!i>Chili Relleno"
+    material: paper
+    model: barkan:item/food_lib/cr_chili_relleno
+  barkan:food_cr_chimichanga:
+    data:
+      item_name: "<!i>Chimichanga"
+    material: paper
+    model: barkan:item/food_lib/cr_chimichanga
+  barkan:food_cr_chives:
+    data:
+      item_name: "<!i>Chives"
+    material: paper
+    model: barkan:item/food_lib/cr_chives
+  barkan:food_cr_chocolate:
+    data:
+      item_name: "<!i>Chocolate"
+    material: paper
+    model: barkan:item/food_lib/cr_chocolate
+  barkan:food_cr_chocolate_ice_cream:
+    data:
+      item_name: "<!i>Chocolate Ice Cream"
+    material: paper
+    model: barkan:item/food_lib/cr_chocolate_ice_cream
+  barkan:food_cr_chocolate_milkshake:
+    data:
+      item_name: "<!i>Chocolate Milkshake"
+    material: paper
+    model: barkan:item/food_lib/cr_chocolate_milkshake
+  barkan:food_cr_churros:
+    data:
+      item_name: "<!i>Churros"
+    material: paper
+    model: barkan:item/food_lib/cr_churros
+  barkan:food_cr_cinnamon:
+    data:
+      item_name: "<!i>Cinnamon"
+    material: paper
+    model: barkan:item/food_lib/cr_cinnamon
+  barkan:food_cr_cinnamon_dust:
+    data:
+      item_name: "<!i>Cinnamon Dust"
+    material: paper
+    model: barkan:item/food_lib/cr_cinnamon_dust
+  barkan:food_cr_cinnamon_roll:
+    data:
+      item_name: "<!i>Cinnamon Roll"
+    material: paper
+    model: barkan:item/food_lib/cr_cinnamon_roll
+  barkan:food_cr_clam:
+    data:
+      item_name: "<!i>Clam"
+    material: paper
+    model: barkan:item/food_lib/cr_clam
+  barkan:food_cr_coconut:
+    data:
+      item_name: "<!i>Coconut"
+    material: paper
+    model: barkan:item/food_lib/cr_coconut
+  barkan:food_cr_coffee:
+    data:
+      item_name: "<!i>Coffee"
+    material: paper
+    model: barkan:item/food_lib/cr_coffee
+  barkan:food_cr_coffee_beans:
+    data:
+      item_name: "<!i>Coffee Beans"
+    material: paper
+    model: barkan:item/food_lib/cr_coffee_beans
+  barkan:food_cr_cooked_anchovy:
+    data:
+      item_name: "<!i>Cooked Anchovy"
+    material: paper
+    model: barkan:item/food_lib/cr_cooked_anchovy
+  barkan:food_cr_cooked_bacon:
+    data:
+      item_name: "<!i>Cooked Bacon"
+    material: paper
+    model: barkan:item/food_lib/cr_cooked_bacon
+  barkan:food_cr_cooked_calamari:
+    data:
+      item_name: "<!i>Cooked Calamari"
+    material: paper
+    model: barkan:item/food_lib/cr_cooked_calamari
+  barkan:food_cr_cooked_frog_legs:
+    data:
+      item_name: "<!i>Cooked Frog Legs"
+    material: paper
+    model: barkan:item/food_lib/cr_cooked_frog_legs
+  barkan:food_cr_cooked_ravager_meat:
+    data:
+      item_name: "<!i>Cooked Ravager Meat"
+    material: paper
+    model: barkan:item/food_lib/cr_cooked_ravager_meat
+  barkan:food_cr_cooked_shrimp:
+    data:
+      item_name: "<!i>Cooked Shrimp"
+    material: paper
+    model: barkan:item/food_lib/cr_cooked_shrimp
+  barkan:food_cr_cooked_tuna:
+    data:
+      item_name: "<!i>Cooked Tuna"
+    material: paper
+    model: barkan:item/food_lib/cr_cooked_tuna
+  barkan:food_cr_cooking_oil:
+    data:
+      item_name: "<!i>Cooking Oil"
+    material: paper
+    model: barkan:item/food_lib/cr_cooking_oil
+  barkan:food_cr_corn:
+    data:
+      item_name: "<!i>Corn"
+    material: paper
+    model: barkan:item/food_lib/cr_corn
+  barkan:food_cr_corn_bread:
+    data:
+      item_name: "<!i>Corn Bread"
+    material: paper
+    model: barkan:item/food_lib/cr_corn_bread
+  barkan:food_cr_corn_husk:
+    data:
+      item_name: "<!i>Corn Husk"
+    material: paper
+    model: barkan:item/food_lib/cr_corn_husk
+  barkan:food_cr_cornish_pasty:
+    data:
+      item_name: "<!i>Cornish Pasty"
+    material: paper
+    model: barkan:item/food_lib/cr_cornish_pasty
+  barkan:food_cr_crab:
+    data:
+      item_name: "<!i>Crab"
+    material: paper
+    model: barkan:item/food_lib/cr_crab
+  barkan:food_cr_crab_legs:
+    data:
+      item_name: "<!i>Crab Legs"
+    material: paper
+    model: barkan:item/food_lib/cr_crab_legs
+  barkan:food_cr_cranberry:
+    data:
+      item_name: "<!i>Cranberry"
+    material: paper
+    model: barkan:item/food_lib/cr_cranberry
+  barkan:food_cr_cranberry_juice:
+    data:
+      item_name: "<!i>Cranberry Juice"
+    material: paper
+    model: barkan:item/food_lib/cr_cranberry_juice
+  barkan:food_cr_crema:
+    data:
+      item_name: "<!i>Crema"
+    material: paper
+    model: barkan:item/food_lib/cr_crema
+  barkan:food_cr_croque_madame:
+    data:
+      item_name: "<!i>Croque Madame"
+    material: paper
+    model: barkan:item/food_lib/cr_croque_madame
+  barkan:food_cr_croque_monsieur:
+    data:
+      item_name: "<!i>Croque Monsieur"
+    material: paper
+    model: barkan:item/food_lib/cr_croque_monsieur
+  barkan:food_cr_cucumber:
+    data:
+      item_name: "<!i>Cucumber"
+    material: paper
+    model: barkan:item/food_lib/cr_cucumber
+  barkan:food_cr_cucumber_salad:
+    data:
+      item_name: "<!i>Cucumber Salad"
+    material: paper
+    model: barkan:item/food_lib/cr_cucumber_salad
+  barkan:food_cr_currant:
+    data:
+      item_name: "<!i>Currant"
+    material: paper
+    model: barkan:item/food_lib/cr_currant
+  barkan:food_cr_date:
+    data:
+      item_name: "<!i>Date"
+    material: paper
+    model: barkan:item/food_lib/cr_date
+  barkan:food_cr_dauphine_potatoes:
+    data:
+      item_name: "<!i>Dauphine Potatoes"
+    material: paper
+    model: barkan:item/food_lib/cr_dauphine_potatoes
+  barkan:food_cr_deep_fried_shrimp:
+    data:
+      item_name: "<!i>Deep Fried Shrimp"
+    material: paper
+    model: barkan:item/food_lib/cr_deep_fried_shrimp
+  barkan:food_cr_donut:
+    data:
+      item_name: "<!i>Donut"
+    material: paper
+    model: barkan:item/food_lib/cr_donut
+  barkan:food_cr_dough:
+    data:
+      item_name: "<!i>Dough"
+    material: paper
+    model: barkan:item/food_lib/cr_dough
+  barkan:food_cr_doughnut:
+    data:
+      item_name: "<!i>Doughnut"
+    material: paper
+    model: barkan:item/food_lib/cr_doughnut
+  barkan:food_cr_dragon_egg_omelette:
+    data:
+      item_name: "<!i>Dragon Egg Omelette"
+    material: paper
+    model: barkan:item/food_lib/cr_dragon_egg_omelette
+  barkan:food_cr_dragonfruit:
+    data:
+      item_name: "<!i>Dragonfruit"
+    material: paper
+    model: barkan:item/food_lib/cr_dragonfruit
+  barkan:food_cr_egg_fried_rice:
+    data:
+      item_name: "<!i>Egg Fried Rice"
+    material: paper
+    model: barkan:item/food_lib/cr_egg_fried_rice
+  barkan:food_cr_egg_roll:
+    data:
+      item_name: "<!i>Egg Roll"
+    material: paper
+    model: barkan:item/food_lib/cr_egg_roll
+  barkan:food_cr_eggplant:
+    data:
+      item_name: "<!i>Eggplant"
+    material: paper
+    model: barkan:item/food_lib/cr_eggplant
+  barkan:food_cr_eggplant_parmesan:
+    data:
+      item_name: "<!i>Eggplant Parmesan"
+    material: paper
+    model: barkan:item/food_lib/cr_eggplant_parmesan
+  barkan:food_cr_elderberry:
+    data:
+      item_name: "<!i>Elderberry"
+    material: paper
+    model: barkan:item/food_lib/cr_elderberry
+  barkan:food_cr_elderberry_jam:
+    data:
+      item_name: "<!i>Elderberry Jam"
+    material: paper
+    model: barkan:item/food_lib/cr_elderberry_jam
+  barkan:food_cr_enchilada:
+    data:
+      item_name: "<!i>Enchilada"
+    material: paper
+    model: barkan:item/food_lib/cr_enchilada
+  barkan:food_cr_eton_mess:
+    data:
+      item_name: "<!i>Eton Mess"
+    material: paper
+    model: barkan:item/food_lib/cr_eton_mess
+  barkan:food_cr_fajitas:
+    data:
+      item_name: "<!i>Fajitas"
+    material: paper
+    model: barkan:item/food_lib/cr_fajitas
+  barkan:food_cr_fig:
+    data:
+      item_name: "<!i>Fig"
+    material: paper
+    model: barkan:item/food_lib/cr_fig
+  barkan:food_cr_figgy_pudding:
+    data:
+      item_name: "<!i>Figgy Pudding"
+    material: paper
+    model: barkan:item/food_lib/cr_figgy_pudding
+  barkan:food_cr_fish_and_chips:
+    data:
+      item_name: "<!i>Fish And Chips"
+    material: paper
+    model: barkan:item/food_lib/cr_fish_and_chips
+  barkan:food_cr_flour:
+    data:
+      item_name: "<!i>Flour"
+    material: paper
+    model: barkan:item/food_lib/cr_flour
+  barkan:food_cr_french_fries:
+    data:
+      item_name: "<!i>French Fries"
+    material: paper
+    model: barkan:item/food_lib/cr_french_fries
+  barkan:food_cr_fried_calamari:
+    data:
+      item_name: "<!i>Fried Calamari"
+    material: paper
+    model: barkan:item/food_lib/cr_fried_calamari
+  barkan:food_cr_fried_calamari_alt:
+    data:
+      item_name: "<!i>Fried Calamari Alt"
+    material: paper
+    model: barkan:item/food_lib/cr_fried_calamari_alt
+  barkan:food_cr_fried_chicken:
+    data:
+      item_name: "<!i>Fried Chicken"
+    material: paper
+    model: barkan:item/food_lib/cr_fried_chicken
+  barkan:food_cr_fried_frog_legs:
+    data:
+      item_name: "<!i>Fried Frog Legs"
+    material: paper
+    model: barkan:item/food_lib/cr_fried_frog_legs
+  barkan:food_cr_fried_rice:
+    data:
+      item_name: "<!i>Fried Rice"
+    material: paper
+    model: barkan:item/food_lib/cr_fried_rice
+  barkan:food_cr_frog_legs:
+    data:
+      item_name: "<!i>Frog Legs"
+    material: paper
+    model: barkan:item/food_lib/cr_frog_legs
+  barkan:food_cr_fruit_cake:
+    data:
+      item_name: "<!i>Fruit Cake"
+    material: paper
+    model: barkan:item/food_lib/cr_fruit_cake
+  barkan:food_cr_fruit_salad:
+    data:
+      item_name: "<!i>Fruit Salad"
+    material: paper
+    model: barkan:item/food_lib/cr_fruit_salad
+  barkan:food_cr_fruit_smoothie:
+    data:
+      item_name: "<!i>Fruit Smoothie"
+    material: paper
+    model: barkan:item/food_lib/cr_fruit_smoothie
+  barkan:food_cr_garlic:
+    data:
+      item_name: "<!i>Garlic"
+    material: paper
+    model: barkan:item/food_lib/cr_garlic
+  barkan:food_cr_ginger:
+    data:
+      item_name: "<!i>Ginger"
+    material: paper
+    model: barkan:item/food_lib/cr_ginger
+  barkan:food_cr_glowing_calamari:
+    data:
+      item_name: "<!i>Glowing Calamari"
+    material: paper
+    model: barkan:item/food_lib/cr_glowing_calamari
+  barkan:food_cr_goulash:
+    data:
+      item_name: "<!i>Goulash"
+    material: paper
+    model: barkan:item/food_lib/cr_goulash
+  barkan:food_cr_grape:
+    data:
+      item_name: "<!i>Grape"
+    material: paper
+    model: barkan:item/food_lib/cr_grape
+  barkan:food_cr_grape_jam:
+    data:
+      item_name: "<!i>Grape Jam"
+    material: paper
+    model: barkan:item/food_lib/cr_grape_jam
+  barkan:food_cr_grape_juice:
+    data:
+      item_name: "<!i>Grape Juice"
+    material: paper
+    model: barkan:item/food_lib/cr_grape_juice
+  barkan:food_cr_grapefruit:
+    data:
+      item_name: "<!i>Grapefruit"
+    material: paper
+    model: barkan:item/food_lib/cr_grapefruit
+  barkan:food_cr_greenbean:
+    data:
+      item_name: "<!i>Greenbean"
+    material: paper
+    model: barkan:item/food_lib/cr_greenbean
+  barkan:food_cr_greenonion:
+    data:
+      item_name: "<!i>Greenonion"
+    material: paper
+    model: barkan:item/food_lib/cr_greenonion
+  barkan:food_cr_grilled_cheese:
+    data:
+      item_name: "<!i>Grilled Cheese"
+    material: paper
+    model: barkan:item/food_lib/cr_grilled_cheese
+  barkan:food_cr_grilled_eggplant:
+    data:
+      item_name: "<!i>Grilled Eggplant"
+    material: paper
+    model: barkan:item/food_lib/cr_grilled_eggplant
+  barkan:food_cr_grilled_oysters:
+    data:
+      item_name: "<!i>Grilled Oysters"
+    material: paper
+    model: barkan:item/food_lib/cr_grilled_oysters
+  barkan:food_cr_ground_pork:
+    data:
+      item_name: "<!i>Ground Pork"
+    material: paper
+    model: barkan:item/food_lib/cr_ground_pork
+  barkan:food_cr_guide:
+    data:
+      item_name: "<!i>Guide"
+    material: paper
+    model: barkan:item/food_lib/cr_guide
+  barkan:food_cr_ham_sandwich:
+    data:
+      item_name: "<!i>Ham Sandwich"
+    material: paper
+    model: barkan:item/food_lib/cr_ham_sandwich
+  barkan:food_cr_hamburger:
+    data:
+      item_name: "<!i>Hamburger"
+    material: paper
+    model: barkan:item/food_lib/cr_hamburger
+  barkan:food_cr_hashed_brown:
+    data:
+      item_name: "<!i>Hashed Brown"
+    material: paper
+    model: barkan:item/food_lib/cr_hashed_brown
+  barkan:food_cr_honeydew:
+    data:
+      item_name: "<!i>Honeydew"
+    material: paper
+    model: barkan:item/food_lib/cr_honeydew
+  barkan:food_cr_hops:
+    data:
+      item_name: "<!i>Hops"
+    material: paper
+    model: barkan:item/food_lib/cr_hops
+  barkan:food_cr_horchata:
+    data:
+      item_name: "<!i>Horchata"
+    material: paper
+    model: barkan:item/food_lib/cr_horchata
+  barkan:food_cr_kale:
+    data:
+      item_name: "<!i>Kale"
+    material: paper
+    model: barkan:item/food_lib/cr_kale
+  barkan:food_cr_kale_chips:
+    data:
+      item_name: "<!i>Kale Chips"
+    material: paper
+    model: barkan:item/food_lib/cr_kale_chips
+  barkan:food_cr_kale_smoothie:
+    data:
+      item_name: "<!i>Kale Smoothie"
+    material: paper
+    model: barkan:item/food_lib/cr_kale_smoothie
+  barkan:food_cr_kimchi:
+    data:
+      item_name: "<!i>Kimchi"
+    material: paper
+    model: barkan:item/food_lib/cr_kimchi
+  barkan:food_cr_kiwi:
+    data:
+      item_name: "<!i>Kiwi"
+    material: paper
+    model: barkan:item/food_lib/cr_kiwi
+  barkan:food_cr_kiwi_sorbet:
+    data:
+      item_name: "<!i>Kiwi Sorbet"
+    material: paper
+    model: barkan:item/food_lib/cr_kiwi_sorbet
+  barkan:food_cr_kumquat:
+    data:
+      item_name: "<!i>Kumquat"
+    material: paper
+    model: barkan:item/food_lib/cr_kumquat
+  barkan:food_cr_leafy_salad:
+    data:
+      item_name: "<!i>Leafy Salad"
+    material: paper
+    model: barkan:item/food_lib/cr_leafy_salad
+  barkan:food_cr_leek:
+    data:
+      item_name: "<!i>Leek"
+    material: paper
+    model: barkan:item/food_lib/cr_leek
+  barkan:food_cr_leek_soup:
+    data:
+      item_name: "<!i>Leek Soup"
+    material: paper
+    model: barkan:item/food_lib/cr_leek_soup
+  barkan:food_cr_lemon:
+    data:
+      item_name: "<!i>Lemon"
+    material: paper
+    model: barkan:item/food_lib/cr_lemon
+  barkan:food_cr_lemon_chicken:
+    data:
+      item_name: "<!i>Lemon Chicken"
+    material: paper
+    model: barkan:item/food_lib/cr_lemon_chicken
+  barkan:food_cr_lemon_coconut_bar:
+    data:
+      item_name: "<!i>Lemon Coconut Bar"
+    material: paper
+    model: barkan:item/food_lib/cr_lemon_coconut_bar
+  barkan:food_cr_lemonade:
+    data:
+      item_name: "<!i>Lemonade"
+    material: paper
+    model: barkan:item/food_lib/cr_lemonade
+  barkan:food_cr_lettuce:
+    data:
+      item_name: "<!i>Lettuce"
+    material: paper
+    model: barkan:item/food_lib/cr_lettuce
+  barkan:food_cr_lime:
+    data:
+      item_name: "<!i>Lime"
+    material: paper
+    model: barkan:item/food_lib/cr_lime
+  barkan:food_cr_limeade:
+    data:
+      item_name: "<!i>Limeade"
+    material: paper
+    model: barkan:item/food_lib/cr_limeade
+  barkan:food_cr_macaron:
+    data:
+      item_name: "<!i>Macaron"
+    material: paper
+    model: barkan:item/food_lib/cr_macaron
+  barkan:food_cr_mango:
+    data:
+      item_name: "<!i>Mango"
+    material: paper
+    model: barkan:item/food_lib/cr_mango
+  barkan:food_cr_mango_ice_cream:
+    data:
+      item_name: "<!i>Mango Ice Cream"
+    material: paper
+    model: barkan:item/food_lib/cr_mango_ice_cream
+  barkan:food_cr_mashed_potatoes:
+    data:
+      item_name: "<!i>Mashed Potatoes"
+    material: paper
+    model: barkan:item/food_lib/cr_mashed_potatoes
+  barkan:food_cr_mead:
+    data:
+      item_name: "<!i>Mead"
+    material: paper
+    model: barkan:item/food_lib/cr_mead
+  barkan:food_cr_melon_juice:
+    data:
+      item_name: "<!i>Melon Juice"
+    material: paper
+    model: barkan:item/food_lib/cr_melon_juice
+  barkan:food_cr_meringue:
+    data:
+      item_name: "<!i>Meringue"
+    material: paper
+    model: barkan:item/food_lib/cr_meringue
+  barkan:food_cr_milk_bottle:
+    data:
+      item_name: "<!i>Milk Bottle"
+    material: paper
+    model: barkan:item/food_lib/cr_milk_bottle
+  barkan:food_cr_molasses:
+    data:
+      item_name: "<!i>Molasses"
+    material: paper
+    model: barkan:item/food_lib/cr_molasses
+  barkan:food_cr_mooncake:
+    data:
+      item_name: "<!i>Mooncake"
+    material: paper
+    model: barkan:item/food_lib/cr_mooncake
+  barkan:food_cr_mortar_and_pestle:
+    data:
+      item_name: "<!i>Mortar And Pestle"
+    material: paper
+    model: barkan:item/food_lib/cr_mortar_and_pestle
+  barkan:food_cr_mountain_salt:
+    data:
+      item_name: "<!i>Mountain Salt"
+    material: paper
+    model: barkan:item/food_lib/cr_mountain_salt
+  barkan:food_cr_mustard:
+    data:
+      item_name: "<!i>Mustard"
+    material: paper
+    model: barkan:item/food_lib/cr_mustard
+  barkan:food_cr_nectarine:
+    data:
+      item_name: "<!i>Nectarine"
+    material: paper
+    model: barkan:item/food_lib/cr_nectarine
+  barkan:food_cr_nether_star_cake:
+    data:
+      item_name: "<!i>Nether Star Cake"
+    material: paper
+    model: barkan:item/food_lib/cr_nether_star_cake
+  barkan:food_cr_nether_wart_stew:
+    data:
+      item_name: "<!i>Nether Wart Stew"
+    material: paper
+    model: barkan:item/food_lib/cr_nether_wart_stew
+  barkan:food_cr_noodle:
+    data:
+      item_name: "<!i>Noodle"
+    material: paper
+    model: barkan:item/food_lib/cr_noodle
+  barkan:food_cr_nougat:
+    data:
+      item_name: "<!i>Nougat"
+    material: paper
+    model: barkan:item/food_lib/cr_nougat
+  barkan:food_cr_nutmeg:
+    data:
+      item_name: "<!i>Nutmeg"
+    material: paper
+    model: barkan:item/food_lib/cr_nutmeg
+  barkan:food_cr_nutty_cookie:
+    data:
+      item_name: "<!i>Nutty Cookie"
+    material: paper
+    model: barkan:item/food_lib/cr_nutty_cookie
+  barkan:food_cr_oat:
+    data:
+      item_name: "<!i>Oat"
+    material: paper
+    model: barkan:item/food_lib/cr_oat
+  barkan:food_cr_oatmeal:
+    data:
+      item_name: "<!i>Oatmeal"
+    material: paper
+    model: barkan:item/food_lib/cr_oatmeal
+  barkan:food_cr_olive:
+    data:
+      item_name: "<!i>Olive"
+    material: paper
+    model: barkan:item/food_lib/cr_olive
+  barkan:food_cr_olive_oil:
+    data:
+      item_name: "<!i>Olive Oil"
+    material: paper
+    model: barkan:item/food_lib/cr_olive_oil
+  barkan:food_cr_onion:
+    data:
+      item_name: "<!i>Onion"
+    material: paper
+    model: barkan:item/food_lib/cr_onion
+  barkan:food_cr_onion_rings:
+    data:
+      item_name: "<!i>Onion Rings"
+    material: paper
+    model: barkan:item/food_lib/cr_onion_rings
+  barkan:food_cr_orange:
+    data:
+      item_name: "<!i>Orange"
+    material: paper
+    model: barkan:item/food_lib/cr_orange
+  barkan:food_cr_orange_chicken:
+    data:
+      item_name: "<!i>Orange Chicken"
+    material: paper
+    model: barkan:item/food_lib/cr_orange_chicken
+  barkan:food_cr_orange_juice:
+    data:
+      item_name: "<!i>Orange Juice"
+    material: paper
+    model: barkan:item/food_lib/cr_orange_juice
+  barkan:food_cr_oyster:
+    data:
+      item_name: "<!i>Oyster"
+    material: paper
+    model: barkan:item/food_lib/cr_oyster
+  barkan:food_cr_paprika:
+    data:
+      item_name: "<!i>Paprika"
+    material: paper
+    model: barkan:item/food_lib/cr_paprika
+  barkan:food_cr_peach:
+    data:
+      item_name: "<!i>Peach"
+    material: paper
+    model: barkan:item/food_lib/cr_peach
+  barkan:food_cr_peach_jam:
+    data:
+      item_name: "<!i>Peach Jam"
+    material: paper
+    model: barkan:item/food_lib/cr_peach_jam
+  barkan:food_cr_peanut:
+    data:
+      item_name: "<!i>Peanut"
+    material: paper
+    model: barkan:item/food_lib/cr_peanut
+  barkan:food_cr_peanut_butter:
+    data:
+      item_name: "<!i>Peanut Butter"
+    material: paper
+    model: barkan:item/food_lib/cr_peanut_butter
+  barkan:food_cr_peanut_butter_and_jam:
+    data:
+      item_name: "<!i>Peanut Butter And Jam"
+    material: paper
+    model: barkan:item/food_lib/cr_peanut_butter_and_jam
+  barkan:food_cr_peanut_butter_with_celery:
+    data:
+      item_name: "<!i>Peanut Butter With Celery"
+    material: paper
+    model: barkan:item/food_lib/cr_peanut_butter_with_celery
+  barkan:food_cr_pear:
+    data:
+      item_name: "<!i>Pear"
+    material: paper
+    model: barkan:item/food_lib/cr_pear
+  barkan:food_cr_pecan:
+    data:
+      item_name: "<!i>Pecan"
+    material: paper
+    model: barkan:item/food_lib/cr_pecan
+  barkan:food_cr_pecan_ice_cream:
+    data:
+      item_name: "<!i>Pecan Ice Cream"
+    material: paper
+    model: barkan:item/food_lib/cr_pecan_ice_cream
+  barkan:food_cr_pecan_pie:
+    data:
+      item_name: "<!i>Pecan Pie"
+    material: paper
+    model: barkan:item/food_lib/cr_pecan_pie
+  barkan:food_cr_pepper:
+    data:
+      item_name: "<!i>Pepper"
+    material: paper
+    model: barkan:item/food_lib/cr_pepper
+  barkan:food_cr_pepperoni:
+    data:
+      item_name: "<!i>Pepperoni"
+    material: paper
+    model: barkan:item/food_lib/cr_pepperoni
+  barkan:food_cr_persimmon:
+    data:
+      item_name: "<!i>Persimmon"
+    material: paper
+    model: barkan:item/food_lib/cr_persimmon
+  barkan:food_cr_pickled_anchovy:
+    data:
+      item_name: "<!i>Pickled Anchovy"
+    material: paper
+    model: barkan:item/food_lib/cr_pickled_anchovy
+  barkan:food_cr_pickled_beets:
+    data:
+      item_name: "<!i>Pickled Beets"
+    material: paper
+    model: barkan:item/food_lib/cr_pickled_beets
+  barkan:food_cr_pickled_cucumber:
+    data:
+      item_name: "<!i>Pickled Cucumber"
+    material: paper
+    model: barkan:item/food_lib/cr_pickled_cucumber
+  barkan:food_cr_pickled_eggs:
+    data:
+      item_name: "<!i>Pickled Eggs"
+    material: paper
+    model: barkan:item/food_lib/cr_pickled_eggs
+  barkan:food_cr_pickled_garlic:
+    data:
+      item_name: "<!i>Pickled Garlic"
+    material: paper
+    model: barkan:item/food_lib/cr_pickled_garlic
+  barkan:food_cr_pickled_ginger:
+    data:
+      item_name: "<!i>Pickled Ginger"
+    material: paper
+    model: barkan:item/food_lib/cr_pickled_ginger
+  barkan:food_cr_pickled_onion:
+    data:
+      item_name: "<!i>Pickled Onion"
+    material: paper
+    model: barkan:item/food_lib/cr_pickled_onion
+  barkan:food_cr_pickled_radish:
+    data:
+      item_name: "<!i>Pickled Radish"
+    material: paper
+    model: barkan:item/food_lib/cr_pickled_radish
+  barkan:food_cr_pineapple:
+    data:
+      item_name: "<!i>Pineapple"
+    material: paper
+    model: barkan:item/food_lib/cr_pineapple
+  barkan:food_cr_pineapple_chicken:
+    data:
+      item_name: "<!i>Pineapple Chicken"
+    material: paper
+    model: barkan:item/food_lib/cr_pineapple_chicken
+  barkan:food_cr_pineapple_juice:
+    data:
+      item_name: "<!i>Pineapple Juice"
+    material: paper
+    model: barkan:item/food_lib/cr_pineapple_juice
+  barkan:food_cr_pineapple_pepperoni_pizza:
+    data:
+      item_name: "<!i>Pineapple Pepperoni Pizza"
+    material: paper
+    model: barkan:item/food_lib/cr_pineapple_pepperoni_pizza
+  barkan:food_cr_pizza:
+    data:
+      item_name: "<!i>Pizza"
+    material: paper
+    model: barkan:item/food_lib/cr_pizza
+  barkan:food_cr_plum:
+    data:
+      item_name: "<!i>Plum"
+    material: paper
+    model: barkan:item/food_lib/cr_plum
+  barkan:food_cr_popcorn:
+    data:
+      item_name: "<!i>Popcorn"
+    material: paper
+    model: barkan:item/food_lib/cr_popcorn
+  barkan:food_cr_pork_and_beans:
+    data:
+      item_name: "<!i>Pork And Beans"
+    material: paper
+    model: barkan:item/food_lib/cr_pork_and_beans
+  barkan:food_cr_pork_jerky:
+    data:
+      item_name: "<!i>Pork Jerky"
+    material: paper
+    model: barkan:item/food_lib/cr_pork_jerky
+  barkan:food_cr_potato_chips:
+    data:
+      item_name: "<!i>Potato Chips"
+    material: paper
+    model: barkan:item/food_lib/cr_potato_chips
+  barkan:food_cr_potato_soup:
+    data:
+      item_name: "<!i>Potato Soup"
+    material: paper
+    model: barkan:item/food_lib/cr_potato_soup
+  barkan:food_cr_protein_bar:
+    data:
+      item_name: "<!i>Protein Bar"
+    material: paper
+    model: barkan:item/food_lib/cr_protein_bar
+  barkan:food_cr_pumpkin_bars:
+    data:
+      item_name: "<!i>Pumpkin Bars"
+    material: paper
+    model: barkan:item/food_lib/cr_pumpkin_bars
+  barkan:food_cr_pumpkin_soup:
+    data:
+      item_name: "<!i>Pumpkin Soup"
+    material: paper
+    model: barkan:item/food_lib/cr_pumpkin_soup
+  barkan:food_cr_pumpkin_spice_latte:
+    data:
+      item_name: "<!i>Pumpkin Spice Latte"
+    material: paper
+    model: barkan:item/food_lib/cr_pumpkin_spice_latte
+  barkan:food_cr_quesadilla:
+    data:
+      item_name: "<!i>Quesadilla"
+    material: paper
+    model: barkan:item/food_lib/cr_quesadilla
+  barkan:food_cr_quiche:
+    data:
+      item_name: "<!i>Quiche"
+    material: paper
+    model: barkan:item/food_lib/cr_quiche
+  barkan:food_cr_radish:
+    data:
+      item_name: "<!i>Radish"
+    material: paper
+    model: barkan:item/food_lib/cr_radish
+  barkan:food_cr_raisin_oatmeal_cookie:
+    data:
+      item_name: "<!i>Raisin Oatmeal Cookie"
+    material: paper
+    model: barkan:item/food_lib/cr_raisin_oatmeal_cookie
+  barkan:food_cr_raisins:
+    data:
+      item_name: "<!i>Raisins"
+    material: paper
+    model: barkan:item/food_lib/cr_raisins
+  barkan:food_cr_raspberry:
+    data:
+      item_name: "<!i>Raspberry"
+    material: paper
+    model: barkan:item/food_lib/cr_raspberry
+  barkan:food_cr_raspberry_jam:
+    data:
+      item_name: "<!i>Raspberry Jam"
+    material: paper
+    model: barkan:item/food_lib/cr_raspberry_jam
+  barkan:food_cr_ratatouille:
+    data:
+      item_name: "<!i>Ratatouille"
+    material: paper
+    model: barkan:item/food_lib/cr_ratatouille
+  barkan:food_cr_ravager_sausage:
+    data:
+      item_name: "<!i>Ravager Sausage"
+    material: paper
+    model: barkan:item/food_lib/cr_ravager_sausage
+  barkan:food_cr_ravioli:
+    data:
+      item_name: "<!i>Ravioli"
+    material: paper
+    model: barkan:item/food_lib/cr_ravioli
+  barkan:food_cr_raw_ravager_meat:
+    data:
+      item_name: "<!i>Raw Ravager Meat"
+    material: paper
+    model: barkan:item/food_lib/cr_raw_ravager_meat
+  barkan:food_cr_refried_beans:
+    data:
+      item_name: "<!i>Refried Beans"
+    material: paper
+    model: barkan:item/food_lib/cr_refried_beans
+  barkan:food_cr_rhubarb:
+    data:
+      item_name: "<!i>Rhubarb"
+    material: paper
+    model: barkan:item/food_lib/cr_rhubarb
+  barkan:food_cr_rhubarb_crisp:
+    data:
+      item_name: "<!i>Rhubarb Crisp"
+    material: paper
+    model: barkan:item/food_lib/cr_rhubarb_crisp
+  barkan:food_cr_rhubarb_pie:
+    data:
+      item_name: "<!i>Rhubarb Pie"
+    material: paper
+    model: barkan:item/food_lib/cr_rhubarb_pie
+  barkan:food_cr_rice:
+    data:
+      item_name: "<!i>Rice"
+    material: paper
+    model: barkan:item/food_lib/cr_rice
+  barkan:food_cr_roasted_asparagus:
+    data:
+      item_name: "<!i>Roasted Asparagus"
+    material: paper
+    model: barkan:item/food_lib/cr_roasted_asparagus
+  barkan:food_cr_roasted_nuts:
+    data:
+      item_name: "<!i>Roasted Nuts"
+    material: paper
+    model: barkan:item/food_lib/cr_roasted_nuts
+  barkan:food_cr_roasted_radishes:
+    data:
+      item_name: "<!i>Roasted Radishes"
+    material: paper
+    model: barkan:item/food_lib/cr_roasted_radishes
+  barkan:food_cr_roasted_squash:
+    data:
+      item_name: "<!i>Roasted Squash"
+    material: paper
+    model: barkan:item/food_lib/cr_roasted_squash
+  barkan:food_cr_roasted_turnips:
+    data:
+      item_name: "<!i>Roasted Turnips"
+    material: paper
+    model: barkan:item/food_lib/cr_roasted_turnips
+  barkan:food_cr_roe:
+    data:
+      item_name: "<!i>Roe"
+    material: paper
+    model: barkan:item/food_lib/cr_roe
+  barkan:food_cr_rum:
+    data:
+      item_name: "<!i>Rum"
+    material: paper
+    model: barkan:item/food_lib/cr_rum
+  barkan:food_cr_rum_raisin_ice_cream:
+    data:
+      item_name: "<!i>Rum Raisin Ice Cream"
+    material: paper
+    model: barkan:item/food_lib/cr_rum_raisin_ice_cream
+  barkan:food_cr_rutabaga:
+    data:
+      item_name: "<!i>Rutabaga"
+    material: paper
+    model: barkan:item/food_lib/cr_rutabaga
+  barkan:food_cr_saguaro:
+    data:
+      item_name: "<!i>Saguaro"
+    material: paper
+    model: barkan:item/food_lib/cr_saguaro
+  barkan:food_cr_saguaro_juice:
+    data:
+      item_name: "<!i>Saguaro Juice"
+    material: paper
+    model: barkan:item/food_lib/cr_saguaro_juice
+  barkan:food_cr_salsa:
+    data:
+      item_name: "<!i>Salsa"
+    material: paper
+    model: barkan:item/food_lib/cr_salsa
+  barkan:food_cr_salsa_chips:
+    data:
+      item_name: "<!i>Salsa Chips"
+    material: paper
+    model: barkan:item/food_lib/cr_salsa_chips
+  barkan:food_cr_salt:
+    data:
+      item_name: "<!i>Salt"
+    material: paper
+    model: barkan:item/food_lib/cr_salt
+  barkan:food_cr_saucy_chips:
+    data:
+      item_name: "<!i>Saucy Chips"
+    material: paper
+    model: barkan:item/food_lib/cr_saucy_chips
+  barkan:food_cr_sauerkraut:
+    data:
+      item_name: "<!i>Sauerkraut"
+    material: paper
+    model: barkan:item/food_lib/cr_sauerkraut
+  barkan:food_cr_sausage:
+    data:
+      item_name: "<!i>Sausage"
+    material: paper
+    model: barkan:item/food_lib/cr_sausage
+  barkan:food_cr_scones:
+    data:
+      item_name: "<!i>Scones"
+    material: paper
+    model: barkan:item/food_lib/cr_scones
+  barkan:food_cr_scrambled_eggs:
+    data:
+      item_name: "<!i>Scrambled Eggs"
+    material: paper
+    model: barkan:item/food_lib/cr_scrambled_eggs
+  barkan:food_cr_sea_lettuce:
+    data:
+      item_name: "<!i>Sea Lettuce"
+    material: paper
+    model: barkan:item/food_lib/cr_sea_lettuce
+  barkan:food_cr_sea_salt:
+    data:
+      item_name: "<!i>Sea Salt"
+    material: paper
+    model: barkan:item/food_lib/cr_sea_salt
+  barkan:food_cr_seasalt:
+    data:
+      item_name: "<!i>Seasalt"
+    material: paper
+    model: barkan:item/food_lib/cr_seasalt
+  barkan:food_cr_sesame_chicken:
+    data:
+      item_name: "<!i>Sesame Chicken"
+    material: paper
+    model: barkan:item/food_lib/cr_sesame_chicken
+  barkan:food_cr_shepherds_pie:
+    data:
+      item_name: "<!i>Shepherds Pie"
+    material: paper
+    model: barkan:item/food_lib/cr_shepherds_pie
+  barkan:food_cr_shrimp:
+    data:
+      item_name: "<!i>Shrimp"
+    material: paper
+    model: barkan:item/food_lib/cr_shrimp
+  barkan:food_cr_snicker_doodle:
+    data:
+      item_name: "<!i>Snicker Doodle"
+    material: paper
+    model: barkan:item/food_lib/cr_snicker_doodle
+  barkan:food_cr_soy_milk:
+    data:
+      item_name: "<!i>Soy Milk"
+    material: paper
+    model: barkan:item/food_lib/cr_soy_milk
+  barkan:food_cr_soy_sauce:
+    data:
+      item_name: "<!i>Soy Sauce"
+    material: paper
+    model: barkan:item/food_lib/cr_soy_sauce
+  barkan:food_cr_soybean:
+    data:
+      item_name: "<!i>Soybean"
+    material: paper
+    model: barkan:item/food_lib/cr_soybean
+  barkan:food_cr_spaghetti_squash:
+    data:
+      item_name: "<!i>Spaghetti Squash"
+    material: paper
+    model: barkan:item/food_lib/cr_spaghetti_squash
+  barkan:food_cr_spinach:
+    data:
+      item_name: "<!i>Spinach"
+    material: paper
+    model: barkan:item/food_lib/cr_spinach
+  barkan:food_cr_squash:
+    data:
+      item_name: "<!i>Squash"
+    material: paper
+    model: barkan:item/food_lib/cr_squash
+  barkan:food_cr_starfruit:
+    data:
+      item_name: "<!i>Starfruit"
+    material: paper
+    model: barkan:item/food_lib/cr_starfruit
+  barkan:food_cr_steamed_broccoli:
+    data:
+      item_name: "<!i>Steamed Broccoli"
+    material: paper
+    model: barkan:item/food_lib/cr_steamed_broccoli
+  barkan:food_cr_steamed_clams:
+    data:
+      item_name: "<!i>Steamed Clams"
+    material: paper
+    model: barkan:item/food_lib/cr_steamed_clams
+  barkan:food_cr_steamed_crab:
+    data:
+      item_name: "<!i>Steamed Crab"
+    material: paper
+    model: barkan:item/food_lib/cr_steamed_crab
+  barkan:food_cr_steamed_green_beans:
+    data:
+      item_name: "<!i>Steamed Green Beans"
+    material: paper
+    model: barkan:item/food_lib/cr_steamed_green_beans
+  barkan:food_cr_steamed_rice:
+    data:
+      item_name: "<!i>Steamed Rice"
+    material: paper
+    model: barkan:item/food_lib/cr_steamed_rice
+  barkan:food_cr_sticky_toffee_pudding:
+    data:
+      item_name: "<!i>Sticky Toffee Pudding"
+    material: paper
+    model: barkan:item/food_lib/cr_sticky_toffee_pudding
+  barkan:food_cr_stir_fry:
+    data:
+      item_name: "<!i>Stir Fry"
+    material: paper
+    model: barkan:item/food_lib/cr_stir_fry
+  barkan:food_cr_strawberry:
+    data:
+      item_name: "<!i>Strawberry"
+    material: paper
+    model: barkan:item/food_lib/cr_strawberry
+  barkan:food_cr_strawberry_ice_cream:
+    data:
+      item_name: "<!i>Strawberry Ice Cream"
+    material: paper
+    model: barkan:item/food_lib/cr_strawberry_ice_cream
+  barkan:food_cr_strawberry_jam:
+    data:
+      item_name: "<!i>Strawberry Jam"
+    material: paper
+    model: barkan:item/food_lib/cr_strawberry_jam
+  barkan:food_cr_strawberry_smoothie:
+    data:
+      item_name: "<!i>Strawberry Smoothie"
+    material: paper
+    model: barkan:item/food_lib/cr_strawberry_smoothie
+  barkan:food_cr_stuffed_artichoke:
+    data:
+      item_name: "<!i>Stuffed Artichoke"
+    material: paper
+    model: barkan:item/food_lib/cr_stuffed_artichoke
+  barkan:food_cr_stuffed_poblanos:
+    data:
+      item_name: "<!i>Stuffed Poblanos"
+    material: paper
+    model: barkan:item/food_lib/cr_stuffed_poblanos
+  barkan:food_cr_sunny_side_eggs:
+    data:
+      item_name: "<!i>Sunny Side Eggs"
+    material: paper
+    model: barkan:item/food_lib/cr_sunny_side_eggs
+  barkan:food_cr_supreme_pizza:
+    data:
+      item_name: "<!i>Supreme Pizza"
+    material: paper
+    model: barkan:item/food_lib/cr_supreme_pizza
+  barkan:food_cr_sushi:
+    data:
+      item_name: "<!i>Sushi"
+    material: paper
+    model: barkan:item/food_lib/cr_sushi
+  barkan:food_cr_sweet_crepes:
+    data:
+      item_name: "<!i>Sweet Crepes"
+    material: paper
+    model: barkan:item/food_lib/cr_sweet_crepes
+  barkan:food_cr_sweet_potato_fries:
+    data:
+      item_name: "<!i>Sweet Potato Fries"
+    material: paper
+    model: barkan:item/food_lib/cr_sweet_potato_fries
+  barkan:food_cr_sweetpotato:
+    data:
+      item_name: "<!i>Sweetpotato"
+    material: paper
+    model: barkan:item/food_lib/cr_sweetpotato
+  barkan:food_cr_taco:
+    data:
+      item_name: "<!i>Taco"
+    material: paper
+    model: barkan:item/food_lib/cr_taco
+  barkan:food_cr_tamales:
+    data:
+      item_name: "<!i>Tamales"
+    material: paper
+    model: barkan:item/food_lib/cr_tamales
+  barkan:food_cr_tea:
+    data:
+      item_name: "<!i>Tea"
+    material: paper
+    model: barkan:item/food_lib/cr_tea
+  barkan:food_cr_teriyaki_chicken:
+    data:
+      item_name: "<!i>Teriyaki Chicken"
+    material: paper
+    model: barkan:item/food_lib/cr_teriyaki_chicken
+  barkan:food_cr_the_big_breakfast:
+    data:
+      item_name: "<!i>The Big Breakfast"
+    material: paper
+    model: barkan:item/food_lib/cr_the_big_breakfast
+  barkan:food_cr_toast:
+    data:
+      item_name: "<!i>Toast"
+    material: paper
+    model: barkan:item/food_lib/cr_toast
+  barkan:food_cr_toast_sandwich:
+    data:
+      item_name: "<!i>Toast Sandwich"
+    material: paper
+    model: barkan:item/food_lib/cr_toast_sandwich
+  barkan:food_cr_toast_with_jam:
+    data:
+      item_name: "<!i>Toast With Jam"
+    material: paper
+    model: barkan:item/food_lib/cr_toast_with_jam
+  barkan:food_cr_tofu:
+    data:
+      item_name: "<!i>Tofu"
+    material: paper
+    model: barkan:item/food_lib/cr_tofu
+  barkan:food_cr_tofu_and_dumplings:
+    data:
+      item_name: "<!i>Tofu And Dumplings"
+    material: paper
+    model: barkan:item/food_lib/cr_tofu_and_dumplings
+  barkan:food_cr_tofuburger:
+    data:
+      item_name: "<!i>Tofuburger"
+    material: paper
+    model: barkan:item/food_lib/cr_tofuburger
+  barkan:food_cr_tomatillo:
+    data:
+      item_name: "<!i>Tomatillo"
+    material: paper
+    model: barkan:item/food_lib/cr_tomatillo
+  barkan:food_cr_tomato:
+    data:
+      item_name: "<!i>Tomato"
+    material: paper
+    model: barkan:item/food_lib/cr_tomato
+  barkan:food_cr_tomato_juice:
+    data:
+      item_name: "<!i>Tomato Juice"
+    material: paper
+    model: barkan:item/food_lib/cr_tomato_juice
+  barkan:food_cr_tortilla:
+    data:
+      item_name: "<!i>Tortilla"
+    material: paper
+    model: barkan:item/food_lib/cr_tortilla
+  barkan:food_cr_tostada:
+    data:
+      item_name: "<!i>Tostada"
+    material: paper
+    model: barkan:item/food_lib/cr_tostada
+  barkan:food_cr_trail_mix:
+    data:
+      item_name: "<!i>Trail Mix"
+    material: paper
+    model: barkan:item/food_lib/cr_trail_mix
+  barkan:food_cr_transcendental_breakfast:
+    data:
+      item_name: "<!i>Transcendental Breakfast"
+    material: paper
+    model: barkan:item/food_lib/cr_transcendental_breakfast
+  barkan:food_cr_treacle_tart:
+    data:
+      item_name: "<!i>Treacle Tart"
+    material: paper
+    model: barkan:item/food_lib/cr_treacle_tart
+  barkan:food_cr_tres_leche_cake:
+    data:
+      item_name: "<!i>Tres Leche Cake"
+    material: paper
+    model: barkan:item/food_lib/cr_tres_leche_cake
+  barkan:food_cr_trifle:
+    data:
+      item_name: "<!i>Trifle"
+    material: paper
+    model: barkan:item/food_lib/cr_trifle
+  barkan:food_cr_tteokbokki:
+    data:
+      item_name: "<!i>Tteokbokki"
+    material: paper
+    model: barkan:item/food_lib/cr_tteokbokki
+  barkan:food_cr_tuna:
+    data:
+      item_name: "<!i>Tuna"
+    material: paper
+    model: barkan:item/food_lib/cr_tuna
+  barkan:food_cr_tuna_roll:
+    data:
+      item_name: "<!i>Tuna Roll"
+    material: paper
+    model: barkan:item/food_lib/cr_tuna_roll
+  barkan:food_cr_turmeric:
+    data:
+      item_name: "<!i>Turmeric"
+    material: paper
+    model: barkan:item/food_lib/cr_turmeric
+  barkan:food_cr_turnip:
+    data:
+      item_name: "<!i>Turnip"
+    material: paper
+    model: barkan:item/food_lib/cr_turnip
+  barkan:food_cr_vanilla:
+    data:
+      item_name: "<!i>Vanilla"
+    material: paper
+    model: barkan:item/food_lib/cr_vanilla
+  barkan:food_cr_vanilla_ice_cream:
+    data:
+      item_name: "<!i>Vanilla Ice Cream"
+    material: paper
+    model: barkan:item/food_lib/cr_vanilla_ice_cream
+  barkan:food_cr_veggie_fried_rice:
+    data:
+      item_name: "<!i>Veggie Fried Rice"
+    material: paper
+    model: barkan:item/food_lib/cr_veggie_fried_rice
+  barkan:food_cr_veggie_salad:
+    data:
+      item_name: "<!i>Veggie Salad"
+    material: paper
+    model: barkan:item/food_lib/cr_veggie_salad
+  barkan:food_cr_walnut:
+    data:
+      item_name: "<!i>Walnut"
+    material: paper
+    model: barkan:item/food_lib/cr_walnut
+  barkan:food_cr_water_bottle:
+    data:
+      item_name: "<!i>Water Bottle"
+    material: paper
+    model: barkan:item/food_lib/cr_water_bottle
+  barkan:food_cr_whipping_cream:
+    data:
+      item_name: "<!i>Whipping Cream"
+    material: paper
+    model: barkan:item/food_lib/cr_whipping_cream
+  barkan:food_cr_wine:
+    data:
+      item_name: "<!i>Wine"
+    material: paper
+    model: barkan:item/food_lib/cr_wine
+  barkan:food_cr_yam:
+    data:
+      item_name: "<!i>Yam"
+    material: paper
+    model: barkan:item/food_lib/cr_yam
+  barkan:food_cr_yam_jam:
+    data:
+      item_name: "<!i>Yam Jam"
+    material: paper
+    model: barkan:item/food_lib/cr_yam_jam
+  barkan:food_cr_yoghurt:
+    data:
+      item_name: "<!i>Yoghurt"
+    material: paper
+    model: barkan:item/food_lib/cr_yoghurt
+  barkan:food_cr_zucchini:
+    data:
+      item_name: "<!i>Zucchini"
+    material: paper
+    model: barkan:item/food_lib/cr_zucchini
+  barkan:food_fd_apple_cider:
+    data:
+      item_name: "<!i>Apple Cider"
+    material: paper
+    model: barkan:item/food_lib/fd_apple_cider
+  barkan:food_fd_apple_pie:
+    data:
+      item_name: "<!i>Apple Pie"
+    material: paper
+    model: barkan:item/food_lib/fd_apple_pie
+  barkan:food_fd_apple_pie_slice:
+    data:
+      item_name: "<!i>Apple Pie Slice"
+    material: paper
+    model: barkan:item/food_lib/fd_apple_pie_slice
+  barkan:food_fd_bacon:
+    data:
+      item_name: "<!i>Bacon"
+    material: paper
+    model: barkan:item/food_lib/fd_bacon
+  barkan:food_fd_bacon_and_eggs:
+    data:
+      item_name: "<!i>Bacon And Eggs"
+    material: paper
+    model: barkan:item/food_lib/fd_bacon_and_eggs
+  barkan:food_fd_bacon_sandwich:
+    data:
+      item_name: "<!i>Bacon Sandwich"
+    material: paper
+    model: barkan:item/food_lib/fd_bacon_sandwich
+  barkan:food_fd_baked_cod_stew:
+    data:
+      item_name: "<!i>Baked Cod Stew"
+    material: paper
+    model: barkan:item/food_lib/fd_baked_cod_stew
+  barkan:food_fd_barbecue_stick:
+    data:
+      item_name: "<!i>Barbecue Stick"
+    material: paper
+    model: barkan:item/food_lib/fd_barbecue_stick
+  barkan:food_fd_beef_patty:
+    data:
+      item_name: "<!i>Beef Patty"
+    material: paper
+    model: barkan:item/food_lib/fd_beef_patty
+  barkan:food_fd_beef_stew:
+    data:
+      item_name: "<!i>Beef Stew"
+    material: paper
+    model: barkan:item/food_lib/fd_beef_stew
+  barkan:food_fd_bone_broth:
+    data:
+      item_name: "<!i>Bone Broth"
+    material: paper
+    model: barkan:item/food_lib/fd_bone_broth
+  barkan:food_fd_cabbage:
+    data:
+      item_name: "<!i>Cabbage"
+    material: paper
+    model: barkan:item/food_lib/fd_cabbage
+  barkan:food_fd_cabbage_leaf:
+    data:
+      item_name: "<!i>Cabbage Leaf"
+    material: paper
+    model: barkan:item/food_lib/fd_cabbage_leaf
+  barkan:food_fd_cabbage_rolls:
+    data:
+      item_name: "<!i>Cabbage Rolls"
+    material: paper
+    model: barkan:item/food_lib/fd_cabbage_rolls
+  barkan:food_fd_cake_slice:
+    data:
+      item_name: "<!i>Cake Slice"
+    material: paper
+    model: barkan:item/food_lib/fd_cake_slice
+  barkan:food_fd_canvas:
+    data:
+      item_name: "<!i>Canvas"
+    material: paper
+    model: barkan:item/food_lib/fd_canvas
+  barkan:food_fd_chicken_cuts:
+    data:
+      item_name: "<!i>Chicken Cuts"
+    material: paper
+    model: barkan:item/food_lib/fd_chicken_cuts
+  barkan:food_fd_chicken_sandwich:
+    data:
+      item_name: "<!i>Chicken Sandwich"
+    material: paper
+    model: barkan:item/food_lib/fd_chicken_sandwich
+  barkan:food_fd_chicken_soup:
+    data:
+      item_name: "<!i>Chicken Soup"
+    material: paper
+    model: barkan:item/food_lib/fd_chicken_soup
+  barkan:food_fd_chocolate_pie:
+    data:
+      item_name: "<!i>Chocolate Pie"
+    material: paper
+    model: barkan:item/food_lib/fd_chocolate_pie
+  barkan:food_fd_chocolate_pie_slice:
+    data:
+      item_name: "<!i>Chocolate Pie Slice"
+    material: paper
+    model: barkan:item/food_lib/fd_chocolate_pie_slice
+  barkan:food_fd_cod_roll:
+    data:
+      item_name: "<!i>Cod Roll"
+    material: paper
+    model: barkan:item/food_lib/fd_cod_roll
+  barkan:food_fd_cod_slice:
+    data:
+      item_name: "<!i>Cod Slice"
+    material: paper
+    model: barkan:item/food_lib/fd_cod_slice
+  barkan:food_fd_cooked_bacon:
+    data:
+      item_name: "<!i>Cooked Bacon"
+    material: paper
+    model: barkan:item/food_lib/fd_cooked_bacon
+  barkan:food_fd_cooked_chicken_cuts:
+    data:
+      item_name: "<!i>Cooked Chicken Cuts"
+    material: paper
+    model: barkan:item/food_lib/fd_cooked_chicken_cuts
+  barkan:food_fd_cooked_cod_slice:
+    data:
+      item_name: "<!i>Cooked Cod Slice"
+    material: paper
+    model: barkan:item/food_lib/fd_cooked_cod_slice
+  barkan:food_fd_cooked_mutton_chops:
+    data:
+      item_name: "<!i>Cooked Mutton Chops"
+    material: paper
+    model: barkan:item/food_lib/fd_cooked_mutton_chops
+  barkan:food_fd_cooked_rice:
+    data:
+      item_name: "<!i>Cooked Rice"
+    material: paper
+    model: barkan:item/food_lib/fd_cooked_rice
+  barkan:food_fd_cooked_salmon_slice:
+    data:
+      item_name: "<!i>Cooked Salmon Slice"
+    material: paper
+    model: barkan:item/food_lib/fd_cooked_salmon_slice
+  barkan:food_fd_dog_food:
+    data:
+      item_name: "<!i>Dog Food"
+    material: paper
+    model: barkan:item/food_lib/fd_dog_food
+  barkan:food_fd_dumplings:
+    data:
+      item_name: "<!i>Dumplings"
+    material: paper
+    model: barkan:item/food_lib/fd_dumplings
+  barkan:food_fd_egg_sandwich:
+    data:
+      item_name: "<!i>Egg Sandwich"
+    material: paper
+    model: barkan:item/food_lib/fd_egg_sandwich
+  barkan:food_fd_empty_container_slot_bowl:
+    data:
+      item_name: "<!i>Empty Container Slot Bowl"
+    material: paper
+    model: barkan:item/food_lib/fd_empty_container_slot_bowl
+  barkan:food_fd_fish_stew:
+    data:
+      item_name: "<!i>Fish Stew"
+    material: paper
+    model: barkan:item/food_lib/fd_fish_stew
+  barkan:food_fd_fried_egg:
+    data:
+      item_name: "<!i>Fried Egg"
+    material: paper
+    model: barkan:item/food_lib/fd_fried_egg
+  barkan:food_fd_fried_rice:
+    data:
+      item_name: "<!i>Fried Rice"
+    material: paper
+    model: barkan:item/food_lib/fd_fried_rice
+  barkan:food_fd_fruit_salad:
+    data:
+      item_name: "<!i>Fruit Salad"
+    material: paper
+    model: barkan:item/food_lib/fd_fruit_salad
+  barkan:food_fd_full_tatami_mat:
+    data:
+      item_name: "<!i>Full Tatami Mat"
+    material: paper
+    model: barkan:item/food_lib/fd_full_tatami_mat
+  barkan:food_fd_gleaming_salad:
+    data:
+      item_name: "<!i>Gleaming Salad"
+    material: paper
+    model: barkan:item/food_lib/fd_gleaming_salad
+  barkan:food_fd_glow_berry_custard:
+    data:
+      item_name: "<!i>Glow Berry Custard"
+    material: paper
+    model: barkan:item/food_lib/fd_glow_berry_custard
+  barkan:food_fd_grilled_salmon:
+    data:
+      item_name: "<!i>Grilled Salmon"
+    material: paper
+    model: barkan:item/food_lib/fd_grilled_salmon
+  barkan:food_fd_half_tatami_mat:
+    data:
+      item_name: "<!i>Half Tatami Mat"
+    material: paper
+    model: barkan:item/food_lib/fd_half_tatami_mat
+  barkan:food_fd_ham:
+    data:
+      item_name: "<!i>Ham"
+    material: paper
+    model: barkan:item/food_lib/fd_ham
+  barkan:food_fd_hamburger:
+    data:
+      item_name: "<!i>Hamburger"
+    material: paper
+    model: barkan:item/food_lib/fd_hamburger
+  barkan:food_fd_honey_cookie:
+    data:
+      item_name: "<!i>Honey Cookie"
+    material: paper
+    model: barkan:item/food_lib/fd_honey_cookie
+  barkan:food_fd_honey_glazed_ham:
+    data:
+      item_name: "<!i>Honey Glazed Ham"
+    material: paper
+    model: barkan:item/food_lib/fd_honey_glazed_ham
+  barkan:food_fd_horse_feed:
+    data:
+      item_name: "<!i>Horse Feed"
+    material: paper
+    model: barkan:item/food_lib/fd_horse_feed
+  barkan:food_fd_hot_cocoa:
+    data:
+      item_name: "<!i>Hot Cocoa"
+    material: paper
+    model: barkan:item/food_lib/fd_hot_cocoa
+  barkan:food_fd_kelp_roll:
+    data:
+      item_name: "<!i>Kelp Roll"
+    material: paper
+    model: barkan:item/food_lib/fd_kelp_roll
+  barkan:food_fd_kelp_roll_slice:
+    data:
+      item_name: "<!i>Kelp Roll Slice"
+    material: paper
+    model: barkan:item/food_lib/fd_kelp_roll_slice
+  barkan:food_fd_melon_juice:
+    data:
+      item_name: "<!i>Melon Juice"
+    material: paper
+    model: barkan:item/food_lib/fd_melon_juice
+  barkan:food_fd_melon_popsicle:
+    data:
+      item_name: "<!i>Melon Popsicle"
+    material: paper
+    model: barkan:item/food_lib/fd_melon_popsicle
+  barkan:food_fd_milk_bottle:
+    data:
+      item_name: "<!i>Milk Bottle"
+    material: paper
+    model: barkan:item/food_lib/fd_milk_bottle
+  barkan:food_fd_minced_beef:
+    data:
+      item_name: "<!i>Minced Beef"
+    material: paper
+    model: barkan:item/food_lib/fd_minced_beef
+  barkan:food_fd_mixed_salad:
+    data:
+      item_name: "<!i>Mixed Salad"
+    material: paper
+    model: barkan:item/food_lib/fd_mixed_salad
+  barkan:food_fd_mushroom_rice:
+    data:
+      item_name: "<!i>Mushroom Rice"
+    material: paper
+    model: barkan:item/food_lib/fd_mushroom_rice
+  barkan:food_fd_mutton_chops:
+    data:
+      item_name: "<!i>Mutton Chops"
+    material: paper
+    model: barkan:item/food_lib/fd_mutton_chops
+  barkan:food_fd_mutton_wrap:
+    data:
+      item_name: "<!i>Mutton Wrap"
+    material: paper
+    model: barkan:item/food_lib/fd_mutton_wrap
+  barkan:food_fd_nether_salad:
+    data:
+      item_name: "<!i>Nether Salad"
+    material: paper
+    model: barkan:item/food_lib/fd_nether_salad
+  barkan:food_fd_noodle_soup:
+    data:
+      item_name: "<!i>Noodle Soup"
+    material: paper
+    model: barkan:item/food_lib/fd_noodle_soup
+  barkan:food_fd_onion:
+    data:
+      item_name: "<!i>Onion"
+    material: paper
+    model: barkan:item/food_lib/fd_onion
+  barkan:food_fd_onion_soup:
+    data:
+      item_name: "<!i>Onion Soup"
+    material: paper
+    model: barkan:item/food_lib/fd_onion_soup
+  barkan:food_fd_pasta_with_meatballs:
+    data:
+      item_name: "<!i>Pasta With Meatballs"
+    material: paper
+    model: barkan:item/food_lib/fd_pasta_with_meatballs
+  barkan:food_fd_pasta_with_mutton_chop:
+    data:
+      item_name: "<!i>Pasta With Mutton Chop"
+    material: paper
+    model: barkan:item/food_lib/fd_pasta_with_mutton_chop
+  barkan:food_fd_pie_crust:
+    data:
+      item_name: "<!i>Pie Crust"
+    material: paper
+    model: barkan:item/food_lib/fd_pie_crust
+  barkan:food_fd_pumpkin_pie_slice:
+    data:
+      item_name: "<!i>Pumpkin Pie Slice"
+    material: paper
+    model: barkan:item/food_lib/fd_pumpkin_pie_slice
+  barkan:food_fd_pumpkin_slice:
+    data:
+      item_name: "<!i>Pumpkin Slice"
+    material: paper
+    model: barkan:item/food_lib/fd_pumpkin_slice
+  barkan:food_fd_pumpkin_soup:
+    data:
+      item_name: "<!i>Pumpkin Soup"
+    material: paper
+    model: barkan:item/food_lib/fd_pumpkin_soup
+  barkan:food_fd_ratatouille:
+    data:
+      item_name: "<!i>Ratatouille"
+    material: paper
+    model: barkan:item/food_lib/fd_ratatouille
+  barkan:food_fd_raw_pasta:
+    data:
+      item_name: "<!i>Raw Pasta"
+    material: paper
+    model: barkan:item/food_lib/fd_raw_pasta
+  barkan:food_fd_rice:
+    data:
+      item_name: "<!i>Rice"
+    material: paper
+    model: barkan:item/food_lib/fd_rice
+  barkan:food_fd_rice_panicle:
+    data:
+      item_name: "<!i>Rice Panicle"
+    material: paper
+    model: barkan:item/food_lib/fd_rice_panicle
+  barkan:food_fd_roast_chicken:
+    data:
+      item_name: "<!i>Roast Chicken"
+    material: paper
+    model: barkan:item/food_lib/fd_roast_chicken
+  barkan:food_fd_roasted_mutton_chops:
+    data:
+      item_name: "<!i>Roasted Mutton Chops"
+    material: paper
+    model: barkan:item/food_lib/fd_roasted_mutton_chops
+  barkan:food_fd_rope:
+    data:
+      item_name: "<!i>Rope"
+    material: paper
+    model: barkan:item/food_lib/fd_rope
+  barkan:food_fd_rotten_tomato:
+    data:
+      item_name: "<!i>Rotten Tomato"
+    material: paper
+    model: barkan:item/food_lib/fd_rotten_tomato
+  barkan:food_fd_salmon_roll:
+    data:
+      item_name: "<!i>Salmon Roll"
+    material: paper
+    model: barkan:item/food_lib/fd_salmon_roll
+  barkan:food_fd_salmon_slice:
+    data:
+      item_name: "<!i>Salmon Slice"
+    material: paper
+    model: barkan:item/food_lib/fd_salmon_slice
+  barkan:food_fd_shepherds_pie:
+    data:
+      item_name: "<!i>Shepherds Pie"
+    material: paper
+    model: barkan:item/food_lib/fd_shepherds_pie
+  barkan:food_fd_smoked_ham:
+    data:
+      item_name: "<!i>Smoked Ham"
+    material: paper
+    model: barkan:item/food_lib/fd_smoked_ham
+  barkan:food_fd_squid_ink_pasta:
+    data:
+      item_name: "<!i>Squid Ink Pasta"
+    material: paper
+    model: barkan:item/food_lib/fd_squid_ink_pasta
+  barkan:food_fd_steak_and_potatoes:
+    data:
+      item_name: "<!i>Steak And Potatoes"
+    material: paper
+    model: barkan:item/food_lib/fd_steak_and_potatoes
+  barkan:food_fd_straw:
+    data:
+      item_name: "<!i>Straw"
+    material: paper
+    model: barkan:item/food_lib/fd_straw
+  barkan:food_fd_stuffed_potato:
+    data:
+      item_name: "<!i>Stuffed Potato"
+    material: paper
+    model: barkan:item/food_lib/fd_stuffed_potato
+  barkan:food_fd_stuffed_pumpkin:
+    data:
+      item_name: "<!i>Stuffed Pumpkin"
+    material: paper
+    model: barkan:item/food_lib/fd_stuffed_pumpkin
+  barkan:food_fd_sweet_berry_cheesecake:
+    data:
+      item_name: "<!i>Sweet Berry Cheesecake"
+    material: paper
+    model: barkan:item/food_lib/fd_sweet_berry_cheesecake
+  barkan:food_fd_sweet_berry_cheesecake_slice:
+    data:
+      item_name: "<!i>Sweet Berry Cheesecake Slice"
+    material: paper
+    model: barkan:item/food_lib/fd_sweet_berry_cheesecake_slice
+  barkan:food_fd_sweet_berry_cookie:
+    data:
+      item_name: "<!i>Sweet Berry Cookie"
+    material: paper
+    model: barkan:item/food_lib/fd_sweet_berry_cookie
+  barkan:food_fd_tomato:
+    data:
+      item_name: "<!i>Tomato"
+    material: paper
+    model: barkan:item/food_lib/fd_tomato
+  barkan:food_fd_tomato_sauce:
+    data:
+      item_name: "<!i>Tomato Sauce"
+    material: paper
+    model: barkan:item/food_lib/fd_tomato_sauce
+  barkan:food_fd_tree_bark:
+    data:
+      item_name: "<!i>Tree Bark"
+    material: paper
+    model: barkan:item/food_lib/fd_tree_bark
+  barkan:food_fd_vegetable_noodles:
+    data:
+      item_name: "<!i>Vegetable Noodles"
+    material: paper
+    model: barkan:item/food_lib/fd_vegetable_noodles
+  barkan:food_fd_vegetable_soup:
+    data:
+      item_name: "<!i>Vegetable Soup"
+    material: paper
+    model: barkan:item/food_lib/fd_vegetable_soup
+  barkan:food_fd_wheat_dough:
+    data:
+      item_name: "<!i>Wheat Dough"
+    material: paper
+    model: barkan:item/food_lib/fd_wheat_dough

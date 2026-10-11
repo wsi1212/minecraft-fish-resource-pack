@@ -1,0 +1,1160 @@
+{
+  "요리": {
+    "count": 78,
+    "entries": [
+      {
+        "id": "dish:빵",
+        "name": "따뜻한 빵",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_corn_bread",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:들꽃꿀차",
+        "name": "들꽃 꿀차",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_tea",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:도토리묵",
+        "name": "도토리 두부",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_tofu",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:가시배화채",
+        "name": "가시배 화채",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_saguaro_juice",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:설산서리차",
+        "name": "설산 서리차",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_horchata",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:풋사과파이",
+        "name": "풋사과 파이",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_apple_pie",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:스모어",
+        "name": "모닥불 누가바",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_nougat",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:황금갓버섯꼬치",
+        "name": "황금 갓버섯 꼬치",
+        "material": "COOKIE",
+        "itemModel": "barkan:food_fd_barbecue_stick",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:숲나물비빔밥",
+        "name": "숲나물 비빔밥",
+        "material": "COOKIE",
+        "itemModel": "barkan:food_cr_bibimbap",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:버섯스튜",
+        "name": "버섯밥",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_fd_mushroom_rice",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:구운감자",
+        "name": "구운 감자",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_fd_stuffed_potato",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:수박주스",
+        "name": "수박 주스",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_fd_melon_juice",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:바위솔무침",
+        "name": "바위솔 무침",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_leafy_salad",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:야광버섯수프",
+        "name": "야광베리 커스터드",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_fd_glow_berry_custard",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:벼랑꿀과자",
+        "name": "벼랑초롱 꿀과자",
+        "material": "COOKIE",
+        "itemModel": "barkan:food_fd_honey_cookie",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:동굴버섯만두",
+        "name": "동굴버섯 만두",
+        "material": "COOKIE",
+        "itemModel": "barkan:food_fd_dumplings",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:샐러드",
+        "name": "양배추 샐러드",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_fd_mixed_salad",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:파스타",
+        "name": "토마토 파스타",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_fd_pasta_with_meatballs",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:세이지생선구이",
+        "name": "세이지 생선구이",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_fd_grilled_salmon",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:꿀햄구이",
+        "name": "꿀 발림 햄구이",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_fd_honey_glazed_ham",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:사과파이",
+        "name": "사과 파이",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_fd_apple_pie",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:구운다리살",
+        "name": "바삭 다리살",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_fried_chicken",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:황금강정",
+        "name": "황금 이삭 강정",
+        "material": "COOKIE",
+        "itemModel": "barkan:food_cr_almond_brittle",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:탐험가견과",
+        "name": "탐험가의 견과 주머니",
+        "material": "COOKIE",
+        "itemModel": "barkan:food_cr_trail_mix",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:피시앤칩스",
+        "name": "피시 앤 칩스",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_fish_and_chips",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:잿불매운탕",
+        "name": "잿불 매운탕",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_nether_wart_stew",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:초밥플래터",
+        "name": "초밥 플래터",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_sushi",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:통닭구이",
+        "name": "훈제 통닭구이",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_fd_roast_chicken",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:늪지해독죽",
+        "name": "늪지 해독수프",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_leek_soup",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:황금연어롤",
+        "name": "황금 연어롤",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_fd_salmon_roll",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:산삼석청절임",
+        "name": "산삼 석청 절임",
+        "material": "COOKIE",
+        "itemModel": "barkan:food_cr_pickled_ginger",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:수정동굴냉면",
+        "name": "수정동굴 냉면",
+        "material": "COOKIE",
+        "itemModel": "barkan:food_cr_bibim_naengmyeon",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:해물탕",
+        "name": "해물탕",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_fd_fish_stew",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:트러플스튜",
+        "name": "트러플 크림스튜",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_potato_soup",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:빛나는샐러드",
+        "name": "빛나는 샐러드",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_fd_gleaming_salad",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:목동의파이",
+        "name": "목동의 파이",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_fd_shepherds_pie",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:호박찜",
+        "name": "속을 채운 호박찜",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_fd_stuffed_pumpkin",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:초콜릿파이",
+        "name": "초콜릿 파이",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_fd_chocolate_pie",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:단호박파이",
+        "name": "단호박 파이",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_fd_pumpkin_pie_slice",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:스튜냄비",
+        "name": "보글보글 스튜",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_beef_stew",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:통구이머리",
+        "name": "호글린 통다리구이",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_fd_ham",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:블루베리파이",
+        "name": "체리 파이",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_cherry_pie",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:오디파이",
+        "name": "피칸 파이",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_pecan_pie",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:양고기파이",
+        "name": "양고기 파이",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_cornish_pasty",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:패션타르트",
+        "name": "패션 타르트",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_treacle_tart",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:연어베리파이",
+        "name": "연어베리 파이",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_rhubarb_pie",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:레드벨벳컵케이크",
+        "name": "레드벨벳 케이크",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_tres_leche_cake",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:말차아이스크림",
+        "name": "키위 셔벗",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_kiwi_sorbet",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:마르게리타피자",
+        "name": "마르게리타 피자",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_cheese_pizza",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:채집성찬",
+        "name": "바르칸 채집 성찬",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_the_big_breakfast",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:스터프드캔털루프",
+        "name": "캔털루프 멜론",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_cantaloupe",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:코러스파이",
+        "name": "코러스 케이크",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_nether_star_cake",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:글룸고드파이",
+        "name": "글룸고드 푸딩",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_figgy_pudding",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:근원열매파이",
+        "name": "근원열매 오믈렛",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_dragon_egg_omelette",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:대연회",
+        "name": "바르칸 대연회",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_transcendental_breakfast",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:심해성찬",
+        "name": "심해의 성찬",
+        "material": "COOKIE",
+        "itemModel": "barkan:food_cr_steamed_crab",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:용광로연회",
+        "name": "용광로 연회",
+        "material": "COOKIE",
+        "itemModel": "barkan:food_fd_steak_and_potatoes",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:여명만찬",
+        "name": "여명의 만찬",
+        "material": "COOKIE",
+        "itemModel": "barkan:food_cr_veggie_salad",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:체력포션소",
+        "name": "체력포션 (소)",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_cranberry_juice",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:체력포션대",
+        "name": "체력포션 (대)",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_grape_juice",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:명란젓갈",
+        "name": "명란 젓갈",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_roe",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:은빛정어리젓",
+        "name": "은빛 정어리 젓갈",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_pickled_anchovy",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:허니케이크",
+        "name": "꿀 월병",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_mooncake",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:발효케이크",
+        "name": "과일 발효 케이크",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_fruit_cake",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:청어젓갈",
+        "name": "청어 양배추 절임",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_sauerkraut",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:꿀호두케이크",
+        "name": "바나나 견과빵",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_banana_nut_bread",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:사막세이지차",
+        "name": "사막 세이지 차",
+        "material": "COOKIE",
+        "itemModel": "barkan:food_cr_limeade",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:설화죽",
+        "name": "설화 죽",
+        "material": "COOKIE",
+        "itemModel": "barkan:food_cr_oatmeal",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:훈제청어",
+        "name": "훈제 청어",
+        "material": "COOKIE",
+        "itemModel": "barkan:food_fd_cooked_cod_slice",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:숲속파스타",
+        "name": "숲 버섯 파스타",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_pasta",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:숙성대연회",
+        "name": "숙성 비프 웰링턴",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_beef_wellington",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:전설의발효액",
+        "name": "전설의 발효액",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_mead",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:늪지훈연",
+        "name": "늪지 훈연 한 상",
+        "material": "COOKIE",
+        "itemModel": "barkan:food_fd_smoked_ham",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:바르칸과실주",
+        "name": "바르칸 과실주",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_melon_juice",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:절벽석청단지",
+        "name": "절벽 석청 단지",
+        "material": "COOKIE",
+        "itemModel": "barkan:food_cr_apricot_jam",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:왕실케이크",
+        "name": "왕실 케이크",
+        "material": "COOKIE",
+        "itemModel": "barkan:dish_cr_carrot_cake",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:잿불정찬",
+        "name": "잿불 정찬",
+        "material": "COOKIE",
+        "itemModel": "barkan:food_fd_beef_stew",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "dish:백년산삼탕",
+        "name": "백년 산삼탕",
+        "material": "COOKIE",
+        "itemModel": "barkan:food_fd_chicken_soup",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      }
+    ]
+  },
+  "작물": {
+    "count": 21,
+    "entries": [
+      {
+        "id": "crop-seed:밀",
+        "name": "특수 밀 씨앗",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/crop_wheat_seed",
+        "pdcKeys": [
+          "blockship:crop_seed"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "crop-harvest:밀",
+        "name": "특수 밀",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/crop_wheat_harvest",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "crop-bundle:밀",
+        "name": "압축 특수 밀 꾸러미",
+        "material": "HAY_BLOCK",
+        "itemModel": null,
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "crop-seed:당근",
+        "name": "특수 당근 씨앗",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/crop_carrot_seed",
+        "pdcKeys": [
+          "blockship:crop_seed"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "crop-harvest:당근",
+        "name": "특수 당근",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/crop_carrot_harvest",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "crop-bundle:당근",
+        "name": "압축 특수 당근 꾸러미",
+        "material": "BARREL",
+        "itemModel": null,
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "crop-seed:감자",
+        "name": "특수 감자 씨앗",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/crop_potato_seed",
+        "pdcKeys": [
+          "blockship:crop_seed"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "crop-harvest:감자",
+        "name": "특수 감자",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/crop_potato_harvest",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "crop-bundle:감자",
+        "name": "압축 특수 감자 꾸러미",
+        "material": "BARREL",
+        "itemModel": null,
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "crop-seed:토마토",
+        "name": "특수 토마토 씨앗",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/crop_tomato_seed",
+        "pdcKeys": [
+          "blockship:crop_seed"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "crop-harvest:토마토",
+        "name": "특수 토마토",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/crop_tomato_harvest",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "crop-bundle:토마토",
+        "name": "압축 특수 토마토 꾸러미",
+        "material": "BARREL",
+        "itemModel": null,
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "crop-seed:양배추",
+        "name": "특수 양배추 씨앗",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/crop_cabbage_seed",
+        "pdcKeys": [
+          "blockship:crop_seed"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "crop-harvest:양배추",
+        "name": "특수 양배추",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/crop_cabbage_harvest",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "crop-bundle:양배추",
+        "name": "압축 특수 양배추 꾸러미",
+        "material": "BARREL",
+        "itemModel": null,
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "crop-seed:버섯",
+        "name": "특수 버섯 씨앗",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/crop_mushroom_seed",
+        "pdcKeys": [
+          "blockship:crop_seed"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "crop-harvest:버섯",
+        "name": "특수 버섯",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/crop_mushroom_harvest",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "crop-bundle:버섯",
+        "name": "압축 특수 버섯 꾸러미",
+        "material": "BROWN_MUSHROOM_BLOCK",
+        "itemModel": null,
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "crop-seed:수박",
+        "name": "특수 수박 씨앗",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/crop_melon_seed",
+        "pdcKeys": [
+          "blockship:crop_seed"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "crop-harvest:수박",
+        "name": "특수 수박",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/crop_melon_harvest",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "crop-bundle:수박",
+        "name": "압축 특수 수박 꾸러미",
+        "material": "MELON",
+        "itemModel": null,
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      }
+    ]
+  },
+  "통발": {
+    "count": 13,
+    "entries": [
+      {
+        "id": "trap:부두|표준",
+        "name": "부둣가 통발 [12/12]",
+        "material": "BARREL",
+        "itemModel": "barkan:barkan_icon/catalog_trap_0c46cd51a1",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "trap:강|표준",
+        "name": "버들 통발 [8/8]",
+        "material": "BARREL",
+        "itemModel": "barkan:barkan_icon/catalog_trap_63fc2109dd",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "trap:오아시스|표준",
+        "name": "야자 통발 [8/8]",
+        "material": "BARREL",
+        "itemModel": "barkan:barkan_icon/catalog_trap_56c90a8f6e",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "trap:늪지대|표준",
+        "name": "수렁 통발 [7/7]",
+        "material": "BARREL",
+        "itemModel": "barkan:barkan_icon/catalog_trap_f0df42db0b",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "trap:협곡|표준",
+        "name": "협곡 통발 [7/7]",
+        "material": "BARREL",
+        "itemModel": "barkan:barkan_icon/catalog_trap_8f9b6b1080",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "trap:레드_로드|표준",
+        "name": "핏빛 통발 [6/6]",
+        "material": "BARREL",
+        "itemModel": "barkan:barkan_icon/catalog_trap_a8a53a299e",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "trap:정상|표준",
+        "name": "운무 통발 [6/6]",
+        "material": "BARREL",
+        "itemModel": "barkan:barkan_icon/catalog_trap_47c6ddfe9a",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "trap:대양|표준",
+        "name": "심해 통발 [5/5]",
+        "material": "BARREL",
+        "itemModel": "barkan:barkan_icon/catalog_trap_54972aa8d3",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "trap:폭포_뒤_동굴_1층|표준",
+        "name": "종유석 통발 [5/5]",
+        "material": "BARREL",
+        "itemModel": "barkan:barkan_icon/catalog_trap_e64485e92d",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "trap:원양|표준",
+        "name": "원양 게통발 [4/4]",
+        "material": "BARREL",
+        "itemModel": "barkan:barkan_icon/catalog_trap_d9528c7256",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "trap:기억의_연못|표준",
+        "name": "연못 통발 [8/8]",
+        "material": "BARREL",
+        "itemModel": "barkan:barkan_icon/catalog_trap_7e47727010",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "trap:상단마을|표준",
+        "name": "상단 통발 [6/6]",
+        "material": "BARREL",
+        "itemModel": "barkan:barkan_icon/catalog_trap_3c74592a19",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "trap:붉은_골짜기|표준",
+        "name": "골짜기 통발 [6/6]",
+        "material": "BARREL",
+        "itemModel": "barkan:barkan_icon/catalog_trap_9a818a3e60",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      }
+    ]
+  },
+  "도구": {
+    "count": 24,
+    "entries": [
+      {
+        "id": "drill:1",
+        "name": "채굴 드릴 [Tier 1]",
+        "material": "STONE_PICKAXE",
+        "itemModel": "default:drill",
+        "pdcKeys": [
+          "blockship:drill"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "drill:2",
+        "name": "채굴 드릴 [Tier 2]",
+        "material": "STONE_PICKAXE",
+        "itemModel": "default:drill",
+        "pdcKeys": [
+          "blockship:drill"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "drill:3",
+        "name": "채굴 드릴 [Tier 3]",
+        "material": "STONE_PICKAXE",
+        "itemModel": "default:drill",
+        "pdcKeys": [
+          "blockship:drill"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "grapple:1",
+        "name": "작살총 I",
+        "material": "CROSSBOW",
+        "itemModel": null,
+        "pdcKeys": [
+          "blockship:grapple_gun",
+          "blockship:grapple_tier",
+          "blockship:grapple_uses"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "grapple:2",
+        "name": "작살총 II",
+        "material": "CROSSBOW",
+        "itemModel": null,
+        "pdcKeys": [
+          "blockship:grapple_gun",
+          "blockship:grapple_tier",
+          "blockship:grapple_uses"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "grapple:3",
+        "name": "작살총 III",
+        "material": "CROSSBOW",
+        "itemModel": null,
+        "pdcKeys": [
+          "blockship:grapple_gun",
+          "blockship:grapple_tier",
+          "blockship:grapple_uses"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "mining-hat",
+        "name": "광산 모자",
+        "material": "GOLDEN_HELMET",
+        "itemModel": null,
+        "pdcKeys": [
+          "blockship:mining_hat"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "portable-backpack",
+        "name": "휴대용 배낭",
+        "material": "LEATHER",
+        "itemModel": "barkan:barkan_icon/portable_bundle",
+        "pdcKeys": [
+          "blockship:backpack_portable"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "portable-icebox",
+        "name": "휴대용 아이스박스",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/ui_menu_icebox",
+        "pdcKeys": [
+          "blockship:icebox_portable"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "portable-sell",
+        "name": "휴대 물고기 판매권",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/ui_ticket_portable_sell",
+        "pdcKeys": [
+          "blockship:portable_fish_sell_ticket"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "warpscroll:spawn",
+        "name": "바르칸 항구 스크롤",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/ui_scroll_warp_spawn",
+        "pdcKeys": [
+          "blockship:scroll"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "warpscroll:desert",
+        "name": "사막마을 스크롤",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/ui_scroll_warp_desert",
+        "pdcKeys": [
+          "blockship:scroll"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "warpscroll:merchant",
+        "name": "상단마을 스크롤",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/ui_scroll_warp_merchant",
+        "pdcKeys": [
+          "blockship:scroll"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "warpscroll:royal",
+        "name": "왕도 이동 스크롤",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/ui_scroll_warp_royal",
+        "pdcKeys": [
+          "blockship:scroll"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "scroll:하락방지:1",
+        "name": "하락방지권 (Lv.6~10)",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/ui_scroll_shield_1",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "scroll:하락방지:2",
+        "name": "하락방지권 (Lv.11~15)",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/ui_scroll_shield_2",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "scroll:하락방지:3",
+        "name": "하락방지권 (Lv.16~18)",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/ui_scroll_shield_3",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "scroll:하락방지:4",
+        "name": "하락방지권 (Lv.19~20)",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/ui_scroll_shield_4",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "scroll:강화확률상승:10",
+        "name": "강화확률 상승권 +10%",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/ui_scroll_success_10",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "scroll:강화확률상승:20",
+        "name": "강화확률 상승권 +20%",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/ui_scroll_success_20",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "scroll:강화확률상승:30",
+        "name": "강화확률 상승권 +30%",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/ui_scroll_success_30",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "scroll:하락확률감소:10",
+        "name": "하락확률 감소권 -10%",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/ui_scroll_down_10",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "scroll:하락확률감소:20",
+        "name": "하락확률 감소권 -20%",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/ui_scroll_down_20",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "scroll:하락확률감소:30",
+        "name": "하락확률 감소권 -30%",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/ui_scroll_down_30",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      }
+    ]
+  },
+  "recipeSource": "/Users/user/Library/Application Support/feather/player-server/servers/07de2d81-991a-47e2-b62d-06c0d1b5150a/plugins/Skript/scripts/ops/blockship-data/recipes.json",
+  "recipeSha256": "59933fa57730cb256a45f8acc7df12135422cb18dfd90a3430b67e3785907247"
+}

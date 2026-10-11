@@ -1,0 +1,2732 @@
+{
+  "schemaVersion": 1,
+  "scope": "Existing CE exact-byte selected lifestyle item assets only; no new art, gameplay, GUI, or translation changes",
+  "originalGeneratedPack": {
+    "path": "/Users/user/Library/Application Support/feather/player-server/servers/07de2d81-991a-47e2-b62d-06c0d1b5150a/plugins/CraftEngine/generated/resource_pack_unprotected.zip",
+    "sha256": "fe925767acb2d6da19713afb16ed7ce9e4054022e5ab66a279facd4d18cf8917"
+  },
+  "inputs": [
+    {
+      "path": "configuration/dishes.yml",
+      "sha256": "052d1d1ae256bb5fe05ce53ef188f5098357137e2fa60cdea7f35c83e48df7e2",
+      "originalPath": "/Users/user/Library/Application Support/feather/player-server/servers/07de2d81-991a-47e2-b62d-06c0d1b5150a/plugins/CraftEngine/resources/barkan_furniture/configuration/dishes.yml",
+      "kind": "original_CE_YAML"
+    },
+    {
+      "path": "configuration/food_library.yml",
+      "sha256": "ad3c2b56b2251f367772a51e560a00939878bb7a54337c3016ffd5dab2962eb1",
+      "originalPath": "/Users/user/Library/Application Support/feather/player-server/servers/07de2d81-991a-47e2-b62d-06c0d1b5150a/plugins/CraftEngine/resources/barkan_furniture/configuration/food_library.yml",
+      "kind": "original_CE_YAML"
+    },
+    {
+      "path": "configuration/drill.yml",
+      "sha256": "153161bc805fbe06d875af9433fd92669c61cb46e801685068037af1205ab974",
+      "originalPath": "/Users/user/Library/Application Support/feather/player-server/servers/07de2d81-991a-47e2-b62d-06c0d1b5150a/plugins/CraftEngine/resources/default_assets/configuration/items/drill.yml",
+      "kind": "original_CE_YAML"
+    },
+    {
+      "path": "notices/Croptopia-LICENSE.txt",
+      "sha256": "2749f3ceb2261ca60713d66062b7d375bae820f6d6541fa6f916ae88523d0ea5",
+      "originalUrl": "https://raw.githubusercontent.com/ExcessiveAmountsOfZombies/Croptopia/5241aead144d706c347955e81a3c15fd79f30a21/LICENSE",
+      "kind": "supplementary_upstream_notice"
+    },
+    {
+      "path": "notices/FarmersDelight-LICENSE.txt",
+      "sha256": "3ff766f3ab1fd7dad26e8f176c5e4af6bcbf8bb1208d26f573d77b48b13188ac",
+      "originalUrl": "https://raw.githubusercontent.com/vectorwing/FarmersDelight/dd8b9b0bfec916a2da88a6d64e3a37f4a02c3259/LICENSE",
+      "kind": "supplementary_upstream_notice"
+    }
+  ],
+  "census": {
+    "path": "canonical-census.json",
+    "sha256": "497318c7e95e2fb53852fe2ffedc09a3c6fd98de7bef16290218fd5849448e16",
+    "counts": {
+      "요리": 78,
+      "작물": 21,
+      "통발": 13,
+      "도구": 24
+    },
+    "entries": 136
+  },
+  "javaAuthorities": [
+    {
+      "javaPath": "src/main/java/com/blockship/dex/LifestyleDexCatalog.java",
+      "sha256": "85be50ff6b09759ec758a7139c78edd1a724c0022cbe3da189a735df0b6df823"
+    },
+    {
+      "javaPath": "src/main/java/com/blockship/cooking/DishSpecs.java",
+      "sha256": "3857241cf8328009c0dba0de61302adfb52c1ff97044f88a64bcb69998e89eae"
+    },
+    {
+      "javaPath": "src/main/java/com/blockship/crop/CropSpecs.java",
+      "sha256": "0996e619d6983aa1b4d8086b0af0a59cc3e7c0a479105de37e21b5c658bed686"
+    },
+    {
+      "javaPath": "src/main/java/com/blockship/trap/TrapSpecs.java",
+      "sha256": "43b41d50e80071e95a5845cc4ba7e86201fcc7a5e77bfaf5b5c9c0249f7e9184"
+    },
+    {
+      "javaPath": "src/main/java/com/blockship/drill/DrillManager.java",
+      "sha256": "afe27b590334651174b9ea45c745ecf7263732487b9e66ed1bd17e69321128d1"
+    },
+    {
+      "javaPath": "src/main/java/com/blockship/grapple/GrappleSpecs.java",
+      "sha256": "dc35dc78045825fa9188e186fa38c9e86e78dde8d9855be5c8be886d8beb4937"
+    },
+    {
+      "javaPath": "src/main/resources/cashshop.json",
+      "sha256": "3b2bdb4e47f552b828b8827710cb4202b8b9ae2314af5d49ef1ab1d01e8043c0"
+    },
+    {
+      "javaPath": "recipes.json",
+      "sha256": "6e99b05c1f828f284a3a80b1f51bc39dea715244341ac59515f186f3e3a4810b"
+    },
+    {
+      "javaPath": "src/main/java/com/blockship/scroll/ScrollManager.java",
+      "sha256": "9b9afc420a03295b700bb195b1208efd71ee6d50403955964170a1ec82b85aaa"
+    },
+    {
+      "javaPath": "src/main/java/com/blockship/enhance/EnhanceScrolls.java",
+      "sha256": "e971c659242c7421bb2a7afb7792a0e6787df32d7304692ebf909096a5a15791"
+    },
+    {
+      "javaPath": "src/main/java/com/blockship/grapple/GrappleItemFactory.java",
+      "sha256": "1d66beb2f304f61c703d6086fa4d46e6b46dbc4943e9a5b27db3916ef784853a"
+    },
+    {
+      "javaPath": "src/main/java/com/blockship/mining/MiningHatManager.java",
+      "sha256": "c7b190a9310b0f6cc9101ed10921b5c7474de7c7c07fe274df276a0bcdb4c446"
+    },
+    {
+      "javaPath": "src/main/java/com/blockship/crop/CropManager.java",
+      "sha256": "8dbab2d372edd4243b867374dec1409c7b872a5b895e01a46b6b0094cdf2a012"
+    },
+    {
+      "javaPath": "src/main/java/com/blockship/economy/BackpackGui.java",
+      "sha256": "7e2508d1183f9a83efa6242d2a4174105294807679792ce418fb3915322a7440"
+    },
+    {
+      "javaPath": "src/main/java/com/blockship/economy/IceboxGui.java",
+      "sha256": "6041d2a37bbefbb38dcd6edf9201b8a150cc83b8469a5ba6eb5f5e5e96f665ae"
+    },
+    {
+      "javaPath": "src/main/java/com/blockship/economy/PortableFishSellTicket.java",
+      "sha256": "be7a77305caf61761e8cc9016d4638b004ef8988662f82fc3633a27694f2c825"
+    },
+    {
+      "javaPath": "src/main/java/com/blockship/crafting/CraftingManager.java",
+      "sha256": "38d4dabdffe54d2c5e1933de1f2726efda5ebe9fefeaaccb1c576750d0ba6d5e"
+    }
+  ],
+  "canonicalBindings": {
+    "barkan:dish_cr_apple_pie": {
+      "itemDefinition": "assets/barkan/items/dish_cr_apple_pie.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_apple_pie"
+      },
+      "originalCeItemId": "barkan:dish_cr_apple_pie",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_banana_nut_bread": {
+      "itemDefinition": "assets/barkan/items/dish_cr_banana_nut_bread.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_banana_nut_bread"
+      },
+      "originalCeItemId": "barkan:dish_cr_banana_nut_bread",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_beef_stew": {
+      "itemDefinition": "assets/barkan/items/dish_cr_beef_stew.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_beef_stew"
+      },
+      "originalCeItemId": "barkan:dish_cr_beef_stew",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_beef_wellington": {
+      "itemDefinition": "assets/barkan/items/dish_cr_beef_wellington.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_beef_wellington"
+      },
+      "originalCeItemId": "barkan:dish_cr_beef_wellington",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_cantaloupe": {
+      "itemDefinition": "assets/barkan/items/dish_cr_cantaloupe.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_cantaloupe"
+      },
+      "originalCeItemId": "barkan:dish_cr_cantaloupe",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_carrot_cake": {
+      "itemDefinition": "assets/barkan/items/dish_cr_carrot_cake.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_carrot_cake"
+      },
+      "originalCeItemId": "barkan:dish_cr_carrot_cake",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_cheese_pizza": {
+      "itemDefinition": "assets/barkan/items/dish_cr_cheese_pizza.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_cheese_pizza"
+      },
+      "originalCeItemId": "barkan:dish_cr_cheese_pizza",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_cherry_pie": {
+      "itemDefinition": "assets/barkan/items/dish_cr_cherry_pie.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_cherry_pie"
+      },
+      "originalCeItemId": "barkan:dish_cr_cherry_pie",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_corn_bread": {
+      "itemDefinition": "assets/barkan/items/dish_cr_corn_bread.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_corn_bread"
+      },
+      "originalCeItemId": "barkan:dish_cr_corn_bread",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_cornish_pasty": {
+      "itemDefinition": "assets/barkan/items/dish_cr_cornish_pasty.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_cornish_pasty"
+      },
+      "originalCeItemId": "barkan:dish_cr_cornish_pasty",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_cranberry_juice": {
+      "itemDefinition": "assets/barkan/items/dish_cr_cranberry_juice.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_cranberry_juice"
+      },
+      "originalCeItemId": "barkan:dish_cr_cranberry_juice",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_dragon_egg_omelette": {
+      "itemDefinition": "assets/barkan/items/dish_cr_dragon_egg_omelette.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_dragon_egg_omelette"
+      },
+      "originalCeItemId": "barkan:dish_cr_dragon_egg_omelette",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_figgy_pudding": {
+      "itemDefinition": "assets/barkan/items/dish_cr_figgy_pudding.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_figgy_pudding"
+      },
+      "originalCeItemId": "barkan:dish_cr_figgy_pudding",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_fish_and_chips": {
+      "itemDefinition": "assets/barkan/items/dish_cr_fish_and_chips.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_fish_and_chips"
+      },
+      "originalCeItemId": "barkan:dish_cr_fish_and_chips",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_fried_chicken": {
+      "itemDefinition": "assets/barkan/items/dish_cr_fried_chicken.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_fried_chicken"
+      },
+      "originalCeItemId": "barkan:dish_cr_fried_chicken",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_fruit_cake": {
+      "itemDefinition": "assets/barkan/items/dish_cr_fruit_cake.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_fruit_cake"
+      },
+      "originalCeItemId": "barkan:dish_cr_fruit_cake",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_grape_juice": {
+      "itemDefinition": "assets/barkan/items/dish_cr_grape_juice.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_grape_juice"
+      },
+      "originalCeItemId": "barkan:dish_cr_grape_juice",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_horchata": {
+      "itemDefinition": "assets/barkan/items/dish_cr_horchata.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_horchata"
+      },
+      "originalCeItemId": "barkan:dish_cr_horchata",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_kiwi_sorbet": {
+      "itemDefinition": "assets/barkan/items/dish_cr_kiwi_sorbet.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_kiwi_sorbet"
+      },
+      "originalCeItemId": "barkan:dish_cr_kiwi_sorbet",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_leafy_salad": {
+      "itemDefinition": "assets/barkan/items/dish_cr_leafy_salad.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_leafy_salad"
+      },
+      "originalCeItemId": "barkan:dish_cr_leafy_salad",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_leek_soup": {
+      "itemDefinition": "assets/barkan/items/dish_cr_leek_soup.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_leek_soup"
+      },
+      "originalCeItemId": "barkan:dish_cr_leek_soup",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_mead": {
+      "itemDefinition": "assets/barkan/items/dish_cr_mead.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_mead"
+      },
+      "originalCeItemId": "barkan:dish_cr_mead",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_mooncake": {
+      "itemDefinition": "assets/barkan/items/dish_cr_mooncake.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_mooncake"
+      },
+      "originalCeItemId": "barkan:dish_cr_mooncake",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_nether_star_cake": {
+      "itemDefinition": "assets/barkan/items/dish_cr_nether_star_cake.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_nether_star_cake"
+      },
+      "originalCeItemId": "barkan:dish_cr_nether_star_cake",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_nether_wart_stew": {
+      "itemDefinition": "assets/barkan/items/dish_cr_nether_wart_stew.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_nether_wart_stew"
+      },
+      "originalCeItemId": "barkan:dish_cr_nether_wart_stew",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_nougat": {
+      "itemDefinition": "assets/barkan/items/dish_cr_nougat.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_nougat"
+      },
+      "originalCeItemId": "barkan:dish_cr_nougat",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_pecan_pie": {
+      "itemDefinition": "assets/barkan/items/dish_cr_pecan_pie.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_pecan_pie"
+      },
+      "originalCeItemId": "barkan:dish_cr_pecan_pie",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_pickled_anchovy": {
+      "itemDefinition": "assets/barkan/items/dish_cr_pickled_anchovy.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_pickled_anchovy"
+      },
+      "originalCeItemId": "barkan:dish_cr_pickled_anchovy",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_potato_soup": {
+      "itemDefinition": "assets/barkan/items/dish_cr_potato_soup.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_potato_soup"
+      },
+      "originalCeItemId": "barkan:dish_cr_potato_soup",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_rhubarb_pie": {
+      "itemDefinition": "assets/barkan/items/dish_cr_rhubarb_pie.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_rhubarb_pie"
+      },
+      "originalCeItemId": "barkan:dish_cr_rhubarb_pie",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_roe": {
+      "itemDefinition": "assets/barkan/items/dish_cr_roe.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_roe"
+      },
+      "originalCeItemId": "barkan:dish_cr_roe",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_saguaro_juice": {
+      "itemDefinition": "assets/barkan/items/dish_cr_saguaro_juice.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_saguaro_juice"
+      },
+      "originalCeItemId": "barkan:dish_cr_saguaro_juice",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_sauerkraut": {
+      "itemDefinition": "assets/barkan/items/dish_cr_sauerkraut.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_sauerkraut"
+      },
+      "originalCeItemId": "barkan:dish_cr_sauerkraut",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_sushi": {
+      "itemDefinition": "assets/barkan/items/dish_cr_sushi.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_sushi"
+      },
+      "originalCeItemId": "barkan:dish_cr_sushi",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_tea": {
+      "itemDefinition": "assets/barkan/items/dish_cr_tea.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_tea"
+      },
+      "originalCeItemId": "barkan:dish_cr_tea",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_the_big_breakfast": {
+      "itemDefinition": "assets/barkan/items/dish_cr_the_big_breakfast.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_the_big_breakfast"
+      },
+      "originalCeItemId": "barkan:dish_cr_the_big_breakfast",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_tofu": {
+      "itemDefinition": "assets/barkan/items/dish_cr_tofu.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_tofu"
+      },
+      "originalCeItemId": "barkan:dish_cr_tofu",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_transcendental_breakfast": {
+      "itemDefinition": "assets/barkan/items/dish_cr_transcendental_breakfast.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_transcendental_breakfast"
+      },
+      "originalCeItemId": "barkan:dish_cr_transcendental_breakfast",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_treacle_tart": {
+      "itemDefinition": "assets/barkan/items/dish_cr_treacle_tart.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_treacle_tart"
+      },
+      "originalCeItemId": "barkan:dish_cr_treacle_tart",
+      "legacyModel": null
+    },
+    "barkan:dish_cr_tres_leche_cake": {
+      "itemDefinition": "assets/barkan/items/dish_cr_tres_leche_cake.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_tres_leche_cake"
+      },
+      "originalCeItemId": "barkan:dish_cr_tres_leche_cake",
+      "legacyModel": null
+    },
+    "barkan:dish_fd_apple_pie": {
+      "itemDefinition": "assets/barkan/items/dish_fd_apple_pie.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/fd_apple_pie"
+      },
+      "originalCeItemId": "barkan:dish_fd_apple_pie",
+      "legacyModel": null
+    },
+    "barkan:dish_fd_chocolate_pie": {
+      "itemDefinition": "assets/barkan/items/dish_fd_chocolate_pie.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/fd_chocolate_pie"
+      },
+      "originalCeItemId": "barkan:dish_fd_chocolate_pie",
+      "legacyModel": null
+    },
+    "barkan:dish_fd_fish_stew": {
+      "itemDefinition": "assets/barkan/items/dish_fd_fish_stew.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/fd_fish_stew"
+      },
+      "originalCeItemId": "barkan:dish_fd_fish_stew",
+      "legacyModel": null
+    },
+    "barkan:dish_fd_gleaming_salad": {
+      "itemDefinition": "assets/barkan/items/dish_fd_gleaming_salad.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/fd_gleaming_salad"
+      },
+      "originalCeItemId": "barkan:dish_fd_gleaming_salad",
+      "legacyModel": null
+    },
+    "barkan:dish_fd_glow_berry_custard": {
+      "itemDefinition": "assets/barkan/items/dish_fd_glow_berry_custard.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/fd_glow_berry_custard"
+      },
+      "originalCeItemId": "barkan:dish_fd_glow_berry_custard",
+      "legacyModel": null
+    },
+    "barkan:dish_fd_grilled_salmon": {
+      "itemDefinition": "assets/barkan/items/dish_fd_grilled_salmon.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/fd_grilled_salmon"
+      },
+      "originalCeItemId": "barkan:dish_fd_grilled_salmon",
+      "legacyModel": null
+    },
+    "barkan:dish_fd_ham": {
+      "itemDefinition": "assets/barkan/items/dish_fd_ham.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/fd_ham"
+      },
+      "originalCeItemId": "barkan:dish_fd_ham",
+      "legacyModel": null
+    },
+    "barkan:dish_fd_honey_glazed_ham": {
+      "itemDefinition": "assets/barkan/items/dish_fd_honey_glazed_ham.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/fd_honey_glazed_ham"
+      },
+      "originalCeItemId": "barkan:dish_fd_honey_glazed_ham",
+      "legacyModel": null
+    },
+    "barkan:dish_fd_melon_juice": {
+      "itemDefinition": "assets/barkan/items/dish_fd_melon_juice.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/fd_melon_juice"
+      },
+      "originalCeItemId": "barkan:dish_fd_melon_juice",
+      "legacyModel": null
+    },
+    "barkan:dish_fd_mixed_salad": {
+      "itemDefinition": "assets/barkan/items/dish_fd_mixed_salad.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/fd_mixed_salad"
+      },
+      "originalCeItemId": "barkan:dish_fd_mixed_salad",
+      "legacyModel": null
+    },
+    "barkan:dish_fd_mushroom_rice": {
+      "itemDefinition": "assets/barkan/items/dish_fd_mushroom_rice.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/fd_mushroom_rice"
+      },
+      "originalCeItemId": "barkan:dish_fd_mushroom_rice",
+      "legacyModel": null
+    },
+    "barkan:dish_fd_pasta_with_meatballs": {
+      "itemDefinition": "assets/barkan/items/dish_fd_pasta_with_meatballs.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/fd_pasta_with_meatballs"
+      },
+      "originalCeItemId": "barkan:dish_fd_pasta_with_meatballs",
+      "legacyModel": null
+    },
+    "barkan:dish_fd_pumpkin_pie_slice": {
+      "itemDefinition": "assets/barkan/items/dish_fd_pumpkin_pie_slice.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/fd_pumpkin_pie_slice"
+      },
+      "originalCeItemId": "barkan:dish_fd_pumpkin_pie_slice",
+      "legacyModel": null
+    },
+    "barkan:dish_fd_roast_chicken": {
+      "itemDefinition": "assets/barkan/items/dish_fd_roast_chicken.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/fd_roast_chicken"
+      },
+      "originalCeItemId": "barkan:dish_fd_roast_chicken",
+      "legacyModel": null
+    },
+    "barkan:dish_fd_salmon_roll": {
+      "itemDefinition": "assets/barkan/items/dish_fd_salmon_roll.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/fd_salmon_roll"
+      },
+      "originalCeItemId": "barkan:dish_fd_salmon_roll",
+      "legacyModel": null
+    },
+    "barkan:dish_fd_shepherds_pie": {
+      "itemDefinition": "assets/barkan/items/dish_fd_shepherds_pie.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/fd_shepherds_pie"
+      },
+      "originalCeItemId": "barkan:dish_fd_shepherds_pie",
+      "legacyModel": null
+    },
+    "barkan:dish_fd_stuffed_potato": {
+      "itemDefinition": "assets/barkan/items/dish_fd_stuffed_potato.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/fd_stuffed_potato"
+      },
+      "originalCeItemId": "barkan:dish_fd_stuffed_potato",
+      "legacyModel": null
+    },
+    "barkan:dish_fd_stuffed_pumpkin": {
+      "itemDefinition": "assets/barkan/items/dish_fd_stuffed_pumpkin.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/fd_stuffed_pumpkin"
+      },
+      "originalCeItemId": "barkan:dish_fd_stuffed_pumpkin",
+      "legacyModel": null
+    },
+    "barkan:dish_melon_juice": {
+      "itemDefinition": "assets/barkan/items/dish_melon_juice.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food/melon_juice"
+      },
+      "originalCeItemId": "barkan:dish_melon_juice",
+      "legacyModel": null
+    },
+    "barkan:dish_pasta": {
+      "itemDefinition": "assets/barkan/items/dish_pasta.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food/pasta"
+      },
+      "originalCeItemId": "barkan:dish_pasta",
+      "legacyModel": null
+    },
+    "barkan:food_cr_almond_brittle": {
+      "itemDefinition": "assets/barkan/items/food_cr_almond_brittle.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_almond_brittle"
+      },
+      "originalCeItemId": "barkan:food_cr_almond_brittle",
+      "legacyModel": null
+    },
+    "barkan:food_cr_apricot_jam": {
+      "itemDefinition": "assets/barkan/items/food_cr_apricot_jam.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_apricot_jam"
+      },
+      "originalCeItemId": "barkan:food_cr_apricot_jam",
+      "legacyModel": null
+    },
+    "barkan:food_cr_bibim_naengmyeon": {
+      "itemDefinition": "assets/barkan/items/food_cr_bibim_naengmyeon.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_bibim_naengmyeon"
+      },
+      "originalCeItemId": "barkan:food_cr_bibim_naengmyeon",
+      "legacyModel": null
+    },
+    "barkan:food_cr_bibimbap": {
+      "itemDefinition": "assets/barkan/items/food_cr_bibimbap.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_bibimbap"
+      },
+      "originalCeItemId": "barkan:food_cr_bibimbap",
+      "legacyModel": null
+    },
+    "barkan:food_cr_limeade": {
+      "itemDefinition": "assets/barkan/items/food_cr_limeade.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_limeade"
+      },
+      "originalCeItemId": "barkan:food_cr_limeade",
+      "legacyModel": null
+    },
+    "barkan:food_cr_oatmeal": {
+      "itemDefinition": "assets/barkan/items/food_cr_oatmeal.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_oatmeal"
+      },
+      "originalCeItemId": "barkan:food_cr_oatmeal",
+      "legacyModel": null
+    },
+    "barkan:food_cr_pickled_ginger": {
+      "itemDefinition": "assets/barkan/items/food_cr_pickled_ginger.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_pickled_ginger"
+      },
+      "originalCeItemId": "barkan:food_cr_pickled_ginger",
+      "legacyModel": null
+    },
+    "barkan:food_cr_steamed_crab": {
+      "itemDefinition": "assets/barkan/items/food_cr_steamed_crab.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_steamed_crab"
+      },
+      "originalCeItemId": "barkan:food_cr_steamed_crab",
+      "legacyModel": null
+    },
+    "barkan:food_cr_trail_mix": {
+      "itemDefinition": "assets/barkan/items/food_cr_trail_mix.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_trail_mix"
+      },
+      "originalCeItemId": "barkan:food_cr_trail_mix",
+      "legacyModel": null
+    },
+    "barkan:food_cr_veggie_salad": {
+      "itemDefinition": "assets/barkan/items/food_cr_veggie_salad.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/cr_veggie_salad"
+      },
+      "originalCeItemId": "barkan:food_cr_veggie_salad",
+      "legacyModel": null
+    },
+    "barkan:food_fd_barbecue_stick": {
+      "itemDefinition": "assets/barkan/items/food_fd_barbecue_stick.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/fd_barbecue_stick"
+      },
+      "originalCeItemId": "barkan:food_fd_barbecue_stick",
+      "legacyModel": null
+    },
+    "barkan:food_fd_beef_stew": {
+      "itemDefinition": "assets/barkan/items/food_fd_beef_stew.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/fd_beef_stew"
+      },
+      "originalCeItemId": "barkan:food_fd_beef_stew",
+      "legacyModel": null
+    },
+    "barkan:food_fd_chicken_soup": {
+      "itemDefinition": "assets/barkan/items/food_fd_chicken_soup.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/fd_chicken_soup"
+      },
+      "originalCeItemId": "barkan:food_fd_chicken_soup",
+      "legacyModel": null
+    },
+    "barkan:food_fd_cooked_cod_slice": {
+      "itemDefinition": "assets/barkan/items/food_fd_cooked_cod_slice.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/fd_cooked_cod_slice"
+      },
+      "originalCeItemId": "barkan:food_fd_cooked_cod_slice",
+      "legacyModel": null
+    },
+    "barkan:food_fd_dumplings": {
+      "itemDefinition": "assets/barkan/items/food_fd_dumplings.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/fd_dumplings"
+      },
+      "originalCeItemId": "barkan:food_fd_dumplings",
+      "legacyModel": null
+    },
+    "barkan:food_fd_honey_cookie": {
+      "itemDefinition": "assets/barkan/items/food_fd_honey_cookie.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/fd_honey_cookie"
+      },
+      "originalCeItemId": "barkan:food_fd_honey_cookie",
+      "legacyModel": null
+    },
+    "barkan:food_fd_smoked_ham": {
+      "itemDefinition": "assets/barkan/items/food_fd_smoked_ham.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/fd_smoked_ham"
+      },
+      "originalCeItemId": "barkan:food_fd_smoked_ham",
+      "legacyModel": null
+    },
+    "barkan:food_fd_steak_and_potatoes": {
+      "itemDefinition": "assets/barkan/items/food_fd_steak_and_potatoes.json",
+      "normalizedCeModel": {
+        "type": "minecraft:model",
+        "model": "barkan:item/food_lib/fd_steak_and_potatoes"
+      },
+      "originalCeItemId": "barkan:food_fd_steak_and_potatoes",
+      "legacyModel": null
+    },
+    "default:drill": {
+      "itemDefinition": "assets/default/items/drill.json",
+      "normalizedCeModel": {
+        "type": "minecraft:condition",
+        "property": "minecraft:selected",
+        "on_false": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/custom/drill"
+        },
+        "on_true": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/custom/drill_selected"
+        }
+      },
+      "originalCeItemId": "default:drill",
+      "legacyModel": {
+        "path": "minecraft:item/custom/drill_selected",
+        "generation": {
+          "parent": "minecraft:item/handheld",
+          "textures": {
+            "layer0": "minecraft:item/custom/drill_selected"
+          },
+          "display": {
+            "thirdperson_righthand": {
+              "translation": "0,0.5,-2",
+              "rotation": "0,-90,25",
+              "scale": "0.85,0.85,0.85"
+            },
+            "thirdperson_lefthand": {
+              "translation": "0,0.5,-2",
+              "rotation": "0,90,-25",
+              "scale": "0.85,0.85,0.85"
+            }
+          }
+        }
+      }
+    }
+  },
+  "outputs": [
+    {
+      "path": "assets/barkan/items/dish_cr_apple_pie.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_apple_pie.json",
+      "sha256": "f4f76dd300c916cec1e28d076335875ea6fa0cbe8802ae229e20da71e65c34cd",
+      "bytes": 94
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_banana_nut_bread.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_banana_nut_bread.json",
+      "sha256": "666582b47f19a7712e2b45088b60dadf3273a5f7d6077ada1bff4b67f082fd59",
+      "bytes": 101
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_beef_stew.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_beef_stew.json",
+      "sha256": "42e258171c10f2eea1f6a8bebc81cfbd38590c87cd6997a29c9b357ac20cd052",
+      "bytes": 94
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_beef_wellington.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_beef_wellington.json",
+      "sha256": "a3594fa015813096d0f22cbf73ab641a3eff2f70920e92a36b29600c56a46b4d",
+      "bytes": 100
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_cantaloupe.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_cantaloupe.json",
+      "sha256": "f11dd2c83ccf4169cf3e518528ab13c9817dc3455edf0daa16f69ee69075a01d",
+      "bytes": 95
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_carrot_cake.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_carrot_cake.json",
+      "sha256": "c78d43e5ef4e75c5dae8cd58bceb6d1012d36c76b694de5e18181cf0620b025f",
+      "bytes": 96
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_cheese_pizza.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_cheese_pizza.json",
+      "sha256": "01f5bb331c9335b3d54405431d338d81669d032c4f3e935acb6c0cc96498cae8",
+      "bytes": 97
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_cherry_pie.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_cherry_pie.json",
+      "sha256": "7b2374fa5fc74f34c4339b71f5c37092f91f0384f3e69dc2bd06f12d38b5a61c",
+      "bytes": 95
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_corn_bread.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_corn_bread.json",
+      "sha256": "1808c663b86895252091e195e70a33465e331e44a0c242359a487255ff499043",
+      "bytes": 95
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_cornish_pasty.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_cornish_pasty.json",
+      "sha256": "419970e4c98488b0518234e1040b831f38476bdbacc72e84e277843fcad8be32",
+      "bytes": 98
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_cranberry_juice.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_cranberry_juice.json",
+      "sha256": "b105c89da35b2b8e8340aac5b3edd7f0660d6b557bb6b1ed6444b3962be9d6da",
+      "bytes": 100
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_dragon_egg_omelette.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_dragon_egg_omelette.json",
+      "sha256": "a973d17acd8ea1c7c14d4b5616e3a69dd0e4c14c9449ac5c3b71329eb67bead5",
+      "bytes": 104
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_figgy_pudding.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_figgy_pudding.json",
+      "sha256": "ad6d6e409f83397a42f9872c1e4bc41ca8d21fc4cdae00c7f8497c60899926a5",
+      "bytes": 98
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_fish_and_chips.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_fish_and_chips.json",
+      "sha256": "1566fa60e6a595f7fc3616d7f141b6f4f964e0460fe6e6c5d130d669b16d6f0c",
+      "bytes": 99
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_fried_chicken.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_fried_chicken.json",
+      "sha256": "e92f70c4ba44f25fdd734495e34a5cc1ccada5ae7bb8733ce12f1c350f52272a",
+      "bytes": 98
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_fruit_cake.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_fruit_cake.json",
+      "sha256": "8198f3e61a94b1f5f5affead8c18a2d685417d09f03601d796838670c7630ff7",
+      "bytes": 95
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_grape_juice.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_grape_juice.json",
+      "sha256": "7506682fd080d18093738a3005ca1aed5677f9627d22c8a8b3f746818409d5eb",
+      "bytes": 96
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_horchata.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_horchata.json",
+      "sha256": "e87397cdb8375c99331230896f16bd74b2aa9402704b0aa869f147649d99b2b2",
+      "bytes": 93
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_kiwi_sorbet.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_kiwi_sorbet.json",
+      "sha256": "a6bddba04e264a39999a20d242f46ea6859ac2d0b8d807fb76f07a7d007bdcea",
+      "bytes": 96
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_leafy_salad.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_leafy_salad.json",
+      "sha256": "a41e5583905bdcf8145cea1c40d7efe2f8b0d1959541e8140baaea63603d83cd",
+      "bytes": 96
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_leek_soup.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_leek_soup.json",
+      "sha256": "81f32924b6fe62d8e676c6dfdd12868ad2c8a2a7a50fec1f55c5e7dc965ff4b8",
+      "bytes": 94
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_mead.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_mead.json",
+      "sha256": "5d83a092c07e032381d1bf0ef2f5dddea2fe3453a3a09ee9c751b7d1a1ffd1e4",
+      "bytes": 89
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_mooncake.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_mooncake.json",
+      "sha256": "c8bf18d2b9a5aea442c0adeea085d7d8fef7f1adf0d08f5ecc9c7780e4e60d43",
+      "bytes": 93
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_nether_star_cake.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_nether_star_cake.json",
+      "sha256": "7391e0556cbea5f3f47ac646efcea2841d501b209f5fafc18ac0b862481650b3",
+      "bytes": 101
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_nether_wart_stew.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_nether_wart_stew.json",
+      "sha256": "5f752bc69463feb1646b67e1f5ce8d204a2da0f1b4aebb569e45e4d2cc31080b",
+      "bytes": 101
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_nougat.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_nougat.json",
+      "sha256": "fbb026d428fa8da8adc59f3bb5206e343f65393b51dd1291d6f2db383bdf4c83",
+      "bytes": 91
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_pecan_pie.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_pecan_pie.json",
+      "sha256": "32740bae20c2003b2d511b4304c7e13949bc1525c63dea6e12268573c9ca6dcf",
+      "bytes": 94
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_pickled_anchovy.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_pickled_anchovy.json",
+      "sha256": "9355fcf9a0f847c894e1a5df14c8a311bd884e1207d12b13163404d082ad9852",
+      "bytes": 100
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_potato_soup.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_potato_soup.json",
+      "sha256": "f3554d4579148fe787b32280627420bff9fd0e366e3d8807cee64e97bce20427",
+      "bytes": 96
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_rhubarb_pie.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_rhubarb_pie.json",
+      "sha256": "3731ccbe3c88580903b2899ef9ae85547faed7d8d5334a9a5e64659bcf9b7574",
+      "bytes": 96
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_roe.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_roe.json",
+      "sha256": "5a694d19d735693f6bd0213bd719577be5baae28a347c777c6287ded8265bd01",
+      "bytes": 88
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_saguaro_juice.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_saguaro_juice.json",
+      "sha256": "f6eee32d200877ffaf285b1014b49d767cdf6e8426a96f8ee041ddb173a3639b",
+      "bytes": 98
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_sauerkraut.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_sauerkraut.json",
+      "sha256": "4feec9a295fac66fd739d706e45eba26d85509bf8a3421a56b8542e93fea8ab3",
+      "bytes": 95
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_sushi.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_sushi.json",
+      "sha256": "3ff18ea17d745c0774356724d1cc539be9e9b12d770ca682761d2f88df49ce62",
+      "bytes": 90
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_tea.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_tea.json",
+      "sha256": "5e8b7bcf0241c05b1f701153086eb9999f5233ec246765a795a3d03e3dd66e85",
+      "bytes": 88
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_the_big_breakfast.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_the_big_breakfast.json",
+      "sha256": "fa1b5980e48df12be439320ea0387d6f6b4a12a4117afb6bcde27fd05872e881",
+      "bytes": 102
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_tofu.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_tofu.json",
+      "sha256": "aecbd8c646ad416fc7e95a47a44e0a530afa6204477e72cb0996d3f5251671d5",
+      "bytes": 89
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_transcendental_breakfast.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_transcendental_breakfast.json",
+      "sha256": "43b81fe84422285bb296db3ceceb44b9e08b7dc9c1d364f2a19d7920be6f6602",
+      "bytes": 109
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_treacle_tart.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_treacle_tart.json",
+      "sha256": "21f982aba30386df3c6ed6cfdbf0f887672503f4d4f02ceefdac85059cdf5835",
+      "bytes": 97
+    },
+    {
+      "path": "assets/barkan/items/dish_cr_tres_leche_cake.json",
+      "input": "ce-generated/assets/barkan/items/dish_cr_tres_leche_cake.json",
+      "sha256": "0b97f35b909f70bc0a738248cf42b9f3d6081145eb4601a9ed833436d7e15629",
+      "bytes": 100
+    },
+    {
+      "path": "assets/barkan/items/dish_fd_apple_pie.json",
+      "input": "ce-generated/assets/barkan/items/dish_fd_apple_pie.json",
+      "sha256": "7f64ff78e7db715398b094a6a7ae51a0dbf8b6fbe334cb1c5f770bfbac59cd32",
+      "bytes": 94
+    },
+    {
+      "path": "assets/barkan/items/dish_fd_chocolate_pie.json",
+      "input": "ce-generated/assets/barkan/items/dish_fd_chocolate_pie.json",
+      "sha256": "46dea94ce228b6803dc653b9066c0d8f124161b26d69353bc5e335953b918e47",
+      "bytes": 98
+    },
+    {
+      "path": "assets/barkan/items/dish_fd_fish_stew.json",
+      "input": "ce-generated/assets/barkan/items/dish_fd_fish_stew.json",
+      "sha256": "8866c89834f67e716510364e60d6e34330664b8fe467bd97e6d27eae73c79e21",
+      "bytes": 94
+    },
+    {
+      "path": "assets/barkan/items/dish_fd_gleaming_salad.json",
+      "input": "ce-generated/assets/barkan/items/dish_fd_gleaming_salad.json",
+      "sha256": "d9840bdd7ef3c15ac64369c4f06294123ccefbe0ba9a9748eb01942ee3d4aa1d",
+      "bytes": 99
+    },
+    {
+      "path": "assets/barkan/items/dish_fd_glow_berry_custard.json",
+      "input": "ce-generated/assets/barkan/items/dish_fd_glow_berry_custard.json",
+      "sha256": "01fd5fe3d4a442bb0debb7ddf0e98e17d8220aa3a6f6d988291bd06aa303736d",
+      "bytes": 103
+    },
+    {
+      "path": "assets/barkan/items/dish_fd_grilled_salmon.json",
+      "input": "ce-generated/assets/barkan/items/dish_fd_grilled_salmon.json",
+      "sha256": "4e7ace1a4661b6651176eb04d647a48014ed29378ea389798589cd99a48a3120",
+      "bytes": 99
+    },
+    {
+      "path": "assets/barkan/items/dish_fd_ham.json",
+      "input": "ce-generated/assets/barkan/items/dish_fd_ham.json",
+      "sha256": "f2ab170b654fad3a67e404a5042a95a1eeed92d37526e6bf5e697c971eb159cf",
+      "bytes": 88
+    },
+    {
+      "path": "assets/barkan/items/dish_fd_honey_glazed_ham.json",
+      "input": "ce-generated/assets/barkan/items/dish_fd_honey_glazed_ham.json",
+      "sha256": "d9b39df89aefa077359c0ebddf4004fbbc7935bed0ebdecceed99dc8e1569417",
+      "bytes": 101
+    },
+    {
+      "path": "assets/barkan/items/dish_fd_melon_juice.json",
+      "input": "ce-generated/assets/barkan/items/dish_fd_melon_juice.json",
+      "sha256": "8ed8c2906d6bcc6c009b5d923fe8d1362703636cf40d3748ff8df2dce17152a0",
+      "bytes": 96
+    },
+    {
+      "path": "assets/barkan/items/dish_fd_mixed_salad.json",
+      "input": "ce-generated/assets/barkan/items/dish_fd_mixed_salad.json",
+      "sha256": "a792969c00ac96beac8ac62207ba314aa9502c6323900fa21d4a5dea0c6b51e4",
+      "bytes": 96
+    },
+    {
+      "path": "assets/barkan/items/dish_fd_mushroom_rice.json",
+      "input": "ce-generated/assets/barkan/items/dish_fd_mushroom_rice.json",
+      "sha256": "3157e7cb805e9995007e729388fcc244811f813aace077b54c1d22f56ab6160f",
+      "bytes": 98
+    },
+    {
+      "path": "assets/barkan/items/dish_fd_pasta_with_meatballs.json",
+      "input": "ce-generated/assets/barkan/items/dish_fd_pasta_with_meatballs.json",
+      "sha256": "3adf9e7246ebdab7f03ce6388a3def476d6e8fa40b164851377fbd97b1c654ef",
+      "bytes": 105
+    },
+    {
+      "path": "assets/barkan/items/dish_fd_pumpkin_pie_slice.json",
+      "input": "ce-generated/assets/barkan/items/dish_fd_pumpkin_pie_slice.json",
+      "sha256": "21d09f0c73c9a9a264fbb2635fe47e35f74a5f5b491d363b893d53f62626a86e",
+      "bytes": 102
+    },
+    {
+      "path": "assets/barkan/items/dish_fd_roast_chicken.json",
+      "input": "ce-generated/assets/barkan/items/dish_fd_roast_chicken.json",
+      "sha256": "00f2287defe6f9c5037f15f21727d6e998ff8db18737cb6135851abc4cdc4de2",
+      "bytes": 98
+    },
+    {
+      "path": "assets/barkan/items/dish_fd_salmon_roll.json",
+      "input": "ce-generated/assets/barkan/items/dish_fd_salmon_roll.json",
+      "sha256": "498e38da15303798d6acc37a8c00ad775eeb25fa61f1e62750132eb6affbf980",
+      "bytes": 96
+    },
+    {
+      "path": "assets/barkan/items/dish_fd_shepherds_pie.json",
+      "input": "ce-generated/assets/barkan/items/dish_fd_shepherds_pie.json",
+      "sha256": "ce658c8ca7dfb0973be54081392522349368554bc45bfae567448e11e798cafa",
+      "bytes": 98
+    },
+    {
+      "path": "assets/barkan/items/dish_fd_stuffed_potato.json",
+      "input": "ce-generated/assets/barkan/items/dish_fd_stuffed_potato.json",
+      "sha256": "cb2cb3e4fb78f19f10773aec0824bc689b79a53b791557468d1dd2b974247ecf",
+      "bytes": 99
+    },
+    {
+      "path": "assets/barkan/items/dish_fd_stuffed_pumpkin.json",
+      "input": "ce-generated/assets/barkan/items/dish_fd_stuffed_pumpkin.json",
+      "sha256": "d4483eec99e7f6391f745bd71927bc455609134a215ce9fc486f71a6c88810b5",
+      "bytes": 100
+    },
+    {
+      "path": "assets/barkan/items/dish_melon_juice.json",
+      "input": "ce-generated/assets/barkan/items/dish_melon_juice.json",
+      "sha256": "24f21b648809080b37693e069c1c603db2f8e2db08423196016fbacd1126b959",
+      "bytes": 89
+    },
+    {
+      "path": "assets/barkan/items/dish_pasta.json",
+      "input": "ce-generated/assets/barkan/items/dish_pasta.json",
+      "sha256": "867201e3e7559a16d44b020420cd4df7a7070c226a50e326ab68bb676ada95a6",
+      "bytes": 83
+    },
+    {
+      "path": "assets/barkan/items/food_cr_almond_brittle.json",
+      "input": "ce-generated/assets/barkan/items/food_cr_almond_brittle.json",
+      "sha256": "ce9cc88469f5cd2aaae96e0bc3bbbd0d1fddc157d7a65ce14992d454ac16fe8b",
+      "bytes": 99
+    },
+    {
+      "path": "assets/barkan/items/food_cr_apricot_jam.json",
+      "input": "ce-generated/assets/barkan/items/food_cr_apricot_jam.json",
+      "sha256": "4ac311b8240450ff1ec317ab7aacaff403c64eb6b46900788c73cc33a59f1258",
+      "bytes": 96
+    },
+    {
+      "path": "assets/barkan/items/food_cr_bibim_naengmyeon.json",
+      "input": "ce-generated/assets/barkan/items/food_cr_bibim_naengmyeon.json",
+      "sha256": "df41891317b34da14678499b00efae00b8adafc0576d890d1b1ca5f9517a3abe",
+      "bytes": 101
+    },
+    {
+      "path": "assets/barkan/items/food_cr_bibimbap.json",
+      "input": "ce-generated/assets/barkan/items/food_cr_bibimbap.json",
+      "sha256": "72d2fc6159967d8d10aa793a32cffea40cfe4a1b9a96c973ffd9fa1777081d29",
+      "bytes": 93
+    },
+    {
+      "path": "assets/barkan/items/food_cr_limeade.json",
+      "input": "ce-generated/assets/barkan/items/food_cr_limeade.json",
+      "sha256": "8b6178da52a0ddf8ecb819fe7042adfc788d5c57f87fcbd81438c96f49ddc72e",
+      "bytes": 92
+    },
+    {
+      "path": "assets/barkan/items/food_cr_oatmeal.json",
+      "input": "ce-generated/assets/barkan/items/food_cr_oatmeal.json",
+      "sha256": "26f1fd05dcc8b1ddf74735b006b1b1432513eaed1e5f8d2f90bc409b67ef3fd1",
+      "bytes": 92
+    },
+    {
+      "path": "assets/barkan/items/food_cr_pickled_ginger.json",
+      "input": "ce-generated/assets/barkan/items/food_cr_pickled_ginger.json",
+      "sha256": "7c89fc15b42643db12aec7dfd3cc510dd0bbfb9bbea627811b828d6d9be6b2d3",
+      "bytes": 99
+    },
+    {
+      "path": "assets/barkan/items/food_cr_steamed_crab.json",
+      "input": "ce-generated/assets/barkan/items/food_cr_steamed_crab.json",
+      "sha256": "02e7cae697e7e9d9b14f6814673ae17543791f5316b0514d8c3ba87bd03c2bc2",
+      "bytes": 97
+    },
+    {
+      "path": "assets/barkan/items/food_cr_trail_mix.json",
+      "input": "ce-generated/assets/barkan/items/food_cr_trail_mix.json",
+      "sha256": "ece0142bab1d4adac382b9bee9702be80c367c79f71e9ec040bbd13ef3f2385f",
+      "bytes": 94
+    },
+    {
+      "path": "assets/barkan/items/food_cr_veggie_salad.json",
+      "input": "ce-generated/assets/barkan/items/food_cr_veggie_salad.json",
+      "sha256": "b38b175f1ffbd509525e023b0468992b88184d4e58f9c703216766bacaa93d02",
+      "bytes": 97
+    },
+    {
+      "path": "assets/barkan/items/food_fd_barbecue_stick.json",
+      "input": "ce-generated/assets/barkan/items/food_fd_barbecue_stick.json",
+      "sha256": "46ab7ddc6990d864a0cd29ec6dd7516fd58e1823225d785d4227eb4de606545e",
+      "bytes": 99
+    },
+    {
+      "path": "assets/barkan/items/food_fd_beef_stew.json",
+      "input": "ce-generated/assets/barkan/items/food_fd_beef_stew.json",
+      "sha256": "e004349bdc84715f5254d97386d234c6ac7c25ae9ad4d4ab2c8b39fa117a0026",
+      "bytes": 94
+    },
+    {
+      "path": "assets/barkan/items/food_fd_chicken_soup.json",
+      "input": "ce-generated/assets/barkan/items/food_fd_chicken_soup.json",
+      "sha256": "bcd2d0d392c609d2a1aaeb2191f718f155c6ab372a0bed3613baded2ba5261b8",
+      "bytes": 97
+    },
+    {
+      "path": "assets/barkan/items/food_fd_cooked_cod_slice.json",
+      "input": "ce-generated/assets/barkan/items/food_fd_cooked_cod_slice.json",
+      "sha256": "7e9d763d84d802c7c6795245cedd85c61fd2eb701ee0afc50d9ae711a8d9b374",
+      "bytes": 101
+    },
+    {
+      "path": "assets/barkan/items/food_fd_dumplings.json",
+      "input": "ce-generated/assets/barkan/items/food_fd_dumplings.json",
+      "sha256": "6e224b286db3fa5057315838d8624fb5cb8593a387bf7ce1b3649cbbf00b93b0",
+      "bytes": 94
+    },
+    {
+      "path": "assets/barkan/items/food_fd_honey_cookie.json",
+      "input": "ce-generated/assets/barkan/items/food_fd_honey_cookie.json",
+      "sha256": "d164b15a37b88e5715b5b470aeadabf7f0accbb5eacab265a3e1bea5e5cff8ee",
+      "bytes": 97
+    },
+    {
+      "path": "assets/barkan/items/food_fd_smoked_ham.json",
+      "input": "ce-generated/assets/barkan/items/food_fd_smoked_ham.json",
+      "sha256": "1e68a3f8c98a36b7300ec8f087768c1138db6c8cd99540362ce86d3932dfd972",
+      "bytes": 95
+    },
+    {
+      "path": "assets/barkan/items/food_fd_steak_and_potatoes.json",
+      "input": "ce-generated/assets/barkan/items/food_fd_steak_and_potatoes.json",
+      "sha256": "e87d68748e062041c0cce8ebe0f3f69b03e3852fb6d2b9e50630208fe78da084",
+      "bytes": 103
+    },
+    {
+      "path": "assets/barkan/models/item/food/melon_juice.json",
+      "input": "ce-generated/assets/barkan/models/item/food/melon_juice.json",
+      "sha256": "eca19d6010eb7957208134674f002e6080751cfbf61c9f308b89e0a781faa35d",
+      "bytes": 90
+    },
+    {
+      "path": "assets/barkan/models/item/food/pasta.json",
+      "input": "ce-generated/assets/barkan/models/item/food/pasta.json",
+      "sha256": "12e9e2dc2afd671d43c7e11fa48820d97cf593612cd7e197737f5af894f4e488",
+      "bytes": 84
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_almond_brittle.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_almond_brittle.json",
+      "sha256": "1af726212fca47aae671ab5c1e80f32c7092f9ea424c1ddd3396acc0028adb37",
+      "bytes": 100
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_apple_pie.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_apple_pie.json",
+      "sha256": "e6e994abe4d99ff91a8841840ec48c24a0d966628d93fdf1226fc58f4b67876b",
+      "bytes": 95
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_apricot_jam.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_apricot_jam.json",
+      "sha256": "87affffd6e349eba90ef79153c1830027a38e760125f0e75bba73bd789755e21",
+      "bytes": 97
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_banana_nut_bread.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_banana_nut_bread.json",
+      "sha256": "5ce337f1bd072c5b28be97141940ff5ea4859478cb92357981bb477c06422e9f",
+      "bytes": 102
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_beef_stew.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_beef_stew.json",
+      "sha256": "2c380ea2acc65668a5a1fe05e5129ed2b77fa95f6d1fab0f7ea6963d8f950ca5",
+      "bytes": 95
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_beef_wellington.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_beef_wellington.json",
+      "sha256": "90d22928171a41e7c6ce2000f637fe889e919831d84034eea170a9df90ec41d2",
+      "bytes": 101
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_bibim_naengmyeon.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_bibim_naengmyeon.json",
+      "sha256": "80151a8ecd1ccb6a06cbcded252e7ccccadf7eb1e935383f8dccf8a722747bdb",
+      "bytes": 102
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_bibimbap.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_bibimbap.json",
+      "sha256": "7537a08143002fbf3eaa1c2875d8efaa58d4b1283c6e29f9925854a3db0f8369",
+      "bytes": 94
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_cantaloupe.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_cantaloupe.json",
+      "sha256": "aa425c8058173fe5432768b12c238514dc4a7870a50d913513a11b490eabaf43",
+      "bytes": 96
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_carrot_cake.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_carrot_cake.json",
+      "sha256": "8913995f7727f7c82a8c786a382737f138b7f16159cda32ca64c18e779f71205",
+      "bytes": 97
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_cheese_pizza.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_cheese_pizza.json",
+      "sha256": "8e63930a0102b4573c70124c6d5bfa51f24bdb6452f5cdbf8e9db8f3eb6dd179",
+      "bytes": 98
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_cherry_pie.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_cherry_pie.json",
+      "sha256": "288407e5effde4b7e01d424b230ed4c27d0f84a3341913167f6dee0123ce7919",
+      "bytes": 96
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_corn_bread.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_corn_bread.json",
+      "sha256": "5466911be3d52d951900f224a2ca8c214cb9e09cddd3939b611fb776b24dc304",
+      "bytes": 96
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_cornish_pasty.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_cornish_pasty.json",
+      "sha256": "f9c5bcd913b72db881756061476f329d30a6fca4003845e852d3ab2f20f40d0a",
+      "bytes": 99
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_cranberry_juice.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_cranberry_juice.json",
+      "sha256": "7a93d57b59811491336d82b897df3682401d0d17273f8e3ec2510412951af2ec",
+      "bytes": 101
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_dragon_egg_omelette.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_dragon_egg_omelette.json",
+      "sha256": "e1a5e0935c497a0fafb785b6d631d6c25b4029e9ffed202f1505868ec3782315",
+      "bytes": 105
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_figgy_pudding.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_figgy_pudding.json",
+      "sha256": "3999f2a2c156d34ac7dcfa2734e7902347dbf8139f3557d3c405d3f48b453f6a",
+      "bytes": 99
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_fish_and_chips.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_fish_and_chips.json",
+      "sha256": "ca30281f8a7a01568d4377b3a2a23e3b80dbc3ba13b79e700826bce10ab6cbaf",
+      "bytes": 100
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_fried_chicken.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_fried_chicken.json",
+      "sha256": "709b80ecbf94809c1c3a7861e885ffc858966fe767fb97e5fcda8d2d73243035",
+      "bytes": 99
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_fruit_cake.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_fruit_cake.json",
+      "sha256": "b4e4f96e7656d5e29ed0e479610503390bb5e5ea9cca4482c96b02d6beabba91",
+      "bytes": 96
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_grape_juice.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_grape_juice.json",
+      "sha256": "d2224bc3f5f9e410646ad8b76936574c504c68364547947bd8a84699995350a5",
+      "bytes": 97
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_horchata.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_horchata.json",
+      "sha256": "1605504683e45fa2b831bed3c598e5c821edb53c6071d80ccd6764f20179bd49",
+      "bytes": 94
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_kiwi_sorbet.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_kiwi_sorbet.json",
+      "sha256": "522a5b8e46b858949aebd3a37285a41fef08d7e9127b04dbc321a0cdad0c0d83",
+      "bytes": 97
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_leafy_salad.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_leafy_salad.json",
+      "sha256": "f19167b2d6b33be950bb5054ebcc06e44abb6a186fb492ec928a8376d8046565",
+      "bytes": 97
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_leek_soup.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_leek_soup.json",
+      "sha256": "8f8da76c660182251585be7798838e63800328de1bac215ad1a2325ad4fcb475",
+      "bytes": 95
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_limeade.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_limeade.json",
+      "sha256": "72097155dabe0cc829b469700fc0806b44efefcdc58483e1ea468edff92863bb",
+      "bytes": 93
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_mead.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_mead.json",
+      "sha256": "74ebfb26d47052c7ab75c5dbcb98464724e28960ab2dc1ba294c9bc130ee40ef",
+      "bytes": 90
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_mooncake.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_mooncake.json",
+      "sha256": "bb1850a9e52d1121d40243c25b82aa053977997c5cc29c1bfb5d9b8035c02ee9",
+      "bytes": 94
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_nether_star_cake.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_nether_star_cake.json",
+      "sha256": "8a9870019f2f98d82f9c22724f19e21e2bd22a1b13284a26a31b6e8744aaa3a4",
+      "bytes": 102
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_nether_wart_stew.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_nether_wart_stew.json",
+      "sha256": "c83e55db35ed6d98cdb09605e1db504fdac0c3260646346a19cd0c1ba90a4fac",
+      "bytes": 102
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_nougat.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_nougat.json",
+      "sha256": "cbe779a44e3b8ac64353a71d3532bf727651f0baeadc336a606d6b4f07a7131d",
+      "bytes": 92
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_oatmeal.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_oatmeal.json",
+      "sha256": "46be63f8bd9072a76c3cc7d55515358499e8098e46511235b050825294c8cf50",
+      "bytes": 93
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_pecan_pie.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_pecan_pie.json",
+      "sha256": "9ecfe998239aab602434a06aa8b825f10090bcabfade122a6a7e427c5445251a",
+      "bytes": 95
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_pickled_anchovy.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_pickled_anchovy.json",
+      "sha256": "a4960835b29a147e57e2e3937a461ac5a3209003fcdcfb406aae60edec803080",
+      "bytes": 101
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_pickled_ginger.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_pickled_ginger.json",
+      "sha256": "58c8f735ddd7bd0ec5f8d2185031f59f3199ca4c37af43d63ec86b9ec52057b3",
+      "bytes": 100
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_potato_soup.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_potato_soup.json",
+      "sha256": "a99ca409dac2f607e2f02049f1a09dc2845042010f5c3d99dbbe4f4e57dc8598",
+      "bytes": 97
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_rhubarb_pie.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_rhubarb_pie.json",
+      "sha256": "b612bbff28ff273d2b320723d762e11a6a37b83b430117079df7794b3cb1ab55",
+      "bytes": 97
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_roe.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_roe.json",
+      "sha256": "1933a6396d13020ff1ffff4ebd1f10f1d0c2f3a60fca1b0cfe6619d75d4a3edf",
+      "bytes": 89
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_saguaro_juice.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_saguaro_juice.json",
+      "sha256": "568113e164449434ec512403416c934ae6e7c196e040319aae03589d61460b20",
+      "bytes": 99
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_sauerkraut.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_sauerkraut.json",
+      "sha256": "e5f15392589d730cda4984381cc3731d259d428acdd60c811d2f0ecd44332804",
+      "bytes": 96
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_steamed_crab.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_steamed_crab.json",
+      "sha256": "62b3a72231612d72d21c60a74b50529ea69740044ecfaabb4e8bca3dca6f3421",
+      "bytes": 98
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_sushi.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_sushi.json",
+      "sha256": "40a7965bd48e2c53118e3f4b6ace93f3172d53e3bfab02845159d50ba8d6df44",
+      "bytes": 91
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_tea.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_tea.json",
+      "sha256": "55542d1494708ed6bc32e04d4912a7d4e1c9eb2c62fb11376954121c4b1c0e71",
+      "bytes": 89
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_the_big_breakfast.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_the_big_breakfast.json",
+      "sha256": "c2a4c6c30a6c7f8e144659953e92091fd8325500df1b5ecc90a65a32591356dd",
+      "bytes": 103
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_tofu.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_tofu.json",
+      "sha256": "5f829f87114e7ebe2378e7bd6a71815a7bac0c44bb9775c822833c6d1144cfcc",
+      "bytes": 90
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_trail_mix.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_trail_mix.json",
+      "sha256": "07f4bc171b95695c03c4b569a4878e2aef7fd1522e674b95c46cb79b798066a4",
+      "bytes": 95
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_transcendental_breakfast.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_transcendental_breakfast.json",
+      "sha256": "20d9e0c84a7bd08aadf4ac0ed61c205719f65396213a910e824be66e29f529be",
+      "bytes": 110
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_treacle_tart.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_treacle_tart.json",
+      "sha256": "48746010703b398bb0cf79b2a601b0b094162d92b59f402ad9a5a5405a46fc6e",
+      "bytes": 98
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_tres_leche_cake.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_tres_leche_cake.json",
+      "sha256": "557559bed38b4772b4514e56823c32cd4a9a1027bf3a8b4eaedc5c9803a0b8c0",
+      "bytes": 101
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/cr_veggie_salad.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/cr_veggie_salad.json",
+      "sha256": "9bf8ec0c76d289ec4bbe0ca1f89c924b4a6bce86c098c90cda763c656d1c62c7",
+      "bytes": 98
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/fd_apple_pie.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/fd_apple_pie.json",
+      "sha256": "c60812ed5e4713cbef7edbca69a8eb24c614779c1acb9bce6632f12ca61c49bd",
+      "bytes": 95
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/fd_barbecue_stick.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/fd_barbecue_stick.json",
+      "sha256": "f4aab9feb09c1c7cdb920f46a317bbb4ebfeffdccf935d3812da310e6b9e2fc6",
+      "bytes": 100
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/fd_beef_stew.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/fd_beef_stew.json",
+      "sha256": "6ed11418413a98cc90a3401e02b5ea079fc3cce1d36f14f8033471f716d1f9ab",
+      "bytes": 95
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/fd_chicken_soup.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/fd_chicken_soup.json",
+      "sha256": "a280b020b05a5e78b3859df4413a793194a8c9883b554b0d86a257dda5ed2c62",
+      "bytes": 98
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/fd_chocolate_pie.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/fd_chocolate_pie.json",
+      "sha256": "fb94563075a2ec9885b6ce35b556913ed920fef5c56dc1f3a760b5822b367d79",
+      "bytes": 99
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/fd_cooked_cod_slice.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/fd_cooked_cod_slice.json",
+      "sha256": "695658e6c63aed873147fa5fbae1e5c328d4ff0255383f750547389610d9234c",
+      "bytes": 102
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/fd_dumplings.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/fd_dumplings.json",
+      "sha256": "eda5a2a134eb4e3ed1ff3e3af0fcf54010ec5a8358623ca3478f8c36105676dc",
+      "bytes": 95
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/fd_fish_stew.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/fd_fish_stew.json",
+      "sha256": "4f33cbc859e328baa898db5e146a9704190042357e784e3d12712e4efd918e59",
+      "bytes": 95
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/fd_gleaming_salad.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/fd_gleaming_salad.json",
+      "sha256": "429dcb721cc334ed43f5dd782393ecc4471364bc924a0e10741d26e118a8b553",
+      "bytes": 100
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/fd_glow_berry_custard.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/fd_glow_berry_custard.json",
+      "sha256": "679f825942df5914ef0d18139fe45f6d8de04fda3b1ca0fd99bee2189b13dbc8",
+      "bytes": 104
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/fd_grilled_salmon.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/fd_grilled_salmon.json",
+      "sha256": "52a4ae379b5e6b53aef5c5906f26f007e9f20af5e993240f2e917821417e398d",
+      "bytes": 100
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/fd_ham.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/fd_ham.json",
+      "sha256": "5391e987bb3c778fc568d4899055bbcab60a9426a7b219ef44a10cf19ba3fb4b",
+      "bytes": 89
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/fd_honey_cookie.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/fd_honey_cookie.json",
+      "sha256": "ba9da0b9a86dedad6f1e020b0612dbf9efa20fc9373ccdb7585ad6acc7352af6",
+      "bytes": 98
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/fd_honey_glazed_ham.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/fd_honey_glazed_ham.json",
+      "sha256": "e73c0f8fbbd3022820d3800e432c553509b829ff0182912505675c86d7908dbb",
+      "bytes": 102
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/fd_melon_juice.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/fd_melon_juice.json",
+      "sha256": "de1f67506276429fb8ec0c02329b7ee8104f93c6f1bc79d409768463e4a8aa16",
+      "bytes": 97
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/fd_mixed_salad.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/fd_mixed_salad.json",
+      "sha256": "6b81c5697c208154110bcf3a792a8e9e2f1c9d5d8d5cec6c3d98d106cea48799",
+      "bytes": 97
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/fd_mushroom_rice.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/fd_mushroom_rice.json",
+      "sha256": "382c4606de121a470ca2c02fa782c9ee1ce4c5791da897376c6ac0da2e852b97",
+      "bytes": 99
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/fd_pasta_with_meatballs.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/fd_pasta_with_meatballs.json",
+      "sha256": "b8a099e3889d37dd487fee7decd7733cd35c83a1bbcafe9b5fb346aeec9ddef8",
+      "bytes": 106
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/fd_pumpkin_pie_slice.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/fd_pumpkin_pie_slice.json",
+      "sha256": "03731b4f8e56e7546a7560a50737e3bc3e50159abc535eaa4209583c22e43d05",
+      "bytes": 103
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/fd_roast_chicken.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/fd_roast_chicken.json",
+      "sha256": "e2d1dc8fd277a18a307e63a51fd1b79469cb9b39f0fd17c6fad79489cea6c23b",
+      "bytes": 99
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/fd_salmon_roll.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/fd_salmon_roll.json",
+      "sha256": "ba8b6ec8817bc279f49b7bafb87e6a19d151a0c729d7d41a85c2b297999d2899",
+      "bytes": 97
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/fd_shepherds_pie.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/fd_shepherds_pie.json",
+      "sha256": "2daa57f03841a393adb9e21504c2a6a8aab692b85e65d97dab90804c5590abc5",
+      "bytes": 99
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/fd_smoked_ham.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/fd_smoked_ham.json",
+      "sha256": "fa640c0e4355846b28e3a10b134aa51d3a794b730275e79be711dc2424e68dc0",
+      "bytes": 96
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/fd_steak_and_potatoes.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/fd_steak_and_potatoes.json",
+      "sha256": "573d28167dca113d96082c6ed017af962ebf773953f46dc880f97ee5329ea5f3",
+      "bytes": 104
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/fd_stuffed_potato.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/fd_stuffed_potato.json",
+      "sha256": "6dd86ccd59c2f57814094b48f09eeaf6a4eb784eb0c1721db1b2cc0f781b7ed6",
+      "bytes": 100
+    },
+    {
+      "path": "assets/barkan/models/item/food_lib/fd_stuffed_pumpkin.json",
+      "input": "ce-generated/assets/barkan/models/item/food_lib/fd_stuffed_pumpkin.json",
+      "sha256": "2f0c2a4c3593e1031f846ad144a4f7147a20688d9bb9f5daccb7d4ee8477fdca",
+      "bytes": 101
+    },
+    {
+      "path": "assets/barkan/textures/item/food/melon_juice.png",
+      "input": "ce-generated/assets/barkan/textures/item/food/melon_juice.png",
+      "sha256": "ca1329709233c6c671893f4d638e045556f05e10d3e053477a67b951dbf9bdcb",
+      "bytes": 417,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "92fcc236dabee0eeeabd1a138944ae36c2e5bc77fd058f199f5fdf508731db10"
+    },
+    {
+      "path": "assets/barkan/textures/item/food/pasta.png",
+      "input": "ce-generated/assets/barkan/textures/item/food/pasta.png",
+      "sha256": "baa20ab24c1eaf24e4990a12efe5d884744a6756f5dec9945936e7760c5698a3",
+      "bytes": 491,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "0963fcca82cf417704269053b5856a2a8fbe016c95909cb35d65bc7919e0218c"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_almond_brittle.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_almond_brittle.png",
+      "sha256": "58dcd6bff36edb2d24193a207e992cac1df3b6d5b482c95b3bb8ec8b3b707322",
+      "bytes": 359,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "62ed4e50864295d09e7703ffff9aa08cc45522285c0354e6a143e51e4ebecedc"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_apple_pie.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_apple_pie.png",
+      "sha256": "ad41bcb5eb1f6f26d68b8e9ee0aed6c542c90e38321585e9f147ebc418495b18",
+      "bytes": 770,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "6a8d5aeaf34052128672414c76c5a06f8c1c74d3f7c75ce835bb66a63cf02805"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_apricot_jam.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_apricot_jam.png",
+      "sha256": "40959ebfdcd6c4281b048874d4e96b0f2b341c2c795a5550f36c186bb03df993",
+      "bytes": 268,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "de3a283997181558b2a6cf1e18088e2cd03be008079e9a02a0ff8cb4cf2097ba"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_banana_nut_bread.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_banana_nut_bread.png",
+      "sha256": "731cddbf9eed3d7a8062766340432224f10954d3afe7c3188663af5256713596",
+      "bytes": 304,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "308ec2eb9c64efe1a8db18eb4d01997ab7fac8a37ea75013ef71bf212b2eafed"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_beef_stew.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_beef_stew.png",
+      "sha256": "50775c4a4b106c025220623ea23b6ecdc3c31c4eccbfbf9d7fa610e79a04dd6d",
+      "bytes": 335,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "144d29c2bcda350ec93a880056dcfbe9e19878649d7c8298e60ace105591dfbc"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_beef_wellington.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_beef_wellington.png",
+      "sha256": "f1423fd7efe0a9938d4279971d4a194dbea499642a1cd5a31a4666bdeae9d065",
+      "bytes": 380,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "810d39348bdcee367d4c67030979fc500c49410f34d0cc98082fc54428cac6a6"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_bibim_naengmyeon.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_bibim_naengmyeon.png",
+      "sha256": "732a8e30adee6f38e64269943de761462c3e20fec0b1f750cbeb8bd474ffb76b",
+      "bytes": 700,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "902a7f8aa58329b5d7b55c80cbf69e7b4b596acb4cddae49c3dbd0718f494ccc"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_bibimbap.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_bibimbap.png",
+      "sha256": "46661ecb32a561933882626732219618520bc3528b82bbeaed6fb76f63e262a0",
+      "bytes": 720,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "937ff27161e83b34710fae63d163f3b787767290c51d11bbfbf87139f67f35ef"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_cantaloupe.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_cantaloupe.png",
+      "sha256": "1cae30df6cd939dc3582f7f99a23662ffb5a5d44a82ff9206b7106df68d1d142",
+      "bytes": 260,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "e4ff24a38dba586751c8eb577e72270609641483ad3099917d69381c3b967220"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_carrot_cake.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_carrot_cake.png",
+      "sha256": "ab6ee0f007a9a80eed195a5425e367cef14a53663426804e0db3974dee611e12",
+      "bytes": 896,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "734b987b073c5f571bc402b7b633b6b5c7b7d280765704833032e504870166e9"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_cheese_pizza.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_cheese_pizza.png",
+      "sha256": "597c664752f4df50b674c501a995346a3e6bc04ffd9a12b6e3dba92f86954826",
+      "bytes": 827,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "aeac1f913f4d8d0206a85531bf19c7182d5380421136cd07072a7817bbad372b"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_cherry_pie.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_cherry_pie.png",
+      "sha256": "0e525a14f0d7ec7a952545a479dc7832569e75402f812909e61d6450b2cc23b1",
+      "bytes": 756,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "54fd766b2922cc68f3528d97f060223b48844d2d425d666d9e41becff741be83"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_corn_bread.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_corn_bread.png",
+      "sha256": "54e07659d3e9aaa1f7a2adac10b1c98c5999c5f5b9938e1b7c7d52a8ca8fc71e",
+      "bytes": 679,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "0fc896a4180416dad3afe0b483f38b5d0823c16c1bc486e40beb8a54b415a54c"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_cornish_pasty.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_cornish_pasty.png",
+      "sha256": "7dcb74116126d72526d995ef20883bb329f6a72a8d65bb125fa0ab062a245985",
+      "bytes": 323,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "ed925526885775e6ba11f08d9c182bdd75a30524bc2ea16031e65ceb62a1018b"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_cranberry_juice.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_cranberry_juice.png",
+      "sha256": "4d77f362eed19674734fa35be79ed4f42f81966fa648a442350a6b069534b818",
+      "bytes": 309,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "dd665a5b294b0d286657ffb6cecdbe918e424e763ed5fd52bf6cacf09ed5b02f"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_dragon_egg_omelette.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_dragon_egg_omelette.png",
+      "sha256": "5338ccb97f84549ed9891c558c27d1e700d12eb9146509495b0313f3ca5a89eb",
+      "bytes": 855,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "8dafd6a24612296b5267e75910d0572213766088cee7e9a6f0ff5b95163f6d5e"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_figgy_pudding.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_figgy_pudding.png",
+      "sha256": "73d997afc7c03dd34786fff34484c2ebfa4ec05fd4f7c1195462774f60a7636f",
+      "bytes": 321,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "8313b861c2eb79b5d8cd1e39803386b63868ed9ada41c5a2ac3759352d41ac90"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_fish_and_chips.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_fish_and_chips.png",
+      "sha256": "6bc7e516cd023963d4373f819291795826d9ea2bb754f4f2fb737c2fb75d7912",
+      "bytes": 383,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "b59ff9bb9a29d07c70832caee60c4b9ca54ccf26b36cfe444bf53a1025e46158"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_fried_chicken.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_fried_chicken.png",
+      "sha256": "fc5cb64bb5cf124a91a6e86746271e4982452a0be80e98077c964fb6251a583f",
+      "bytes": 712,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "ba4cf9274902e9cae0b6b073012859197967659e1211463af104dd97e0de33bd"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_fruit_cake.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_fruit_cake.png",
+      "sha256": "8bc63fb4f7d64f8c92fcd34823dfc53258a42da6f2427be16349748e320c3dcc",
+      "bytes": 342,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "a54eca00ef0707c70dc69f2d244a33ba715b05c7a64ccb4392db166674800f62"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_grape_juice.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_grape_juice.png",
+      "sha256": "2b7ce3b37a2b20400db75742ec0259275a2fc6ec5bca0c2f6a42db91bb7f1eed",
+      "bytes": 294,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "27b96191229fb6d6ba2b2b4bb71fec524aa980eff0c51d265d90d79c062836e0"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_horchata.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_horchata.png",
+      "sha256": "79c905a9d9f8ecaad639a4b3844991c52b9371b1adb0b8f63ec685f68ca15687",
+      "bytes": 237,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "59af21c78b7e205efbad77eb43bca40a3a0922a06762bf8e53cc3b27d9dab614"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_kiwi_sorbet.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_kiwi_sorbet.png",
+      "sha256": "ee611ab971c033ba483ab72e26722bc4038016af240b1c1ad453420905ccfe4e",
+      "bytes": 312,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "0684662dace097bb102f2b45a26c2e1d82b4f9a059513bbe8e5682080fc179e4"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_leafy_salad.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_leafy_salad.png",
+      "sha256": "39078e9238702b34a8fbaee2d4b6897f89182a5700943b7f0138743b002aa499",
+      "bytes": 725,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "9331b2517ecb6c0cdc10c52fd4e97e7886397b450467541e0c6097012601632c"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_leek_soup.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_leek_soup.png",
+      "sha256": "0922ffb251cc1458728d24c78793371fdd6d252c581ef1973e0587164891ecd2",
+      "bytes": 277,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "1c59e6a4f4734f2747f185d53b9a62b7c53f8507bf379eedc0a33ab516833618"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_limeade.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_limeade.png",
+      "sha256": "e85bcf93839c1ecdcdb9f9f86782d7cfd605f96e5d80fd242d27c31ef75b0cfe",
+      "bytes": 306,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "d4a5dd63705e081ea4a5099d46ad7f95c6a953e82a140485837269fc714464c8"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_mead.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_mead.png",
+      "sha256": "83431599c6f3529498e6227ff2099ac3f5182c8a1234b81307028dd040450a24",
+      "bytes": 193,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "4f50353efeeffd045c28c431edc7c63056297ec8370dca7c6adf7728ab1016e0"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_mooncake.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_mooncake.png",
+      "sha256": "7cf6c9110a9b7b9efc1473356f5518f64912aaea25e6070eab84020b94986d9a",
+      "bytes": 693,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "876b9d27f2a6cab6c99ae38bbb2afe700c64d434154ca585938a360cfc7b3fb4"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_nether_star_cake.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_nether_star_cake.png",
+      "sha256": "4fc44d08aabd76f6370c71a03afb4d24863e67d33ed2457f2ef5c372d358c25a",
+      "bytes": 817,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "55987001ef74fb9f058ab484dbf01523c9754930b12e87bb8723361eb0000863"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_nether_wart_stew.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_nether_wart_stew.png",
+      "sha256": "de61ba520259aad1f8940a6ffc7d3d1015e4d59b7bce967a0bf97b5d402d2964",
+      "bytes": 345,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "c416a294a78cd71c3973192135b2dfedeaba2977c7b7f2e3c27329895d2bb829"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_nougat.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_nougat.png",
+      "sha256": "b061395d4c03385e9fe3f77168512f4276809b45e0b139bec6532612a2254e24",
+      "bytes": 359,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "e33793678ff060a8ccaad5a86f3c3419989f2b176d3435c31659b39c4faa40ac"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_oatmeal.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_oatmeal.png",
+      "sha256": "681f1490f0944f1972edd7141ddb7225a6f8a7f8fe0d8359cfe60549b72b48fd",
+      "bytes": 263,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "bc4535a0cd18299789d623d1075e72fc0e1e7eba23b11e1dc1548696f57110af"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_pecan_pie.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_pecan_pie.png",
+      "sha256": "5e0b29217ed78eecffc20f9a22d66f4f42d36fc4fef837a9ee382b024a380e6a",
+      "bytes": 774,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "8a37e98acfde223c81028db63b5b0fa6bb2238d4720c665734356b92e49a4189"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_pickled_anchovy.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_pickled_anchovy.png",
+      "sha256": "58e4d89f0317de36ea3c3f78a490e83eef0f80b5c5e9174cc5d9c78b66156f02",
+      "bytes": 721,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "a73c55145623f5bbca29c041afd5ca97809392201592396d18757a876d69dd2a"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_pickled_ginger.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_pickled_ginger.png",
+      "sha256": "e046ecea47bccbca3400843236cbd8de60b648a2ba39d14b603fa23ca6ba323d",
+      "bytes": 755,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "cda6f79bb0b97c3f0f9b4f40719bde37a9394a7f1142893c14b1234e3eec66a7"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_potato_soup.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_potato_soup.png",
+      "sha256": "6aa056d2cdc03118c6821e650873efb7c48a5534caaf479ba94bc668bcf1dfd3",
+      "bytes": 293,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "92ad29925c0e6868688fd8337489ecadc1b6c28e062652f87aa540b5f8f92aba"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_rhubarb_pie.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_rhubarb_pie.png",
+      "sha256": "8176195bca5a1cb6859b284c69a73486f3bea735649cbf1f583652d58393b68d",
+      "bytes": 789,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "a2e746efde2186e28177a7633179019dc151802a47ca36f93cd51d90e5716897"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_roe.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_roe.png",
+      "sha256": "2982b157d18d5fd54d2000f863bdae7bda48624fbf70914c300cddc9b4cf2d6f",
+      "bytes": 693,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "b6d95bd47cca6a1d523ff9b0890e0d12a208638d161b031e8bb4c55286078064"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_saguaro_juice.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_saguaro_juice.png",
+      "sha256": "63436b97f2a8ef0145887af2120949b49fad8aba5ada859dbcf942873e8ecb66",
+      "bytes": 302,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "3f1835606a26a6930eee741b26d9234c688fa061b6793ed82a4c550642eff3a0"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_sauerkraut.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_sauerkraut.png",
+      "sha256": "1ba925011d224d8fdb26732a43b1400d182791224dd548e9f2eb0bb57a2fe991",
+      "bytes": 740,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "7a320150f9e93b9cb35d838abb1ee2f29fd73117ec479eb57d1c201ca29e169f"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_steamed_crab.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_steamed_crab.png",
+      "sha256": "5afaa2b91682c8aa9ab96abf30330579aa61e32153d9a2567ce98bdc61b269bc",
+      "bytes": 815,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "6e94de21f9dddc1c1d4144cbf7834a61e14b56be0653b3a559ddef94f0e94e20"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_sushi.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_sushi.png",
+      "sha256": "21603470f0c34ef8b3492534a31dc26a138765541ad964a48a4178e3cde15236",
+      "bytes": 321,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "a774d66538063a7f908d0dfb192daa3a4b9da7b30e4b61ab3c73bd0b0647e89d"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_tea.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_tea.png",
+      "sha256": "58727505760809f9bf7254ec763f8d6f1c931327697e0f977ea30595d456301b",
+      "bytes": 284,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "38d2ada932ec1de2aa11030b6d832bc87210a4983a1e9615b2676ca00a2b51aa"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_the_big_breakfast.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_the_big_breakfast.png",
+      "sha256": "8776d95ea4d891183e2af71c2550389788c7134b947ee93e4b5a48a94963c884",
+      "bytes": 887,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "890b4888fa186c60740f10e8ea552822af205e2e38f3f09c606d02e6481270c1"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_tofu.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_tofu.png",
+      "sha256": "fe37788db357fdefb963376d2532e556f6eda88f18f6584b4d895e888251c261",
+      "bytes": 324,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "606cbec5ce7835650b5910c78d0062a97f1ca90d901ba50854960e1a612a30e9"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_trail_mix.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_trail_mix.png",
+      "sha256": "44cf81e25136a76d9ac5ad81e64032ca5287811861c701c917c8ca7f134859f6",
+      "bytes": 395,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "d16d57cdeb697ef3859fe09dbe28a96c6725050a42545793ae61719845b514d5"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_transcendental_breakfast.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_transcendental_breakfast.png",
+      "sha256": "cad0cb773ce2b0cbba854b161d18254e04f71909a98fe4fbd5625a6cef02adb5",
+      "bytes": 1038,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "40d512a26e640c44697ce68fcce5377e9e9d227f3212233accb08e6104b4b713"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_treacle_tart.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_treacle_tart.png",
+      "sha256": "090f4d89d4087f9164f4c638e441c60fb8041a92c7a3881294efdffe398e5671",
+      "bytes": 360,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "b0ed822ae60a4f1be2b32a2207672a4b3851f53825ea20b6fb2f32eac2d21894"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_tres_leche_cake.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_tres_leche_cake.png",
+      "sha256": "9987790757da6e4e3e449ab991efc43a8c0f675d23290b362d2ac25a4ed0ba0f",
+      "bytes": 258,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "b5815a7db985d4371af12df730c81ee60daf8ab6a00154a06bc6b5b3ae25cc64"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/cr_veggie_salad.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/cr_veggie_salad.png",
+      "sha256": "75d34c0e31b2f5ecba8a465a7d70e1d8faf9ca1b59cfd9f59415719ddc386a7b",
+      "bytes": 787,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "ab14e4c2657b7199c7cfcd4c17e537761bf41e49d106b7ebddaabcd837bb4d80"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/fd_apple_pie.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/fd_apple_pie.png",
+      "sha256": "3af365c35b0da3ddb9685e61be7bfa435d2c9cae609632a3e3ebdeb5b11a3d61",
+      "bytes": 363,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "2bb3e2daee1272c3fef246af1099456e2d2aa282e19424102a9e13c8f1e6dcee"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/fd_barbecue_stick.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/fd_barbecue_stick.png",
+      "sha256": "b8f77ddc9053bcaf64802f971e0753c6221860cb55558117e85a1e2a5d83987d",
+      "bytes": 401,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "9a229fabfd597d3e23ea4e21186f9fcee0661a2cf37bbb6bac61478428969bf4"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/fd_beef_stew.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/fd_beef_stew.png",
+      "sha256": "45bf5f1fc0c9905fc6ed11cef1f8abebc82d06dcd3e958309d7816b10d94f0ac",
+      "bytes": 318,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "65ad82b15f671e0286a3eae74986e3c9abd857d9beac04af2a68790cd3347c43"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/fd_chicken_soup.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/fd_chicken_soup.png",
+      "sha256": "c96f9d25832e8a069e3aa2c48c00b1362b8598cec211fbaa8821c620fd3d9592",
+      "bytes": 359,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "6b751f312a429c9369e3c85dd7e64b687ab060830beba38d9c4bceaa067feffd"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/fd_chocolate_pie.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/fd_chocolate_pie.png",
+      "sha256": "32bd9838c352a043e0959eaa50e0aaf998e6290898d02aedf5248ec61a84130d",
+      "bytes": 374,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "e574449b4c6076a367a1059055355cbb0911222e066a3546502d53a00a867d92"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/fd_cooked_cod_slice.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/fd_cooked_cod_slice.png",
+      "sha256": "38bbe988eface9586f27fd464ace428f86acfbf6a209d4a1cbacdc96027d5ff5",
+      "bytes": 246,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "0701d11ebc5765324b6a7758895d88addc5583332a086a97e102d0c18f267fe3"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/fd_dumplings.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/fd_dumplings.png",
+      "sha256": "7c8debf4744e28e0cd23daf32ed92109ed017cbd6c54658f8b4273a486e76805",
+      "bytes": 349,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "3b59c5258fa956454de705ea53086d921df024d312fbec7eec7b3cf88c2e7999"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/fd_fish_stew.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/fd_fish_stew.png",
+      "sha256": "e3ab7aa39986ff026683666d0843e14a686f424c1d511d4b6d1d93e546583725",
+      "bytes": 351,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "0c581a770162ac0de015de044cd784c24a6f504365bf2e9288c0fcde6f274fc6"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/fd_gleaming_salad.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/fd_gleaming_salad.png",
+      "sha256": "87476af27e71504f8960e8fa6f1e2d85bdfd30482d59a70a265a38da3dcec0ad",
+      "bytes": 453,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "347d9d940c005d07d4c92972d9df8e8dcf845aa4b67e2218bd9d7a1993f561a5"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/fd_glow_berry_custard.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/fd_glow_berry_custard.png",
+      "sha256": "fcec6d9c285032ff964127d2093519c971b4996d80e2af872d1974918b324404",
+      "bytes": 426,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "2ce89c3405531a9d152c16886659ac7fb004346331f566190445884447e25161"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/fd_grilled_salmon.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/fd_grilled_salmon.png",
+      "sha256": "f185ea8d9f5f774af495bde3f4bcb82af5ab2e89b78c0e1cf8c3db9b0284f111",
+      "bytes": 483,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "87b100d572cd815f41ddc8cf35931f12867ad4ce6a013d8ff38cdbf860ec984f"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/fd_ham.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/fd_ham.png",
+      "sha256": "0bf7934313bbe47975a607ca5fae6fac3d49534ddafe7d7f21d4ec07c3f8a73b",
+      "bytes": 357,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "a336fca9be3a7896438acff27974932b04f0aa1118d854dbc5d336cae679a5f7"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/fd_honey_cookie.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/fd_honey_cookie.png",
+      "sha256": "c8c8ecb4cae4466a766fef085dce40e983ba14d77264330d2ad53b68a0f73f24",
+      "bytes": 341,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "636e80fe15a5404d314fa1e8faf3c808e56efda68f1d5c4efd6826d7e813b460"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/fd_honey_glazed_ham.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/fd_honey_glazed_ham.png",
+      "sha256": "3d02fe7c89585adddb882f8a88841e9c42fcd4325b3db626a68caafb05174b66",
+      "bytes": 513,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "528e9749975f5eaf52f693eb970621b230c68c30a4da19137d61fb778dc3db37"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/fd_melon_juice.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/fd_melon_juice.png",
+      "sha256": "cde91d980ffe8d30b8e059592a653024019565d9a23e2d5c3d74f18145d45169",
+      "bytes": 364,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "92fcc236dabee0eeeabd1a138944ae36c2e5bc77fd058f199f5fdf508731db10"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/fd_mixed_salad.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/fd_mixed_salad.png",
+      "sha256": "0f82ef6c63a4a705cbf38226323ef410c77aef379d8a45458c8d1cbcce21c976",
+      "bytes": 416,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "df3d84accba4659dc4cd1175dce8227b3fb64693ed22430c08f2ae6d16338247"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/fd_mushroom_rice.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/fd_mushroom_rice.png",
+      "sha256": "18216d519298410568460f1b173024c3242bd9f2ed179ef196c71f9b0d931b23",
+      "bytes": 442,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "52dcc21a99842348bdd538d766772c14352f8530f81d2cdcef8a81c04ec95ee1"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/fd_pasta_with_meatballs.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/fd_pasta_with_meatballs.png",
+      "sha256": "3002d9f3d8a7b03ca8cd0dd3dd627a54390eaa680806d8b011af5d824146c147",
+      "bytes": 438,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "0963fcca82cf417704269053b5856a2a8fbe016c95909cb35d65bc7919e0218c"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/fd_pumpkin_pie_slice.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/fd_pumpkin_pie_slice.png",
+      "sha256": "e140ccaf2fc689d3f81310b6efd190aba2d780d49936e9c9a6bf9e1afc458359",
+      "bytes": 285,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "199c5dd18b932169deae166e9a29bc9f359e410826186dc706f1093a725fb3ef"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/fd_roast_chicken.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/fd_roast_chicken.png",
+      "sha256": "fdea964f89b3ad3739b4ae3a6a7cd78cb6543d89541e56ade1e2b06828fd1124",
+      "bytes": 480,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "94526a2563eeb45fbcb6cd598eca2e1009f26b1cd5f5920c696b5927a10f5474"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/fd_salmon_roll.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/fd_salmon_roll.png",
+      "sha256": "a5ca68e8582b5760f5bda6557e472ea9ee90b6aa18ff3cf0740f5416a34eee2b",
+      "bytes": 386,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "3df292b6c780acf7f047d4ae266370f224da4b452f3448a38bd6f35e65f51f90"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/fd_shepherds_pie.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/fd_shepherds_pie.png",
+      "sha256": "f0bf541dd53600366812e217075184130ee57b87bb4683d452982f99b9bc7c3e",
+      "bytes": 464,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "a0b8d413be49c7b572b03565e55e6f28a8e01f6b4add5ec5ee603b861c847919"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/fd_smoked_ham.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/fd_smoked_ham.png",
+      "sha256": "0020ca85c740698eb9f91a1c73f8f4a99085b103f2b4f321a2bffa17c2dc320f",
+      "bytes": 386,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "b19d09c93ff28b141b2c96676664a2fbb587fa88ab9b8a187c369a48d20c9774"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/fd_steak_and_potatoes.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/fd_steak_and_potatoes.png",
+      "sha256": "81852dade7549d538691caa7f144c6ea90789b35ab0ba97fa746c78e8e6628d6",
+      "bytes": 494,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "199b6212374345667a28aeb14861e2f8a0e5bb7c1c84a719be5eb20c2ac3dc6c"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/fd_stuffed_potato.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/fd_stuffed_potato.png",
+      "sha256": "581fb3a998bd69aaf3e7c39e4836829e20fc8f000d5e199eabfd9b9af96b6e6b",
+      "bytes": 425,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "392bfd07d06ed27cbe411680e855d418bee73e424d767c45c7ee8e17a2c2ad37"
+    },
+    {
+      "path": "assets/barkan/textures/item/food_lib/fd_stuffed_pumpkin.png",
+      "input": "ce-generated/assets/barkan/textures/item/food_lib/fd_stuffed_pumpkin.png",
+      "sha256": "d48f9acc46e92b435cea06a7a9df48c7aa7b7c277fd60366917816ce2b1139eb",
+      "bytes": 372,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "e839b8ba0a8302f05097f14fc1cc4313ba19c9b64c01234749cdf36e61e732d9"
+    },
+    {
+      "path": "assets/default/items/drill.json",
+      "input": "ce-generated/assets/default/items/drill.json",
+      "sha256": "32a26a9c286f38cb5fed805a1b6dd1eb15cad23b6371c20ebf82c7546ba8396a",
+      "bytes": 196
+    },
+    {
+      "path": "assets/minecraft/models/item/custom/drill.json",
+      "input": "ce-generated/assets/minecraft/models/item/custom/drill.json",
+      "sha256": "2ef8db66b61290f0b28ed8ffbf516da231d9495e53fce67f1ed4d166f3451964",
+      "bytes": 295
+    },
+    {
+      "path": "assets/minecraft/models/item/custom/drill_selected.json",
+      "input": "ce-generated/assets/minecraft/models/item/custom/drill_selected.json",
+      "sha256": "3f3a3852e865a4e8e0e2ae32e7e891c2ea288c35c8c4e448c87e592cecb573a5",
+      "bytes": 304
+    },
+    {
+      "path": "assets/minecraft/textures/item/custom/drill.png",
+      "input": "ce-generated/assets/minecraft/textures/item/custom/drill.png",
+      "sha256": "5acacaaee076fb6c95a4dcf57c01f7d8f0a3edf011bdfca55be300fac9354611",
+      "bytes": 394,
+      "nativeSize": [
+        16,
+        16
+      ],
+      "rgbaSha256": "65f6b43c5e01aed5e6b557d041f2228f9bb68ab8dd5839762ec5a72672a5b927"
+    },
+    {
+      "path": "assets/minecraft/textures/item/custom/drill_selected.png",
+      "input": "ce-generated/assets/minecraft/textures/item/custom/drill_selected.png",
+      "sha256": "9f747599d29463b7aef5427e1d75cec3c8fec6f7a57d2ef1240b84b8b0600527",
+      "bytes": 540,
+      "nativeSize": [
+        16,
+        32
+      ],
+      "rgbaSha256": "0bcf16da3cbd348681a24e77a34aba5c0879835e815222184af2346fe0304c91"
+    },
+    {
+      "path": "assets/minecraft/textures/item/custom/drill_selected.png.mcmeta",
+      "input": "ce-generated/assets/minecraft/textures/item/custom/drill_selected.png.mcmeta",
+      "sha256": "4edc607766fe6b757215e4c903006fcfa9bbb61541cffeb45119b1602894003b",
+      "bytes": 49
+    }
+  ],
+  "builtinParents": [
+    "minecraft:item/generated",
+    "minecraft:item/handheld"
+  ],
+  "sourceFreshnessPolicy": "Always validate pinned census/input/output closure. With adjacent blockship-plugin or --java-root, additionally reject authority source drift. New runtime census must be passed via --census after definition changes; mismatched IDs/models fail rather than silently reuse an old snapshot.",
+  "licensing": "Existing selected CE source and generated files contain no bundled food-license notices. Pinned official MIT notices for Croptopia v3 and FarmersDelight are retained as supplementary provenance; locally customized variants are not falsely attributed to those exact upstream revisions. Original pixels and animation bytes are unchanged.",
+  "runtimeRecipes": {
+    "originalPath": "/Users/user/Library/Application Support/feather/player-server/servers/07de2d81-991a-47e2-b62d-06c0d1b5150a/plugins/Skript/scripts/ops/blockship-data/recipes.json",
+    "sha256": "59933fa57730cb256a45f8acc7df12135422cb18dfd90a3430b67e3785907247"
+  },
+  "upstreamNotices": [
+    {
+      "project": "Croptopia",
+      "upstreamUrl": "https://raw.githubusercontent.com/ExcessiveAmountsOfZombies/Croptopia/5241aead144d706c347955e81a3c15fd79f30a21/LICENSE",
+      "upstreamCommit": "5241aead144d706c347955e81a3c15fd79f30a21",
+      "path": "notices/Croptopia-LICENSE.txt",
+      "sha256": "2749f3ceb2261ca60713d66062b7d375bae820f6d6541fa6f916ae88523d0ea5",
+      "scope": "Upstream project notice retained as supplementary provenance; not an assertion that all locally customized icons originate from this exact revision"
+    },
+    {
+      "project": "FarmersDelight",
+      "upstreamUrl": "https://raw.githubusercontent.com/vectorwing/FarmersDelight/dd8b9b0bfec916a2da88a6d64e3a37f4a02c3259/LICENSE",
+      "upstreamCommit": "dd8b9b0bfec916a2da88a6d64e3a37f4a02c3259",
+      "path": "notices/FarmersDelight-LICENSE.txt",
+      "sha256": "3ff766f3ab1fd7dad26e8f176c5e4af6bcbf8bb1208d26f573d77b48b13188ac",
+      "scope": "Upstream project notice retained as supplementary provenance; not an assertion that all locally customized icons originate from this exact revision"
+    }
+  ]
+}

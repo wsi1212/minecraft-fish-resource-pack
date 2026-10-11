@@ -1,0 +1,319 @@
+# 요리 음식 아이템 — material=식용·스택가능(먹기 가능), model=2D 평면 아이콘.
+# DishSpecs.CE_ITEM 이 이 id들을 참조해 buildDish에서 렌더.
+#
+# ⚠ 아래 첫 블록(dish_pasta ~ dish_food3d_*)은 레거시 — 2026-07-31 이후 DishSpecs가 참조하지 않는다.
+#   삭제하지 말 것: 교체 전에 이미 만들어져 플레이어 인벤/아이스박스/대기열에 남아있는 요리 아이템이
+#   계속 렌더되려면 정의가 살아있어야 한다. 요리는 소비재라 시간이 지나면 자연 소멸하므로 그때 정리.
+items:
+  barkan:dish_pasta:
+    material: cooked_chicken
+    model: barkan:item/food/pasta
+  barkan:dish_salad:
+    material: apple
+    model: barkan:item/food/salad
+  barkan:dish_melon_juice:
+    material: melon_slice
+    model: barkan:item/food/melon_juice
+  barkan:dish_seafood:
+    material: cooked_cod
+    model: barkan:item/food/seafood
+  barkan:dish_feast:
+    material: cooked_beef
+    model: barkan:item/food/feast
+  barkan:dish_fishchips:
+    material: cooked_cod
+    model: barkan:item/food/fishchips
+
+  # ── food3d 3D 모델 재사용 (2026-07-22 요리 확장) ──
+  # food3d_furniture.yml의 barkan:food3d_* 가구와 동일 모델 경로를 그대로 참조 — 신규 텍스처/모델 없음,
+  # material만 식용으로 바꿔 별도 아이템 id로 재등록(가구용 furniture_item 아이템과는 별개 아이템).
+  barkan:dish_food3d_roast_chicken:
+    material: cooked_chicken
+    model: barkan:item/furniture/food3d/roast_chicken
+  barkan:dish_food3d_honey_ham:
+    material: cooked_porkchop
+    model: barkan:item/furniture/food3d/honey_ham
+  barkan:dish_food3d_gleaming_salad:
+    material: beetroot_soup
+    model: barkan:item/furniture/food3d/gleaming_salad
+  barkan:dish_food3d_sushi_platter:
+    material: cooked_salmon
+    model: barkan:item/furniture/food3d/sushi_platter
+  barkan:dish_food3d_shepherds_pie:
+    material: cooked_rabbit
+    model: barkan:item/furniture/food3d/shepherds_pie
+  barkan:dish_food3d_stuffed_pumpkin:
+    material: baked_potato
+    model: barkan:item/furniture/food3d/stuffed_pumpkin
+  barkan:dish_food3d_chocolate_pie:
+    material: cookie
+    model: barkan:item/furniture/food3d/chocolate_pie
+  barkan:dish_food3d_apple_pie:
+    material: apple
+    model: barkan:item/furniture/food3d/apple_pie
+  barkan:dish_food3d_pumpkin_pie:
+    material: pumpkin_pie
+    model: barkan:item/furniture/food3d/pumpkin_pie
+  barkan:dish_food3d_cooking_pot:
+    material: rabbit_stew
+    model: barkan:item/furniture/food3d/cooking_pot
+  barkan:dish_food3d_hoglin_head:
+    material: cooked_mutton
+    model: barkan:item/furniture/food3d/hoglin_head
+  barkan:dish_food3d_hoglin_foot:
+    material: cooked_mutton
+    model: barkan:item/furniture/food3d/hoglin_foot
+  barkan:dish_food3d_blueberry_pie:
+    material: sweet_berries
+    model: barkan:item/furniture/food3d/blueberry_pie
+  barkan:dish_food3d_green_apple_pie:
+    material: apple
+    model: barkan:item/furniture/food3d/green_apple_pie
+  barkan:dish_food3d_mulberry_pie:
+    material: sweet_berries
+    model: barkan:item/furniture/food3d/mulberry_pie
+  barkan:dish_food3d_mutton_pie:
+    material: cooked_mutton
+    model: barkan:item/furniture/food3d/mutton_pie
+  barkan:dish_food3d_passion_tart:
+    material: sweet_berries
+    model: barkan:item/furniture/food3d/passion_tart
+  barkan:dish_food3d_salmonberry_pie:
+    material: cooked_salmon
+    model: barkan:item/furniture/food3d/salmonberry_pie
+  barkan:dish_food3d_smore:
+    material: cookie
+    model: barkan:item/furniture/food3d/smore
+  barkan:dish_food3d_red_velvet_cupcake:
+    material: cookie
+    model: barkan:item/furniture/food3d/red_velvet_cupcake
+  barkan:dish_food3d_matcha_ice_cream:
+    material: honey_bottle
+    model: barkan:item/furniture/food3d/matcha_ice_cream
+  barkan:dish_food3d_pizza_margharita:
+    material: bread
+    model: barkan:item/furniture/food3d/pizza_margharita
+  barkan:dish_food3d_chorus_pie:
+    material: pumpkin_pie
+    model: barkan:item/furniture/food3d/chorus_pie
+  barkan:dish_food3d_sourceberry_pie:
+    material: sweet_berries
+    model: barkan:item/furniture/food3d/sourceberry_pie
+  barkan:dish_food3d_gloomgourd_pie:
+    material: pumpkin_pie
+    model: barkan:item/furniture/food3d/gloomgourd_pie
+  barkan:dish_food3d_stuffed_cantaloupe:
+    material: melon_slice
+    model: barkan:item/furniture/food3d/stuffed_cantaloupe
+
+  # ══ 2026-07-31 평면(2D) 아이콘 전면 교체 ══
+  # 요리 58종 전부를 food_library(Croptopia/Farmer's Delight, 오픈소스) 2D 아이콘으로 통일.
+  # 기존 food3d 3D 가구 모델 재사용 아이콘은 인벤토리 슬롯에서 판독성이 나빠 폐지(아래 레거시 블록은 보존).
+  # id는 아이콘 이름과 1:1 — 새 요리 추가 시 아이콘도 새로 고를 것(중복 id 금지).
+  # 모델/텍스처는 food_library가 이미 팩에 넣어둔 것을 그대로 참조 → 리소스팩 신규 자산 없음.
+  barkan:dish_cr_tea:
+    material: cookie
+    model: barkan:item/food_lib/cr_tea   # 들꽃 꿀차
+  barkan:dish_cr_tofu:
+    material: cookie
+    model: barkan:item/food_lib/cr_tofu   # 도토리묵
+  barkan:dish_cr_saguaro_juice:
+    material: cookie
+    model: barkan:item/food_lib/cr_saguaro_juice   # 가시배 화채
+  barkan:dish_cr_horchata:
+    material: cookie
+    model: barkan:item/food_lib/cr_horchata   # 설산 서리차
+  barkan:dish_cr_apple_pie:
+    material: cookie
+    model: barkan:item/food_lib/cr_apple_pie   # 풋사과 파이
+  barkan:dish_cr_nougat:
+    material: cookie
+    model: barkan:item/food_lib/cr_nougat   # 모닥불 스모어
+  barkan:dish_cr_corn_bread:
+    material: cookie
+    model: barkan:item/food_lib/cr_corn_bread   # 따뜻한 빵
+  barkan:dish_fd_mushroom_rice:
+    material: cookie
+    model: barkan:item/food_lib/fd_mushroom_rice   # 버섯 스튜
+  barkan:dish_fd_stuffed_potato:
+    material: cookie
+    model: barkan:item/food_lib/fd_stuffed_potato   # 구운 감자
+  barkan:dish_fd_melon_juice:
+    material: cookie
+    model: barkan:item/food_lib/fd_melon_juice   # 수박 주스
+  barkan:dish_cr_leafy_salad:
+    material: cookie
+    model: barkan:item/food_lib/cr_leafy_salad   # 바위솔 무침
+  barkan:dish_fd_glow_berry_custard:
+    material: cookie
+    model: barkan:item/food_lib/fd_glow_berry_custard   # 야광버섯 수프
+  barkan:dish_fd_mixed_salad:
+    material: cookie
+    model: barkan:item/food_lib/fd_mixed_salad   # 양배추 샐러드
+  barkan:dish_fd_pasta_with_meatballs:
+    material: cookie
+    model: barkan:item/food_lib/fd_pasta_with_meatballs   # 토마토 파스타
+  barkan:dish_fd_grilled_salmon:
+    material: cookie
+    model: barkan:item/food_lib/fd_grilled_salmon   # 세이지 생선구이
+  barkan:dish_fd_honey_glazed_ham:
+    material: cookie
+    model: barkan:item/food_lib/fd_honey_glazed_ham   # 꿀 발림 햄구이
+  barkan:dish_fd_apple_pie:
+    material: cookie
+    model: barkan:item/food_lib/fd_apple_pie   # 사과 파이
+  barkan:dish_cr_fried_chicken:
+    material: cookie
+    model: barkan:item/food_lib/cr_fried_chicken   # 바삭 다리살
+  barkan:dish_cr_fish_and_chips:
+    material: cookie
+    model: barkan:item/food_lib/cr_fish_and_chips   # 피시 앤 칩스
+  barkan:dish_cr_nether_wart_stew:
+    material: cookie
+    model: barkan:item/food_lib/cr_nether_wart_stew   # 잿불 매운탕
+  barkan:dish_cr_sushi:
+    material: cookie
+    model: barkan:item/food_lib/cr_sushi   # 초밥 플래터
+  barkan:dish_fd_roast_chicken:
+    material: cookie
+    model: barkan:item/food_lib/fd_roast_chicken   # 훈제 통닭구이
+  barkan:dish_cr_leek_soup:
+    material: cookie
+    model: barkan:item/food_lib/cr_leek_soup   # 늪지 해독죽
+  barkan:dish_fd_salmon_roll:
+    material: cookie
+    model: barkan:item/food_lib/fd_salmon_roll   # 노련한 손맛
+  barkan:dish_fd_fish_stew:
+    material: cookie
+    model: barkan:item/food_lib/fd_fish_stew   # 해물탕
+  barkan:dish_cr_potato_soup:
+    material: cookie
+    model: barkan:item/food_lib/cr_potato_soup   # 트러플 크림스튜
+  barkan:dish_fd_gleaming_salad:
+    material: cookie
+    model: barkan:item/food_lib/fd_gleaming_salad   # 빛나는 샐러드
+  barkan:dish_fd_shepherds_pie:
+    material: cookie
+    model: barkan:item/food_lib/fd_shepherds_pie   # 목동의 파이
+  barkan:dish_fd_stuffed_pumpkin:
+    material: cookie
+    model: barkan:item/food_lib/fd_stuffed_pumpkin   # 속을 채운 호박찜
+  barkan:dish_fd_chocolate_pie:
+    material: cookie
+    model: barkan:item/food_lib/fd_chocolate_pie   # 초콜릿 파이
+  barkan:dish_fd_pumpkin_pie_slice:
+    material: cookie
+    model: barkan:item/food_lib/fd_pumpkin_pie_slice   # 단호박 파이
+  barkan:dish_cr_beef_stew:
+    material: cookie
+    model: barkan:item/food_lib/cr_beef_stew   # 보글보글 스튜
+  barkan:dish_fd_ham:
+    material: cookie
+    model: barkan:item/food_lib/fd_ham   # 호글린 통구이
+  barkan:dish_cr_cherry_pie:
+    material: cookie
+    model: barkan:item/food_lib/cr_cherry_pie   # 블루베리 파이
+  barkan:dish_cr_pecan_pie:
+    material: cookie
+    model: barkan:item/food_lib/cr_pecan_pie   # 오디 파이
+  barkan:dish_cr_cornish_pasty:
+    material: cookie
+    model: barkan:item/food_lib/cr_cornish_pasty   # 양고기 파이
+  barkan:dish_cr_treacle_tart:
+    material: cookie
+    model: barkan:item/food_lib/cr_treacle_tart   # 패션 타르트
+  barkan:dish_cr_rhubarb_pie:
+    material: cookie
+    model: barkan:item/food_lib/cr_rhubarb_pie   # 연어베리 파이
+  barkan:dish_cr_tres_leche_cake:
+    material: cookie
+    model: barkan:item/food_lib/cr_tres_leche_cake   # 레드벨벳 컵케이크
+  barkan:dish_cr_kiwi_sorbet:
+    material: cookie
+    model: barkan:item/food_lib/cr_kiwi_sorbet   # 말차 아이스크림
+  barkan:dish_cr_cheese_pizza:
+    material: cookie
+    model: barkan:item/food_lib/cr_cheese_pizza   # 마르게리타 피자
+  barkan:dish_cr_the_big_breakfast:
+    material: cookie
+    model: barkan:item/food_lib/cr_the_big_breakfast   # 바르칸 채집 성찬
+  barkan:dish_cr_cantaloupe:
+    material: cookie
+    model: barkan:item/food_lib/cr_cantaloupe   # 스터프드 캔털루프
+  barkan:dish_cr_nether_star_cake:
+    material: cookie
+    model: barkan:item/food_lib/cr_nether_star_cake   # 신비로운 코러스 파이
+  barkan:dish_cr_figgy_pudding:
+    material: cookie
+    model: barkan:item/food_lib/cr_figgy_pudding   # 글룸고드 파이
+  barkan:dish_cr_dragon_egg_omelette:
+    material: cookie
+    model: barkan:item/food_lib/cr_dragon_egg_omelette   # 근원열매 파이
+  barkan:dish_cr_transcendental_breakfast:
+    material: cookie
+    model: barkan:item/food_lib/cr_transcendental_breakfast   # 바르칸 대연회
+  barkan:dish_cr_cranberry_juice:
+    material: cookie
+    model: barkan:item/food_lib/cr_cranberry_juice   # 체력포션 (소)
+  barkan:dish_cr_grape_juice:
+    material: cookie
+    model: barkan:item/food_lib/cr_grape_juice   # 체력포션 (대)
+  barkan:dish_cr_roe:
+    material: cookie
+    model: barkan:item/food_lib/cr_roe   # 명란 젓갈
+  barkan:dish_cr_pickled_anchovy:
+    material: cookie
+    model: barkan:item/food_lib/cr_pickled_anchovy   # 은빛정어리 젓갈
+  barkan:dish_cr_mooncake:
+    material: cookie
+    model: barkan:item/food_lib/cr_mooncake   # 허니 케이크
+  barkan:dish_cr_fruit_cake:
+    material: cookie
+    model: barkan:item/food_lib/cr_fruit_cake   # 과일 발효 케이크
+  barkan:dish_cr_sauerkraut:
+    material: cookie
+    model: barkan:item/food_lib/cr_sauerkraut   # 청어 젓갈
+  barkan:dish_cr_banana_nut_bread:
+    material: cookie
+    model: barkan:item/food_lib/cr_banana_nut_bread   # 꿀 호두 케이크
+  barkan:dish_cr_beef_wellington:
+    material: cookie
+    model: barkan:item/food_lib/cr_beef_wellington   # 숙성 대연회
+  barkan:dish_cr_mead:
+    material: cookie
+    model: barkan:item/food_lib/cr_mead   # 전설의 발효액
+  barkan:dish_cr_carrot_cake:
+    material: cookie
+    model: barkan:item/food_lib/cr_carrot_cake   # 왕실 케이크
+
+  # ── 2026-09-22 신규 요리 9종 (팩에 이미 있던 food_lib 2D 텍스처 재활용 — 새로 그린 것 없음) ──
+  barkan:dish_cr_steamed_crab:
+    material: cookie
+    model: barkan:item/food_lib/cr_steamed_crab   # 심해의 성찬
+  barkan:dish_fd_steak_and_potatoes:
+    material: cookie
+    model: barkan:item/food_lib/fd_steak_and_potatoes   # 용광로 연회
+  barkan:dish_cr_veggie_salad:
+    material: cookie
+    model: barkan:item/food_lib/cr_veggie_salad   # 여명의 만찬
+  barkan:dish_cr_oatmeal:
+    material: cookie
+    model: barkan:item/food_lib/cr_oatmeal   # 설화 죽
+  barkan:dish_cr_limeade:
+    material: cookie
+    model: barkan:item/food_lib/cr_limeade   # 사막 세이지 차
+  barkan:dish_fd_smoked_ham:
+    material: cookie
+    model: barkan:item/food_lib/fd_smoked_ham   # 늪지 훈연 한 상
+  barkan:dish_cr_apricot_jam:
+    material: cookie
+    model: barkan:item/food_lib/cr_apricot_jam   # 절벽 석청 단지
+  barkan:dish_fd_chicken_soup:
+    material: cookie
+    model: barkan:item/food_lib/fd_chicken_soup   # 백년 산삼탕
+  barkan:dish_fd_cooked_cod_slice:
+    material: cookie
+    model: barkan:item/food_lib/fd_cooked_cod_slice   # 훈제 청어
+  barkan:dish_fd_beef_stew:
+    material: cookie
+    model: barkan:item/food_lib/fd_beef_stew   # 잿불 정찬
