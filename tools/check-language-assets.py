@@ -1,7 +1,9 @@
 """Check generated GUI language assets before packaging, offline and without Java sources."""
 from pathlib import Path
 import hashlib
+import io
 import json
+import zipfile
 
 from PIL import Image
 
@@ -58,6 +60,9 @@ def validate(root):
             for char in row:
                 if char in counts:
                     counts[char] += 1
+        for char in provider.get('advances', {}):
+            if char in counts:
+                counts[char] += 1
     if any(n != 1 for n in counts.values()):
         errors.append('A generated GUI language glyph is defined more than once')
     for relative, checksum in contract['textureSha256'].items():
@@ -76,7 +81,68 @@ def validate(root):
         errors.append('Pinned international font license missing/changed')
     if errors:
         raise ValueError('\n'.join(errors))
-    return {'locales': 9, 'providers': len(actual), 'textures': len(contract['textureSha256'])}
+    menus = validate_baked_menus(root, font)
+    return {'locales': 9, 'providers': len(actual) + menus['providers'],
+            'textures': len(contract['textureSha256']) + menus['textures'], 'bakedMenus': menus['menus']}
+
+
+def validate_baked_menus(root, font):
+    contract = json.loads((root / 'tools/baked-menu-language-contract.json').read_text())
+    prefixes = {'menu': 'menu3_', 'myinfo': 'myinfo3_', 'shop': 'shop3_', 'smithy': 'smithy_'}
+    expected = {p['file']: p for p in contract['providers']}
+    actual = {p.get('file'): p for p in font['providers'] if any(
+        p.get('file', '').startswith('barkan:gui/' + prefix + 'i18n_') for prefix in prefixes.values())}
+    errors = []
+    if actual != expected or len(actual) != 246:
+        errors.append('Baked menu language providers differ from their reviewed native contract')
+    used = {}
+    for p in font['providers']:
+        for line in p.get('chars', []):
+            for ch in line:
+                used[ch] = used.get(ch, 0) + 1
+        for ch in p.get('advances', {}):
+            used[ch] = used.get(ch, 0) + 1
+    if any(used.get(ch) != 1 for p in expected.values() for line in p['chars'] for ch in line):
+        errors.append('Baked menu language glyph collision')
+    for name, prefix in prefixes.items():
+        proof = contract['plates'][name]
+        if proof['outsideLabelRegionsChangedPixels'] != 0 or proof['nativeSize'] != [704, 888]:
+            errors.append(name + ': lettering-only geometry proof is incomplete')
+        for kind, actual_prefix in [('korean', prefix), ('neutral', prefix + 'i18n_')]:
+            im = plate(root, actual_prefix)
+            if hashlib.sha256(im.tobytes()).hexdigest() != proof[kind + 'RgbaSha256']:
+                errors.append(name + '/' + kind + ': native background changed')
+    for relative, checksum in contract['textureSha256'].items():
+        path = root / relative
+        if not path.is_file() or hashlib.sha256(path.read_bytes()).hexdigest() != checksum:
+            errors.append('Changed/missing baked menu texture: ' + relative)
+            continue
+        with Image.open(path) as im:
+            if max(im.size) > 256:
+                errors.append('Baked menu texture exceeds atlas limit: ' + relative)
+    if errors:
+        raise ValueError('\n'.join(errors))
+    return {'menus': 4, 'providers': len(actual), 'textures': len(contract['textureSha256'])}
+
+
+def validate_delivered_labels(root, zip_path):
+    """Lossless ZIP rewriting may change PNG bytes; labels must keep their pixels/metrics."""
+    root = Path(root)
+    with zipfile.ZipFile(zip_path) as archive:
+        packed_font = json.loads(archive.read('assets/barkan/font/gui.json'))
+        files = {p.get('file'): p for p in packed_font['providers']}
+        checked = 0
+        for name in ('guild-language-art-contract.json', 'baked-menu-language-contract.json'):
+            contract = json.loads((root / 'tools' / name).read_text())
+            for provider in contract['providers']:
+                if files.get(provider['file']) != provider:
+                    raise ValueError('Delivered language bitmap metrics changed: ' + provider['file'])
+            for relative in contract['textureSha256']:
+                with Image.open(root / relative) as original, Image.open(io.BytesIO(archive.read(relative))) as delivered:
+                    if original.size != delivered.size or original.convert('RGBA').tobytes() != delivered.convert('RGBA').tobytes():
+                        raise ValueError('Delivered language artwork changed: ' + relative)
+                checked += 1
+    return {'deliveredLanguageTextures': checked}
 
 
 if __name__ == '__main__':

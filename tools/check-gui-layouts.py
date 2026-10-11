@@ -104,7 +104,7 @@ def validate(root, zip_path=None):
             sources = {}
             for path in sorted((java_root / 'src/main/java').rglob('*.java')):
                 code = path.read_text()
-                if re.search(r'\bcreateInventory\s*\(', code) or path.name in ('Plates.java', 'GuiTitle.java', 'GuildMenuArt.java', 'GuiFrame.java'):
+                if re.search(r'\bcreateInventory\s*\(', code) or path.name in ('Plates.java', 'GuiTitle.java', 'GuildMenuArt.java', 'BakedMenuArt.java', 'GuiFrame.java'):
                     sources[str(path.relative_to(java_root))] = sha(path.read_bytes())
             if sources != contract['javaGuiSources']:
                 raise ValueError('Java GUI code changed: compare the new buttons/window sizes and refresh the native layout audit')

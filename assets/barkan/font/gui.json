@@ -6958,6 +6958,2220 @@
       "chars": [
         ""
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_r0c0.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_r0c1.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_r0c2.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_r1c0.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_r1c1.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_r1c2.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_r2c0.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_r2c1.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_r2c2.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_r3c0.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_r3c1.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_r3c2.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_en_0.png",
+      "ascent": -1,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_en_1.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_en_2.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_en_3.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_en_4.png",
+      "ascent": -82,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_en_5.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_en_6.png",
+      "ascent": -82,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_ja_0.png",
+      "ascent": 0,
+      "height": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_ja_1.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_ja_2.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_ja_3.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_ja_4.png",
+      "ascent": -82,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_ja_5.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_ja_6.png",
+      "ascent": -82,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_zh-CN_0.png",
+      "ascent": 1,
+      "height": 12,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_zh-CN_1.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_zh-CN_2.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_zh-CN_3.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_zh-CN_4.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_zh-CN_5.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_zh-CN_6.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_zh-TW_0.png",
+      "ascent": 1,
+      "height": 12,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_zh-TW_1.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_zh-TW_2.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_zh-TW_3.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_zh-TW_4.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_zh-TW_5.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_zh-TW_6.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_es_0.png",
+      "ascent": 1,
+      "height": 12,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_es_1.png",
+      "ascent": -47,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_es_2.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_es_3.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_es_4.png",
+      "ascent": -82,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_es_5.png",
+      "ascent": -82,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_es_6.png",
+      "ascent": -83,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_pt-BR_0.png",
+      "ascent": -1,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_pt-BR_1.png",
+      "ascent": -47,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_pt-BR_2.png",
+      "ascent": -44,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_pt-BR_3.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_pt-BR_4.png",
+      "ascent": -83,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_pt-BR_5.png",
+      "ascent": -82,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_pt-BR_6.png",
+      "ascent": -82,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_de_0.png",
+      "ascent": 0,
+      "height": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_de_1.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_de_2.png",
+      "ascent": -48,
+      "height": 6,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_de_3.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_de_4.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_de_5.png",
+      "ascent": -82,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_de_6.png",
+      "ascent": -82,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_fr_0.png",
+      "ascent": -1,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_fr_1.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_fr_2.png",
+      "ascent": -47,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_fr_3.png",
+      "ascent": -44,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_fr_4.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_fr_5.png",
+      "ascent": -82,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_fr_6.png",
+      "ascent": -82,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_ru_0.png",
+      "ascent": -1,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_ru_1.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_ru_2.png",
+      "ascent": -47,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_ru_3.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_ru_4.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_ru_5.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_ru_6.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_r0c0.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_r0c1.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_r0c2.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_r1c0.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_r1c1.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_r1c2.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_r2c0.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_r2c1.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_r2c2.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_r3c0.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_r3c1.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_r3c2.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_en_0.png",
+      "ascent": 2,
+      "height": 13,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_en_1.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_en_2.png",
+      "ascent": -47,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_en_3.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_en_4.png",
+      "ascent": -83,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_en_5.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_en_6.png",
+      "ascent": -83,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_ja_0.png",
+      "ascent": 1,
+      "height": 12,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_ja_1.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_ja_2.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_ja_3.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_ja_4.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_ja_5.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_ja_6.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_zh-CN_0.png",
+      "ascent": 2,
+      "height": 13,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_zh-CN_1.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_zh-CN_2.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_zh-CN_3.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_zh-CN_4.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_zh-CN_5.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_zh-CN_6.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_zh-TW_0.png",
+      "ascent": 1,
+      "height": 12,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_zh-TW_1.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_zh-TW_2.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_zh-TW_3.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_zh-TW_4.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_zh-TW_5.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_zh-TW_6.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_es_0.png",
+      "ascent": -1,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_es_1.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_es_2.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_es_3.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_es_4.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_es_5.png",
+      "ascent": -82,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_es_6.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_pt-BR_0.png",
+      "ascent": -2,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_pt-BR_1.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_pt-BR_2.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_pt-BR_3.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_pt-BR_4.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_pt-BR_5.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_pt-BR_6.png",
+      "ascent": -80,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_de_0.png",
+      "ascent": 0,
+      "height": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_de_1.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_de_2.png",
+      "ascent": -47,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_de_3.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_de_4.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_de_5.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_de_6.png",
+      "ascent": -82,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_fr_0.png",
+      "ascent": 0,
+      "height": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_fr_1.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_fr_2.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_fr_3.png",
+      "ascent": -47,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_fr_4.png",
+      "ascent": -82,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_fr_5.png",
+      "ascent": -82,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_fr_6.png",
+      "ascent": -80,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_ru_0.png",
+      "ascent": 1,
+      "height": 12,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_ru_1.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_ru_2.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_ru_3.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_ru_4.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_ru_5.png",
+      "ascent": -82,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_ru_6.png",
+      "ascent": -82,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_r0c0.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_r0c1.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_r0c2.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_r1c0.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_r1c1.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_r1c2.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_r2c0.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_r2c1.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_r2c2.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_r3c0.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_r3c1.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_r3c2.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_en_0.png",
+      "ascent": 2,
+      "height": 13,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_en_1.png",
+      "ascent": -80,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_en_2.png",
+      "ascent": -80,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_en_3.png",
+      "ascent": -80,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_ja_0.png",
+      "ascent": 1,
+      "height": 12,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_ja_1.png",
+      "ascent": -82,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_ja_2.png",
+      "ascent": -80,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_ja_3.png",
+      "ascent": -80,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_zh-CN_0.png",
+      "ascent": 1,
+      "height": 12,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_zh-CN_1.png",
+      "ascent": -80,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_zh-CN_2.png",
+      "ascent": -80,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_zh-CN_3.png",
+      "ascent": -80,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_zh-TW_0.png",
+      "ascent": 1,
+      "height": 12,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_zh-TW_1.png",
+      "ascent": -80,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_zh-TW_2.png",
+      "ascent": -80,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_zh-TW_3.png",
+      "ascent": -80,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_es_0.png",
+      "ascent": 0,
+      "height": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_es_1.png",
+      "ascent": -83,
+      "height": 6,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_es_2.png",
+      "ascent": -82,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_es_3.png",
+      "ascent": -82,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_pt-BR_0.png",
+      "ascent": 2,
+      "height": 13,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_pt-BR_1.png",
+      "ascent": -80,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_pt-BR_2.png",
+      "ascent": -80,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_pt-BR_3.png",
+      "ascent": -80,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_de_0.png",
+      "ascent": 0,
+      "height": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_de_1.png",
+      "ascent": -80,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_de_2.png",
+      "ascent": -80,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_de_3.png",
+      "ascent": -82,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_fr_0.png",
+      "ascent": 2,
+      "height": 13,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_fr_1.png",
+      "ascent": -82,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_fr_2.png",
+      "ascent": -80,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_fr_3.png",
+      "ascent": -82,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_ru_0.png",
+      "ascent": -1,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_ru_1.png",
+      "ascent": -82,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_ru_2.png",
+      "ascent": -82,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_ru_3.png",
+      "ascent": -84,
+      "height": 5,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_r0c0.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_r0c1.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_r0c2.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_r1c0.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_r1c1.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_r1c2.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_r2c0.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_r2c1.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_r2c2.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_r3c0.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_r3c1.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_r3c2.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_en_0.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_en_1.png",
+      "ascent": -48,
+      "height": 6,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_en_2.png",
+      "ascent": -101,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_en_3.png",
+      "ascent": -99,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_ja_0.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_ja_1.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_ja_2.png",
+      "ascent": -99,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_ja_3.png",
+      "ascent": -99,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_zh-CN_0.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_zh-CN_1.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_zh-CN_2.png",
+      "ascent": -99,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_zh-CN_3.png",
+      "ascent": -99,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_zh-TW_0.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_zh-TW_1.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_zh-TW_2.png",
+      "ascent": -99,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_zh-TW_3.png",
+      "ascent": -99,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_es_0.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_es_1.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_es_2.png",
+      "ascent": -101,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_es_3.png",
+      "ascent": -101,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_pt-BR_0.png",
+      "ascent": -48,
+      "height": 6,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_pt-BR_1.png",
+      "ascent": -47,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_pt-BR_2.png",
+      "ascent": -101,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_pt-BR_3.png",
+      "ascent": -101,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_de_0.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_de_1.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_de_2.png",
+      "ascent": -99,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_de_3.png",
+      "ascent": -102,
+      "height": 6,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_fr_0.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_fr_1.png",
+      "ascent": -48,
+      "height": 6,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_fr_2.png",
+      "ascent": -101,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_fr_3.png",
+      "ascent": -101,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_ru_0.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_ru_1.png",
+      "ascent": -48,
+      "height": 6,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_ru_2.png",
+      "ascent": -100,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_ru_3.png",
+      "ascent": -102,
+      "height": 6,
+      "chars": [
+        ""
+      ]
     }
   ]
 }

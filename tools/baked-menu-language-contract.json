@@ -1,0 +1,2693 @@
+{
+  "schemaVersion": 1,
+  "plates": {
+    "menu": {
+      "nativeSize": [
+        704,
+        888
+      ],
+      "sourceSha256": "85f655537a1ab27e78f267d8e1700eb0da2c5349e46c945440e197fdeb6d2d2a",
+      "koreanRgbaSha256": "3848b95dfc25c24e7afe5e6cb9c2a12e86799d19bb04513d44be951c6a3c923b",
+      "neutralRgbaSha256": "5b6cc50451b570acd36ff34561b12baf9eb96d05b657390f8fb0a2ca9eb4e6ae",
+      "labelRegions": [
+        [
+          180,
+          44,
+          524,
+          96
+        ],
+        [
+          36,
+          227,
+          235,
+          273
+        ],
+        [
+          252,
+          227,
+          451,
+          273
+        ],
+        [
+          468,
+          227,
+          667,
+          273
+        ],
+        [
+          36,
+          371,
+          235,
+          417
+        ],
+        [
+          252,
+          371,
+          451,
+          417
+        ],
+        [
+          468,
+          371,
+          667,
+          417
+        ]
+      ],
+      "outsideLabelRegionsChangedPixels": 0,
+      "changedLetterPixels": 18529,
+      "inputs": {
+        "/Users/user/Library/Application Support/feather/player-server/servers/07de2d81-991a-47e2-b62d-06c0d1b5150a/plugins/Skript/scripts/gui-forge/src/menu/bg_source.png": "85f655537a1ab27e78f267d8e1700eb0da2c5349e46c945440e197fdeb6d2d2a",
+        "/Users/user/Library/Application Support/feather/player-server/servers/07de2d81-991a-47e2-b62d-06c0d1b5150a/plugins/Skript/scripts/gui-forge/src/common6/bg_source.png": "f4451737ed33d6dcc10def0f79df7c196f8c5b32d4048e8f8d068d4b74ebd282",
+        "/Users/user/development/barkan-resourcepack/assets/barkan/font/aggro_bold.ttf": "6c2d664601dc6684676329577c7dd28fb6295fd488f97220b245ca72b82fc14e",
+        "/Users/user/Library/Application Support/feather/player-server/servers/07de2d81-991a-47e2-b62d-06c0d1b5150a/plugins/Skript/scripts/gui-forge/src/hub_icons/profile_card.png": "e5a03f577c2bce3d5fc5a445605f166c09d877e3e2fb26eb9e87bc0c0263d855",
+        "/Users/user/Library/Application Support/feather/player-server/servers/07de2d81-991a-47e2-b62d-06c0d1b5150a/plugins/Skript/scripts/gui-forge/src/hub_icons/level.png": "c0fb2f1c1c320447f3d812d500f98d13fc99e1034289c2fdb2a72ed54b44d832",
+        "/Users/user/Library/Application Support/feather/player-server/servers/07de2d81-991a-47e2-b62d-06c0d1b5150a/plugins/Skript/scripts/gui-forge/src/hub_icons/equipment.png": "478471840e1611684a4dbfc30feed7762c5238c54622de7cc8d58b31642667e5",
+        "/Users/user/development/barkan-resourcepack/assets/minecraft/textures/item/barkan_icon/ui_gui_quest.png": "772552ef28fb3c16c896d9cf580d412bb5b595ae579400fd364952fdfdbc530b",
+        "/Users/user/Library/Application Support/feather/player-server/servers/07de2d81-991a-47e2-b62d-06c0d1b5150a/plugins/Skript/scripts/gui-forge/src/hub_icons/island.png": "e686178e6a47d09438d06e6aacb6f030340bc473dd6a56ad82fe617861d6ce7b",
+        "/Users/user/development/barkan-resourcepack/assets/minecraft/textures/item/barkan_icon/ui_gui_guild.png": "19bd3c1a7e71cb67ee72af1fcd4b4360b59c2386da0bbb0cda98f9650a8339fc"
+      }
+    },
+    "myinfo": {
+      "nativeSize": [
+        704,
+        888
+      ],
+      "sourceSha256": "87729d4cff7588c9993369ce6db0a596b791e625d68d70b27f28302c56b1a94b",
+      "koreanRgbaSha256": "3f975679435dff50c7b23ee9caef6fce8bcda38a2f617a2b0f7ee0e0ff56e16b",
+      "neutralRgbaSha256": "d04885c9ce6baf3a00cd34a501d92011285611f07fa74c3ae7f515f173866e50",
+      "labelRegions": [
+        [
+          180,
+          44,
+          524,
+          96
+        ],
+        [
+          36,
+          227,
+          235,
+          273
+        ],
+        [
+          252,
+          227,
+          451,
+          273
+        ],
+        [
+          468,
+          227,
+          667,
+          273
+        ],
+        [
+          36,
+          371,
+          235,
+          417
+        ],
+        [
+          252,
+          371,
+          451,
+          417
+        ],
+        [
+          468,
+          371,
+          667,
+          417
+        ]
+      ],
+      "outsideLabelRegionsChangedPixels": 0,
+      "changedLetterPixels": 18511,
+      "inputs": {
+        "/Users/user/Library/Application Support/feather/player-server/servers/07de2d81-991a-47e2-b62d-06c0d1b5150a/plugins/Skript/scripts/gui-forge/src/myinfo/bg_source.png": "87729d4cff7588c9993369ce6db0a596b791e625d68d70b27f28302c56b1a94b",
+        "/Users/user/Library/Application Support/feather/player-server/servers/07de2d81-991a-47e2-b62d-06c0d1b5150a/plugins/Skript/scripts/gui-forge/src/common6/bg_source.png": "f4451737ed33d6dcc10def0f79df7c196f8c5b32d4048e8f8d068d4b74ebd282",
+        "/Users/user/development/barkan-resourcepack/assets/barkan/font/aggro_bold.ttf": "6c2d664601dc6684676329577c7dd28fb6295fd488f97220b245ca72b82fc14e",
+        "/Users/user/Library/Application Support/feather/player-server/servers/07de2d81-991a-47e2-b62d-06c0d1b5150a/plugins/Skript/scripts/gui-forge/src/hub_icons/profile_card.png": "e5a03f577c2bce3d5fc5a445605f166c09d877e3e2fb26eb9e87bc0c0263d855",
+        "/Users/user/Library/Application Support/feather/player-server/servers/07de2d81-991a-47e2-b62d-06c0d1b5150a/plugins/Skript/scripts/gui-forge/src/hub_icons/stats.png": "5d7cfd49bff763a66833d373d14a90ba83fae3f7f8e761025f5a3192007e7028",
+        "/Users/user/Library/Application Support/feather/player-server/servers/07de2d81-991a-47e2-b62d-06c0d1b5150a/plugins/Skript/scripts/gui-forge/src/hub_icons/title.png": "5b1c6556f0596afef00fc71572ebae9e2267c1be1601f79e04332309aeee2a7d",
+        "/Users/user/Library/Application Support/feather/player-server/servers/07de2d81-991a-47e2-b62d-06c0d1b5150a/plugins/Skript/scripts/gui-forge/src/hub_icons/achievement.png": "09e8700bc0aa0c9b8f40e1d2907b468e1071c749b97d35416f831db2c78ca72a",
+        "/Users/user/Library/Application Support/feather/player-server/servers/07de2d81-991a-47e2-b62d-06c0d1b5150a/plugins/Skript/scripts/gui-forge/src/hub_icons/ranking_simple.png": "05a3bacf2aad0c397ee7b7ae499e7b9d9c57b4430e92654fa2deb3c00906de1a",
+        "/Users/user/development/barkan-resourcepack/assets/minecraft/textures/item/barkan_icon/ui_menu_dex.png": "c9ffb74d1e25b5fb5e1dc8b3bbe1d00f29ff8d0a162e6c7459e6b0f45e10db23"
+      }
+    },
+    "shop": {
+      "nativeSize": [
+        704,
+        888
+      ],
+      "sourceSha256": "1fd5c039efe433975b9a6df6577fe921927734d41490d27cbd39203a1e17aa17",
+      "koreanRgbaSha256": "cadc890ae3170cd95be594554a85840e135aafd437b36a8a27abaa4e06f02fa6",
+      "neutralRgbaSha256": "b7996dbb38d120f84cc5b9c2914dafcf25539b13b7c180fa094934393ad6bfb1",
+      "labelRegions": [
+        [
+          180,
+          44,
+          524,
+          96
+        ],
+        [
+          36,
+          371,
+          235,
+          417
+        ],
+        [
+          252,
+          371,
+          451,
+          417
+        ],
+        [
+          468,
+          371,
+          667,
+          417
+        ]
+      ],
+      "outsideLabelRegionsChangedPixels": 0,
+      "changedLetterPixels": 14913,
+      "inputs": {
+        "/Users/user/Library/Application Support/feather/player-server/servers/07de2d81-991a-47e2-b62d-06c0d1b5150a/plugins/Skript/scripts/gui-forge/src/shop/bg_source.png": "1fd5c039efe433975b9a6df6577fe921927734d41490d27cbd39203a1e17aa17",
+        "/Users/user/Library/Application Support/feather/player-server/servers/07de2d81-991a-47e2-b62d-06c0d1b5150a/plugins/Skript/scripts/gui-forge/src/common6/bg_source.png": "f4451737ed33d6dcc10def0f79df7c196f8c5b32d4048e8f8d068d4b74ebd282",
+        "/Users/user/development/barkan-resourcepack/assets/barkan/font/aggro_bold.ttf": "6c2d664601dc6684676329577c7dd28fb6295fd488f97220b245ca72b82fc14e",
+        "/Users/user/Library/Application Support/feather/player-server/servers/07de2d81-991a-47e2-b62d-06c0d1b5150a/plugins/Skript/scripts/gui-forge/src/hub_icons/cash_shop.png": "0f8de546c96eaa3b39687f29505a091fd987533671fbeb13ff2b702f747b51e4",
+        "/Users/user/Library/Application Support/feather/player-server/servers/07de2d81-991a-47e2-b62d-06c0d1b5150a/plugins/Skript/scripts/gui-forge/src/hub_icons/idle.png": "162e10612dc86807f3478416509d43e71331117ad6d2718d96977d87bb69f907",
+        "/Users/user/development/barkan-resourcepack/assets/minecraft/textures/item/barkan_icon/ui_menu_recommend.png": "cfaeb8f7f076f8d038e7f17d56e28ba5812201abd01ffa8d1a7746544a20e6e3"
+      }
+    },
+    "smithy": {
+      "nativeSize": [
+        704,
+        888
+      ],
+      "sourceSha256": "a794327e494dbb286973804fe96e56dd7dc202b10e53cdea1ac054960fd3f9b0",
+      "koreanRgbaSha256": "74af9afc2b08aabc3f3901f118d0d7be19f752538f2812990725f8f3923123fb",
+      "neutralRgbaSha256": "9b57656d6463d1c90b019f7a77db33c42aa1b0d26b6effd71947a39efcf5b817",
+      "labelRegions": [
+        [
+          110,
+          226,
+          308,
+          274
+        ],
+        [
+          398,
+          226,
+          596,
+          274
+        ],
+        [
+          110,
+          442,
+          308,
+          490
+        ],
+        [
+          398,
+          442,
+          596,
+          490
+        ]
+      ],
+      "outsideLabelRegionsChangedPixels": 0,
+      "changedLetterPixels": 16141,
+      "inputs": {
+        "/Users/user/Library/Application Support/feather/player-server/servers/07de2d81-991a-47e2-b62d-06c0d1b5150a/plugins/Skript/scripts/gui-forge/src/smithy/bg_fitted.png": "a794327e494dbb286973804fe96e56dd7dc202b10e53cdea1ac054960fd3f9b0",
+        "/Users/user/Library/Application Support/feather/player-server/servers/07de2d81-991a-47e2-b62d-06c0d1b5150a/plugins/Skript/scripts/gui-forge/src/smithy/bg_source.png": "165d86844354150d5e5ad21950d6e19245609a5bcded50d2ceac07b57457e1a4",
+        "/Users/user/Library/Application Support/feather/player-server/servers/07de2d81-991a-47e2-b62d-06c0d1b5150a/plugins/Skript/scripts/gui-forge/src/smithy/bg_text_free_input.png": "5c9dcaca49674ffeeb005821920e6493f5abef35842bc034090bb1c151782d1e",
+        "/Users/user/development/barkan-resourcepack/assets/barkan/font/aggro_bold.ttf": "6c2d664601dc6684676329577c7dd28fb6295fd488f97220b245ca72b82fc14e"
+      }
+    }
+  },
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_r0c0.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_r0c1.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_r0c2.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_r1c0.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_r1c1.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_r1c2.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_r2c0.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_r2c1.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_r2c2.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_r3c0.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_r3c1.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_r3c2.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_en_0.png",
+      "ascent": -1,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_en_1.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_en_2.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_en_3.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_en_4.png",
+      "ascent": -82,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_en_5.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_en_6.png",
+      "ascent": -82,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_ja_0.png",
+      "ascent": 0,
+      "height": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_ja_1.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_ja_2.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_ja_3.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_ja_4.png",
+      "ascent": -82,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_ja_5.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_ja_6.png",
+      "ascent": -82,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_zh-CN_0.png",
+      "ascent": 1,
+      "height": 12,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_zh-CN_1.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_zh-CN_2.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_zh-CN_3.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_zh-CN_4.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_zh-CN_5.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_zh-CN_6.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_zh-TW_0.png",
+      "ascent": 1,
+      "height": 12,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_zh-TW_1.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_zh-TW_2.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_zh-TW_3.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_zh-TW_4.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_zh-TW_5.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_zh-TW_6.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_es_0.png",
+      "ascent": 1,
+      "height": 12,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_es_1.png",
+      "ascent": -47,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_es_2.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_es_3.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_es_4.png",
+      "ascent": -82,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_es_5.png",
+      "ascent": -82,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_es_6.png",
+      "ascent": -83,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_pt-BR_0.png",
+      "ascent": -1,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_pt-BR_1.png",
+      "ascent": -47,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_pt-BR_2.png",
+      "ascent": -44,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_pt-BR_3.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_pt-BR_4.png",
+      "ascent": -83,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_pt-BR_5.png",
+      "ascent": -82,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_pt-BR_6.png",
+      "ascent": -82,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_de_0.png",
+      "ascent": 0,
+      "height": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_de_1.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_de_2.png",
+      "ascent": -48,
+      "height": 6,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_de_3.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_de_4.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_de_5.png",
+      "ascent": -82,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_de_6.png",
+      "ascent": -82,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_fr_0.png",
+      "ascent": -1,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_fr_1.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_fr_2.png",
+      "ascent": -47,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_fr_3.png",
+      "ascent": -44,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_fr_4.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_fr_5.png",
+      "ascent": -82,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_fr_6.png",
+      "ascent": -82,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_ru_0.png",
+      "ascent": -1,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_ru_1.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_ru_2.png",
+      "ascent": -47,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_ru_3.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_ru_4.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_ru_5.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/menu3_i18n_ru_6.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_r0c0.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_r0c1.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_r0c2.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_r1c0.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_r1c1.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_r1c2.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_r2c0.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_r2c1.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_r2c2.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_r3c0.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_r3c1.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_r3c2.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_en_0.png",
+      "ascent": 2,
+      "height": 13,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_en_1.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_en_2.png",
+      "ascent": -47,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_en_3.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_en_4.png",
+      "ascent": -83,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_en_5.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_en_6.png",
+      "ascent": -83,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_ja_0.png",
+      "ascent": 1,
+      "height": 12,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_ja_1.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_ja_2.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_ja_3.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_ja_4.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_ja_5.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_ja_6.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_zh-CN_0.png",
+      "ascent": 2,
+      "height": 13,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_zh-CN_1.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_zh-CN_2.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_zh-CN_3.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_zh-CN_4.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_zh-CN_5.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_zh-CN_6.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_zh-TW_0.png",
+      "ascent": 1,
+      "height": 12,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_zh-TW_1.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_zh-TW_2.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_zh-TW_3.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_zh-TW_4.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_zh-TW_5.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_zh-TW_6.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_es_0.png",
+      "ascent": -1,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_es_1.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_es_2.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_es_3.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_es_4.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_es_5.png",
+      "ascent": -82,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_es_6.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_pt-BR_0.png",
+      "ascent": -2,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_pt-BR_1.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_pt-BR_2.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_pt-BR_3.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_pt-BR_4.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_pt-BR_5.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_pt-BR_6.png",
+      "ascent": -80,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_de_0.png",
+      "ascent": 0,
+      "height": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_de_1.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_de_2.png",
+      "ascent": -47,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_de_3.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_de_4.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_de_5.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_de_6.png",
+      "ascent": -82,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_fr_0.png",
+      "ascent": 0,
+      "height": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_fr_1.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_fr_2.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_fr_3.png",
+      "ascent": -47,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_fr_4.png",
+      "ascent": -82,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_fr_5.png",
+      "ascent": -82,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_fr_6.png",
+      "ascent": -80,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_ru_0.png",
+      "ascent": 1,
+      "height": 12,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_ru_1.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_ru_2.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_ru_3.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_ru_4.png",
+      "ascent": -81,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_ru_5.png",
+      "ascent": -82,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/myinfo3_i18n_ru_6.png",
+      "ascent": -82,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_r0c0.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_r0c1.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_r0c2.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_r1c0.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_r1c1.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_r1c2.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_r2c0.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_r2c1.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_r2c2.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_r3c0.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_r3c1.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_r3c2.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_en_0.png",
+      "ascent": 2,
+      "height": 13,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_en_1.png",
+      "ascent": -80,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_en_2.png",
+      "ascent": -80,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_en_3.png",
+      "ascent": -80,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_ja_0.png",
+      "ascent": 1,
+      "height": 12,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_ja_1.png",
+      "ascent": -82,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_ja_2.png",
+      "ascent": -80,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_ja_3.png",
+      "ascent": -80,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_zh-CN_0.png",
+      "ascent": 1,
+      "height": 12,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_zh-CN_1.png",
+      "ascent": -80,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_zh-CN_2.png",
+      "ascent": -80,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_zh-CN_3.png",
+      "ascent": -80,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_zh-TW_0.png",
+      "ascent": 1,
+      "height": 12,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_zh-TW_1.png",
+      "ascent": -80,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_zh-TW_2.png",
+      "ascent": -80,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_zh-TW_3.png",
+      "ascent": -80,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_es_0.png",
+      "ascent": 0,
+      "height": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_es_1.png",
+      "ascent": -83,
+      "height": 6,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_es_2.png",
+      "ascent": -82,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_es_3.png",
+      "ascent": -82,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_pt-BR_0.png",
+      "ascent": 2,
+      "height": 13,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_pt-BR_1.png",
+      "ascent": -80,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_pt-BR_2.png",
+      "ascent": -80,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_pt-BR_3.png",
+      "ascent": -80,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_de_0.png",
+      "ascent": 0,
+      "height": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_de_1.png",
+      "ascent": -80,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_de_2.png",
+      "ascent": -80,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_de_3.png",
+      "ascent": -82,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_fr_0.png",
+      "ascent": 2,
+      "height": 13,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_fr_1.png",
+      "ascent": -82,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_fr_2.png",
+      "ascent": -80,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_fr_3.png",
+      "ascent": -82,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_ru_0.png",
+      "ascent": -1,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_ru_1.png",
+      "ascent": -82,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_ru_2.png",
+      "ascent": -82,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop3_i18n_ru_3.png",
+      "ascent": -84,
+      "height": 5,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_r0c0.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_r0c1.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_r0c2.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_r1c0.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_r1c1.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_r1c2.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_r2c0.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_r2c1.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_r2c2.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_r3c0.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_r3c1.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_r3c2.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_en_0.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_en_1.png",
+      "ascent": -48,
+      "height": 6,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_en_2.png",
+      "ascent": -101,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_en_3.png",
+      "ascent": -99,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_ja_0.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_ja_1.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_ja_2.png",
+      "ascent": -99,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_ja_3.png",
+      "ascent": -99,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_zh-CN_0.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_zh-CN_1.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_zh-CN_2.png",
+      "ascent": -99,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_zh-CN_3.png",
+      "ascent": -99,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_zh-TW_0.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_zh-TW_1.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_zh-TW_2.png",
+      "ascent": -99,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_zh-TW_3.png",
+      "ascent": -99,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_es_0.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_es_1.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_es_2.png",
+      "ascent": -101,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_es_3.png",
+      "ascent": -101,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_pt-BR_0.png",
+      "ascent": -48,
+      "height": 6,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_pt-BR_1.png",
+      "ascent": -47,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_pt-BR_2.png",
+      "ascent": -101,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_pt-BR_3.png",
+      "ascent": -101,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_de_0.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_de_1.png",
+      "ascent": -46,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_de_2.png",
+      "ascent": -99,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_de_3.png",
+      "ascent": -102,
+      "height": 6,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_fr_0.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_fr_1.png",
+      "ascent": -48,
+      "height": 6,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_fr_2.png",
+      "ascent": -101,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_fr_3.png",
+      "ascent": -101,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_ru_0.png",
+      "ascent": -45,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_ru_1.png",
+      "ascent": -48,
+      "height": 6,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_ru_2.png",
+      "ascent": -100,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/smithy_i18n_ru_3.png",
+      "ascent": -102,
+      "height": 6,
+      "chars": [
+        ""
+      ]
+    }
+  ],
+  "textureSha256": {
+    "assets/barkan/textures/gui/menu3_i18n_r0c0.png": "699111a3dbc309cb1548a7c3809c257a981fc73b35d8a81579b59721aa9dc9dd",
+    "assets/barkan/textures/gui/menu3_i18n_r0c1.png": "aa7d05fbd6053bbf5c022c20b3815c55597811ec6c69021e901df450091e2fac",
+    "assets/barkan/textures/gui/menu3_i18n_r0c2.png": "9f9be96c135180007daeaad3ffee02746508aac15f1ead2c0f5fc7d37eb6aa53",
+    "assets/barkan/textures/gui/menu3_i18n_r1c0.png": "61f99701def6bbee4a7de28088be75a4019d9044f0be3a979e8d335fa3f3cb94",
+    "assets/barkan/textures/gui/menu3_i18n_r1c1.png": "70860716c3f58b3c499a177ee2fbaceeffccc246d54e4cd5ad44851ce27036ea",
+    "assets/barkan/textures/gui/menu3_i18n_r1c2.png": "a9380f27b66a232ec8199e6b1f7d6063821735d6241e31e792025159e1796120",
+    "assets/barkan/textures/gui/menu3_i18n_r2c0.png": "6035df06a6b1df2bcbeb0bc059000b333011219d1876068c02347ba293c9f61d",
+    "assets/barkan/textures/gui/menu3_i18n_r2c1.png": "663fc8900f853c1cd3c54b771ec1a702d31b219d6de2802b699f6fe29c4ee82d",
+    "assets/barkan/textures/gui/menu3_i18n_r2c2.png": "5428ec20693392a1d75d143d6dac0beb8dbd5448e90fcc4995633a8c8aca7bcf",
+    "assets/barkan/textures/gui/menu3_i18n_r3c0.png": "f01fdea740d49c91a06d67fee12070be5012eaa9af1dacf2360aaeb3998a7905",
+    "assets/barkan/textures/gui/menu3_i18n_r3c1.png": "e8b9abeb716a5009518df044eb7de181c03ee90f878dadb868077c3f56cefbbd",
+    "assets/barkan/textures/gui/menu3_i18n_r3c2.png": "d981ef69cebbb3a4c40e44527d75a8adf2cb269505c3a31e0f62f551929fe51b",
+    "assets/barkan/textures/gui/menu3_i18n_en_0.png": "ed27e6a90f05108f0bd5c987f32fc1d662f9572c52ebf6cccc474656edc88cec",
+    "assets/barkan/textures/gui/menu3_i18n_en_1.png": "5a5a39457dba0ad561ba797ed874ec918f5a7daab8a237da550cc71838565854",
+    "assets/barkan/textures/gui/menu3_i18n_en_2.png": "1fe74df11c22dbf3d130940bd4ae06d48d07915f8d80acc6b69d2bd769a403a3",
+    "assets/barkan/textures/gui/menu3_i18n_en_3.png": "ef00eda076fd538ed378cc87b114e20ef0c5a9fe103b2b8a7f6379ba94fb42e8",
+    "assets/barkan/textures/gui/menu3_i18n_en_4.png": "9c57c12022ae7f9aa47294d1c1307e7b899f451ea774382d6ce361d8a9ededba",
+    "assets/barkan/textures/gui/menu3_i18n_en_5.png": "978de8cd530f91bbc56b72cf8917a78645cb1ceef8964bc069fc57ffa8f84c7d",
+    "assets/barkan/textures/gui/menu3_i18n_en_6.png": "ac960b75607db3f04764437ea968c62071a2c51ead4509287cd924ddc85ed4b2",
+    "assets/barkan/textures/gui/menu3_i18n_ja_0.png": "e1d3e3e6095767f2d3bc441d8a9305c2bf01d85997915ca05adbbc4a94a4b44f",
+    "assets/barkan/textures/gui/menu3_i18n_ja_1.png": "b3d41c08c4cb3a4e61462e06e896af5aaa3e760c5370e57b8a9375385044a2e6",
+    "assets/barkan/textures/gui/menu3_i18n_ja_2.png": "76f133b76232109357be308ae90476e5cc62fd99efddc5260fbf5aa119d050e0",
+    "assets/barkan/textures/gui/menu3_i18n_ja_3.png": "24505e20ca18f23e3e9dd1c24a2d73a014706100ecadedb13eb46890d0d0f433",
+    "assets/barkan/textures/gui/menu3_i18n_ja_4.png": "49d7c2f17d2b962f749102ef2b9f21c6eab81191b4800d09eb2043ac7bb7c1f7",
+    "assets/barkan/textures/gui/menu3_i18n_ja_5.png": "ec780c964fb8f6f3e82f9c6043d7adf4892b658bf54b2693977fd15194e91022",
+    "assets/barkan/textures/gui/menu3_i18n_ja_6.png": "4d661941a3d41e4317e510e92b29f152a577809c0c2999d5b89944fa2eb4df33",
+    "assets/barkan/textures/gui/menu3_i18n_zh-CN_0.png": "88fe8ef4db7fcb15c3f02cf8e170029bb6a5c3accf624d837cce08e4db56da73",
+    "assets/barkan/textures/gui/menu3_i18n_zh-CN_1.png": "dff6db78fe677999444aed61c75c7d5534e438b859ca7acfe750b0459a205651",
+    "assets/barkan/textures/gui/menu3_i18n_zh-CN_2.png": "2feb2cf4467134abb1df3fc8b2aacd066e9c2aa7683bbdfbba33489099ddf47c",
+    "assets/barkan/textures/gui/menu3_i18n_zh-CN_3.png": "b7c718c0b5dc0b2bbc673981e0f2f77fce82ca87665eb9b07ead4d50914cc4ac",
+    "assets/barkan/textures/gui/menu3_i18n_zh-CN_4.png": "afd6adf2f6dc9db6f90549e3b398e0579070e41305bd0449c099c81144b444b6",
+    "assets/barkan/textures/gui/menu3_i18n_zh-CN_5.png": "1e1c6bd32ce64141a4c630c4099c43f670e3b7aa58237d0919dad1d8704f7a1e",
+    "assets/barkan/textures/gui/menu3_i18n_zh-CN_6.png": "17dfa9ec3e731beced867b1c2064e05f2f59313577886fbabb49f4a5ad429160",
+    "assets/barkan/textures/gui/menu3_i18n_zh-TW_0.png": "35052152516e03314415aeb6be660f3ccf7e47c76fa5ae6566977492529912eb",
+    "assets/barkan/textures/gui/menu3_i18n_zh-TW_1.png": "0f79692dd4fdf2032f42be45622cb4bad6c47b460236c46d0474dd7de1811019",
+    "assets/barkan/textures/gui/menu3_i18n_zh-TW_2.png": "d4b3829b750bea0b7ce0cfa59e1af501d0a9a174a5e321f28ac7b4a6a62ad9e1",
+    "assets/barkan/textures/gui/menu3_i18n_zh-TW_3.png": "54f01a6eab6ae02a75541b1c48f896117c4688154338d0e1848bb6b4cbae22aa",
+    "assets/barkan/textures/gui/menu3_i18n_zh-TW_4.png": "91ec72dd4062c70fed9d10707b04b94a1fd00b2c58af363e70715fb61931d901",
+    "assets/barkan/textures/gui/menu3_i18n_zh-TW_5.png": "e26d243db98e9ee163bc804cefb999eb4ce097346af22144790a2938920dd1b7",
+    "assets/barkan/textures/gui/menu3_i18n_zh-TW_6.png": "5e2271a0071646edf84085ca26da6e3f865e9621914a037123eefbe0cab5637e",
+    "assets/barkan/textures/gui/menu3_i18n_es_0.png": "1611e7a1b931b030c5fda23a856c1a50e5580046fb6a18a34e48a64951a0577e",
+    "assets/barkan/textures/gui/menu3_i18n_es_1.png": "74133a3f310a1924f91b427c0cc89d2b429c0b55f4f7eb9a3582992153ae526c",
+    "assets/barkan/textures/gui/menu3_i18n_es_2.png": "4eba59dc3490c571986106c5ccfbd162a8b1ec7adf87e67ebc2b83e752e20d13",
+    "assets/barkan/textures/gui/menu3_i18n_es_3.png": "fc9eba5a09d265410575bbcce078564c0eec4b0b1bb0ea7b7c16505dc6f63b6c",
+    "assets/barkan/textures/gui/menu3_i18n_es_4.png": "353f63e84fe6ab697114d67df0d118de68c9a8619f215b7e0cc91b52732f047d",
+    "assets/barkan/textures/gui/menu3_i18n_es_5.png": "52d6cbe0d57f6c23ff1aa996820b64ac64284b4e1137b32dd809383c1517194d",
+    "assets/barkan/textures/gui/menu3_i18n_es_6.png": "8686ca60d34ac17b4d76c08315ee8a0bf0f1a574bb2260fd9f7fecfa8e876efd",
+    "assets/barkan/textures/gui/menu3_i18n_pt-BR_0.png": "ed27e6a90f05108f0bd5c987f32fc1d662f9572c52ebf6cccc474656edc88cec",
+    "assets/barkan/textures/gui/menu3_i18n_pt-BR_1.png": "66f75c76bc72b7d37f318919817a62f291e9fa7f8b3a1d07e25455cc059609d4",
+    "assets/barkan/textures/gui/menu3_i18n_pt-BR_2.png": "b7b1ef7c2697200cf9a4e7034128d24a0b0bfcc80b2d2dea8df743a16a9f30ac",
+    "assets/barkan/textures/gui/menu3_i18n_pt-BR_3.png": "80b0817df2e4dda2526a52ee72aac856f9cc9f39dddc367d094d214b8a683d7f",
+    "assets/barkan/textures/gui/menu3_i18n_pt-BR_4.png": "f95ac76727617de9425854b563e91c9960a664d75963e8346186ad330aea3b10",
+    "assets/barkan/textures/gui/menu3_i18n_pt-BR_5.png": "5f594078e2911d0c812b83ed540894e6e44d73eb5b98916a68b2500e7011d263",
+    "assets/barkan/textures/gui/menu3_i18n_pt-BR_6.png": "cfd73834da1c59effddac75c30a4769e27f8074c24e220a077c6183c10e83b7e",
+    "assets/barkan/textures/gui/menu3_i18n_de_0.png": "1588bbc60e205b050c4b24f1211ef4b2b76ed523c0882fe4b623e2a58a1c4a9d",
+    "assets/barkan/textures/gui/menu3_i18n_de_1.png": "928c9a3dab990ec4b7aea06f5db57c7d49740eaf90c26735a8e5709ccc10b806",
+    "assets/barkan/textures/gui/menu3_i18n_de_2.png": "bdc64fa1526cd9939e55d2e2b88775ed400d9bb1de01d5405a75c0667950e9e2",
+    "assets/barkan/textures/gui/menu3_i18n_de_3.png": "02308f3cf9cb2eff26cdf7ff40d71c143f660aaf19ccfa626bd250d6206a0f36",
+    "assets/barkan/textures/gui/menu3_i18n_de_4.png": "9c161a3af7acadb671b9f1181998352ba7e67bfe15372546a62757d4af4dc6df",
+    "assets/barkan/textures/gui/menu3_i18n_de_5.png": "fdd9c9a88e15aa34a70c3864ead122ebfce6db7b8259e717fd7a4dca58611f34",
+    "assets/barkan/textures/gui/menu3_i18n_de_6.png": "f016593f577847b6a1075ec11eb5016375208d0d9c2b59831c6b6ab59d7645d9",
+    "assets/barkan/textures/gui/menu3_i18n_fr_0.png": "ed27e6a90f05108f0bd5c987f32fc1d662f9572c52ebf6cccc474656edc88cec",
+    "assets/barkan/textures/gui/menu3_i18n_fr_1.png": "e0e533f341aedc864a50876c7dc1d39f29b152517b14c931fdcbaf7c00c9324b",
+    "assets/barkan/textures/gui/menu3_i18n_fr_2.png": "2ff66b06ab1c6c538b9db8cf82eedbf9cd34ca4fd8c87b091849f8b5723fa364",
+    "assets/barkan/textures/gui/menu3_i18n_fr_3.png": "0e9efc9df8c5227e77fb59fc9d8fa351b4c7b8552a664a4933d0729c5ea433e4",
+    "assets/barkan/textures/gui/menu3_i18n_fr_4.png": "a87147d9f1147d2ba145831f5b2fcfc953d56d41ba43371adff9067ac25040fc",
+    "assets/barkan/textures/gui/menu3_i18n_fr_5.png": "87e47d6d8d4d0c1499d8420255eaddf82954ffbe216674c4307d139bac3abcf8",
+    "assets/barkan/textures/gui/menu3_i18n_fr_6.png": "e23b8895896c94f7a50afed629129438d547d5eaf5f4f49e9e45a13ff7d087dc",
+    "assets/barkan/textures/gui/menu3_i18n_ru_0.png": "af80d4651f88728f6af56df15ada7e12cc108bcae0f5ed3ffb1b29908b996bf2",
+    "assets/barkan/textures/gui/menu3_i18n_ru_1.png": "2a9694088ae7789476fa677f00a90d1a5fc64baf95c366d4bab04abb2596f71a",
+    "assets/barkan/textures/gui/menu3_i18n_ru_2.png": "35440329e5df6d2be4c4cecf8bac2e0baade40e96d0ca64ca455ffe19c6816a4",
+    "assets/barkan/textures/gui/menu3_i18n_ru_3.png": "35cf40c325487a9403c8c108b59047afcbd3c417943b0f7d07f12bcef91fe113",
+    "assets/barkan/textures/gui/menu3_i18n_ru_4.png": "061da350a45ecc34b7107368ffd311a90f08a988d6dafe48e82d5f60427c0ac9",
+    "assets/barkan/textures/gui/menu3_i18n_ru_5.png": "a4471490273a9e29a47d90c48abdfb441e16cc36e331c769fd9956aa29301ca8",
+    "assets/barkan/textures/gui/menu3_i18n_ru_6.png": "824656b5b4956164025c3e907d673c438d8be7e3450a6de2db0953e445902b63",
+    "assets/barkan/textures/gui/myinfo3_i18n_r0c0.png": "699111a3dbc309cb1548a7c3809c257a981fc73b35d8a81579b59721aa9dc9dd",
+    "assets/barkan/textures/gui/myinfo3_i18n_r0c1.png": "2f632b7edcabb0460aa196cf1b0840eca70ec84fe7b91e842d052448f247d22e",
+    "assets/barkan/textures/gui/myinfo3_i18n_r0c2.png": "684f56f08b7470f05c372a3d4a3c64e8fc644b86b0d3fc066e9b15f9fde3e858",
+    "assets/barkan/textures/gui/myinfo3_i18n_r1c0.png": "9fa29db1e22df6bf3a7ca11fbe48b64f55dbe399463f25aeab410022415a22c1",
+    "assets/barkan/textures/gui/myinfo3_i18n_r1c1.png": "b4d387c3704ea4563e99006d8c954105b77282dce9af731af4ba7547ef556408",
+    "assets/barkan/textures/gui/myinfo3_i18n_r1c2.png": "147e84970dddf0dee4922bdd95fd12b961311db7acb2f85779e60319780169e2",
+    "assets/barkan/textures/gui/myinfo3_i18n_r2c0.png": "6035df06a6b1df2bcbeb0bc059000b333011219d1876068c02347ba293c9f61d",
+    "assets/barkan/textures/gui/myinfo3_i18n_r2c1.png": "663fc8900f853c1cd3c54b771ec1a702d31b219d6de2802b699f6fe29c4ee82d",
+    "assets/barkan/textures/gui/myinfo3_i18n_r2c2.png": "5428ec20693392a1d75d143d6dac0beb8dbd5448e90fcc4995633a8c8aca7bcf",
+    "assets/barkan/textures/gui/myinfo3_i18n_r3c0.png": "f01fdea740d49c91a06d67fee12070be5012eaa9af1dacf2360aaeb3998a7905",
+    "assets/barkan/textures/gui/myinfo3_i18n_r3c1.png": "e8b9abeb716a5009518df044eb7de181c03ee90f878dadb868077c3f56cefbbd",
+    "assets/barkan/textures/gui/myinfo3_i18n_r3c2.png": "d981ef69cebbb3a4c40e44527d75a8adf2cb269505c3a31e0f62f551929fe51b",
+    "assets/barkan/textures/gui/myinfo3_i18n_en_0.png": "56fc5daa7ff18042a39ffd77e9f42d4f50e07b5dd22bad2ebaee2ec5d8c09238",
+    "assets/barkan/textures/gui/myinfo3_i18n_en_1.png": "373e41e82995078f022eaa83fa6e536593ac9e3510e71de7599fdf358e8f4fa4",
+    "assets/barkan/textures/gui/myinfo3_i18n_en_2.png": "617b3f5f0a93626fa1e73fb0ef8f40cdfe1f9d13ef1cf9234fa79bfeefdd383d",
+    "assets/barkan/textures/gui/myinfo3_i18n_en_3.png": "c28b96f216f7e574c6c689182d20acd49a14420306de69daeb579fa8c41a26eb",
+    "assets/barkan/textures/gui/myinfo3_i18n_en_4.png": "23cdaecdaa5ef1e718333cbc85648b52e24b15d95556e2ee981e96750cee00b9",
+    "assets/barkan/textures/gui/myinfo3_i18n_en_5.png": "b7704db4877701580fd37c8112252726d93a9aee128a71ffd2966ad601f90434",
+    "assets/barkan/textures/gui/myinfo3_i18n_en_6.png": "41953a3a432575dbd4dcf651517f755adfaccf620581436bdbdd79063582b938",
+    "assets/barkan/textures/gui/myinfo3_i18n_ja_0.png": "a84d3e95b85fcaf1ed75695190632e422ecf4ae96cf6a999ec5abefe7d08c576",
+    "assets/barkan/textures/gui/myinfo3_i18n_ja_1.png": "412f567af10e27636fc5ca08df35cc252e0d0b7a654190a7ac0b2e9ae677ba97",
+    "assets/barkan/textures/gui/myinfo3_i18n_ja_2.png": "d712469fefdb324efe177e4768669d1349f9e4f3b8cb914f81031801633928b2",
+    "assets/barkan/textures/gui/myinfo3_i18n_ja_3.png": "5a20defedfc449c6b52ab7105fcb59c50fc07a7a2f9dffcf2031debd0beb1b59",
+    "assets/barkan/textures/gui/myinfo3_i18n_ja_4.png": "568d66a06363ea596a5309a2be436820189ef5e2cad2a3984b349aed8734e2d7",
+    "assets/barkan/textures/gui/myinfo3_i18n_ja_5.png": "ad9b63cd7eabce78bb5f7ca2815536eed077fbdb3799f2f4414940445b1f8153",
+    "assets/barkan/textures/gui/myinfo3_i18n_ja_6.png": "245429c4effddd044d4fadb344bfb51bf3f6530258c5eb0f9fa3254776dcfd86",
+    "assets/barkan/textures/gui/myinfo3_i18n_zh-CN_0.png": "9636365afd96e2302e291055f21c00ad8cabda9333fbb4681b171b3cdbbfe509",
+    "assets/barkan/textures/gui/myinfo3_i18n_zh-CN_1.png": "48227a606845a70d1f1d5b53c69d83cc6d777736a3188905f4659f27916b988a",
+    "assets/barkan/textures/gui/myinfo3_i18n_zh-CN_2.png": "2ddca9ec4d48efa6c54724c0a5663decff3f4f83be96b9e7b70c716f4f90500b",
+    "assets/barkan/textures/gui/myinfo3_i18n_zh-CN_3.png": "855d0c1c08f36aab2bb2a04cfe29bcc18205200aca5b3b869efca443c9c4466a",
+    "assets/barkan/textures/gui/myinfo3_i18n_zh-CN_4.png": "fa6a1bca4e91694ad808462be447b519c4e2c4d4d7ff7ae58662901c8919e1cf",
+    "assets/barkan/textures/gui/myinfo3_i18n_zh-CN_5.png": "2ddd6dbf05c91a617d0f1865564a7d3f98b6f99ca7539ad436a1502389996cd9",
+    "assets/barkan/textures/gui/myinfo3_i18n_zh-CN_6.png": "6a963f1e6813de2a8765ace2817ee18b11b69b6f3ed65afa2e5e952f5d79b734",
+    "assets/barkan/textures/gui/myinfo3_i18n_zh-TW_0.png": "5e379ed3a058da32dbf8c82cf7b46edb067f7d91daa5c60a302f689df65ec62b",
+    "assets/barkan/textures/gui/myinfo3_i18n_zh-TW_1.png": "88832ea1e3e4392b5b0733eaa428eda17fcc352150f0475dac8195a6e24dca9a",
+    "assets/barkan/textures/gui/myinfo3_i18n_zh-TW_2.png": "bf08b515b2b114aaff67303b25942ea168bc46a849bdca3b0899b48ba4074ef8",
+    "assets/barkan/textures/gui/myinfo3_i18n_zh-TW_3.png": "a41485a08ecbd2cea459913785fc6637276c146a4ad7ceb0ca684b493f5d3ee5",
+    "assets/barkan/textures/gui/myinfo3_i18n_zh-TW_4.png": "fa6a1bca4e91694ad808462be447b519c4e2c4d4d7ff7ae58662901c8919e1cf",
+    "assets/barkan/textures/gui/myinfo3_i18n_zh-TW_5.png": "9b2bc2b2f4fb2a93a187eb95bfc2dfd9417afcae57f38eb2be598ff3850e5e80",
+    "assets/barkan/textures/gui/myinfo3_i18n_zh-TW_6.png": "4e265e8f9ed8d51fe59faf5c0f5e3eef0cc6f1be5fc9c6613634a715642c1e11",
+    "assets/barkan/textures/gui/myinfo3_i18n_es_0.png": "a884627858f634870b52b5dd7635a4b469ac803e2874dfa180bf91d61b0ec216",
+    "assets/barkan/textures/gui/myinfo3_i18n_es_1.png": "807d0e9ca4e405ceb57ca7065048707049cef8a55f596505e1efbfc79aca3755",
+    "assets/barkan/textures/gui/myinfo3_i18n_es_2.png": "f0ca41f17fb3a5a281a7d31945ff6d10fea56ea1b306bd9334e88ddfbd8201b5",
+    "assets/barkan/textures/gui/myinfo3_i18n_es_3.png": "fd56560764f4950fa16feae8c056946ec0d8436387bc7e5594fa125bc2ced056",
+    "assets/barkan/textures/gui/myinfo3_i18n_es_4.png": "0f71d544f85010c8feb81337bba27e2114877567b542d6d997954d111d625d74",
+    "assets/barkan/textures/gui/myinfo3_i18n_es_5.png": "222fe461cfd3f709db2ebc9b71c7b8771d33b03ee54dc01a3b04b47cb757a4a6",
+    "assets/barkan/textures/gui/myinfo3_i18n_es_6.png": "59151b02d0ac5477c5b6d35d4dae53836a9c5f2cc21d299488eacce31d93d26e",
+    "assets/barkan/textures/gui/myinfo3_i18n_pt-BR_0.png": "73d61a52c7309edca23c46eb489937c30730c83ec0bcb8e4d6a1c99bd7ff0f27",
+    "assets/barkan/textures/gui/myinfo3_i18n_pt-BR_1.png": "807d0e9ca4e405ceb57ca7065048707049cef8a55f596505e1efbfc79aca3755",
+    "assets/barkan/textures/gui/myinfo3_i18n_pt-BR_2.png": "34fc77e80cd8ae39ffd31f6b096f21b9aaafb3db71b654c244b64c594ffd5c9b",
+    "assets/barkan/textures/gui/myinfo3_i18n_pt-BR_3.png": "fd56560764f4950fa16feae8c056946ec0d8436387bc7e5594fa125bc2ced056",
+    "assets/barkan/textures/gui/myinfo3_i18n_pt-BR_4.png": "f7cb29f05f225dec978fa8a8c507295668fa0238b489f5d9b2d8d53c7740f593",
+    "assets/barkan/textures/gui/myinfo3_i18n_pt-BR_5.png": "167e57926565bf19a904922d112f3e63c0088d48ce3b734fcb01ef25738d42c3",
+    "assets/barkan/textures/gui/myinfo3_i18n_pt-BR_6.png": "e44c3ee1165f2584886f1efc676606c5d9d7b1a3262a2b5b438ea5921c684637",
+    "assets/barkan/textures/gui/myinfo3_i18n_de_0.png": "e70f7bc40f21b3dfdb286e5b43ce47c37af2b5534d0dfa321470f03884f4d72d",
+    "assets/barkan/textures/gui/myinfo3_i18n_de_1.png": "cfeaeed30bec25ca7448a0d0d15b273e4615465d1ab10fd483b8a1eaf131dff1",
+    "assets/barkan/textures/gui/myinfo3_i18n_de_2.png": "fe7b74fd7e7327f6f3d34aa47d6f4ba67df38a477f033489e964a93b60eaca26",
+    "assets/barkan/textures/gui/myinfo3_i18n_de_3.png": "bb9f32989516eb6dda76e88c5bc1bb885f3dc103cbd39b68712d03b7bcbbbf16",
+    "assets/barkan/textures/gui/myinfo3_i18n_de_4.png": "30831a1fb54556d528f7960ca06c62ec9e38bde877bf35e2ed76bd9c9fcfd74f",
+    "assets/barkan/textures/gui/myinfo3_i18n_de_5.png": "c91e5157a396783a5de21ce01a54cf215570952e0130932e44dfd94a57d7e6a0",
+    "assets/barkan/textures/gui/myinfo3_i18n_de_6.png": "6b0f82bcd1b511881e8c10a1a13a33031ff025b8f1a9eb1a0ea53fb6efc56c5c",
+    "assets/barkan/textures/gui/myinfo3_i18n_fr_0.png": "293ff3ac0257cf9f4f82bd33d1a6973fc9ed8e7b8defa556669b997cd8dcdf75",
+    "assets/barkan/textures/gui/myinfo3_i18n_fr_1.png": "cfeaeed30bec25ca7448a0d0d15b273e4615465d1ab10fd483b8a1eaf131dff1",
+    "assets/barkan/textures/gui/myinfo3_i18n_fr_2.png": "9834df56c20dae2aabc549a5c0ffe299ee862eb96505676bf92f690367ce2f42",
+    "assets/barkan/textures/gui/myinfo3_i18n_fr_3.png": "4f443e6c92780e665c0d6a1d200879355a0fc5066362b25ac9287fab3fbe3b63",
+    "assets/barkan/textures/gui/myinfo3_i18n_fr_4.png": "4268b0d345699e5a4c44b7383755b2174d9a02de021147cbfc2a802dd0dc1500",
+    "assets/barkan/textures/gui/myinfo3_i18n_fr_5.png": "fded20cef08f7e7dc1ed480ed5e8d0b2f7a1d78d0d77a171d7b6ea18899039ee",
+    "assets/barkan/textures/gui/myinfo3_i18n_fr_6.png": "d88a5701b6244d601bc13cb6cdc38da3a74d1c077799f33f4dfb701962eecfca",
+    "assets/barkan/textures/gui/myinfo3_i18n_ru_0.png": "a84118c1d60c1c8634e0453772c04fa6ac7a05dfa4a21ed8401697c9f597ccc6",
+    "assets/barkan/textures/gui/myinfo3_i18n_ru_1.png": "06b3602b6b6a26abb38e7d53c1dc3f2357f2576dd2d4b18f35f1707a83f82dad",
+    "assets/barkan/textures/gui/myinfo3_i18n_ru_2.png": "0481bf8d491faef8ec5b6896778850207598d2c4dadc755a0afce69dbfb7a5cd",
+    "assets/barkan/textures/gui/myinfo3_i18n_ru_3.png": "afb2af4654a255023f1e250dbce6e2a7e34fce165c8b01a2782e4d6059eef02c",
+    "assets/barkan/textures/gui/myinfo3_i18n_ru_4.png": "73f07df479b1d207a841782afb37e4975625dbbbbea63ffd7e2f93843185afb9",
+    "assets/barkan/textures/gui/myinfo3_i18n_ru_5.png": "d7787fb5c56388f5a7c54a1d306fb859e7961d59fcb95eb576bd2bf2eb85bbea",
+    "assets/barkan/textures/gui/myinfo3_i18n_ru_6.png": "196ea83cf6c040377fcbc8c8697668f1255da94d7fa70c147fd5a6dbff6a9e31",
+    "assets/barkan/textures/gui/shop3_i18n_r0c0.png": "a6b862d7e588b21c56abeac0c93f30a3786f604b675de1fc9277cbb3d9c551de",
+    "assets/barkan/textures/gui/shop3_i18n_r0c1.png": "17e9a2d25fdbd67d4ea8cf6a55970d50fd87bd49c2c5610e6fabefaf132d23b1",
+    "assets/barkan/textures/gui/shop3_i18n_r0c2.png": "deafd6e9ae246776c398b5ec8843816aba16e12dd4c8deada3f5d93b15ebf709",
+    "assets/barkan/textures/gui/shop3_i18n_r1c0.png": "a859c6f0ddd3f4f75970818647584e302a31d8850196af910c8b0b574283a7ce",
+    "assets/barkan/textures/gui/shop3_i18n_r1c1.png": "70f2b9e052ebd1bb11ee71fa7b47d5c165353022e6f85ee1eef981bd9184e16c",
+    "assets/barkan/textures/gui/shop3_i18n_r1c2.png": "4618d72c06845b7cc08edbe519d728bf7491cd8ec1073be4579ca438bce19bc9",
+    "assets/barkan/textures/gui/shop3_i18n_r2c0.png": "6035df06a6b1df2bcbeb0bc059000b333011219d1876068c02347ba293c9f61d",
+    "assets/barkan/textures/gui/shop3_i18n_r2c1.png": "663fc8900f853c1cd3c54b771ec1a702d31b219d6de2802b699f6fe29c4ee82d",
+    "assets/barkan/textures/gui/shop3_i18n_r2c2.png": "5428ec20693392a1d75d143d6dac0beb8dbd5448e90fcc4995633a8c8aca7bcf",
+    "assets/barkan/textures/gui/shop3_i18n_r3c0.png": "f01fdea740d49c91a06d67fee12070be5012eaa9af1dacf2360aaeb3998a7905",
+    "assets/barkan/textures/gui/shop3_i18n_r3c1.png": "e8b9abeb716a5009518df044eb7de181c03ee90f878dadb868077c3f56cefbbd",
+    "assets/barkan/textures/gui/shop3_i18n_r3c2.png": "d981ef69cebbb3a4c40e44527d75a8adf2cb269505c3a31e0f62f551929fe51b",
+    "assets/barkan/textures/gui/shop3_i18n_en_0.png": "61bfefd3a81d3d6f24b821e0e0b60a0a992d04cac127ba1fe2835d2fefe4b83e",
+    "assets/barkan/textures/gui/shop3_i18n_en_1.png": "c007b7208a1b30b771118af0829a31f1590b972416b571193686147dc35dd438",
+    "assets/barkan/textures/gui/shop3_i18n_en_2.png": "88b00f9cf6a80f41f17aa9b104a3ffd57d0a5e77a41bfc148df8533182879c32",
+    "assets/barkan/textures/gui/shop3_i18n_en_3.png": "774888f05dc8d2d9e5f197313d4e76e43c74ba119f3417ec8f5dce3bdfcf970b",
+    "assets/barkan/textures/gui/shop3_i18n_ja_0.png": "9a05f715555d4c92c06108479b7076cb7761fd8d7a7f2e5c7061093abe58caaa",
+    "assets/barkan/textures/gui/shop3_i18n_ja_1.png": "44f91740a3452746ab852d6a18b9959373b438c3dc69df5093b00f444718682d",
+    "assets/barkan/textures/gui/shop3_i18n_ja_2.png": "eb255484b85d4e9fd37d39a0277f71a667e90ec17285a6b94ecc469cdca097ae",
+    "assets/barkan/textures/gui/shop3_i18n_ja_3.png": "bda6bbfaf4924a389d8ff500efce37f801300b2afb4cc6f5067faeefae77468d",
+    "assets/barkan/textures/gui/shop3_i18n_zh-CN_0.png": "baebef67c92df8ec129cafebc148ee1277a632d308c2823e76dd0ca747c9be53",
+    "assets/barkan/textures/gui/shop3_i18n_zh-CN_1.png": "af87948661eb2dab54f4c9539043d261cbbf25889f1a82502b467800af01aa7b",
+    "assets/barkan/textures/gui/shop3_i18n_zh-CN_2.png": "25d9945bdf848882209c2b1ff631f7b8943d2b43b7f2d1e2185d403732a7e2ea",
+    "assets/barkan/textures/gui/shop3_i18n_zh-CN_3.png": "06e9ccd40e726930e728ae17e9732fe9dea79e39d30e30be7364ae090a801783",
+    "assets/barkan/textures/gui/shop3_i18n_zh-TW_0.png": "2c30ed6db7d998f7a87bfcf1089613f5c47b36a39a4a1c543556c2e1952522b6",
+    "assets/barkan/textures/gui/shop3_i18n_zh-TW_1.png": "0529b52380e77a4a8d2d5c561aba4cec4b26d6f8a5ed2e3b911284bd7778004a",
+    "assets/barkan/textures/gui/shop3_i18n_zh-TW_2.png": "970f35b0852ec9566a69e3bead265347eeb8327fc2374f25ec84bdbe037b2bac",
+    "assets/barkan/textures/gui/shop3_i18n_zh-TW_3.png": "c33e1f9edac8d7112243ae04d1380c216ca5f7194ecf50fd84d51eeda66905c5",
+    "assets/barkan/textures/gui/shop3_i18n_es_0.png": "6e7a5751a08fc09ca024d24073e822d5a5ed15e7ff29d4291d8feb3f350ff851",
+    "assets/barkan/textures/gui/shop3_i18n_es_1.png": "9b91e709c1cc5c45fc19e6d758c51c5397bc12ee8ecf6f47ebd5be2f0bc673f5",
+    "assets/barkan/textures/gui/shop3_i18n_es_2.png": "da6c4c64d1526a1b07f8b61812186924b5f232cb3f9f95f15bebe6a90ce719c7",
+    "assets/barkan/textures/gui/shop3_i18n_es_3.png": "7e4b8ccdcf3355df64af8abc361a555e4bc4993c53ad856d4c3a456a5e889202",
+    "assets/barkan/textures/gui/shop3_i18n_pt-BR_0.png": "2e95d405a92fe3990a846e42dd7de6a773d5a21711d709af28c3deb963d31410",
+    "assets/barkan/textures/gui/shop3_i18n_pt-BR_1.png": "bfcea1d62094e959a66f6a840e6d10f70dda15f2f4d4bcb5826e041872e08ab0",
+    "assets/barkan/textures/gui/shop3_i18n_pt-BR_2.png": "3c1c1d43a46c1c1a87c8e3326b807928a559c30956fa6c1a75bd68e916ac89ac",
+    "assets/barkan/textures/gui/shop3_i18n_pt-BR_3.png": "a6e113dba8a4587b3851d6e20c65d4670cac6459aabc0e924c181124b25f09ec",
+    "assets/barkan/textures/gui/shop3_i18n_de_0.png": "cc956b0fa1acd68475758edcafa89197832130eadab9446f393db341863f94d3",
+    "assets/barkan/textures/gui/shop3_i18n_de_1.png": "30fdf1f5e70886d0affe14fcee7189870d59613a0436d40e4f983d7437553eda",
+    "assets/barkan/textures/gui/shop3_i18n_de_2.png": "015ada59a7f08376486c4df2c6bb0ee38f4ca61ae571042bf7f0d7e849da5064",
+    "assets/barkan/textures/gui/shop3_i18n_de_3.png": "c2dbe2378d9f8bf979d17603ca074b3441845a772815f5dc9ccdce945a78bdea",
+    "assets/barkan/textures/gui/shop3_i18n_fr_0.png": "c68192f129e4a9d80e77f35a11dd6b834eed1d8bc88410e3153505b73b3520cd",
+    "assets/barkan/textures/gui/shop3_i18n_fr_1.png": "c957a3ed7d58f698b86a4ec2d60b20947e16f5638f3456679ce8b5ca1df39237",
+    "assets/barkan/textures/gui/shop3_i18n_fr_2.png": "27cedbb510a524c39eeb5c0a4c2ddc41a43fb5501d4360bebc218a26b2cd875b",
+    "assets/barkan/textures/gui/shop3_i18n_fr_3.png": "3c4f6be34c408f61c063a04ec9077995f683a8ded63a38e740975602e80c0ff4",
+    "assets/barkan/textures/gui/shop3_i18n_ru_0.png": "a1a2b179a50e6a9dc87ded234b729d7a6efae82a3b6162d6c5c666d4d35b3a8a",
+    "assets/barkan/textures/gui/shop3_i18n_ru_1.png": "a1d4c45f189c2ea0aeb04e1a17926b5133e8d6fc4c5fd6f9dcb6c6e30fcbc934",
+    "assets/barkan/textures/gui/shop3_i18n_ru_2.png": "f820d79ba09708cfc303bbd3b3729d990f2f891ea74c63bb3f5e1b373777912b",
+    "assets/barkan/textures/gui/shop3_i18n_ru_3.png": "910a721a3dc1ca50cdf97a79756f324105a8ff971bfcb39e9690f7ea11b89ae4",
+    "assets/barkan/textures/gui/smithy_i18n_r0c0.png": "449a7bd21f749bf792441b02978d94c91b483439b147da7f5fa940c01221fe56",
+    "assets/barkan/textures/gui/smithy_i18n_r0c1.png": "08aea93525e232ae138c1cac0eee0a9a46efd3998b6d018cfaad84d34d1f9482",
+    "assets/barkan/textures/gui/smithy_i18n_r0c2.png": "836c98dccb0dbe69630a5577f8ec7037da89947240a69f01174098740c74ed0c",
+    "assets/barkan/textures/gui/smithy_i18n_r1c0.png": "d40542614ef061c2f0e2a68c85790b1b4d43a0cec9b7416703e507b2b844de17",
+    "assets/barkan/textures/gui/smithy_i18n_r1c1.png": "d2feb46dedf0840fc69d4990b39517e32ed41a4ed94b3b09ff6bf668607d7a93",
+    "assets/barkan/textures/gui/smithy_i18n_r1c2.png": "3bac0ec4e8f2c2cfcac7f513db410ddfd0acab91d39075641c9a452aa1bf18c0",
+    "assets/barkan/textures/gui/smithy_i18n_r2c0.png": "547bd0f5f7b9b3571fc43c9998b3fc1e965d97b3812ed7a14f50f652ac69caab",
+    "assets/barkan/textures/gui/smithy_i18n_r2c1.png": "d36927dccf667d1e197ae557634d6404f0dc5f2b2f0008a11fac85afc51164bf",
+    "assets/barkan/textures/gui/smithy_i18n_r2c2.png": "5026650a7fd44b3bc836fbfe3dc3875ffd3ab1c8560e97ee87aa60c0f734a248",
+    "assets/barkan/textures/gui/smithy_i18n_r3c0.png": "b3920e037a010972c39bce1c6c79c2e8ae1def780dbc103410d0d2ad13bb60d8",
+    "assets/barkan/textures/gui/smithy_i18n_r3c1.png": "2612aa12d30d4808d17597028de9fb53430dab244f100c0ae4812ab662e17837",
+    "assets/barkan/textures/gui/smithy_i18n_r3c2.png": "2c5b026717d7626f1da706a69366e7273c9873541e3c66b09bb297079318183d",
+    "assets/barkan/textures/gui/smithy_i18n_en_0.png": "cd26d25e3896fc63d9aac6707199ce933cc3ea5aeb642385c76a351bcdb2bc12",
+    "assets/barkan/textures/gui/smithy_i18n_en_1.png": "c9b490fd31939ce9e5922ec41cdea9cb4c5954016a5300e449c35af3552e6687",
+    "assets/barkan/textures/gui/smithy_i18n_en_2.png": "0b62873a073bae822e7cd00b0a23f028911bcc1d566b457884154421e3cc67d9",
+    "assets/barkan/textures/gui/smithy_i18n_en_3.png": "2af1134a3a1abf20734f7b0ed6d7cf6fc0131a4970d44a79dd00441a211e1325",
+    "assets/barkan/textures/gui/smithy_i18n_ja_0.png": "80c354436c1c5ff7b8824d18b5cf28fcbd3a26518ce5dedeba0059a4992ab15a",
+    "assets/barkan/textures/gui/smithy_i18n_ja_1.png": "f64f9c73c7c22a56fa252fdccc97060b87b72027c2530f364faf5abeac06e315",
+    "assets/barkan/textures/gui/smithy_i18n_ja_2.png": "16e188cd1eb45f49a217b79ffc2bd57edac869a60c7524fadfdab3753cf3b63a",
+    "assets/barkan/textures/gui/smithy_i18n_ja_3.png": "20fceb2404aab73aa6a2f537a73688af9100ff4a99bf0f98ad0cc6869f3ad06b",
+    "assets/barkan/textures/gui/smithy_i18n_zh-CN_0.png": "78e2af5f588a11e89698566b481a1a9a3260d3b20bdbbc5efcc8946fa1977f95",
+    "assets/barkan/textures/gui/smithy_i18n_zh-CN_1.png": "12de4768ba1b80d46c3f33504c734c4684b58b974a876d0497b4fcb7a106f046",
+    "assets/barkan/textures/gui/smithy_i18n_zh-CN_2.png": "1f2450c35eb6832e3a319ee07cd2f4c042a27adba020597d7f4d3e87bb02f57c",
+    "assets/barkan/textures/gui/smithy_i18n_zh-CN_3.png": "bf896b74e13d7e3400a93ffe272c6418bf41946a3576cba8da2d28d519bad607",
+    "assets/barkan/textures/gui/smithy_i18n_zh-TW_0.png": "78e2af5f588a11e89698566b481a1a9a3260d3b20bdbbc5efcc8946fa1977f95",
+    "assets/barkan/textures/gui/smithy_i18n_zh-TW_1.png": "123bc7b3433549a5603294e2e349a4f37d63ab052aecd01392bc6617ddbbbd6d",
+    "assets/barkan/textures/gui/smithy_i18n_zh-TW_2.png": "a7f4bc5d7351da4d3a0179cc558b9d5dcc27780c98f18e5933ba56b8aa33c38f",
+    "assets/barkan/textures/gui/smithy_i18n_zh-TW_3.png": "8dad15d5cbe1dd23de5bac06445d6666e19721b4ae33642c54d5a80e546944b0",
+    "assets/barkan/textures/gui/smithy_i18n_es_0.png": "d51b065a1eb8dde0ce5945ef76d5058cad29ac6b827d663532b0b20b66000edb",
+    "assets/barkan/textures/gui/smithy_i18n_es_1.png": "59a2dd05d6d2d91c648c0b5b42b4d250fe6030836551874d21572712a9901cc3",
+    "assets/barkan/textures/gui/smithy_i18n_es_2.png": "536495f0e8d006e77cf74144bd08a18ca6e9b8cc33888dc252250e427704c638",
+    "assets/barkan/textures/gui/smithy_i18n_es_3.png": "61310c0613a15636b4de60af6e026be71587c6bb255c1e38bf073bd2910c4fd4",
+    "assets/barkan/textures/gui/smithy_i18n_pt-BR_0.png": "24a45187f27df955e42a1ce4279d32216f243c122e8cb9e639e55721e1be1f6d",
+    "assets/barkan/textures/gui/smithy_i18n_pt-BR_1.png": "0374e0d1bf458c2fd515934c732f151bcdefa68412b7e25b3d53ae607a589cd5",
+    "assets/barkan/textures/gui/smithy_i18n_pt-BR_2.png": "35489d40955907c944ad9828b21cc03ef8f32e1126445148aa0e116a226e14c7",
+    "assets/barkan/textures/gui/smithy_i18n_pt-BR_3.png": "61310c0613a15636b4de60af6e026be71587c6bb255c1e38bf073bd2910c4fd4",
+    "assets/barkan/textures/gui/smithy_i18n_de_0.png": "efebb0b19ee7c6561d64e24eac7f7756f2ee90fede8cc8070fb74e6e9b1ddfd3",
+    "assets/barkan/textures/gui/smithy_i18n_de_1.png": "edbc8df2f1f0e4682b6c108e9ea19f2c86e54c110d8a524582d9d6f23fefd01b",
+    "assets/barkan/textures/gui/smithy_i18n_de_2.png": "fba5472056bb7c79347ca247dc9d71b47f9b42465065a0c92fbb2f4db3e30e9e",
+    "assets/barkan/textures/gui/smithy_i18n_de_3.png": "d63dd0baa3a54791d7f65ae29515d7b27694052c83f93ab45fd37d4b707e455b",
+    "assets/barkan/textures/gui/smithy_i18n_fr_0.png": "82583754c41393c1d8033c1a4b8822276666c2d5e1a34149fc4f53632bad0c53",
+    "assets/barkan/textures/gui/smithy_i18n_fr_1.png": "302d4f0c32490cddbd8cc69e3ca470e1a419c089af240a75447b05c25ac99e9d",
+    "assets/barkan/textures/gui/smithy_i18n_fr_2.png": "fb7acf15d5de292cf97cfc1536f778ef718741fb51b6045f0c5e398d57992c11",
+    "assets/barkan/textures/gui/smithy_i18n_fr_3.png": "b50a56a00726658e97d46813fc159f8f3679c04951a12cd987414c909d29ef9e",
+    "assets/barkan/textures/gui/smithy_i18n_ru_0.png": "37ce8e9199f570b336904284ab173ddaa0a9030aec950d3067c7ebab53964dfa",
+    "assets/barkan/textures/gui/smithy_i18n_ru_1.png": "0395becb7ed3a49907e4da6d9281c64f9cdea219fdc1b09afb09deb6b01e946a",
+    "assets/barkan/textures/gui/smithy_i18n_ru_2.png": "629dcdc10eaf175b4c43256568e88a5ab0cf84eabe614778d7cb67e92e97e631",
+    "assets/barkan/textures/gui/smithy_i18n_ru_3.png": "041e2a5f5f964fc523439319f740f076b35520878a7ede61e421b8d974b701e3"
+  },
+  "javaMetadataSha256": "2d73186fe154e716cd518fb21e1af97ae79cae11865ec8a666944edb06cc45fe",
+  "textureBytes": 3453484,
+  "verification": "Exact native lettering removal; original frames/icons/inventory unchanged. Offline label placement.",
+  "limitation": "Physical Java/Bedrock client rendering still requires QA."
+}
