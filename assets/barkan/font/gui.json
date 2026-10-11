@@ -3537,114 +3537,6 @@
     },
     {
       "type": "bitmap",
-      "file": "barkan:gui/guild_r0c0.png",
-      "ascent": 13,
-      "height": 56,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "barkan:gui/guild_r0c1.png",
-      "ascent": 13,
-      "height": 56,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "barkan:gui/guild_r0c2.png",
-      "ascent": 13,
-      "height": 56,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "barkan:gui/guild_r1c0.png",
-      "ascent": -43,
-      "height": 56,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "barkan:gui/guild_r1c1.png",
-      "ascent": -43,
-      "height": 56,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "barkan:gui/guild_r1c2.png",
-      "ascent": -43,
-      "height": 56,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "barkan:gui/guild_r2c0.png",
-      "ascent": -99,
-      "height": 55,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "barkan:gui/guild_r2c1.png",
-      "ascent": -99,
-      "height": 55,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "barkan:gui/guild_r2c2.png",
-      "ascent": -99,
-      "height": 55,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "barkan:gui/guild_r3c0.png",
-      "ascent": -154,
-      "height": 55,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "barkan:gui/guild_r3c1.png",
-      "ascent": -154,
-      "height": 55,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "barkan:gui/guild_r3c2.png",
-      "ascent": -154,
-      "height": 55,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "barkan:gui/repair_r0c0.png",
       "ascent": 13,
       "height": 42,
@@ -6134,6 +6026,937 @@
       "height": 55,
       "chars": [
         ""
+      ]
+    },
+    {
+      "type": "space",
+      "advances": {
+        "": 1,
+        "": 2,
+        "": 4,
+        "": 8,
+        "": 16,
+        "": 32,
+        "": 64,
+        "": 128
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_r0c0.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_r0c1.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_r0c2.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_r1c0.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_r1c1.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_r1c2.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_r2c0.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_r2c1.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_r2c2.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_r3c0.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_r3c1.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_r3c2.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_en_island.png",
+      "ascent": -43,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_en_upgrade.png",
+      "ascent": -42,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_en_donate.png",
+      "ascent": -44,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_en_members.png",
+      "ascent": -79,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_en_ranking.png",
+      "ascent": -78,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_en_emblem.png",
+      "ascent": -79,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_ja_island.png",
+      "ascent": -42,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_ja_upgrade.png",
+      "ascent": -43,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_ja_donate.png",
+      "ascent": -42,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_ja_members.png",
+      "ascent": -79,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_ja_ranking.png",
+      "ascent": -78,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_ja_emblem.png",
+      "ascent": -78,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_zh-CN_island.png",
+      "ascent": -42,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_zh-CN_upgrade.png",
+      "ascent": -42,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_zh-CN_donate.png",
+      "ascent": -42,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_zh-CN_members.png",
+      "ascent": -78,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_zh-CN_ranking.png",
+      "ascent": -78,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_zh-CN_emblem.png",
+      "ascent": -78,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_zh-TW_island.png",
+      "ascent": -42,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_zh-TW_upgrade.png",
+      "ascent": -42,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_zh-TW_donate.png",
+      "ascent": -42,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_zh-TW_members.png",
+      "ascent": -78,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_zh-TW_ranking.png",
+      "ascent": -78,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_zh-TW_emblem.png",
+      "ascent": -78,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_es_island.png",
+      "ascent": -43,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_es_upgrade.png",
+      "ascent": -42,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_es_donate.png",
+      "ascent": -44,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_es_members.png",
+      "ascent": -79,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_es_ranking.png",
+      "ascent": -79,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_es_emblem.png",
+      "ascent": -79,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_pt-BR_island.png",
+      "ascent": -42,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_pt-BR_upgrade.png",
+      "ascent": -43,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_pt-BR_donate.png",
+      "ascent": -44,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_pt-BR_members.png",
+      "ascent": -79,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_pt-BR_ranking.png",
+      "ascent": -78,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_pt-BR_emblem.png",
+      "ascent": -79,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_de_island.png",
+      "ascent": -43,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_de_upgrade.png",
+      "ascent": -43,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_de_donate.png",
+      "ascent": -42,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_de_members.png",
+      "ascent": -78,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_de_ranking.png",
+      "ascent": -78,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_de_emblem.png",
+      "ascent": -78,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_fr_island.png",
+      "ascent": -41,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_fr_upgrade.png",
+      "ascent": -43,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_fr_donate.png",
+      "ascent": -44,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_fr_members.png",
+      "ascent": -79,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_fr_ranking.png",
+      "ascent": -79,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_fr_emblem.png",
+      "ascent": -79,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_ru_island.png",
+      "ascent": -44,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_ru_upgrade.png",
+      "ascent": -42,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_ru_donate.png",
+      "ascent": -43,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_ru_members.png",
+      "ascent": -80,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_ru_ranking.png",
+      "ascent": -79,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_ru_emblem.png",
+      "ascent": -79,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/common3_r0c0.png",
+      "height": 42,
+      "ascent": 13,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/common3_r0c1.png",
+      "height": 42,
+      "ascent": 13,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/common3_r0c2.png",
+      "height": 42,
+      "ascent": 13,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/common3_r1c0.png",
+      "height": 42,
+      "ascent": -29,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/common3_r1c1.png",
+      "height": 42,
+      "ascent": -29,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/common3_r1c2.png",
+      "height": 42,
+      "ascent": -29,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/common3_r2c0.png",
+      "height": 42,
+      "ascent": -71,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/common3_r2c1.png",
+      "height": 42,
+      "ascent": -71,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/common3_r2c2.png",
+      "height": 42,
+      "ascent": -71,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/common3_r3c0.png",
+      "height": 42,
+      "ascent": -113,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/common3_r3c1.png",
+      "height": 42,
+      "ascent": -113,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/common3_r3c2.png",
+      "height": 42,
+      "ascent": -113,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop5_r0c0.png",
+      "height": 51,
+      "ascent": 13,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop5_r0c1.png",
+      "height": 51,
+      "ascent": 13,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop5_r0c2.png",
+      "height": 51,
+      "ascent": 13,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop5_r1c0.png",
+      "height": 51,
+      "ascent": -38,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop5_r1c1.png",
+      "height": 51,
+      "ascent": -38,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop5_r1c2.png",
+      "height": 51,
+      "ascent": -38,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop5_r2c0.png",
+      "height": 51,
+      "ascent": -89,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop5_r2c1.png",
+      "height": 51,
+      "ascent": -89,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop5_r2c2.png",
+      "height": 51,
+      "ascent": -89,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop5_r3c0.png",
+      "height": 51,
+      "ascent": -140,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop5_r3c1.png",
+      "height": 51,
+      "ascent": -140,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/shop5_r3c2.png",
+      "height": 51,
+      "ascent": -140,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_r0c0.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_r0c1.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_r0c2.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_r1c0.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_r1c1.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_r1c2.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_r2c0.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_r2c1.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_r2c2.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_r3c0.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_r3c1.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_r3c2.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
       ]
     }
   ]

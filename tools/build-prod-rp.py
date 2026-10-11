@@ -19,6 +19,14 @@ EXTRA = Path(os.environ.get("RP_EXTRA") or Path.home() / "development/barkan-rp-
 OUT = Path(os.environ.get("OUT", "/tmp/barkan-resourcepack-slim.zip"))
 JUNK = (".bak", "backup", "_prepad", "pf_reference", ".DS_Store", ".codex-backup")
 
+# Generated bitmap labels and their cursor shifts must stay together. This is
+# called by both the local builder and GitHub Actions before a ZIP is written.
+import runpy
+language_assets = runpy.run_path(str(Path(__file__).with_name("check-language-assets.py")))
+language_assets["validate"](RP)
+gui_layouts = runpy.run_path(str(Path(__file__).with_name("check-gui-layouts.py")))
+gui_layouts["validate"](RP)
+
 # 아이템 텍스처 해상도 상한 (2026-09-03).
 #   대부분의 아이콘은 인벤 슬롯 16px 로만 그려진다 — 거기에 128px 을 실어 보내면
 #   16px 로 축소된 결과가 64px 짜리와 화면상 구분되지 않는데 용량만 4배다.
@@ -294,6 +302,8 @@ with zipfile.ZipFile(OUT, "w", zipfile.ZIP_DEFLATED, compresslevel=9) as z:
         info.external_attr = 0o644 << 16
         z.writestr(info, data)
 
+# Check the delivered bytes after lossless PNG optimization as well.
+gui_layouts["validate"](RP, OUT)
 print(f"entries={len(files)}")
 print(f"hand_textures={len(HAND)} (상한 {HAND_MAX}px)")
 print(f"big_textures={len(BIG)} (128px 유지) · world_textures={len(WORLD)} (원본 유지) · 나머지 아이템 텍스처 상한={SLOT_MAX}px")

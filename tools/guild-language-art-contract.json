@@ -1,0 +1,2074 @@
+{
+  "schemaVersion": 1,
+  "sourceSha256": "b16e31ae3fd3a2570c319a30a5e7971bc121c84f8e3c5158e7e8d730912a0975",
+  "javaMetadataSha256": "e5b7e488c70b614d48123661aeb6c4dff2931fa7d73cc760bdd31a098beaf601",
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_r0c0.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_r0c1.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_r0c2.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_r1c0.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_r1c1.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_r1c2.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_r2c0.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_r2c1.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_r2c2.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_r3c0.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_r3c1.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_r3c2.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_en_island.png",
+      "ascent": -43,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_en_upgrade.png",
+      "ascent": -42,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_en_donate.png",
+      "ascent": -44,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_en_members.png",
+      "ascent": -79,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_en_ranking.png",
+      "ascent": -78,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_en_emblem.png",
+      "ascent": -79,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_ja_island.png",
+      "ascent": -42,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_ja_upgrade.png",
+      "ascent": -43,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_ja_donate.png",
+      "ascent": -42,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_ja_members.png",
+      "ascent": -79,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_ja_ranking.png",
+      "ascent": -78,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_ja_emblem.png",
+      "ascent": -78,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_zh-CN_island.png",
+      "ascent": -42,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_zh-CN_upgrade.png",
+      "ascent": -42,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_zh-CN_donate.png",
+      "ascent": -42,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_zh-CN_members.png",
+      "ascent": -78,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_zh-CN_ranking.png",
+      "ascent": -78,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_zh-CN_emblem.png",
+      "ascent": -78,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_zh-TW_island.png",
+      "ascent": -42,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_zh-TW_upgrade.png",
+      "ascent": -42,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_zh-TW_donate.png",
+      "ascent": -42,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_zh-TW_members.png",
+      "ascent": -78,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_zh-TW_ranking.png",
+      "ascent": -78,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_zh-TW_emblem.png",
+      "ascent": -78,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_es_island.png",
+      "ascent": -43,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_es_upgrade.png",
+      "ascent": -42,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_es_donate.png",
+      "ascent": -44,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_es_members.png",
+      "ascent": -79,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_es_ranking.png",
+      "ascent": -79,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_es_emblem.png",
+      "ascent": -79,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_pt-BR_island.png",
+      "ascent": -42,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_pt-BR_upgrade.png",
+      "ascent": -43,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_pt-BR_donate.png",
+      "ascent": -44,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_pt-BR_members.png",
+      "ascent": -79,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_pt-BR_ranking.png",
+      "ascent": -78,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_pt-BR_emblem.png",
+      "ascent": -79,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_de_island.png",
+      "ascent": -43,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_de_upgrade.png",
+      "ascent": -43,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_de_donate.png",
+      "ascent": -42,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_de_members.png",
+      "ascent": -78,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_de_ranking.png",
+      "ascent": -78,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_de_emblem.png",
+      "ascent": -78,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_fr_island.png",
+      "ascent": -41,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_fr_upgrade.png",
+      "ascent": -43,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_fr_donate.png",
+      "ascent": -44,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_fr_members.png",
+      "ascent": -79,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_fr_ranking.png",
+      "ascent": -79,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_fr_emblem.png",
+      "ascent": -79,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_ru_island.png",
+      "ascent": -44,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_ru_upgrade.png",
+      "ascent": -42,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_ru_donate.png",
+      "ascent": -43,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_ru_members.png",
+      "ascent": -80,
+      "height": 7,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_ru_ranking.png",
+      "ascent": -79,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_i18n_ru_emblem.png",
+      "ascent": -79,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    }
+  ],
+  "koreanProviders": [
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_r0c0.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_r0c1.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_r0c2.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_r1c0.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_r1c1.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_r1c2.png",
+      "ascent": -43,
+      "height": 56,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_r2c0.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_r2c1.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_r2c2.png",
+      "ascent": -99,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_r3c0.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_r3c1.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "barkan:gui/guild_r3c2.png",
+      "ascent": -154,
+      "height": 55,
+      "chars": [
+        ""
+      ]
+    }
+  ],
+  "backgroundLayout": {
+    "schemaVersion": 1,
+    "originalSha256": "94c24a06839cacf92959c62dd122c55f99a3fa7efd8d127ec4196f1ee4a1638a",
+    "editSha256": "9b23d6040bd66875e534e312a15cc52fa2b0d591084d22edfbfcdee184c1b06d",
+    "labelPatchRegions": {
+      "island": [
+        88,
+        226,
+        184,
+        258
+      ],
+      "upgrade": [
+        283,
+        226,
+        421,
+        258
+      ],
+      "donate": [
+        536,
+        226,
+        600,
+        258
+      ],
+      "members": [
+        83,
+        370,
+        189,
+        402
+      ],
+      "ranking": [
+        317,
+        370,
+        387,
+        402
+      ],
+      "emblem": [
+        518,
+        370,
+        618,
+        402
+      ]
+    },
+    "korean": {
+      "nativeSize": [
+        704,
+        888
+      ],
+      "actionFrames": 9,
+      "largeTiles": 6,
+      "inventoryCells": 36,
+      "informationCells": 1,
+      "repairedSlots": [
+        49,
+        50,
+        51
+      ],
+      "outsideApprovedRegionsChangedPixels": 0,
+      "cells": [
+        {
+          "cell": "information/4",
+          "box": [
+            316,
+            68,
+            388,
+            140
+          ],
+          "rgbaSha256": "f1178d1996a4c56bc453d0d9f47ddeb865d3046681a61c0585ca8eaf1b04c7eb",
+          "changed": false
+        },
+        {
+          "cell": "action/45",
+          "box": [
+            28,
+            428,
+            100,
+            500
+          ],
+          "rgbaSha256": "df8eb23ed3b06421420118964a9ae6adc55967179ff165367638402d666bf33c",
+          "changed": false
+        },
+        {
+          "cell": "action/46",
+          "box": [
+            100,
+            428,
+            172,
+            500
+          ],
+          "rgbaSha256": "20213c00065d4ab768b9e4ad95c4064b93a6767745569fb775eb237832fcf415",
+          "changed": false
+        },
+        {
+          "cell": "action/47",
+          "box": [
+            172,
+            428,
+            244,
+            500
+          ],
+          "rgbaSha256": "8905acf367711f8755352ca122d4966a58a53eb76d39a8478613ea420dba6d26",
+          "changed": false
+        },
+        {
+          "cell": "action/48",
+          "box": [
+            244,
+            428,
+            316,
+            500
+          ],
+          "rgbaSha256": "e490de84e67c4d6b1b38f6e551ea532b5348951c1dbc51da8d1588f29e854778",
+          "changed": false
+        },
+        {
+          "cell": "action/49",
+          "box": [
+            316,
+            428,
+            388,
+            500
+          ],
+          "rgbaSha256": "e490de84e67c4d6b1b38f6e551ea532b5348951c1dbc51da8d1588f29e854778",
+          "changed": true
+        },
+        {
+          "cell": "action/50",
+          "box": [
+            388,
+            428,
+            460,
+            500
+          ],
+          "rgbaSha256": "e490de84e67c4d6b1b38f6e551ea532b5348951c1dbc51da8d1588f29e854778",
+          "changed": true
+        },
+        {
+          "cell": "action/51",
+          "box": [
+            460,
+            428,
+            532,
+            500
+          ],
+          "rgbaSha256": "e490de84e67c4d6b1b38f6e551ea532b5348951c1dbc51da8d1588f29e854778",
+          "changed": true
+        },
+        {
+          "cell": "action/52",
+          "box": [
+            532,
+            428,
+            604,
+            500
+          ],
+          "rgbaSha256": "ef4e5ce05ebd7468f18613f6d2dc0af32051235d73228d1bd61f2a19e1d8456c",
+          "changed": false
+        },
+        {
+          "cell": "action/53",
+          "box": [
+            604,
+            428,
+            676,
+            500
+          ],
+          "rgbaSha256": "2ec858514f5aac2f63c6ad1e692ac4b23034b49f78a6d50eb63652802e13a393",
+          "changed": false
+        },
+        {
+          "cell": "tile/0/0",
+          "box": [
+            28,
+            140,
+            244,
+            284
+          ],
+          "rgbaSha256": "3a8ef75397e33b7f061b90286ac8a874734e17dfe7dbc75030d922fe712011bf",
+          "changed": false
+        },
+        {
+          "cell": "tile/0/1",
+          "box": [
+            244,
+            140,
+            460,
+            284
+          ],
+          "rgbaSha256": "eae1dbcf303e7c9f43dfa2f16289084b499f00885822c20aa6faf3baa601d14a",
+          "changed": false
+        },
+        {
+          "cell": "tile/0/2",
+          "box": [
+            460,
+            140,
+            676,
+            284
+          ],
+          "rgbaSha256": "cb45e19d9fb07163fae2263d3ca5f355aa8bdaded9594b6426dbc887667d9a0a",
+          "changed": false
+        },
+        {
+          "cell": "tile/1/0",
+          "box": [
+            28,
+            284,
+            244,
+            428
+          ],
+          "rgbaSha256": "562c417c8e9b30d362bef3b82d1064e8159a244d79e39e238dcb33530ba6fec0",
+          "changed": false
+        },
+        {
+          "cell": "tile/1/1",
+          "box": [
+            244,
+            284,
+            460,
+            428
+          ],
+          "rgbaSha256": "b6658a57008f062b5c20d21fd50df4df095cd2fd7ac73f052c11777b1620bfee",
+          "changed": false
+        },
+        {
+          "cell": "tile/1/2",
+          "box": [
+            460,
+            284,
+            676,
+            428
+          ],
+          "rgbaSha256": "4d30eb95c7598d98f1396997af5a4144733f1516f01c447744fc9381cddb906d",
+          "changed": false
+        },
+        {
+          "cell": "inventory/0/0",
+          "box": [
+            28,
+            552,
+            100,
+            624
+          ],
+          "rgbaSha256": "f59e1bab70cc58e7afe02381d8c49ddd08952aaf3c031d34891b4708a305e21c",
+          "changed": false
+        },
+        {
+          "cell": "inventory/0/1",
+          "box": [
+            100,
+            552,
+            172,
+            624
+          ],
+          "rgbaSha256": "97ed27e13b47a7bac13636935a7ace28d5c0afed8d012602e08ba9701e049629",
+          "changed": false
+        },
+        {
+          "cell": "inventory/0/2",
+          "box": [
+            172,
+            552,
+            244,
+            624
+          ],
+          "rgbaSha256": "efd69e625b04b1dfb66629651155e58d928f82f793ab4b0ba73650eba5bc850c",
+          "changed": false
+        },
+        {
+          "cell": "inventory/0/3",
+          "box": [
+            244,
+            552,
+            316,
+            624
+          ],
+          "rgbaSha256": "314932219511a552834b9b5a9fa1f4ae8287c954c2c670316f56a35cccd8ced7",
+          "changed": false
+        },
+        {
+          "cell": "inventory/0/4",
+          "box": [
+            316,
+            552,
+            388,
+            624
+          ],
+          "rgbaSha256": "d074eeefa54da80a98ec5951d9786e4383019a75eeb2126e23bdb8f8a4e62f2f",
+          "changed": false
+        },
+        {
+          "cell": "inventory/0/5",
+          "box": [
+            388,
+            552,
+            460,
+            624
+          ],
+          "rgbaSha256": "ed4d5c33afe6e540526eab9e57a322d54da7c8037c24708536d7a33dafb64357",
+          "changed": false
+        },
+        {
+          "cell": "inventory/0/6",
+          "box": [
+            460,
+            552,
+            532,
+            624
+          ],
+          "rgbaSha256": "9fbf6b4dadef6275c7ea2c8294809c89bb0669fa88975349d7c38159777d347d",
+          "changed": false
+        },
+        {
+          "cell": "inventory/0/7",
+          "box": [
+            532,
+            552,
+            604,
+            624
+          ],
+          "rgbaSha256": "7a517f11adc0b4c7048c66995fe646ae6007fb8ef860b38a47da273151bd03f6",
+          "changed": false
+        },
+        {
+          "cell": "inventory/0/8",
+          "box": [
+            604,
+            552,
+            676,
+            624
+          ],
+          "rgbaSha256": "8c0887a196bb3c7066292a9ba70d02f35250757c063a5728c4dcdcf3187da75d",
+          "changed": false
+        },
+        {
+          "cell": "inventory/1/0",
+          "box": [
+            28,
+            624,
+            100,
+            696
+          ],
+          "rgbaSha256": "f4c1a03c683cfe7f59bd1b3ecbc86ee7dd147abf995fc8b3ba3515214f98b889",
+          "changed": false
+        },
+        {
+          "cell": "inventory/1/1",
+          "box": [
+            100,
+            624,
+            172,
+            696
+          ],
+          "rgbaSha256": "35682db3d896ad0891e91661e8370221e5bdcadd1a82165779c6c07e4f4ac4ec",
+          "changed": false
+        },
+        {
+          "cell": "inventory/1/2",
+          "box": [
+            172,
+            624,
+            244,
+            696
+          ],
+          "rgbaSha256": "e4f95d37c67c07b0218d300cc8f66a001aa50ae1f91b0015a6013fce0fd52132",
+          "changed": false
+        },
+        {
+          "cell": "inventory/1/3",
+          "box": [
+            244,
+            624,
+            316,
+            696
+          ],
+          "rgbaSha256": "c4273cf513fcb6026865d5e45aaae67209ecb27397587ee3fa030233ba2dc794",
+          "changed": false
+        },
+        {
+          "cell": "inventory/1/4",
+          "box": [
+            316,
+            624,
+            388,
+            696
+          ],
+          "rgbaSha256": "403605bd364b1f06ea20cf4eeee940e1527bf2f8b62165efc9069ca2ecec2853",
+          "changed": false
+        },
+        {
+          "cell": "inventory/1/5",
+          "box": [
+            388,
+            624,
+            460,
+            696
+          ],
+          "rgbaSha256": "9220633afa75d7c5faf248b59ed22ff86c5913429bd4cbf986e737207aa00953",
+          "changed": false
+        },
+        {
+          "cell": "inventory/1/6",
+          "box": [
+            460,
+            624,
+            532,
+            696
+          ],
+          "rgbaSha256": "7a01f748c21a10358dde2ad4b1b1c3d76a262766d7b44a20e9889b010f8b97b4",
+          "changed": false
+        },
+        {
+          "cell": "inventory/1/7",
+          "box": [
+            532,
+            624,
+            604,
+            696
+          ],
+          "rgbaSha256": "300a2b657be5a820c7579225e5beb4e0b309e0eb7cc9dba23f2ef7061279aec0",
+          "changed": false
+        },
+        {
+          "cell": "inventory/1/8",
+          "box": [
+            604,
+            624,
+            676,
+            696
+          ],
+          "rgbaSha256": "486c3f565780ea7e78861ddcab7371a24fc8a02fb5a83735d3bb8f10049baeb7",
+          "changed": false
+        },
+        {
+          "cell": "inventory/2/0",
+          "box": [
+            28,
+            696,
+            100,
+            768
+          ],
+          "rgbaSha256": "a00a64aa779a884f5dfa8e0c8a1bb155676adb097517a42cb09cc7170bdbe554",
+          "changed": false
+        },
+        {
+          "cell": "inventory/2/1",
+          "box": [
+            100,
+            696,
+            172,
+            768
+          ],
+          "rgbaSha256": "14d2c7a2013140c3ca0a5ea5eb92bbd360e21ee99ee49ab4f38b1028f4a10412",
+          "changed": false
+        },
+        {
+          "cell": "inventory/2/2",
+          "box": [
+            172,
+            696,
+            244,
+            768
+          ],
+          "rgbaSha256": "ea112415fb110d8c0fe8107f5296e19c9eadb6062c0c1bb94c42706a367faa63",
+          "changed": false
+        },
+        {
+          "cell": "inventory/2/3",
+          "box": [
+            244,
+            696,
+            316,
+            768
+          ],
+          "rgbaSha256": "b1f8f3b3f538b5452df84eac67d8b64d92287b4e6ddb7ec2f27aa52aeba83d9d",
+          "changed": false
+        },
+        {
+          "cell": "inventory/2/4",
+          "box": [
+            316,
+            696,
+            388,
+            768
+          ],
+          "rgbaSha256": "f2e641a61f5a6531426628b0aef30301fcd553e127e80c9533b89f1fac861c3a",
+          "changed": false
+        },
+        {
+          "cell": "inventory/2/5",
+          "box": [
+            388,
+            696,
+            460,
+            768
+          ],
+          "rgbaSha256": "2ecb049eea41fd6d8ceccbafc851532e51b721d06bdd53d2003d141710e4dbb2",
+          "changed": false
+        },
+        {
+          "cell": "inventory/2/6",
+          "box": [
+            460,
+            696,
+            532,
+            768
+          ],
+          "rgbaSha256": "a4b3b1e8c0ecae515c71d01b51778cda5644deaec0261d747fe1147107bf5d1f",
+          "changed": false
+        },
+        {
+          "cell": "inventory/2/7",
+          "box": [
+            532,
+            696,
+            604,
+            768
+          ],
+          "rgbaSha256": "6701580bd1869b64c9bec07c9ecf91acb48482e72e8dd9ef3f998b902db2787b",
+          "changed": false
+        },
+        {
+          "cell": "inventory/2/8",
+          "box": [
+            604,
+            696,
+            676,
+            768
+          ],
+          "rgbaSha256": "a9d5e1187e9319bd02458379260dfa4a101a12aeb0de39826b518795ecd9ea79",
+          "changed": false
+        },
+        {
+          "cell": "inventory/3/0",
+          "box": [
+            28,
+            784,
+            100,
+            856
+          ],
+          "rgbaSha256": "fb1a7bba2c094a262f215a84c76a6e03524b7029c04f4578a4b19e3a5040aed9",
+          "changed": false
+        },
+        {
+          "cell": "inventory/3/1",
+          "box": [
+            100,
+            784,
+            172,
+            856
+          ],
+          "rgbaSha256": "b3f979e3eca2d45c5ffa39f601998efc59dad21e9e9159a227fa2ac8d630a27e",
+          "changed": false
+        },
+        {
+          "cell": "inventory/3/2",
+          "box": [
+            172,
+            784,
+            244,
+            856
+          ],
+          "rgbaSha256": "c03a103fda86dc912c0d683c5dab1b6ea4b17794f22e05680d3226cb996080c3",
+          "changed": false
+        },
+        {
+          "cell": "inventory/3/3",
+          "box": [
+            244,
+            784,
+            316,
+            856
+          ],
+          "rgbaSha256": "25ed51ed3d9d410767b22f6ada37be1cfa09e14d2e991c02cd1623897b176107",
+          "changed": false
+        },
+        {
+          "cell": "inventory/3/4",
+          "box": [
+            316,
+            784,
+            388,
+            856
+          ],
+          "rgbaSha256": "77f870b78ce66b9e609eaaf88529e0fb52756ad7c8f9dd7ceae335abd9ba0419",
+          "changed": false
+        },
+        {
+          "cell": "inventory/3/5",
+          "box": [
+            388,
+            784,
+            460,
+            856
+          ],
+          "rgbaSha256": "f57e097dba223cb426ccda12d42d9731f649bb117614d42bee0fd21ab9981f3c",
+          "changed": false
+        },
+        {
+          "cell": "inventory/3/6",
+          "box": [
+            460,
+            784,
+            532,
+            856
+          ],
+          "rgbaSha256": "e81069ced16d9a3b52d7ad0c2f23727370134a6d57a455714c94f0d7c94ce7ff",
+          "changed": false
+        },
+        {
+          "cell": "inventory/3/7",
+          "box": [
+            532,
+            784,
+            604,
+            856
+          ],
+          "rgbaSha256": "2269574fc181807000747ade25bfb039ad1d83c88dafd6c070246ce04b9a7adf",
+          "changed": false
+        },
+        {
+          "cell": "inventory/3/8",
+          "box": [
+            604,
+            784,
+            676,
+            856
+          ],
+          "rgbaSha256": "3ed5162f9cd05113217041bbd8a5b100ef8cba531453f3c2a48a215cc437cea0",
+          "changed": false
+        }
+      ],
+      "rgbaSha256": "73204c7dd18d77de9bacf0328aa3f9058d8c028f0a796d274abc757823e7c5d9"
+    },
+    "neutral": {
+      "nativeSize": [
+        704,
+        888
+      ],
+      "actionFrames": 9,
+      "largeTiles": 6,
+      "inventoryCells": 36,
+      "informationCells": 1,
+      "repairedSlots": [
+        49,
+        50,
+        51
+      ],
+      "outsideApprovedRegionsChangedPixels": 0,
+      "cells": [
+        {
+          "cell": "information/4",
+          "box": [
+            316,
+            68,
+            388,
+            140
+          ],
+          "rgbaSha256": "f1178d1996a4c56bc453d0d9f47ddeb865d3046681a61c0585ca8eaf1b04c7eb",
+          "changed": false
+        },
+        {
+          "cell": "action/45",
+          "box": [
+            28,
+            428,
+            100,
+            500
+          ],
+          "rgbaSha256": "df8eb23ed3b06421420118964a9ae6adc55967179ff165367638402d666bf33c",
+          "changed": false
+        },
+        {
+          "cell": "action/46",
+          "box": [
+            100,
+            428,
+            172,
+            500
+          ],
+          "rgbaSha256": "20213c00065d4ab768b9e4ad95c4064b93a6767745569fb775eb237832fcf415",
+          "changed": false
+        },
+        {
+          "cell": "action/47",
+          "box": [
+            172,
+            428,
+            244,
+            500
+          ],
+          "rgbaSha256": "8905acf367711f8755352ca122d4966a58a53eb76d39a8478613ea420dba6d26",
+          "changed": false
+        },
+        {
+          "cell": "action/48",
+          "box": [
+            244,
+            428,
+            316,
+            500
+          ],
+          "rgbaSha256": "e490de84e67c4d6b1b38f6e551ea532b5348951c1dbc51da8d1588f29e854778",
+          "changed": false
+        },
+        {
+          "cell": "action/49",
+          "box": [
+            316,
+            428,
+            388,
+            500
+          ],
+          "rgbaSha256": "e490de84e67c4d6b1b38f6e551ea532b5348951c1dbc51da8d1588f29e854778",
+          "changed": true
+        },
+        {
+          "cell": "action/50",
+          "box": [
+            388,
+            428,
+            460,
+            500
+          ],
+          "rgbaSha256": "e490de84e67c4d6b1b38f6e551ea532b5348951c1dbc51da8d1588f29e854778",
+          "changed": true
+        },
+        {
+          "cell": "action/51",
+          "box": [
+            460,
+            428,
+            532,
+            500
+          ],
+          "rgbaSha256": "e490de84e67c4d6b1b38f6e551ea532b5348951c1dbc51da8d1588f29e854778",
+          "changed": true
+        },
+        {
+          "cell": "action/52",
+          "box": [
+            532,
+            428,
+            604,
+            500
+          ],
+          "rgbaSha256": "ef4e5ce05ebd7468f18613f6d2dc0af32051235d73228d1bd61f2a19e1d8456c",
+          "changed": false
+        },
+        {
+          "cell": "action/53",
+          "box": [
+            604,
+            428,
+            676,
+            500
+          ],
+          "rgbaSha256": "2ec858514f5aac2f63c6ad1e692ac4b23034b49f78a6d50eb63652802e13a393",
+          "changed": false
+        },
+        {
+          "cell": "tile/0/0",
+          "box": [
+            28,
+            140,
+            244,
+            284
+          ],
+          "rgbaSha256": "7a45396bbdb21ccf1ae91b6993ae332c540680157346762ec9d5b9abcff49bfe",
+          "changed": true
+        },
+        {
+          "cell": "tile/0/1",
+          "box": [
+            244,
+            140,
+            460,
+            284
+          ],
+          "rgbaSha256": "73dc72ff9bc1ee932745fa76121a336f0cdc798b6eb04d15d6f037710aa05426",
+          "changed": true
+        },
+        {
+          "cell": "tile/0/2",
+          "box": [
+            460,
+            140,
+            676,
+            284
+          ],
+          "rgbaSha256": "41b05a54c9db6175a76fdad5f95355b2bbec5be2cef56f9f9cb91439f83b0589",
+          "changed": true
+        },
+        {
+          "cell": "tile/1/0",
+          "box": [
+            28,
+            284,
+            244,
+            428
+          ],
+          "rgbaSha256": "539de6e56addad62a11c8393852c982b511b4ba06685b63c1ef6c68f09b9e82b",
+          "changed": true
+        },
+        {
+          "cell": "tile/1/1",
+          "box": [
+            244,
+            284,
+            460,
+            428
+          ],
+          "rgbaSha256": "63176209bdddbe4ee69016e52e3abdf615d7fd45e1c856747ade72a7c8af246d",
+          "changed": true
+        },
+        {
+          "cell": "tile/1/2",
+          "box": [
+            460,
+            284,
+            676,
+            428
+          ],
+          "rgbaSha256": "55627651f4dc67e81378707a464377ef9eeffb6881cba2dc530248b50eec9d2a",
+          "changed": true
+        },
+        {
+          "cell": "inventory/0/0",
+          "box": [
+            28,
+            552,
+            100,
+            624
+          ],
+          "rgbaSha256": "f59e1bab70cc58e7afe02381d8c49ddd08952aaf3c031d34891b4708a305e21c",
+          "changed": false
+        },
+        {
+          "cell": "inventory/0/1",
+          "box": [
+            100,
+            552,
+            172,
+            624
+          ],
+          "rgbaSha256": "97ed27e13b47a7bac13636935a7ace28d5c0afed8d012602e08ba9701e049629",
+          "changed": false
+        },
+        {
+          "cell": "inventory/0/2",
+          "box": [
+            172,
+            552,
+            244,
+            624
+          ],
+          "rgbaSha256": "efd69e625b04b1dfb66629651155e58d928f82f793ab4b0ba73650eba5bc850c",
+          "changed": false
+        },
+        {
+          "cell": "inventory/0/3",
+          "box": [
+            244,
+            552,
+            316,
+            624
+          ],
+          "rgbaSha256": "314932219511a552834b9b5a9fa1f4ae8287c954c2c670316f56a35cccd8ced7",
+          "changed": false
+        },
+        {
+          "cell": "inventory/0/4",
+          "box": [
+            316,
+            552,
+            388,
+            624
+          ],
+          "rgbaSha256": "d074eeefa54da80a98ec5951d9786e4383019a75eeb2126e23bdb8f8a4e62f2f",
+          "changed": false
+        },
+        {
+          "cell": "inventory/0/5",
+          "box": [
+            388,
+            552,
+            460,
+            624
+          ],
+          "rgbaSha256": "ed4d5c33afe6e540526eab9e57a322d54da7c8037c24708536d7a33dafb64357",
+          "changed": false
+        },
+        {
+          "cell": "inventory/0/6",
+          "box": [
+            460,
+            552,
+            532,
+            624
+          ],
+          "rgbaSha256": "9fbf6b4dadef6275c7ea2c8294809c89bb0669fa88975349d7c38159777d347d",
+          "changed": false
+        },
+        {
+          "cell": "inventory/0/7",
+          "box": [
+            532,
+            552,
+            604,
+            624
+          ],
+          "rgbaSha256": "7a517f11adc0b4c7048c66995fe646ae6007fb8ef860b38a47da273151bd03f6",
+          "changed": false
+        },
+        {
+          "cell": "inventory/0/8",
+          "box": [
+            604,
+            552,
+            676,
+            624
+          ],
+          "rgbaSha256": "8c0887a196bb3c7066292a9ba70d02f35250757c063a5728c4dcdcf3187da75d",
+          "changed": false
+        },
+        {
+          "cell": "inventory/1/0",
+          "box": [
+            28,
+            624,
+            100,
+            696
+          ],
+          "rgbaSha256": "f4c1a03c683cfe7f59bd1b3ecbc86ee7dd147abf995fc8b3ba3515214f98b889",
+          "changed": false
+        },
+        {
+          "cell": "inventory/1/1",
+          "box": [
+            100,
+            624,
+            172,
+            696
+          ],
+          "rgbaSha256": "35682db3d896ad0891e91661e8370221e5bdcadd1a82165779c6c07e4f4ac4ec",
+          "changed": false
+        },
+        {
+          "cell": "inventory/1/2",
+          "box": [
+            172,
+            624,
+            244,
+            696
+          ],
+          "rgbaSha256": "e4f95d37c67c07b0218d300cc8f66a001aa50ae1f91b0015a6013fce0fd52132",
+          "changed": false
+        },
+        {
+          "cell": "inventory/1/3",
+          "box": [
+            244,
+            624,
+            316,
+            696
+          ],
+          "rgbaSha256": "c4273cf513fcb6026865d5e45aaae67209ecb27397587ee3fa030233ba2dc794",
+          "changed": false
+        },
+        {
+          "cell": "inventory/1/4",
+          "box": [
+            316,
+            624,
+            388,
+            696
+          ],
+          "rgbaSha256": "403605bd364b1f06ea20cf4eeee940e1527bf2f8b62165efc9069ca2ecec2853",
+          "changed": false
+        },
+        {
+          "cell": "inventory/1/5",
+          "box": [
+            388,
+            624,
+            460,
+            696
+          ],
+          "rgbaSha256": "9220633afa75d7c5faf248b59ed22ff86c5913429bd4cbf986e737207aa00953",
+          "changed": false
+        },
+        {
+          "cell": "inventory/1/6",
+          "box": [
+            460,
+            624,
+            532,
+            696
+          ],
+          "rgbaSha256": "7a01f748c21a10358dde2ad4b1b1c3d76a262766d7b44a20e9889b010f8b97b4",
+          "changed": false
+        },
+        {
+          "cell": "inventory/1/7",
+          "box": [
+            532,
+            624,
+            604,
+            696
+          ],
+          "rgbaSha256": "300a2b657be5a820c7579225e5beb4e0b309e0eb7cc9dba23f2ef7061279aec0",
+          "changed": false
+        },
+        {
+          "cell": "inventory/1/8",
+          "box": [
+            604,
+            624,
+            676,
+            696
+          ],
+          "rgbaSha256": "486c3f565780ea7e78861ddcab7371a24fc8a02fb5a83735d3bb8f10049baeb7",
+          "changed": false
+        },
+        {
+          "cell": "inventory/2/0",
+          "box": [
+            28,
+            696,
+            100,
+            768
+          ],
+          "rgbaSha256": "a00a64aa779a884f5dfa8e0c8a1bb155676adb097517a42cb09cc7170bdbe554",
+          "changed": false
+        },
+        {
+          "cell": "inventory/2/1",
+          "box": [
+            100,
+            696,
+            172,
+            768
+          ],
+          "rgbaSha256": "14d2c7a2013140c3ca0a5ea5eb92bbd360e21ee99ee49ab4f38b1028f4a10412",
+          "changed": false
+        },
+        {
+          "cell": "inventory/2/2",
+          "box": [
+            172,
+            696,
+            244,
+            768
+          ],
+          "rgbaSha256": "ea112415fb110d8c0fe8107f5296e19c9eadb6062c0c1bb94c42706a367faa63",
+          "changed": false
+        },
+        {
+          "cell": "inventory/2/3",
+          "box": [
+            244,
+            696,
+            316,
+            768
+          ],
+          "rgbaSha256": "b1f8f3b3f538b5452df84eac67d8b64d92287b4e6ddb7ec2f27aa52aeba83d9d",
+          "changed": false
+        },
+        {
+          "cell": "inventory/2/4",
+          "box": [
+            316,
+            696,
+            388,
+            768
+          ],
+          "rgbaSha256": "f2e641a61f5a6531426628b0aef30301fcd553e127e80c9533b89f1fac861c3a",
+          "changed": false
+        },
+        {
+          "cell": "inventory/2/5",
+          "box": [
+            388,
+            696,
+            460,
+            768
+          ],
+          "rgbaSha256": "2ecb049eea41fd6d8ceccbafc851532e51b721d06bdd53d2003d141710e4dbb2",
+          "changed": false
+        },
+        {
+          "cell": "inventory/2/6",
+          "box": [
+            460,
+            696,
+            532,
+            768
+          ],
+          "rgbaSha256": "a4b3b1e8c0ecae515c71d01b51778cda5644deaec0261d747fe1147107bf5d1f",
+          "changed": false
+        },
+        {
+          "cell": "inventory/2/7",
+          "box": [
+            532,
+            696,
+            604,
+            768
+          ],
+          "rgbaSha256": "6701580bd1869b64c9bec07c9ecf91acb48482e72e8dd9ef3f998b902db2787b",
+          "changed": false
+        },
+        {
+          "cell": "inventory/2/8",
+          "box": [
+            604,
+            696,
+            676,
+            768
+          ],
+          "rgbaSha256": "a9d5e1187e9319bd02458379260dfa4a101a12aeb0de39826b518795ecd9ea79",
+          "changed": false
+        },
+        {
+          "cell": "inventory/3/0",
+          "box": [
+            28,
+            784,
+            100,
+            856
+          ],
+          "rgbaSha256": "fb1a7bba2c094a262f215a84c76a6e03524b7029c04f4578a4b19e3a5040aed9",
+          "changed": false
+        },
+        {
+          "cell": "inventory/3/1",
+          "box": [
+            100,
+            784,
+            172,
+            856
+          ],
+          "rgbaSha256": "b3f979e3eca2d45c5ffa39f601998efc59dad21e9e9159a227fa2ac8d630a27e",
+          "changed": false
+        },
+        {
+          "cell": "inventory/3/2",
+          "box": [
+            172,
+            784,
+            244,
+            856
+          ],
+          "rgbaSha256": "c03a103fda86dc912c0d683c5dab1b6ea4b17794f22e05680d3226cb996080c3",
+          "changed": false
+        },
+        {
+          "cell": "inventory/3/3",
+          "box": [
+            244,
+            784,
+            316,
+            856
+          ],
+          "rgbaSha256": "25ed51ed3d9d410767b22f6ada37be1cfa09e14d2e991c02cd1623897b176107",
+          "changed": false
+        },
+        {
+          "cell": "inventory/3/4",
+          "box": [
+            316,
+            784,
+            388,
+            856
+          ],
+          "rgbaSha256": "77f870b78ce66b9e609eaaf88529e0fb52756ad7c8f9dd7ceae335abd9ba0419",
+          "changed": false
+        },
+        {
+          "cell": "inventory/3/5",
+          "box": [
+            388,
+            784,
+            460,
+            856
+          ],
+          "rgbaSha256": "f57e097dba223cb426ccda12d42d9731f649bb117614d42bee0fd21ab9981f3c",
+          "changed": false
+        },
+        {
+          "cell": "inventory/3/6",
+          "box": [
+            460,
+            784,
+            532,
+            856
+          ],
+          "rgbaSha256": "e81069ced16d9a3b52d7ad0c2f23727370134a6d57a455714c94f0d7c94ce7ff",
+          "changed": false
+        },
+        {
+          "cell": "inventory/3/7",
+          "box": [
+            532,
+            784,
+            604,
+            856
+          ],
+          "rgbaSha256": "2269574fc181807000747ade25bfb039ad1d83c88dafd6c070246ce04b9a7adf",
+          "changed": false
+        },
+        {
+          "cell": "inventory/3/8",
+          "box": [
+            604,
+            784,
+            676,
+            856
+          ],
+          "rgbaSha256": "3ed5162f9cd05113217041bbd8a5b100ef8cba531453f3c2a48a215cc437cea0",
+          "changed": false
+        }
+      ],
+      "rgbaSha256": "e0c339195f7c8ea3813160a9838542c2f0ab35d9f8d59f08d7e3e18528cf1569"
+    }
+  },
+  "textureSha256": {
+    "assets/barkan/textures/gui/guild_i18n_r0c0.png": "b619a39f2af8398d69a106f6ddbbd2b26bdb320ca794edc1bb6707eb0672f512",
+    "assets/barkan/textures/gui/guild_i18n_r0c1.png": "487178df163ecaf5ee3520093333f526e03af8d80875bd7baa2f4159e112eae3",
+    "assets/barkan/textures/gui/guild_i18n_r0c2.png": "5cba1e8a07f4e282942dd0e5fc586d2eb5f57e8b8c8fd13646cfeeffea5a2cf1",
+    "assets/barkan/textures/gui/guild_i18n_r1c0.png": "dcad5b129faf1ae918c97cd8702f7569e04d7c2e4bb7333f0282e98cde912944",
+    "assets/barkan/textures/gui/guild_i18n_r1c1.png": "386a99e6c54b7612a5fe7e535e02c1440f866880414ba817d31b97b71d675344",
+    "assets/barkan/textures/gui/guild_i18n_r1c2.png": "f6f1a14da5b5b928111d0a9a84ca812b241d4f244c98fe3ed1af1b0683804b1b",
+    "assets/barkan/textures/gui/guild_i18n_r2c0.png": "6c3135d42dd5783e276b552492dde50915b6791eb07825c35ee6dd9098e35784",
+    "assets/barkan/textures/gui/guild_i18n_r2c1.png": "7d12b741e559df3b90cf722423f08237fe77fd803f60945a80d49fe5655a3cf8",
+    "assets/barkan/textures/gui/guild_i18n_r2c2.png": "c529f9ada83e8cdace93a0625d57ed265806ed840a90eed260b6a38f2d6255cd",
+    "assets/barkan/textures/gui/guild_i18n_r3c0.png": "dc7e8a1fc049686bba50261f05fafddc45cec19801ea5d2ef200de1b05960253",
+    "assets/barkan/textures/gui/guild_i18n_r3c1.png": "e9bc66491a5a46fd14c8b344d69da2fa5dd1a52b8baddc7cbcf2d38da61a417d",
+    "assets/barkan/textures/gui/guild_i18n_r3c2.png": "217bbb51f8f399ac024ffb148f344fa763cdc99855df113c03612877ca6c6af7",
+    "assets/barkan/textures/gui/guild_i18n_en_island.png": "d60f7f26fb1db3054464af3eb624d96664c41214990d3c0343a8c402ce1257c3",
+    "assets/barkan/textures/gui/guild_i18n_en_upgrade.png": "5f8170f63c7640d628d4836eddd6eba727ab8263b8cde002ad837fac6cffeb35",
+    "assets/barkan/textures/gui/guild_i18n_en_donate.png": "f5cc4d3c35bce4d97d45b03b41f2129d6dc8cec222de7f636d5d92aea116d9c5",
+    "assets/barkan/textures/gui/guild_i18n_en_members.png": "06ff21d5e8792bd80d51c3360fca555540b45ed2feef4e7177b50f31d1c404bc",
+    "assets/barkan/textures/gui/guild_i18n_en_ranking.png": "782eebc9c704699e442e1ceb0d6a1de87ee5799b49565f72381301c73f6bc2a8",
+    "assets/barkan/textures/gui/guild_i18n_en_emblem.png": "fce8dc0105331d2fa2d26f14c7a42bab74cea91184869e4a0d52e802fa24cf61",
+    "assets/barkan/textures/gui/guild_i18n_ja_island.png": "8c6686ecd56e93305998b8bff6fd1a68f891caa40a7927885521f0b0140e1498",
+    "assets/barkan/textures/gui/guild_i18n_ja_upgrade.png": "2ee611a1f9a0428c91c7325e0c6de70b5c570824715082bb5fcd823698036f63",
+    "assets/barkan/textures/gui/guild_i18n_ja_donate.png": "debe8a21f1b41bce26139aac3d9a174f7dc2ecda789bc58ece1f7dd0fd1d0f5b",
+    "assets/barkan/textures/gui/guild_i18n_ja_members.png": "791539891c05b905c3510b91e867fed6e8ca45d5f74cde8fe6800cc04a38e7a4",
+    "assets/barkan/textures/gui/guild_i18n_ja_ranking.png": "da774848fa426d73a18f80e210cff12bd53599c1db9489956f5d499a671cc1a5",
+    "assets/barkan/textures/gui/guild_i18n_ja_emblem.png": "1d55051285200dcef70dcb2c277dce8f5d12e68bf735f796cc1aa3260b2b21a7",
+    "assets/barkan/textures/gui/guild_i18n_zh-CN_island.png": "76ae1b3426a7a42984612325ffc1cdeace53d0167c6a18e40d7a729644ec2a93",
+    "assets/barkan/textures/gui/guild_i18n_zh-CN_upgrade.png": "d7161656bd6375985416a73cbc34ee8a9b05b1d5685111cf9068b017c8e9d735",
+    "assets/barkan/textures/gui/guild_i18n_zh-CN_donate.png": "fc9ec3e1800232b34267629309d5892f7166e4deb3b06790cc26f06393cea079",
+    "assets/barkan/textures/gui/guild_i18n_zh-CN_members.png": "98acb8612b1fe738e5edb9d833cc1618851b2147d314da39f8c37c1564815e00",
+    "assets/barkan/textures/gui/guild_i18n_zh-CN_ranking.png": "c39d6ae7b4ef49674ab1c07d1191b99b2208c0ca45d81ce9ca175b53276e1e2e",
+    "assets/barkan/textures/gui/guild_i18n_zh-CN_emblem.png": "f0dfd0c9ff6029e82d8601c394fa1a95d3e04bb128ff51866a7d1cbb5533d454",
+    "assets/barkan/textures/gui/guild_i18n_zh-TW_island.png": "ede8b58faa11f3e452d3754bf5992e0e83fd29ca595391cd63e381a1a7754d46",
+    "assets/barkan/textures/gui/guild_i18n_zh-TW_upgrade.png": "b3c67bc4560ecbbb073c6aa9ebcef2e0c64ba43d58b53e67df5d5079483bc58c",
+    "assets/barkan/textures/gui/guild_i18n_zh-TW_donate.png": "ce721a5fcafe4fdfba152bb3483e4575800be06deea108a2bbb793e781709900",
+    "assets/barkan/textures/gui/guild_i18n_zh-TW_members.png": "c0241004b16852167f03fda651dc837f11f4c07727e506ab0a622b31d87e8e2e",
+    "assets/barkan/textures/gui/guild_i18n_zh-TW_ranking.png": "9ab95f68722650679c799bea79eaf8e5681628675aadb870bdc2595f232576dc",
+    "assets/barkan/textures/gui/guild_i18n_zh-TW_emblem.png": "f0dfd0c9ff6029e82d8601c394fa1a95d3e04bb128ff51866a7d1cbb5533d454",
+    "assets/barkan/textures/gui/guild_i18n_es_island.png": "b6a9e001a88c08489af0335ca5a4b242adc74eb6cb034d68be61663ec14cbd10",
+    "assets/barkan/textures/gui/guild_i18n_es_upgrade.png": "ca75ff18f9ec3d270ea1675b1b3eb4031c2b26a6763693e7d73333672e892b1c",
+    "assets/barkan/textures/gui/guild_i18n_es_donate.png": "c28a5b523e582d6a82f90d01ebdf3c3304e017373af6155a6c512ede4b7f6ab3",
+    "assets/barkan/textures/gui/guild_i18n_es_members.png": "ab417dd766ece744918fb4bdc82424904ee16cd9fb7ab9ddb0acc1262657dbc6",
+    "assets/barkan/textures/gui/guild_i18n_es_ranking.png": "6a692046e36a567876bdadaed1bf381f08698cf28d2ec7a6f56eeae0e41557fb",
+    "assets/barkan/textures/gui/guild_i18n_es_emblem.png": "781a725d02bac5f3384dff2721a41921f206fdfdbcea308d4626be262169ab3f",
+    "assets/barkan/textures/gui/guild_i18n_pt-BR_island.png": "4aa50bbb0f5879bbd3f064217c803a05d3aa69085dbd8c911bc3e715ad64a3b7",
+    "assets/barkan/textures/gui/guild_i18n_pt-BR_upgrade.png": "0f306450ae8961d9cc8f01fb4df2f9bb834ea4eaecca857c28f37f2542e9e785",
+    "assets/barkan/textures/gui/guild_i18n_pt-BR_donate.png": "bbe1c02f111f9a1895259707d982c6eca45f7c90a1a4b5338d742280ce556b06",
+    "assets/barkan/textures/gui/guild_i18n_pt-BR_members.png": "ccca1843b3a912bd0282c598ca8b5d104cb05a9178b8c8471cf6a9314ba66036",
+    "assets/barkan/textures/gui/guild_i18n_pt-BR_ranking.png": "2d5b5f7f5d14c09025f82d915f534ec85aa0fd5a2d0defaddc7b00a2dac831db",
+    "assets/barkan/textures/gui/guild_i18n_pt-BR_emblem.png": "781a725d02bac5f3384dff2721a41921f206fdfdbcea308d4626be262169ab3f",
+    "assets/barkan/textures/gui/guild_i18n_de_island.png": "362615f0a680b944b57cf0ffcc0741dffede8eb8a7c53db810f17979d3336b20",
+    "assets/barkan/textures/gui/guild_i18n_de_upgrade.png": "172287ae63a6dfeaa830352cb9bb0aad6c12dba9e1dffe10f8f7133f421e0369",
+    "assets/barkan/textures/gui/guild_i18n_de_donate.png": "0a4c4ad3a987e904f463e7c0ae7b63200bee0f0935221d58171b924924e586bb",
+    "assets/barkan/textures/gui/guild_i18n_de_members.png": "7ec34a468c073b16424cd2305ae8625cd5c977383913fcda104d371e59afd8be",
+    "assets/barkan/textures/gui/guild_i18n_de_ranking.png": "0667ff413f339764c29e28f53bf4966708786c9386b3f3c2c92d0d52b27f9358",
+    "assets/barkan/textures/gui/guild_i18n_de_emblem.png": "740d86b53038f6b962eade79beb22592baff77eb15f9e237e1e380d2ae75a48a",
+    "assets/barkan/textures/gui/guild_i18n_fr_island.png": "bd6c55b7f2102d28b8cf83e0cbe5f180b76da884a2a32d398577a2936770c047",
+    "assets/barkan/textures/gui/guild_i18n_fr_upgrade.png": "116f948f6c8e08973a4973d254cf00b2617fae7ad5a32bb7caffad483fd0f774",
+    "assets/barkan/textures/gui/guild_i18n_fr_donate.png": "55ab464bbc0f854968925a36aab50cd7513c06a419bcb8e6686fcefb9d86207b",
+    "assets/barkan/textures/gui/guild_i18n_fr_members.png": "f144a75adcd4b36f537fb0e859093baa7b671a782dad3ade99a758fb4b48b541",
+    "assets/barkan/textures/gui/guild_i18n_fr_ranking.png": "0a3b09ded8e1045cc73dfe645aa2d32ed19526bfbd534c2d652f38aca06dcdbb",
+    "assets/barkan/textures/gui/guild_i18n_fr_emblem.png": "86bcc38e5baf5b653447a8908dac6a714a875ff3b952618ad53fd6fc8aa65ed0",
+    "assets/barkan/textures/gui/guild_i18n_ru_island.png": "4b19299375cb54f9dcaae43f14bfb6a960a4ad3d8e9b961d80ab25b274a8bf91",
+    "assets/barkan/textures/gui/guild_i18n_ru_upgrade.png": "9f6e770f18a929b3bb127c8e197e41e92a7cf65b2fb751c7e8ba7fba1302ba81",
+    "assets/barkan/textures/gui/guild_i18n_ru_donate.png": "d8cd9f4b4fe387d1bd11468250f4f56744b7ae20f1ccd6e626c2694e5d95a38b",
+    "assets/barkan/textures/gui/guild_i18n_ru_members.png": "6144ccbf84614a705c1ddb27ab426484cce5ba96efcf6afe798da7ba89081bb8",
+    "assets/barkan/textures/gui/guild_i18n_ru_ranking.png": "9f27b4ca2a13ec683044bac82ed7ed84a387a33043a9f49859e1ab8c5e412d26",
+    "assets/barkan/textures/gui/guild_i18n_ru_emblem.png": "5eaa97f2d8c32d1274a41a53970492fe9d87543fde08de47f1535ea180c8b813",
+    "assets/barkan/textures/gui/guild_r0c0.png": "3129ca47a162ce3549fb397c11b3a5a5e99c26c698d48e80802011b2ac01c8d3",
+    "assets/barkan/textures/gui/guild_r0c1.png": "e3981d918a254588801c4ac9cdde37ef9d6dec725f314589b9184228649197f6",
+    "assets/barkan/textures/gui/guild_r0c2.png": "348747bee527e090741ecf1333d97775a7abf29a570d688acf7b6dfe89507f9e",
+    "assets/barkan/textures/gui/guild_r1c0.png": "4f9a97766ea703d828f7e8fe529f6d2c730ba48340393162213022f1c954afdd",
+    "assets/barkan/textures/gui/guild_r1c1.png": "a49f0afc6fc78adffbe033d8c0369cac19c1f15930a7c8bac419044e205af9a2",
+    "assets/barkan/textures/gui/guild_r1c2.png": "d3b040d8e400fd170555ecce2c3210db6c309b7256ebdfa09592c6bb68efbddf",
+    "assets/barkan/textures/gui/guild_r2c0.png": "828bb6658ef187fbbd42d32cb269555006887510fc04a2ef8e25c9fb9c9ac5a6",
+    "assets/barkan/textures/gui/guild_r2c1.png": "14a44d27590514a5171c2d1d2938a9e75362066efb01bc66de4528d51644ecf2",
+    "assets/barkan/textures/gui/guild_r2c2.png": "d672164c37b80b65c7d724fa055cc0571b676a689372051a5bc94f607ceddd4b",
+    "assets/barkan/textures/gui/guild_r3c0.png": "1798ea4cbfabb925f5d27c8f34b4043ea0c297bc34b50f219c54035bfaa9d3e2",
+    "assets/barkan/textures/gui/guild_r3c1.png": "f201d03b645cf22cd1e6dadff3c70fc0da7208cd2e36531e4be43203b5d95156",
+    "assets/barkan/textures/gui/guild_r3c2.png": "ea84c4cd927d52674936aceedd252d497e23581e0456129711fc6029cc95c77b"
+  },
+  "fontSizeSourcePixels": {
+    "en/island": 26,
+    "en/upgrade": 26,
+    "en/donate": 26,
+    "en/members": 26,
+    "en/ranking": 26,
+    "en/emblem": 26,
+    "ja/island": 26,
+    "ja/upgrade": 24,
+    "ja/donate": 26,
+    "ja/members": 26,
+    "ja/ranking": 26,
+    "ja/emblem": 26,
+    "zh-CN/island": 26,
+    "zh-CN/upgrade": 26,
+    "zh-CN/donate": 26,
+    "zh-CN/members": 26,
+    "zh-CN/ranking": 26,
+    "zh-CN/emblem": 26,
+    "zh-TW/island": 26,
+    "zh-TW/upgrade": 26,
+    "zh-TW/donate": 26,
+    "zh-TW/members": 26,
+    "zh-TW/ranking": 26,
+    "zh-TW/emblem": 26,
+    "es/island": 22,
+    "es/upgrade": 26,
+    "es/donate": 26,
+    "es/members": 26,
+    "es/ranking": 26,
+    "es/emblem": 26,
+    "pt-BR/island": 26,
+    "pt-BR/upgrade": 26,
+    "pt-BR/donate": 26,
+    "pt-BR/members": 26,
+    "pt-BR/ranking": 25,
+    "pt-BR/emblem": 26,
+    "de/island": 26,
+    "de/upgrade": 26,
+    "de/donate": 26,
+    "de/members": 26,
+    "de/ranking": 26,
+    "de/emblem": 26,
+    "fr/island": 26,
+    "fr/upgrade": 23,
+    "fr/donate": 26,
+    "fr/members": 26,
+    "fr/ranking": 26,
+    "fr/emblem": 26,
+    "ru/island": 20,
+    "ru/upgrade": 26,
+    "ru/donate": 23,
+    "ru/members": 26,
+    "ru/ranking": 26,
+    "ru/emblem": 26
+  },
+  "textureBytes": 1308897,
+  "verification": "Offline composition; Minecraft client rendering still requires QA"
+}
