@@ -28,6 +28,8 @@ gui_layouts = runpy.run_path(str(Path(__file__).with_name("check-gui-layouts.py"
 gui_layouts["validate"](RP)
 lifestyle_models = runpy.run_path(str(Path(__file__).with_name("build-lifestyle-item-models.py")))
 lifestyle_models["validate"](RP)
+fish_models = runpy.run_path(str(Path(__file__).with_name("check-fish-models.py")))
+fish_models["validate"](RP)
 
 # 아이템 텍스처 해상도 상한 (2026-09-03).
 #   대부분의 아이콘은 인벤 슬롯 16px 로만 그려진다 — 거기에 128px 을 실어 보내면
@@ -306,6 +308,7 @@ with zipfile.ZipFile(OUT, "w", zipfile.ZIP_DEFLATED, compresslevel=9) as z:
 
 # Check the delivered bytes after lossless PNG optimization as well.
 gui_layouts["validate"](RP, OUT)
+fish_models["validate"](RP, OUT)
 language_assets["validate_delivered_labels"](RP, OUT)
 print(f"entries={len(files)}")
 print(f"hand_textures={len(HAND)} (상한 {HAND_MAX}px)")
