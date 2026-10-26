@@ -842,5 +842,21 @@
         "stream": true
       }
     ]
+  },
+  "bgm.boss_imugi_intro": {
+    "sounds": [
+      {
+        "name": "barkan:bgm/boss_imugi_intro",
+        "stream": true
+      }
+    ]
+  },
+  "bgm.boss_imugi_drop": {
+    "sounds": [
+      {
+        "name": "barkan:bgm/boss_imugi_drop",
+        "stream": true
+      }
+    ]
   }
 }
