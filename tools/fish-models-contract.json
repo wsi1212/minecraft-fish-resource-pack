@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "dexFishCount": 491,
+  "dexFishCount": 490,
   "models": {
     "가다랑어": "gadalang_eo",
     "가래상어": "galaesang_eo",
@@ -491,13 +491,12 @@
     "흰긴수염고래": "blue_whale",
     "흰동가리": "huindonggali",
     "흰부리돌고래": "huinbulidolgolae",
-    "흰철갑상어": "huincheolgapsangeo",
-    "부캉이": "bukangi"
+    "흰철갑상어": "huincheolgapsangeo"
   },
   "authority": {
     "fish": {
       "path": "/Users/user/Library/Application Support/feather/player-server/servers/07de2d81-991a-47e2-b62d-06c0d1b5150a/plugins/Skript/scripts/ops/blockship-data/fish.json",
-      "sha256": "cba14289c2e61d1e475c6bd7aeb5f9db5b9a82321f942af109a72f3850cfa5d3"
+      "sha256": "f94267055438bf3a75c5ceba6eb10b1c490d5273e9aa0a7a786b4f8031c52082"
     },
     "registry": {
       "path": "/Users/user/development/blockship-plugin/src/main/java/com/blockship/fishing/FishModelRegistry.java",
