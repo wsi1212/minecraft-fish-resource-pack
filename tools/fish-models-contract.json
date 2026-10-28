@@ -500,7 +500,7 @@
     },
     "registry": {
       "path": "/Users/user/development/blockship-plugin/src/main/java/com/blockship/fishing/FishModelRegistry.java",
-      "sha256": "f89afbfc3d0c1e1997c5092c89c7242b263c77b70e2ed02f1110e9de61153bd9"
+      "sha256": "16a4e1273d92827c4828cc4dcda4c3f12d2bd1dfea06127a9b8869d38f6539f4"
     }
   },
   "scope": "Current real dex fish only. Quest/junk objects and development-only special items use their own item paths."
