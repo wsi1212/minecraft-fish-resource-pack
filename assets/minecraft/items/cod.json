@@ -4567,6 +4567,13 @@
           "type": "minecraft:model",
           "model": "minecraft:item/fish/deungyong_ingeo"
         }
+      },
+      {
+        "when": "bukangi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fish/bukangi"
+        }
       }
     ],
     "fallback": {

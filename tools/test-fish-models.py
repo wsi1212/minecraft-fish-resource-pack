@@ -37,7 +37,7 @@ class FishModelsPackGateTest(unittest.TestCase):
 
     def test_current_actual_selected_pack_is_complete(self):
         result = self.check()
-        self.assertEqual((490, 489, 489), (result['dexFish'], result['modelFiles'], result['textureFiles']))
+        self.assertEqual((491, 490, 490), (result['dexFish'], result['modelFiles'], result['textureFiles']))
 
     def test_missing_model_is_rejected(self):
         with self.assertRaisesRegex(ValueError, 'Missing fish model dependency'):

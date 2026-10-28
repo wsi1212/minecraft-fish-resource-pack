@@ -1,0 +1,70 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/fish/bukangi"
+  },
+  "display": {
+    "gui": {
+      "scale": [
+        1.4,
+        1.4,
+        1.4
+      ]
+    },
+    "firstperson_righthand": {
+      "scale": [
+        0.583943,
+        0.583943,
+        0.583943
+      ],
+      "translation": [
+        0.287169,
+        1.836698,
+        0
+      ]
+    },
+    "firstperson_lefthand": {
+      "scale": [
+        0.583943,
+        0.583943,
+        0.583943
+      ],
+      "translation": [
+        0.287169,
+        1.836698,
+        0
+      ]
+    },
+    "thirdperson_righthand": {
+      "scale": [
+        0.583943,
+        0.583943,
+        0.583943
+      ],
+      "translation": [
+        0.287169,
+        1.836698,
+        0
+      ]
+    },
+    "thirdperson_lefthand": {
+      "scale": [
+        0.583943,
+        0.583943,
+        0.583943
+      ],
+      "translation": [
+        0.287169,
+        1.836698,
+        0
+      ]
+    },
+    "ground": {
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    }
+  }
+}
