@@ -53492,6 +53492,689 @@
           "rgbaSha256": "3033aee85d47484b05d9d5bf4ee270a7c385d6e30a0a2ab0b62490f478ed5a54"
         }
       ]
+    },
+    {
+      "name": "halloween_shop",
+      "prefix": "halloween_shop_",
+      "nativeSize": [
+        704,
+        888
+      ],
+      "rgbaSha256": "660282bd91433f51dcbcdcca1390c96088839e06c97158bac5dd47032ca4b7cd",
+      "scale": 4,
+      "baseline": 13,
+      "columns": [
+        236,
+        236,
+        232
+      ],
+      "tileRows": 4,
+      "providers": [
+        {
+          "type": "bitmap",
+          "file": "barkan:gui/halloween_shop_r0c0.png",
+          "ascent": 13,
+          "height": 56,
+          "chars": [
+            ""
+          ]
+        },
+        {
+          "type": "bitmap",
+          "file": "barkan:gui/halloween_shop_r0c1.png",
+          "ascent": 13,
+          "height": 56,
+          "chars": [
+            ""
+          ]
+        },
+        {
+          "type": "bitmap",
+          "file": "barkan:gui/halloween_shop_r0c2.png",
+          "ascent": 13,
+          "height": 56,
+          "chars": [
+            ""
+          ]
+        },
+        {
+          "type": "bitmap",
+          "file": "barkan:gui/halloween_shop_r1c0.png",
+          "ascent": -43,
+          "height": 56,
+          "chars": [
+            ""
+          ]
+        },
+        {
+          "type": "bitmap",
+          "file": "barkan:gui/halloween_shop_r1c1.png",
+          "ascent": -43,
+          "height": 56,
+          "chars": [
+            ""
+          ]
+        },
+        {
+          "type": "bitmap",
+          "file": "barkan:gui/halloween_shop_r1c2.png",
+          "ascent": -43,
+          "height": 56,
+          "chars": [
+            ""
+          ]
+        },
+        {
+          "type": "bitmap",
+          "file": "barkan:gui/halloween_shop_r2c0.png",
+          "ascent": -99,
+          "height": 55,
+          "chars": [
+            ""
+          ]
+        },
+        {
+          "type": "bitmap",
+          "file": "barkan:gui/halloween_shop_r2c1.png",
+          "ascent": -99,
+          "height": 55,
+          "chars": [
+            ""
+          ]
+        },
+        {
+          "type": "bitmap",
+          "file": "barkan:gui/halloween_shop_r2c2.png",
+          "ascent": -99,
+          "height": 55,
+          "chars": [
+            ""
+          ]
+        },
+        {
+          "type": "bitmap",
+          "file": "barkan:gui/halloween_shop_r3c0.png",
+          "ascent": -154,
+          "height": 55,
+          "chars": [
+            ""
+          ]
+        },
+        {
+          "type": "bitmap",
+          "file": "barkan:gui/halloween_shop_r3c1.png",
+          "ascent": -154,
+          "height": 55,
+          "chars": [
+            ""
+          ]
+        },
+        {
+          "type": "bitmap",
+          "file": "barkan:gui/halloween_shop_r3c2.png",
+          "ascent": -154,
+          "height": 55,
+          "chars": [
+            ""
+          ]
+        }
+      ],
+      "textureSha256": {
+        "assets/barkan/textures/gui/halloween_shop_r0c0.png": "976238f926cf8ffabd2371563e1be9cff4ee1ac9e296707053f7a98aa05f14d0",
+        "assets/barkan/textures/gui/halloween_shop_r0c1.png": "137a6ac42eda2ddb388f8a12c11796725abc231944d9789d315cfd1db7819395",
+        "assets/barkan/textures/gui/halloween_shop_r0c2.png": "1be6f5f13b1a830e63379abe246fcc75c93959c99e3c2d7d2c221767657edffe",
+        "assets/barkan/textures/gui/halloween_shop_r1c0.png": "d20d51ab1f114dbb95fe219c0f0713061b51efe7572556b1e9e8faad62b69aa1",
+        "assets/barkan/textures/gui/halloween_shop_r1c1.png": "b92d327eec306725b912057a8336225397fc17bddd8710ffa11ca2e6637a8e25",
+        "assets/barkan/textures/gui/halloween_shop_r1c2.png": "6d5abc4cf56db51eb7354f6c43ece0e65b6f7af3f6ca3fc498ba5c0ecd43f980",
+        "assets/barkan/textures/gui/halloween_shop_r2c0.png": "c8b4b0a2c8f33f1df4f9647991d6f53f8c1c79cb90d34e1213e143966eb0b934",
+        "assets/barkan/textures/gui/halloween_shop_r2c1.png": "53308a1489f147382abff05c91194fc72b415c4a9f49a00ffd7003e212ee3801",
+        "assets/barkan/textures/gui/halloween_shop_r2c2.png": "1c01e597a60b300f75b21b1afffa14dd2833709f98fc75fb7c69c89e66634aa4",
+        "assets/barkan/textures/gui/halloween_shop_r3c0.png": "e4e10b62a083e8485b53c21ad6665fd9d879e471eb76957ab04f7ce229087a13",
+        "assets/barkan/textures/gui/halloween_shop_r3c1.png": "233d31d21eabaefc5e873042cb4ae03d2a0a583bd5941a67045dfaaedbc47bd9",
+        "assets/barkan/textures/gui/halloween_shop_r3c2.png": "46f5178a60b1d16aea2ce518075f232374762ea13d7638c12d4596657e07f61e"
+      },
+      "cells": [
+        {
+          "name": "container-10",
+          "box": [
+            100,
+            140,
+            172,
+            212
+          ],
+          "rgbaSha256": "52eba11516f0a3237570e1cf13c63e9ed054e0213ed45e360e9dc382e33deb51"
+        },
+        {
+          "name": "container-12",
+          "box": [
+            244,
+            140,
+            316,
+            212
+          ],
+          "rgbaSha256": "52eba11516f0a3237570e1cf13c63e9ed054e0213ed45e360e9dc382e33deb51"
+        },
+        {
+          "name": "container-14",
+          "box": [
+            388,
+            140,
+            460,
+            212
+          ],
+          "rgbaSha256": "52eba11516f0a3237570e1cf13c63e9ed054e0213ed45e360e9dc382e33deb51"
+        },
+        {
+          "name": "container-16",
+          "box": [
+            532,
+            140,
+            604,
+            212
+          ],
+          "rgbaSha256": "52eba11516f0a3237570e1cf13c63e9ed054e0213ed45e360e9dc382e33deb51"
+        },
+        {
+          "name": "container-28",
+          "box": [
+            100,
+            284,
+            172,
+            356
+          ],
+          "rgbaSha256": "52eba11516f0a3237570e1cf13c63e9ed054e0213ed45e360e9dc382e33deb51"
+        },
+        {
+          "name": "container-30",
+          "box": [
+            244,
+            284,
+            316,
+            356
+          ],
+          "rgbaSha256": "52eba11516f0a3237570e1cf13c63e9ed054e0213ed45e360e9dc382e33deb51"
+        },
+        {
+          "name": "container-32",
+          "box": [
+            388,
+            284,
+            460,
+            356
+          ],
+          "rgbaSha256": "52eba11516f0a3237570e1cf13c63e9ed054e0213ed45e360e9dc382e33deb51"
+        },
+        {
+          "name": "container-34",
+          "box": [
+            532,
+            284,
+            604,
+            356
+          ],
+          "rgbaSha256": "52eba11516f0a3237570e1cf13c63e9ed054e0213ed45e360e9dc382e33deb51"
+        },
+        {
+          "name": "container-4",
+          "box": [
+            316,
+            68,
+            388,
+            140
+          ],
+          "rgbaSha256": "52eba11516f0a3237570e1cf13c63e9ed054e0213ed45e360e9dc382e33deb51"
+        },
+        {
+          "name": "container-45",
+          "box": [
+            28,
+            428,
+            100,
+            500
+          ],
+          "rgbaSha256": "0f9ec47f4797b8d5687599d116a6f539c4373325de089e7bd89469470ddc2ee6"
+        },
+        {
+          "name": "container-46",
+          "box": [
+            100,
+            428,
+            172,
+            500
+          ],
+          "rgbaSha256": "0f9ec47f4797b8d5687599d116a6f539c4373325de089e7bd89469470ddc2ee6"
+        },
+        {
+          "name": "container-47",
+          "box": [
+            172,
+            428,
+            244,
+            500
+          ],
+          "rgbaSha256": "0f9ec47f4797b8d5687599d116a6f539c4373325de089e7bd89469470ddc2ee6"
+        },
+        {
+          "name": "container-48",
+          "box": [
+            244,
+            428,
+            316,
+            500
+          ],
+          "rgbaSha256": "0f9ec47f4797b8d5687599d116a6f539c4373325de089e7bd89469470ddc2ee6"
+        },
+        {
+          "name": "container-49",
+          "box": [
+            316,
+            428,
+            388,
+            500
+          ],
+          "rgbaSha256": "0f9ec47f4797b8d5687599d116a6f539c4373325de089e7bd89469470ddc2ee6"
+        },
+        {
+          "name": "container-50",
+          "box": [
+            388,
+            428,
+            460,
+            500
+          ],
+          "rgbaSha256": "0f9ec47f4797b8d5687599d116a6f539c4373325de089e7bd89469470ddc2ee6"
+        },
+        {
+          "name": "container-51",
+          "box": [
+            460,
+            428,
+            532,
+            500
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "container-52",
+          "box": [
+            532,
+            428,
+            604,
+            500
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "container-53",
+          "box": [
+            604,
+            428,
+            676,
+            500
+          ],
+          "rgbaSha256": "0f9ec47f4797b8d5687599d116a6f539c4373325de089e7bd89469470ddc2ee6"
+        },
+        {
+          "name": "player-9",
+          "box": [
+            28,
+            552,
+            100,
+            624
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "player-10",
+          "box": [
+            100,
+            552,
+            172,
+            624
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "player-11",
+          "box": [
+            172,
+            552,
+            244,
+            624
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "player-12",
+          "box": [
+            244,
+            552,
+            316,
+            624
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "player-13",
+          "box": [
+            316,
+            552,
+            388,
+            624
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "player-14",
+          "box": [
+            388,
+            552,
+            460,
+            624
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "player-15",
+          "box": [
+            460,
+            552,
+            532,
+            624
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "player-16",
+          "box": [
+            532,
+            552,
+            604,
+            624
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "player-17",
+          "box": [
+            604,
+            552,
+            676,
+            624
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "player-18",
+          "box": [
+            28,
+            624,
+            100,
+            696
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "player-19",
+          "box": [
+            100,
+            624,
+            172,
+            696
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "player-20",
+          "box": [
+            172,
+            624,
+            244,
+            696
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "player-21",
+          "box": [
+            244,
+            624,
+            316,
+            696
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "player-22",
+          "box": [
+            316,
+            624,
+            388,
+            696
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "player-23",
+          "box": [
+            388,
+            624,
+            460,
+            696
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "player-24",
+          "box": [
+            460,
+            624,
+            532,
+            696
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "player-25",
+          "box": [
+            532,
+            624,
+            604,
+            696
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "player-26",
+          "box": [
+            604,
+            624,
+            676,
+            696
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "player-27",
+          "box": [
+            28,
+            696,
+            100,
+            768
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "player-28",
+          "box": [
+            100,
+            696,
+            172,
+            768
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "player-29",
+          "box": [
+            172,
+            696,
+            244,
+            768
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "player-30",
+          "box": [
+            244,
+            696,
+            316,
+            768
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "player-31",
+          "box": [
+            316,
+            696,
+            388,
+            768
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "player-32",
+          "box": [
+            388,
+            696,
+            460,
+            768
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "player-33",
+          "box": [
+            460,
+            696,
+            532,
+            768
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "player-34",
+          "box": [
+            532,
+            696,
+            604,
+            768
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "player-35",
+          "box": [
+            604,
+            696,
+            676,
+            768
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "player-0",
+          "box": [
+            28,
+            784,
+            100,
+            856
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "player-1",
+          "box": [
+            100,
+            784,
+            172,
+            856
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "player-2",
+          "box": [
+            172,
+            784,
+            244,
+            856
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "player-3",
+          "box": [
+            244,
+            784,
+            316,
+            856
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "player-4",
+          "box": [
+            316,
+            784,
+            388,
+            856
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "player-5",
+          "box": [
+            388,
+            784,
+            460,
+            856
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "player-6",
+          "box": [
+            460,
+            784,
+            532,
+            856
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "player-7",
+          "box": [
+            532,
+            784,
+            604,
+            856
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        },
+        {
+          "name": "player-8",
+          "box": [
+            604,
+            784,
+            676,
+            856
+          ],
+          "rgbaSha256": "d840b21344a3277511465f0a171c0d59fc13c21f41f579f55ce129b140ec0c13"
+        }
+      ]
     }
   ],
   "javaGuiSources": {
@@ -53572,6 +54255,7 @@
     "src/main/java/com/blockship/util/GuiFrame.java": "61e7d5108f184a70f9eb15e55edee08fbd583a822ef47f340b53d1eebe951531",
     "src/main/java/com/blockship/util/GuiTitle.java": "323d2c8a162ab0bdf64d514f154f2b28d53e30603c8e3238c4fbd950c49578ac",
     "src/main/java/com/blockship/util/Plates.java": "82e1acf1ae0ccb89fe3f4fc43b82a65912186d468b6649f54d1e42ec19c87fd4",
-    "src/main/java/com/blockship/vote/MineListRewardGui.java": "4d80786c0f5fa5d853093286f510a27ab3e6f5bcca8e8dce4b6c299ecad63854"
+    "src/main/java/com/blockship/vote/MineListRewardGui.java": "4d80786c0f5fa5d853093286f510a27ab3e6f5bcca8e8dce4b6c299ecad63854",
+    "src/main/java/com/blockship/halloween/HalloweenGui.java": "876371aa84137c8341022e719d06783f2ecc5f5b4ddc8fefb7ad708ace980d70"
   }
 }
