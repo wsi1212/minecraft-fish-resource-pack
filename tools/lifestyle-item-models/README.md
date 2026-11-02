@@ -1,9 +1,11 @@
 This bundle restores only the assets referenced by the current lifestyle dex.
-The canonical JVM census contains 136 entries: 78 dishes, 21 crop seed/harvest/
-bundle variants, 13 traps, and 24 tools. Eleven canonical previews have no
-item_model (seven vanilla crop bundles, three vanilla crossbow grapples and a
-vanilla golden mining hat); the current factories assign no legacy CMD or
-custom model to these eleven entries, so they use client-provided assets.
+The canonical JVM census contains 162 entries: 78 dishes, 14 crop seed/harvest
+variants, 13 traps, and 57 tools. Seven retired crop-bundle entries remain
+excluded; existing legacy bundle handling is preserved. The actual offline creators returned
+161 previews: 137 have item_model (135 distinct references) and 24 use the
+separate vanilla/legacy path. The only unavailable preview is ce:barkan:scarecrow,
+whose CraftEngine runtime is absent from the offline test. Its exact unavailable
+record stays pinned; a source/asset closure cannot prove live CE item creation.
 
 79 missing item_model definitions were recovered from the existing local
 CraftEngine generated/resource_pack_unprotected.zip. The selected dependency
@@ -34,8 +36,9 @@ chain and all canonical explicit item_model dependencies, but cannot claim
 fresh Java coverage without current sources/a fresh JVM census.
 
 The pack builder can call `runpy.run_path(...)["validate"](root, zip_path=None)`
-before and after writing the ZIP. The six small corruption fixtures are run
+before and after writing the ZIP. The eight small corruption fixtures are run
 with `python3 tools/test-lifestyle-item-models.py`; they cover missing required
-assets, one altered pixel, animation changes and new canonical entry drift.
+assets, one altered pixel, animation changes, new canonical entry drift and
+omitted/faked offline CE preview state.
 
 This verifies local files/JSON/pixels, not live Minecraft client rendering.

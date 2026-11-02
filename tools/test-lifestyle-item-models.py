@@ -50,7 +50,7 @@ class LifestylePackGateTest(unittest.TestCase):
                     collect_definition(value)
 
         for _, row in API["canonical_entries"](census):
-            if row["itemModel"]:
+            if not API["unavailable_preview"](row) and row["itemModel"]:
                 p = API["asset_path"](row["itemModel"], "items", ".json")
                 cls.files[p] = (ROOT / p).read_bytes()
                 collect_definition(json.loads(cls.files[p]))
@@ -71,7 +71,8 @@ class LifestylePackGateTest(unittest.TestCase):
         out = io.BytesIO()
         Image.open(io.BytesIO(self.files[name])).save(out, "PNG", optimize=True)
         result = self.check_zip({name: out.getvalue()})
-        self.assertEqual((136, 123, 79), (result["canonicalEntries"], result["explicitItemModels"], result["repairedItemModels"]))
+        self.assertEqual((162, 135, 79), (result["canonicalEntries"], result["explicitItemModels"], result["repairedItemModels"]))
+        self.assertEqual(["ce:barkan:scarecrow"], [row["id"] for row in result["unavailablePreviews"]])
 
     def test_missing_definition_is_rejected(self):
         with self.assertRaisesRegex(ValueError, "missing"):
@@ -105,6 +106,32 @@ class LifestylePackGateTest(unittest.TestCase):
             with self.assertRaisesRegex(ValueError, "canonical IDs"):
                 API["_validate"](ROOT, census_path=path)
 
+
+    def test_new_physical_shop_definition_model_and_texture_are_required(self):
+        for name in ("assets/barkan/items/barkan_icon/ui_ticket_autoplant_500.json",
+                     "assets/barkan/models/barkan_icon/ui_ticket_autoplant_500.json",
+                     "assets/minecraft/textures/item/barkan_icon/ui_ticket_autoplant_500.png"):
+            with self.subTest(name=name), self.assertRaisesRegex(ValueError, "missing"):
+                self.check_zip(missing=(name,))
+
+    def test_offline_ce_unavailable_identity_cannot_be_omitted_or_faked(self):
+        original = json.loads((ROOT / "tools/lifestyle-item-models/inputs/canonical-census.json").read_text())
+        for corruption in ("omit", "fake_material", "wrong_ce_id"):
+            census = copy.deepcopy(original)
+            rows = census["도구"]["entries"]
+            missing = next(row for row in rows if row["id"] == "ce:barkan:scarecrow")
+            if corruption == "omit":
+                rows.remove(missing)
+                census["도구"]["count"] -= 1
+            elif corruption == "fake_material":
+                missing["material"] = "PAPER"
+                missing["itemModel"] = "barkan:scarecrow"
+            else:
+                missing["id"] = "ce:barkan:invented"
+            with self.subTest(corruption=corruption), tempfile.TemporaryDirectory(prefix="barkan-lifestyle-unavailable-") as temp:
+                path = Path(temp) / "fresh.json"; path.write_text(json.dumps(census))
+                with self.assertRaises(ValueError):
+                    API["_validate"](ROOT, census_path=path)
 
 if __name__ == "__main__":
     unittest.main()

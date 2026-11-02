@@ -67,8 +67,18 @@ def canonical_entries(census):
     return result
 
 
+def unavailable_preview(row):
+    if row.get("previewUnavailableWithoutCraftEngine") is not True:
+        return False
+    # This is an observed missing external runtime, never a synthesized vanilla preview.
+    if set(row) != {"id", "previewUnavailableWithoutCraftEngine"} or not row["id"].startswith("ce:"):
+        raise ValueError("Invalid unavailable CraftEngine preview shape: " + row["id"])
+    return True
+
+
 def bindings(census):
-    return sorted((category, row["id"], row.get("itemModel"), row["material"])
+    return sorted((category, row["id"], row.get("itemModel"), row.get("material")
+                   if unavailable_preview(row) else row["material"], unavailable_preview(row))
                   for category, row in canonical_entries(census))
 
 
@@ -89,6 +99,12 @@ def _pinned(root):
     census = load(path)
     if len(canonical_entries(census)) != census_row["entries"]:
         raise ValueError("Pinned canonical entry count mismatch")
+    expected_unavailable = {(row["category"], row["id"])
+                            for row in manifest.get("unavailablePreviews", [])}
+    actual_unavailable = {(category, row["id"]) for category, row in canonical_entries(census)
+                          if unavailable_preview(row)}
+    if actual_unavailable != expected_unavailable:
+        raise ValueError("Unavailable CraftEngine previews differ from explicit pinned authority")
     output_paths = set()
     for row in manifest["outputs"]:
         if row["path"] in output_paths or not row["path"].startswith("assets/"):
@@ -185,8 +201,12 @@ def _validate(root, zip_path=None, census_path=None, java_root=None):
                 for value in node:
                     visit_definition(value)
 
-        null_models, refs = [], set()
+        null_models, unavailable, refs = [], [], set()
         for category, row in canonical_entries(census):
+            if unavailable_preview(row):
+                unavailable.append({"category": category, **row,
+                                    "scope": "Observed offline CraftEngine preview unavailable; no live item creation claim"})
+                continue
             ref = row.get("itemModel")
             if ref is None:
                 null_models.append({"category": category, "id": row["id"],
@@ -200,6 +220,7 @@ def _validate(root, zip_path=None, census_path=None, java_root=None):
                 "explicitItemModels": len(refs), "repairedItemModels": len(manifest["canonicalBindings"]),
                 "ownedFiles": len(manifest["outputs"]), "ownedOriginalBytes": sum(r["bytes"] for r in manifest["outputs"]),
                 "referencedModelFiles": len(visited), "nullModels": null_models,
+                "unavailablePreviews": unavailable,
                 "javaAuthoritySourcesChecked": checked_sources,
                 "currentCensusCompared": str(census_path) if census_path else None,
                 "scope": "File/JSON/pixel/animation dependency validation; no actual Minecraft client render"}

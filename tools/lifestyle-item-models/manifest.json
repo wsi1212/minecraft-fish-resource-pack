@@ -39,27 +39,27 @@
   ],
   "census": {
     "path": "canonical-census.json",
-    "sha256": "497318c7e95e2fb53852fe2ffedc09a3c6fd98de7bef16290218fd5849448e16",
+    "sha256": "d846990073b0eab7430571f1bea5440a9145996b8f4ead96d7283e8ec16e05fc",
     "counts": {
       "요리": 78,
-      "작물": 21,
+      "작물": 14,
       "통발": 13,
-      "도구": 24
+      "도구": 57
     },
-    "entries": 136
+    "entries": 162
   },
   "javaAuthorities": [
     {
       "javaPath": "src/main/java/com/blockship/dex/LifestyleDexCatalog.java",
-      "sha256": "85be50ff6b09759ec758a7139c78edd1a724c0022cbe3da189a735df0b6df823"
+      "sha256": "b0fea1100efbf0bce8a6e053ab7db9d828a5007046199842cb07eba837aef4df"
     },
     {
       "javaPath": "src/main/java/com/blockship/cooking/DishSpecs.java",
-      "sha256": "3857241cf8328009c0dba0de61302adfb52c1ff97044f88a64bcb69998e89eae"
+      "sha256": "283a0c7a884e3bf2247445df8e95170152c198683f7029542d5a0a66520271e4"
     },
     {
       "javaPath": "src/main/java/com/blockship/crop/CropSpecs.java",
-      "sha256": "0996e619d6983aa1b4d8086b0af0a59cc3e7c0a479105de37e21b5c658bed686"
+      "sha256": "affa0feeafafb09bf0809e2319bcd85ac9fa741522673580e5b6bf8ed15debd5"
     },
     {
       "javaPath": "src/main/java/com/blockship/trap/TrapSpecs.java",
@@ -75,15 +75,15 @@
     },
     {
       "javaPath": "src/main/resources/cashshop.json",
-      "sha256": "3b2bdb4e47f552b828b8827710cb4202b8b9ae2314af5d49ef1ab1d01e8043c0"
+      "sha256": "59e8cdcc9cff25ed66196e966e6c81f5102e4360d6d87ab38cc177539fc8632d"
     },
     {
       "javaPath": "recipes.json",
-      "sha256": "6e99b05c1f828f284a3a80b1f51bc39dea715244341ac59515f186f3e3a4810b"
+      "sha256": "b3e20337e33ba59fd1a1f8c7ab4f136dcb9b01d510ddaf31db2c5dfa3ba57e72"
     },
     {
       "javaPath": "src/main/java/com/blockship/scroll/ScrollManager.java",
-      "sha256": "9b9afc420a03295b700bb195b1208efd71ee6d50403955964170a1ec82b85aaa"
+      "sha256": "7fe2512e5ea7ade111bb95fd243c2fba9a0bc52e2b14ddccd09f3a2a400ec907"
     },
     {
       "javaPath": "src/main/java/com/blockship/enhance/EnhanceScrolls.java",
@@ -99,23 +99,71 @@
     },
     {
       "javaPath": "src/main/java/com/blockship/crop/CropManager.java",
-      "sha256": "8dbab2d372edd4243b867374dec1409c7b872a5b895e01a46b6b0094cdf2a012"
+      "sha256": "072578635ad8ee1a98fee7dc0e58241f5a446a7dc134fec6c583cbdbeb48df5f"
     },
     {
       "javaPath": "src/main/java/com/blockship/economy/BackpackGui.java",
-      "sha256": "7e2508d1183f9a83efa6242d2a4174105294807679792ce418fb3915322a7440"
+      "sha256": "a3dd8a1d53d3531ccbcbe833b2a7e2a6c9a7cc422fc41c364cf77511c8bb76b9"
     },
     {
       "javaPath": "src/main/java/com/blockship/economy/IceboxGui.java",
-      "sha256": "6041d2a37bbefbb38dcd6edf9201b8a150cc83b8469a5ba6eb5f5e5e96f665ae"
+      "sha256": "97fa601ec9d6fed76ca12ca4cb3f67d16804aeaad0ddfeaacb0c0e2c839ea872"
     },
     {
       "javaPath": "src/main/java/com/blockship/economy/PortableFishSellTicket.java",
-      "sha256": "be7a77305caf61761e8cc9016d4638b004ef8988662f82fc3633a27694f2c825"
+      "sha256": "3bebba74f8972cf21f7900f263ce8a8f03a1643015991224a88b26853573161e"
     },
     {
       "javaPath": "src/main/java/com/blockship/crafting/CraftingManager.java",
-      "sha256": "38d4dabdffe54d2c5e1933de1f2726efda5ebe9fefeaaccb1c576750d0ba6d5e"
+      "sha256": "f8d700174fa4ed49c9f261793874cf57c3e4fa4197a60dd0602f7dd44c0559a8"
+    },
+    {
+      "javaPath": "src/main/java/com/blockship/economy/CashShopData.java",
+      "sha256": "a1224bf9aed91732512a5d05643cee8fbbd1782b8cc878bd8c5f1d6ddb582cec"
+    },
+    {
+      "javaPath": "src/main/java/com/blockship/economy/CashShopGui.java",
+      "sha256": "dea5ee93422ecdbab912bc5df4ff65f18110b2e3da031316b73dce817e5a5047"
+    },
+    {
+      "javaPath": "src/main/java/com/blockship/cosmetic/CosmeticLottery.java",
+      "sha256": "e7dc5172e3f7b78c6f219f91f185c17aa5faf3d2a4c74ef009da2db6432e7713"
+    },
+    {
+      "javaPath": "src/main/java/com/blockship/cosmetic/CosmeticLotteryManager.java",
+      "sha256": "62db26cd4e8502e5139dc4a33efd2d8823067ad53b01e55b4ca282984f439bbf"
+    },
+    {
+      "javaPath": "src/main/java/com/blockship/fishing/WetTreasureChestManager.java",
+      "sha256": "46b5f4935965fbfecbe826d34d216fcb40d41504c7e5fd66b356c0052e689318"
+    },
+    {
+      "javaPath": "src/main/java/com/blockship/util/EnchantBooks.java",
+      "sha256": "fde9b69c0518a3db4f450793f22006987639b7216dbe4fc1d45d29adc0e50370"
+    },
+    {
+      "javaPath": "src/main/java/com/blockship/misc/SpecialBlockListener.java",
+      "sha256": "c0aadab8bb3e8c6b7b665ff4871f4698b48c3ef8df73d1d6e06ce2b8618b5c20"
+    },
+    {
+      "javaPath": "src/main/java/com/blockship/nickname/NicknameManager.java",
+      "sha256": "2cb383e16590721f4ca95c978b3e9b3f44a6a8050213b5ed2d6bbff8560b9114"
+    },
+    {
+      "javaPath": "src/main/java/com/blockship/island/IslandAutoPlantManager.java",
+      "sha256": "3c41359d50e847bf4a09ab10b6557acc22391b5257f091b894f11901165453ed"
+    },
+    {
+      "javaPath": "src/main/java/com/blockship/island/IslandFlyManager.java",
+      "sha256": "268f804a85c8f44c32450d821e0d1e77d7925777c8afcfa48877a7975048c641"
+    },
+    {
+      "javaPath": "src/main/java/com/blockship/dex/MainDexGui.java",
+      "sha256": "741782727e42df2d22dd6f8d089280a6b2d92ccc9fb7c436a908e03e0bbcb981"
+    },
+    {
+      "javaPath": "src/main/java/com/blockship/BlockShipPlugin.java",
+      "sha256": "16ccc5dcb5f89467611a3da9978fd7afec0e266a6e237316be01cfd3286616c4"
     }
   ],
   "canonicalBindings": {
@@ -2709,7 +2757,7 @@
   "licensing": "Existing selected CE source and generated files contain no bundled food-license notices. Pinned official MIT notices for Croptopia v3 and FarmersDelight are retained as supplementary provenance; locally customized variants are not falsely attributed to those exact upstream revisions. Original pixels and animation bytes are unchanged.",
   "runtimeRecipes": {
     "originalPath": "/Users/user/Library/Application Support/feather/player-server/servers/07de2d81-991a-47e2-b62d-06c0d1b5150a/plugins/Skript/scripts/ops/blockship-data/recipes.json",
-    "sha256": "59933fa57730cb256a45f8acc7df12135422cb18dfd90a3430b67e3785907247"
+    "sha256": "9f16308d1f243bf93e2809b9202c3ee0985f3e6535393b4a6c1513b5a3c19a84"
   },
   "upstreamNotices": [
     {
@@ -2727,6 +2775,13 @@
       "path": "notices/FarmersDelight-LICENSE.txt",
       "sha256": "3ff766f3ab1fd7dad26e8f176c5e4af6bcbf8bb1208d26f573d77b48b13188ac",
       "scope": "Upstream project notice retained as supplementary provenance; not an assertion that all locally customized icons originate from this exact revision"
+    }
+  ],
+  "unavailablePreviews": [
+    {
+      "category": "도구",
+      "id": "ce:barkan:scarecrow",
+      "scope": "Actual offline CE preview unavailable; never synthesize material/item_model/PDC or claim live CE creation."
     }
   ]
 }

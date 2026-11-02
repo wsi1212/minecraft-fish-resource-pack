@@ -1,6 +1,5 @@
 {
   "요리": {
-    "count": 78,
     "entries": [
       {
         "id": "dish:빵",
@@ -626,10 +625,10 @@
         "pdcKeys": [],
         "pdcAndRichComponentCopyPreserved": true
       }
-    ]
+    ],
+    "count": 78
   },
   "작물": {
-    "count": 21,
     "entries": [
       {
         "id": "crop-seed:밀",
@@ -646,14 +645,6 @@
         "name": "특수 밀",
         "material": "PAPER",
         "itemModel": "barkan:barkan_icon/crop_wheat_harvest",
-        "pdcKeys": [],
-        "pdcAndRichComponentCopyPreserved": true
-      },
-      {
-        "id": "crop-bundle:밀",
-        "name": "압축 특수 밀 꾸러미",
-        "material": "HAY_BLOCK",
-        "itemModel": null,
         "pdcKeys": [],
         "pdcAndRichComponentCopyPreserved": true
       },
@@ -676,14 +667,6 @@
         "pdcAndRichComponentCopyPreserved": true
       },
       {
-        "id": "crop-bundle:당근",
-        "name": "압축 특수 당근 꾸러미",
-        "material": "BARREL",
-        "itemModel": null,
-        "pdcKeys": [],
-        "pdcAndRichComponentCopyPreserved": true
-      },
-      {
         "id": "crop-seed:감자",
         "name": "특수 감자 씨앗",
         "material": "PAPER",
@@ -698,14 +681,6 @@
         "name": "특수 감자",
         "material": "PAPER",
         "itemModel": "barkan:barkan_icon/crop_potato_harvest",
-        "pdcKeys": [],
-        "pdcAndRichComponentCopyPreserved": true
-      },
-      {
-        "id": "crop-bundle:감자",
-        "name": "압축 특수 감자 꾸러미",
-        "material": "BARREL",
-        "itemModel": null,
         "pdcKeys": [],
         "pdcAndRichComponentCopyPreserved": true
       },
@@ -728,14 +703,6 @@
         "pdcAndRichComponentCopyPreserved": true
       },
       {
-        "id": "crop-bundle:토마토",
-        "name": "압축 특수 토마토 꾸러미",
-        "material": "BARREL",
-        "itemModel": null,
-        "pdcKeys": [],
-        "pdcAndRichComponentCopyPreserved": true
-      },
-      {
         "id": "crop-seed:양배추",
         "name": "특수 양배추 씨앗",
         "material": "PAPER",
@@ -750,14 +717,6 @@
         "name": "특수 양배추",
         "material": "PAPER",
         "itemModel": "barkan:barkan_icon/crop_cabbage_harvest",
-        "pdcKeys": [],
-        "pdcAndRichComponentCopyPreserved": true
-      },
-      {
-        "id": "crop-bundle:양배추",
-        "name": "압축 특수 양배추 꾸러미",
-        "material": "BARREL",
-        "itemModel": null,
         "pdcKeys": [],
         "pdcAndRichComponentCopyPreserved": true
       },
@@ -780,14 +739,6 @@
         "pdcAndRichComponentCopyPreserved": true
       },
       {
-        "id": "crop-bundle:버섯",
-        "name": "압축 특수 버섯 꾸러미",
-        "material": "BROWN_MUSHROOM_BLOCK",
-        "itemModel": null,
-        "pdcKeys": [],
-        "pdcAndRichComponentCopyPreserved": true
-      },
-      {
         "id": "crop-seed:수박",
         "name": "특수 수박 씨앗",
         "material": "PAPER",
@@ -804,19 +755,11 @@
         "itemModel": "barkan:barkan_icon/crop_melon_harvest",
         "pdcKeys": [],
         "pdcAndRichComponentCopyPreserved": true
-      },
-      {
-        "id": "crop-bundle:수박",
-        "name": "압축 특수 수박 꾸러미",
-        "material": "MELON",
-        "itemModel": null,
-        "pdcKeys": [],
-        "pdcAndRichComponentCopyPreserved": true
       }
-    ]
+    ],
+    "count": 14
   },
   "통발": {
-    "count": 13,
     "entries": [
       {
         "id": "trap:부두|표준",
@@ -922,10 +865,10 @@
         "pdcKeys": [],
         "pdcAndRichComponentCopyPreserved": true
       }
-    ]
+    ],
+    "count": 13
   },
   "도구": {
-    "count": 24,
     "entries": [
       {
         "id": "drill:1",
@@ -1152,9 +1095,334 @@
         "itemModel": "barkan:barkan_icon/ui_scroll_down_30",
         "pdcKeys": [],
         "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "autoplant:500",
+        "name": "자동심기 추가권 (500회)",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/ui_ticket_autoplant_500",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "autoplant:1000",
+        "name": "자동심기 추가권 (1000회)",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/ui_ticket_autoplant_1000",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "autoplant:2000",
+        "name": "자동심기 추가권 (2000회)",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/ui_ticket_autoplant_2000",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "fly:5",
+        "name": "비행 추가권 (5분)",
+        "material": "FEATHER",
+        "itemModel": "barkan:barkan_icon/ui_ticket_fly_5",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "fly:10",
+        "name": "비행 추가권 (10분)",
+        "material": "FEATHER",
+        "itemModel": "barkan:barkan_icon/ui_ticket_fly_10",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "fly:20",
+        "name": "비행 추가권 (20분)",
+        "material": "FEATHER",
+        "itemModel": "barkan:barkan_icon/ui_ticket_fly_20",
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "previewUnavailableWithoutCraftEngine": true,
+        "id": "ce:barkan:scarecrow"
+      },
+      {
+        "id": "furniturelottery:hero",
+        "name": "영웅 가구 복권",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/furniture_lottery_hero",
+        "pdcKeys": [
+          "blockship:furniture_lottery_kind",
+          "blockship:wet_treasure_area",
+          "blockship:wet_treasure_area_label",
+          "blockship:wet_treasure_chest",
+          "blockship:wet_treasure_max_money",
+          "blockship:wet_treasure_min_money",
+          "blockship:wet_treasure_source"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "furniturelottery:legendary",
+        "name": "전설 가구 복권",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/furniture_lottery_legendary",
+        "pdcKeys": [
+          "blockship:furniture_lottery_kind",
+          "blockship:wet_treasure_area",
+          "blockship:wet_treasure_area_label",
+          "blockship:wet_treasure_chest",
+          "blockship:wet_treasure_max_money",
+          "blockship:wet_treasure_min_money",
+          "blockship:wet_treasure_source"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "item:BEACON",
+        "name": "",
+        "material": "BEACON",
+        "itemModel": null,
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "item:ENCHANTING_TABLE",
+        "name": "",
+        "material": "ENCHANTING_TABLE",
+        "itemModel": null,
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "item:LODESTONE",
+        "name": "",
+        "material": "LODESTONE",
+        "itemModel": null,
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "item:ENDER_CHEST",
+        "name": "",
+        "material": "ENDER_CHEST",
+        "itemModel": null,
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "special:스피드블럭",
+        "name": "스피드 블럭",
+        "material": "CHISELED_QUARTZ_BLOCK",
+        "itemModel": null,
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "special:점프대",
+        "name": "점프대",
+        "material": "SLIME_BLOCK",
+        "itemModel": null,
+        "pdcKeys": [],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "enchbook:efficiency:1",
+        "name": "효율 I 인첸트 북",
+        "material": "ENCHANTED_BOOK",
+        "itemModel": null,
+        "pdcKeys": [
+          "blockship:custom_enchant_book",
+          "blockship:custom_enchant_level"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "enchbook:efficiency:2",
+        "name": "효율 II 인첸트 북",
+        "material": "ENCHANTED_BOOK",
+        "itemModel": null,
+        "pdcKeys": [
+          "blockship:custom_enchant_book",
+          "blockship:custom_enchant_level"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "enchbook:efficiency:3",
+        "name": "효율 III 인첸트 북",
+        "material": "ENCHANTED_BOOK",
+        "itemModel": null,
+        "pdcKeys": [
+          "blockship:custom_enchant_book",
+          "blockship:custom_enchant_level"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "enchbook:efficiency:4",
+        "name": "효율 IV 인첸트 북",
+        "material": "ENCHANTED_BOOK",
+        "itemModel": null,
+        "pdcKeys": [
+          "blockship:custom_enchant_book",
+          "blockship:custom_enchant_level"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "enchbook:unbreaking:1",
+        "name": "내구성 I 인첸트 북",
+        "material": "ENCHANTED_BOOK",
+        "itemModel": null,
+        "pdcKeys": [
+          "blockship:custom_enchant_book",
+          "blockship:custom_enchant_level"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "enchbook:unbreaking:2",
+        "name": "내구성 II 인첸트 북",
+        "material": "ENCHANTED_BOOK",
+        "itemModel": null,
+        "pdcKeys": [
+          "blockship:custom_enchant_book",
+          "blockship:custom_enchant_level"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "enchbook:unbreaking:3",
+        "name": "내구성 III 인첸트 북",
+        "material": "ENCHANTED_BOOK",
+        "itemModel": null,
+        "pdcKeys": [
+          "blockship:custom_enchant_book",
+          "blockship:custom_enchant_level"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "enchbook:fortune:1",
+        "name": "행운 I 인첸트 북",
+        "material": "ENCHANTED_BOOK",
+        "itemModel": null,
+        "pdcKeys": [
+          "blockship:custom_enchant_book",
+          "blockship:custom_enchant_level"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "enchbook:fortune:2",
+        "name": "행운 II 인첸트 북",
+        "material": "ENCHANTED_BOOK",
+        "itemModel": null,
+        "pdcKeys": [
+          "blockship:custom_enchant_book",
+          "blockship:custom_enchant_level"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "enchbook:fortune:3",
+        "name": "행운 III 인첸트 북",
+        "material": "ENCHANTED_BOOK",
+        "itemModel": null,
+        "pdcKeys": [
+          "blockship:custom_enchant_book",
+          "blockship:custom_enchant_level"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "enchbook:fortune:4",
+        "name": "행운 IV 인첸트 북",
+        "material": "ENCHANTED_BOOK",
+        "itemModel": null,
+        "pdcKeys": [
+          "blockship:custom_enchant_book",
+          "blockship:custom_enchant_level"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "enchbook:fortune:5",
+        "name": "행운 V 인첸트 북",
+        "material": "ENCHANTED_BOOK",
+        "itemModel": null,
+        "pdcKeys": [
+          "blockship:custom_enchant_book",
+          "blockship:custom_enchant_level"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "enchbook:repair:1",
+        "name": "수리의 서",
+        "material": "ENCHANTED_BOOK",
+        "itemModel": null,
+        "pdcKeys": [
+          "blockship:repair_book"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "nickname:change",
+        "name": "한글 닉네임 변경권",
+        "material": "NAME_TAG",
+        "itemModel": null,
+        "pdcKeys": [
+          "blockship:nickname_change_ticket"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "wearlottery:basic",
+        "name": "기본 치장 복권",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/cosmetic_lottery_basic",
+        "pdcKeys": [
+          "blockship:cosmetic_lottery"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "wearlottery:rare",
+        "name": "희귀 치장 복권",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/cosmetic_lottery_rare",
+        "pdcKeys": [
+          "blockship:cosmetic_lottery"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "wearlottery:hero",
+        "name": "영웅 치장 복권",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/cosmetic_lottery_hero",
+        "pdcKeys": [
+          "blockship:cosmetic_lottery"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
+      },
+      {
+        "id": "wearlottery:legendary",
+        "name": "전설 치장 복권",
+        "material": "PAPER",
+        "itemModel": "barkan:barkan_icon/cosmetic_lottery_legendary",
+        "pdcKeys": [
+          "blockship:cosmetic_lottery"
+        ],
+        "pdcAndRichComponentCopyPreserved": true
       }
-    ]
+    ],
+    "count": 57
   },
-  "recipeSource": "/Users/user/Library/Application Support/feather/player-server/servers/07de2d81-991a-47e2-b62d-06c0d1b5150a/plugins/Skript/scripts/ops/blockship-data/recipes.json",
+  "recipeSource": "/Users/user/Library/Application Support/feather/player-server/servers/07de2d81-991a-47e2-b62d-06c0d1b5150a/plugins/Skript/scripts/gui-forge/gui-final-review-20261014/current-authoritative-recipes.json",
   "recipeSha256": "59933fa57730cb256a45f8acc7df12135422cb18dfd90a3430b67e3785907247"
 }
